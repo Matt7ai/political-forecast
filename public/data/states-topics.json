@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-22T16:27:46.580Z",
+  "timestamp": "2025-11-22T18:31:55.047Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "us",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -29,47 +37,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "plea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "un",
+          "name": "bolsonaro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "power",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "chongqing",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "obama",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "20 minutes ago",
           "percentageIncrease": "200%"
         },
         {
@@ -77,7 +53,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -85,7 +61,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -93,32 +69,24 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "queen creek high school",
+      "topTopic": "tempe tavern",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "queen creek high school",
+          "name": "tempe tavern",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "tempe tavern",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "400%"
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "orangewood school",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -126,43 +94,18 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "michael halberstam",
+      "topTopic": "trump mamdani meeting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "michael halberstam",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "terri",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "trump mamdani meeting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "mamdani",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "plea",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "ukraine",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -178,7 +121,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "mamdani",
           "percentageIncrease": "700%"
         },
@@ -187,7 +130,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -195,25 +138,25 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "trump mamdani meeting",
+      "topTopic": "mamdani trump meeting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump mamdani meeting",
+          "name": "mamdani trump meeting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "mamdani",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "tree lighting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -247,7 +190,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -264,7 +207,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "300%"
         }
@@ -282,17 +225,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "mamdani",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "plea",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
         }
       ]
     },
@@ -316,18 +251,18 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "mamdani trump meeting",
+      "topTopic": "trump mamdani",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mamdani trump meeting",
+          "name": "trump mamdani",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "800%"
+          "started": "21h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -343,50 +278,43 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "mamdani",
           "percentageIncrease": "500%"
         },
         {
-          "name": "plea",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "greensboro news",
+          "name": "wfmy news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "wfmy",
-          "percentageIncrease": "400%"
+          "started": "10h ago",
+          "trendBreakdown": "greensboro",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "plea",
+      "topTopic": "trump and mamdani",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "plea",
+          "name": "trump and mamdani",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "zohran",
+          "percentageIncrease": "400%"
         },
         {
           "name": "maggie goodlander",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -394,7 +322,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -402,24 +330,17 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "plea",
+      "topTopic": "mamdani",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "plea",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "mamdani",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "300%"
         }
       ]
@@ -445,18 +366,18 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "mamdani trump meeting",
+      "topTopic": "trump mamdani meeting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mamdani trump meeting",
+          "name": "trump mamdani meeting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "500%"
+          "started": "22h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -507,7 +428,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "400%"
         },
@@ -516,16 +437,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -541,7 +454,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "mamdanitrump",
           "percentageIncrease": "500%"
         },
@@ -550,7 +463,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "travis",
           "percentageIncrease": "400%"
         }
@@ -559,26 +472,26 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "trump mamdani",
+      "topTopic": "magruder high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "trump mamdani",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "magruder high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "mamdani",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -628,7 +541,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "evcc",
           "percentageIncrease": "800%"
         },
@@ -637,34 +550,27 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "latest",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "ryan wedding",
+      "topTopic": "uab stabbing",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ryan wedding",
+          "name": "uab stabbing",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "uab",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -705,16 +611,24 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "latest",
+      "topTopic": "us",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "latest",
+          "name": "us",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "latest",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -722,7 +636,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -730,16 +644,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "mamdani",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "word",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "india",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "uk",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -747,15 +677,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "drug",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "william",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "environmental",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -763,23 +709,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "germany",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "government",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "germany",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -787,31 +733,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "chongqing",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "employee",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "power",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -819,26 +749,34 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "france",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "temporary protected status",
+      "topTopic": "trump somali",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "temporary protected status",
+          "name": "trump somali",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "700%"
+          "started": "4h ago",
+          "trendBreakdown": "temporary",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -921,16 +859,24 @@
           "name": "latest",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "13h ago",
+          "searchVolume": "2K+",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "us",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "global",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -938,39 +884,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "word",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "uk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "chongqing",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "new",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "power",
+          "name": "france",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -978,7 +924,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]

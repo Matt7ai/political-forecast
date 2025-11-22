@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-11-22T18:31:55.047Z",
+  "timestamp": "2025-11-22T20:26:15.057Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "latest",
+      "topTopic": "uab",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "latest",
+          "name": "uab",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "us",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "10h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -29,23 +29,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "global",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "bolsonaro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -53,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -61,7 +53,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -77,16 +69,25 @@
           "name": "tempe tavern",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "fascist",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "400%"
         },
         {
           "name": "orangewood school",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -94,30 +95,54 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "trump mamdani meeting",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump mamdani meeting",
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
           "started": "22h ago",
-          "trendBreakdown": "mamdani",
-          "percentageIncrease": "500%"
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uab",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "indian river county deputy shot",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "mamdani trump meeting",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mamdani trump meeting",
+          "name": "uab football",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
@@ -126,11 +151,19 @@
           "percentageIncrease": "700%"
         },
         {
+          "name": "charlotte",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
           "name": "matthew lanz",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -138,16 +171,16 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "mamdani trump meeting",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mamdani trump meeting",
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "trendBreakdown": "mamdani",
           "percentageIncrease": "700%"
         },
@@ -156,7 +189,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -164,130 +197,132 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "epstein files released",
+      "topTopic": "fascist",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
-          "relevanceScore": 90,
+          "name": "fascist",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "mamdani",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "mamdani",
+          "name": "fascist",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "started": "20h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "mamdani",
+      "topTopic": "fascist",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "mamdani",
-          "relevanceScore": 95,
+          "name": "fascist",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
+          "started": "20h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "trump mamdani",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump mamdani",
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
           "started": "20h ago",
-          "trendBreakdown": "mamdani",
-          "percentageIncrease": "600%"
+          "trendBreakdown": "trump",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "sedition",
+      "topTopic": "cbc football",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "sedition",
-          "relevanceScore": 95,
+          "name": "cbc football",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "trump mamdani",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump mamdani",
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "10K+",
           "started": "21h ago",
-          "trendBreakdown": "mamdani",
-          "percentageIncrease": "900%"
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "trump mamdani meeting",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump mamdani meeting",
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "mamdani",
-          "percentageIncrease": "500%"
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
         },
         {
           "name": "wfmy news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "greensboro",
           "percentageIncrease": "200%"
         }
@@ -296,25 +331,33 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "trump and mamdani",
+      "topTopic": "fascist",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "trump and mamdani",
-          "relevanceScore": 95,
+          "name": "fascist",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "zohran",
-          "percentageIncrease": "400%"
+          "started": "22h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uab",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "maggie goodlander",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -322,7 +365,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -330,18 +373,34 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "mamdani",
+      "topTopic": "uab football",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "mamdani",
-          "relevanceScore": 95,
+          "name": "uab football",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fascist",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
+          "started": "20h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "chronicle telegram",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -357,8 +416,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "trump",
+          "started": "21h ago",
+          "trendBreakdown": "mamdani",
           "percentageIncrease": "500%"
         }
       ]
@@ -366,18 +425,26 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "trump mamdani meeting",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump mamdani meeting",
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "22h ago",
+          "started": "21h ago",
           "trendBreakdown": "mamdani",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "uab",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -401,97 +468,120 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "mamdani",
+      "topTopic": "fascist",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "mamdani",
-          "relevanceScore": 95,
+          "name": "fascist",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "mamdani trump meeting",
+      "topTopic": "fascist",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "mamdani trump meeting",
+          "name": "fascist",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "uab football",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "social security administration",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "northpark mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "supreme court texas redistricting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "abc",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "mamdani trump meeting",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mamdani trump meeting",
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "5K+",
           "started": "21h ago",
-          "trendBreakdown": "mamdanitrump",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "travis turner",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "travis",
-          "percentageIncrease": "400%"
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "magruder high school",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fascist",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "20h ago",
+          "trendBreakdown": "mamdanitrump",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "magruder high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "mamdani",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -541,17 +631,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "evcc",
           "percentageIncrease": "800%"
         },
         {
-          "name": "mamdani trump meeting",
+          "name": "fascist",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "trendBreakdown": "mamdani",
           "percentageIncrease": "400%"
         }
       ]
@@ -559,18 +649,18 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "uab stabbing",
+      "topTopic": "uab football",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "uab stabbing",
-          "relevanceScore": 100,
+          "name": "uab football",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10 minutes ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "trendBreakdown": "uab",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -620,56 +710,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "latest",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "global",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "common",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "mamdani",
-          "percentageIncrease": "800%"
         },
         {
           "name": "word",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "india",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "uk",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -677,7 +734,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -685,23 +742,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "william",
+          "name": "who",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "environmental",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -709,7 +766,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -717,31 +774,47 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "germany",
+          "name": "india",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "cross",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "new",
+          "name": "video",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "fascist",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "employee",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -749,7 +822,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -757,7 +830,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -774,9 +847,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "temporary",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "fascist",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -851,40 +933,24 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "latest",
+      "topTopic": "us",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "latest",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "us",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "global",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "common",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -892,7 +958,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -900,15 +966,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "new",
+          "name": "employee",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -916,7 +982,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -924,7 +990,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1018,17 +1084,18 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "ryan eagon",
+      "topTopic": "fascist",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "ryan eagon",
-          "relevanceScore": 100,
+          "name": "fascist",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1086,17 +1153,18 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "ryan wedding",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ryan wedding",
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "500%"
         }
       ]
     },

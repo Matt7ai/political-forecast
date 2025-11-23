@@ -1,9 +1,98 @@
 {
-  "timestamp": "2025-11-23T04:37:22.043Z",
+  "timestamp": "2025-11-23T06:34:12.882Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
+      "topTopic": "uab",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "uab",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "latest",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "common",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "sri",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "candace owens",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "sweetheart deal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "stimulus check irs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "mark kelly",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "iraq",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ",
       "topTopic": "stimulus check irs",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -12,105 +101,16 @@
           "name": "stimulus check irs",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "100+",
           "started": "3h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "uab",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "latest",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "common",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "sri",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "candace owens",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "sweetheart deal",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mark kelly",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "homeland",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Arizona",
-      "code": "AZ",
-      "topTopic": "tempe tavern",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "tempe tavern",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "candace owens",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -118,34 +118,42 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "daniel mincey",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "daniel mincey",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "uab",
-          "percentageIncrease": "500%"
+          "started": "11h ago",
+          "trendBreakdown": "minceydaniel",
+          "percentageIncrease": "700%"
         },
         {
           "name": "stimulus check irs",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "700%"
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "candace owens",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "university of florida",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -161,7 +169,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "minceydaniel",
           "percentageIncrease": "1000%"
         },
@@ -170,7 +178,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -178,7 +186,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -186,7 +194,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -194,7 +202,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -202,33 +210,34 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "uab football",
+      "topTopic": "chicago shooting last night",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chicago shooting last night",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "mag",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "minceydaniel",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "arlington heights news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "us",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -245,7 +254,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -280,7 +289,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -288,7 +297,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -330,24 +339,16 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "stimulus check irs",
+      "topTopic": "uab",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "stimulus check irs",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "uab",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -355,7 +356,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -372,7 +373,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "minceydaniel",
           "percentageIncrease": "1000%"
         },
@@ -381,7 +382,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -389,7 +390,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "greensboro",
           "percentageIncrease": "200%"
         }
@@ -407,7 +408,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -415,7 +416,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -423,7 +424,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -431,7 +432,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -448,7 +449,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "minceydaniel",
           "percentageIncrease": "1000%"
         },
@@ -457,7 +458,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -474,7 +475,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -491,7 +492,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -525,7 +526,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -533,7 +534,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "daniel",
           "percentageIncrease": "1000%"
         }
@@ -542,33 +543,41 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "stimulus check irs",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "stimulus check irs",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "minceydaniel",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "stimulus check irs",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "candace owens",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "por",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -576,7 +585,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -584,7 +593,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -592,7 +601,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -609,7 +618,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -626,7 +635,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -634,7 +643,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -685,7 +694,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -702,7 +711,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "daniel",
           "percentageIncrease": "200%"
         }
@@ -754,7 +763,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -762,7 +771,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -770,7 +779,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -778,7 +787,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -786,7 +795,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -794,7 +803,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -802,7 +811,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -810,7 +819,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -818,7 +827,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -826,7 +835,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -834,7 +843,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -842,7 +851,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -850,7 +859,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -858,7 +867,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -866,7 +875,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -874,7 +883,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -882,7 +891,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -899,7 +908,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "tps",
           "percentageIncrease": "500%"
         }
@@ -976,48 +985,16 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "shameless",
+      "topTopic": "employee",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "shameless",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "global",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "common",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "uk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "employee",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1025,7 +1002,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1215,7 +1192,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "uab",
           "percentageIncrease": "500%"
         }
@@ -1241,17 +1218,18 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "ryan eagon",
+      "topTopic": "amber alert",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ryan eagon",
+          "name": "amber alert",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "2K+",
           "started": "1h ago",
-          "percentageIncrease": "600%"
+          "trendBreakdown": "pointe",
+          "percentageIncrease": "1000%"
         }
       ]
     }

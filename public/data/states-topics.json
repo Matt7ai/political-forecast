@@ -1,44 +1,53 @@
 {
-  "timestamp": "2025-11-23T20:27:02.301Z",
+  "timestamp": "2025-11-23T22:23:17.841Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "alexis wilkins",
+      "topTopic": "warren",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "washington",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "morgan geyser",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "alexis wilkins",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "400%"
         },
         {
-          "name": "stephanie hockridge",
+          "name": "dallas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "morgan geyser",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "300%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "stimulus check irs",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -46,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "cnn",
           "percentageIncrease": "200%"
         },
@@ -55,7 +64,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,31 +72,22 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "bethany magee",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "stimulus check irs",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "stimulus check irs",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
       "topTopic": "morgan geyser",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -98,31 +98,55 @@
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "20 minutes ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "stimulus check irs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "warren",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "morgan geyser",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "stimulus check irs",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "uab football stabbing",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "daniel",
-          "percentageIncrease": "300%"
         },
         {
           "name": "por",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -130,34 +154,42 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "hamilton place mall",
+      "topTopic": "morgan geyser",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hamilton place mall",
+          "name": "morgan geyser",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "uab football stabbing",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "searchVolume": "500+",
+          "started": "23h ago",
           "trendBreakdown": "daniel",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "texas",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -173,24 +205,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "two",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "daniel mincey",
+          "name": "warren",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "morgan geyser",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "illinois",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -198,7 +254,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -214,9 +270,25 @@
           "name": "warren",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "morgan geyser",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "cbs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -232,41 +304,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
+          "started": "11h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "uab football",
+      "topTopic": "warren",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "uab football",
+          "name": "warren",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "stimulus check irs",
+      "topTopic": "warren",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "morgan geyser",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "stimulus check irs",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -274,6 +362,31 @@
     {
       "name": "Missouri",
       "code": "MO",
+      "topTopic": "morgan geyser",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "morgan geyser",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
       "topTopic": "warren",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -282,78 +395,83 @@
           "name": "warren",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "cbc football",
-          "relevanceScore": 100,
+          "name": "fox",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "uab",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "uab",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "uab",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "uab",
+      "topTopic": "warren",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "uab",
+          "name": "warren",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "daniel",
+          "searchVolume": "2K+",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "alexis wilkins",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "alexis wilkins",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "700%"
         },
         {
           "name": "morgan geyser",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "uab football stabbing",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "warren",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "morgan geyser",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "alexis wilkins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "kash",
           "percentageIncrease": "600%"
         },
         {
@@ -361,14 +479,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "bethany magee",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
+      "topTopic": "daniel mincey uab",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "daniel mincey uab",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "trendBreakdown": "uab",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
       "topTopic": "warren",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -377,51 +521,33 @@
           "name": "warren",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uab football",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "minceydaniel",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Oregon",
-      "code": "OR",
-      "topTopic": "fascist",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "fascist",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "stimulus check irs",
+      "topTopic": "stephanie hockridge",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "stephanie hockridge",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "stimulus check irs",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -438,7 +564,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -446,67 +572,73 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "daniel mincey",
+      "topTopic": "warren",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "daniel mincey",
+          "name": "warren",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "uab",
-          "percentageIncrease": "700%"
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "abc",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "chattanooga",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "stimulus check irs",
+      "topTopic": "warren",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "morgan geyser",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "stephanie hockridge",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "stimulus check irs",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "uab football stabbing",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "daniel",
-          "percentageIncrease": "200%"
         },
         {
           "name": "por",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -514,7 +646,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -522,16 +654,32 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "new york times",
+      "topTopic": "warren",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "new york times",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -539,33 +687,41 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "uab football",
+      "topTopic": "morgan geyser",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "uab football",
+          "name": "morgan geyser",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "alexis wilkins",
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "new york times",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "400%"
+          "started": "21h ago",
+          "trendBreakdown": "alexis",
+          "percentageIncrease": "200%"
         },
         {
           "name": "stimulus check irs",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -573,17 +729,17 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "ryan eagon",
+      "topTopic": "warren",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ryan eagon",
+          "name": "warren",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "8h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -607,17 +763,25 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "plea",
+      "topTopic": "warren",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "plea",
-          "relevanceScore": 95,
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "morgan geyser",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -650,7 +814,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -675,17 +839,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "face",
+      "topTopic": "warren",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "face",
-          "relevanceScore": 95,
+          "name": "warren",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -700,9 +864,25 @@
           "name": "morgan geyser",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "800%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -897,8 +1077,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "slenderman",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -966,7 +1154,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1018,9 +1206,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "warren",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }

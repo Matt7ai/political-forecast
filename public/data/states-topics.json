@@ -1,27 +1,35 @@
 {
-  "timestamp": "2025-11-25T18:36:43.901Z",
+  "timestamp": "2025-11-25T20:28:34.307Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "benny blanco",
+      "topTopic": "milk",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benny blanco",
+          "name": "milk",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "benny blanco",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,25 +37,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "captain",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "cameron mcgowan currie",
+          "name": "who",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "lindsay",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "allan hancock college",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -55,7 +61,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -90,17 +96,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "newsabc",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "lindsay",
+          "started": "6h ago",
+          "trendBreakdown": "trumpdonald",
           "percentageIncrease": "300%"
         },
         {
@@ -108,41 +105,58 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "lindsay halligan",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "trendBreakdown": "judge",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "latest",
+      "topTopic": "amber alert",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "amber alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "amber",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "latest",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "china",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "james comey",
+          "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "100+",
           "started": "23h ago",
-          "trendBreakdown": "lindsey",
           "percentageIncrease": "500%"
         }
       ]
@@ -150,24 +164,16 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "letitia james",
+      "topTopic": "ukraine",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -175,7 +181,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -183,7 +189,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "chad",
           "percentageIncrease": "300%"
         }
@@ -227,44 +233,34 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "mark kelly",
+      "topTopic": "ukraine",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "mark kelly",
-          "relevanceScore": 100,
+          "name": "ukraine",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "lindsey halligan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "lindsey halligan",
+      "topTopic": "ukraine",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "lindsey halligan",
-          "relevanceScore": 100,
+          "name": "ukraine",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "letitia",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -332,34 +328,32 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "ukraine",
+      "topTopic": "kevin hassett",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "kevin hassett",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "newsabc",
+          "started": "7h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "lindsay halligan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "comey",
-          "percentageIncrease": "300%"
         },
         {
           "name": "malba queens ny",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "where",
           "percentageIncrease": "100%"
         },
@@ -368,7 +362,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -376,18 +370,17 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "lindsey halligan",
+      "topTopic": "letitia james",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "lindsey halligan",
-          "relevanceScore": 100,
+          "name": "letitia james",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "100+",
           "started": "23h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -411,26 +404,17 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "mark kelly",
+      "topTopic": "kash patel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mark kelly",
+          "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lindsey halligan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -454,17 +438,17 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "mark kelly",
+      "topTopic": "knoxville weather",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "mark kelly",
-          "relevanceScore": 95,
+          "name": "knoxville weather",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -480,39 +464,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "oklahoma professor ice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "insurance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -520,45 +488,43 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "comey",
+      "topTopic": "kash patel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "comey",
+          "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "letitia",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "union high school va",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "travis",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "fox news",
+      "topTopic": "muriel bowser",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 95,
+          "name": "muriel bowser",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "letitia",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "senator mark kelly",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "trendBreakdown": "captain",
-          "percentageIncrease": "200%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -685,33 +651,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "mark kelly",
+      "topTopic": "kare",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "mark kelly",
-          "relevanceScore": 100,
+          "name": "kare",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "lindsey halligan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kstp",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -727,8 +677,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wlox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -761,7 +719,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -837,7 +795,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -906,9 +864,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "mecca",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -975,7 +933,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]

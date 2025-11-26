@@ -1,44 +1,52 @@
 {
-  "timestamp": "2025-11-26T10:28:48.581Z",
+  "timestamp": "2025-11-26T12:50:39.507Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "mercedes benz clk gtr roadster",
+      "topTopic": "childcare",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "childcare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "mercedes benz clk gtr roadster",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "5h ago",
           "trendBreakdown": "mercedes",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "benny blanco",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "karoline leavitt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "benny blanco",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,40 +54,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "ana reyes misconduct complaint dismissal",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "who",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "pei chung",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "education",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -95,7 +79,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -103,25 +87,26 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "ukraine",
+      "topTopic": "mercedes benz clk gtr roadster",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "mercedes benz clk gtr roadster",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "mercedes",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "donald trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "trendBreakdown": "newscnn",
+          "started": "22h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "300%"
         }
       ]
@@ -138,7 +123,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "1000%"
         },
@@ -147,40 +132,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
+          "trendBreakdown": "news",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "karoline leavitt",
+      "topTopic": "ukraine",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "karoline leavitt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "started": "23h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "bethany mcgee chicago",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -205,25 +191,33 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "kash patel",
+      "topTopic": "muriel bowser",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kash patel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "muriel bowser",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "kash patel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -239,7 +233,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "16h ago",
           "trendBreakdown": "rebecca",
           "percentageIncrease": "1000%"
         },
@@ -248,15 +242,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "jamie lee curtis",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -264,24 +266,33 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "kash patel",
+      "topTopic": "karoline leavitt",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "bruna",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -323,7 +334,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -340,7 +351,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -357,55 +368,64 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "etan patz",
+          "name": "karoline leavitt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "800%"
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "mercedes benz clk gtr roadster",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "mercedes",
+          "percentageIncrease": "700%"
         },
         {
           "name": "constitution day",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "etan patz",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "kevin hassett",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "ukraine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "karoline leavitt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "steve witkoff",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -413,7 +433,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -421,33 +441,48 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "malba queens ny",
+          "name": "pei chung",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "where",
+          "started": "2h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "kash patel",
+      "topTopic": "karoline leavitt",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -455,7 +490,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -463,8 +498,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "candace owens",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -497,8 +540,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "travis turner coach",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -522,49 +581,42 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "bna",
+      "topTopic": "bna airport",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "bna",
-          "relevanceScore": 100,
+          "name": "bna airport",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "trendBreakdown": "airportnashville",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "mercedes clk gtr",
+      "topTopic": "kash patel",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "mercedes clk gtr",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "400%"
+          "started": "17h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -572,15 +624,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "karoline leavitt",
+          "name": "mercedes benz clk gtr roadster",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "mercedes",
           "percentageIncrease": "100%"
         }
       ]
@@ -597,17 +650,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "union high school va",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
           "started": "17h ago",
-          "trendBreakdown": "travis",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -623,7 +667,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "trendBreakdown": "mayor",
           "percentageIncrease": "1000%"
         },
@@ -632,7 +676,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -683,7 +727,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -691,7 +735,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -767,17 +811,25 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "kare",
+      "topTopic": "st paul",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kare",
+          "name": "st paul",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "trendBreakdown": "paul",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "msp airport",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "115K+",
-          "started": "23h ago",
-          "trendBreakdown": "paulst",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -981,7 +1033,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1032,9 +1084,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "todd",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ksl",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1109,17 +1169,16 @@
     {
       "name": "Montana",
       "code": "MT",
-      "topTopic": "missoula shelter in place",
+      "topTopic": "missoula news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "missoula shelter in place",
+          "name": "missoula news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "missoula",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]

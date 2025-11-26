@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-11-26T01:47:05.829Z",
+  "timestamp": "2025-11-26T03:19:39.773Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "benny blanco",
+      "topTopic": "childcare",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "childcare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "benny blanco",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -37,7 +45,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "aftyn behn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,15 +61,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "the island",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -70,16 +78,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "12h ago",
-          "percentageIncrease": "75%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -94,8 +94,8 @@
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "trendBreakdown": "newsukraine",
           "percentageIncrease": "300%"
         },
@@ -104,7 +104,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "trendBreakdown": "newscnn",
           "percentageIncrease": "300%"
         }
@@ -113,33 +113,33 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "kash patel",
+      "topTopic": "amber alert georgia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kash patel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "amber alert georgia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kash patel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "china",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -147,33 +147,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "aftyn behn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "public",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "bethany mcgee chicago",
+      "topTopic": "ukraine",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "bethany mcgee chicago",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "bethany mcgee chicago",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -206,7 +222,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -214,7 +230,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -231,7 +247,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "rebecca",
           "percentageIncrease": "1000%"
         },
@@ -240,25 +256,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "started": "6h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "nbc news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "trendBreakdown": "trumpdonald",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -267,24 +274,32 @@
       "code": "MA",
       "topTopic": "kash patel",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "kash patel",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "karoline",
-          "percentageIncrease": "400%"
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "trendBreakdown": "news",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -324,9 +339,17 @@
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "etan patz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -342,48 +365,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
+          "started": "6h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kash patel",
+      "topTopic": "constitution day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kash patel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
-        },
-        {
           "name": "constitution day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kash patel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
           "started": "7h ago",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "kevin hassett",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "steve witkoff",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "ukraine",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "newsabc",
           "percentageIncrease": "200%"
         },
         {
@@ -391,7 +423,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -399,7 +431,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "where",
           "percentageIncrease": "100%"
         }
@@ -417,8 +449,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "aftyn behn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -450,9 +490,17 @@
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "aftyn behn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -510,7 +558,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -518,7 +566,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -526,7 +574,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -543,24 +591,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "union high school va",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "travis",
-          "percentageIncrease": "200%"
         },
         {
           "name": "maps",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -577,15 +616,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
+          "started": "7h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "muriel bowser",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "mayor",
           "percentageIncrease": "1000%"
         }
@@ -637,8 +676,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "wsdot",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -654,7 +701,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -722,7 +769,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "paul",
           "percentageIncrease": "1000%"
         }
@@ -782,7 +829,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -927,7 +974,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -977,8 +1024,8 @@
           "name": "wade christofferson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]

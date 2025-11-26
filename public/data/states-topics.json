@@ -1,46 +1,46 @@
 {
-  "timestamp": "2025-11-26T20:27:34.262Z",
+  "timestamp": "2025-11-26T22:24:08.480Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "white house",
+      "topTopic": "national guard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "white house",
+          "name": "national guard",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "30 minutes ago",
+          "searchVolume": "10K+",
+          "started": "2h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         },
         {
           "name": "karoline leavitt",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "14h ago",
+          "searchVolume": "10K+",
+          "started": "16h ago",
           "trendBreakdown": "bruna",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "imran khan",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "imran",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "trendBreakdown": "kristi",
           "percentageIncrease": "400%"
         },
@@ -49,16 +49,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "mercedes",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "femicide",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -66,7 +58,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "femicide",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -74,7 +74,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "steve",
           "percentageIncrease": "100%"
         },
@@ -83,7 +83,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -91,16 +91,25 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "karoline leavitt",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "karoline leavitt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -108,121 +117,19 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "karoline leavitt",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "karoline leavitt",
+          "name": "national guard shot in dc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "karoline",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "white house",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20 minutes ago",
+          "searchVolume": "10K+",
+          "started": "1h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "kristi",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "mercedes benz clk gtr roadster",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "mercedes",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "stubhub",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "emmanuel macron",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "pete hegseth",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "personal injury lawyer",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "karoline leavitt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "karoline",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "stubhub",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "karoline leavitt",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
         {
           "name": "karoline leavitt",
           "relevanceScore": 100,
@@ -233,124 +140,49 @@
           "percentageIncrease": "700%"
         },
         {
-          "name": "bethany mcgee chicago",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "mark kelly",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "mark kelly",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "dc shooting",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "dc shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "white",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "karoline leavitt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "muriel bowser",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "rebecca park",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "rebecca park",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "rebecca",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "karoline leavitt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "7h ago",
+          "trendBreakdown": "kristi",
           "percentageIncrease": "500%"
         },
         {
-          "name": "kash patel",
+          "name": "mercedes benz clk gtr roadster",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "started": "11h ago",
+          "trendBreakdown": "mercedes",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "jamie lee curtis",
+          "name": "tps haiti",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "1h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "wood tv",
+          "name": "stubhub",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "emmanuel macron",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "pete hegseth",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -360,130 +192,53 @@
       ]
     },
     {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "karoline leavitt",
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "karoline leavitt",
+          "name": "national guard shot in dc",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "bruna",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "kash patel",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "doordash",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "1h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "mark kelly",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "mark kelly",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "james comey",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "karoline leavitt",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "karoline leavitt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "karoline",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "white house",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10 minutes ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "karoline leavitt",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "karoline leavitt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "karoline",
-          "percentageIncrease": "700%"
         },
         {
-          "name": "kash patel",
+          "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "karoline",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "mcdonalds",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "stubhub",
@@ -491,23 +246,23 @@
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "9h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "white house",
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "national guard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "white house",
+          "name": "national guard",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         },
@@ -516,91 +271,68 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "karoline",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "julie menin",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "kristi",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "mercedes clk gtr",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "16h ago",
-          "trendBreakdown": "mercedes",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "etan patz",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
+          "trendBreakdown": "bruna",
           "percentageIncrease": "700%"
         },
         {
           "name": "imran khan",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "steve witkoff",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "jamie lee curtis",
+          "name": "bethany mcgee chicago",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "chiara ferragni",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
+          "started": "22h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "karoline leavitt",
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "national guard dc",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "national guard dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "2h ago",
+          "trendBreakdown": "shootingdc",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "karoline leavitt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -608,23 +340,84 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "kash patel",
-          "relevanceScore": 95,
+          "name": "abc",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "national guard",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "national guard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "jamie lee curtis",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "national guard shot in dc",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "bruna",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -632,7 +425,254 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "national guard shot in dc",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "national guard",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "national guard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "karoline",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "imran khan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "national guard shot in dc",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
           "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "karoline",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "national guard",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "national guard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "2h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "julie menin",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "kristi",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "etan patz",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "mercedes clk gtr",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "trendBreakdown": "mercedes",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "karoline",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "imran khan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "steve witkoff",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "aol login",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "jamie lee curtis",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "chiara ferragni",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "national guard shot in dc",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "jamie lee curtis",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "doordash",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -640,7 +680,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -657,7 +697,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -665,16 +705,16 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "white house",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "white house",
+          "name": "national guard shot in dc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10 minutes ago",
+          "searchVolume": "5K+",
+          "started": "1h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         },
@@ -683,7 +723,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "karoline",
           "percentageIncrease": "500%"
         },
@@ -692,7 +732,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "mercedes",
           "percentageIncrease": "700%"
         },
@@ -701,7 +741,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -709,7 +749,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -717,77 +757,70 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "karoline leavitt",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "karoline leavitt",
-          "relevanceScore": 95,
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "karoline leavitt",
+      "topTopic": "national guard",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "karoline leavitt",
-          "relevanceScore": 95,
+          "name": "national guard",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "bna airport",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "trendBreakdown": "airportnashville",
-          "percentageIncrease": "300%"
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "karoline leavitt",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "karoline leavitt",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "bruna",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "trendBreakdown": "karoline",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "white house",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "kristi",
           "percentageIncrease": "600%"
         },
@@ -796,7 +829,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "mercedes",
           "percentageIncrease": "600%"
         },
@@ -805,7 +838,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "imran",
           "percentageIncrease": "300%"
         },
@@ -814,25 +847,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "mcdonalds",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "dc shooting",
+      "topTopic": "national guard dc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "dc shooting",
+          "name": "national guard dc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "national",
+          "searchVolume": "10K+",
+          "started": "2h ago",
+          "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         },
         {
@@ -840,61 +881,35 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "karoline",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
-          "name": "imran khan",
-          "relevanceScore": 100,
+          "name": "cnn news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "dc shooting",
+      "topTopic": "karoline leavitt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "dc shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "white",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "karoline leavitt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "bruna",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "imran khan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "witkoff",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "steve",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -935,16 +950,33 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "kristi noem",
+      "topTopic": "national guard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ford middle school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -952,16 +984,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kash patel",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "huffington",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -969,7 +992,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -977,16 +1000,25 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "sara baker cullman al",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "sara baker cullman al",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -994,16 +1026,24 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "doordash",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "doordash",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1028,16 +1068,25 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "karoline leavitt",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "karoline leavitt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1045,17 +1094,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "st paul",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "st paul",
+          "name": "national guard shot in dc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "paul",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1148,7 +1197,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1225,33 +1274,43 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "morgan geyser",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "morgan geyser",
-          "relevanceScore": 95,
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "st paul",
+      "topTopic": "national guard",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "st paul",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1259,16 +1318,24 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "doordash",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "doordash",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1302,7 +1369,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "todd",
           "percentageIncrease": "1000%"
         },
@@ -1311,7 +1378,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1319,33 +1386,43 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "karoline leavitt",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "karoline leavitt",
-          "relevanceScore": 95,
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "fedex tracking",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "fedex tracking",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1362,7 +1439,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1396,7 +1473,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]

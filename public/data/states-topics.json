@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T20:24:58.515Z",
+  "timestamp": "2025-11-27T22:24:06.686Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -21,15 +21,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "jeanine pirro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "newsbreaking",
+          "percentageIncrease": "200%"
         },
         {
           "name": "thanksgiving messages",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -37,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +54,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +62,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -61,34 +70,42 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "dc shooting today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
+          "name": "dc shooting today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "shootingdc",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "net",
+      "topTopic": "mortal wound",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "mortal wound",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "net",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -96,45 +113,36 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "washington dc shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
+          "name": "washington dc shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "shootingdc",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "dc shooting today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "national guard shot in dc",
+          "name": "dc shooting today",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "imran khan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "imran",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -159,69 +167,60 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "bruna ferreira",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "shooting",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bruna ferreira",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "dc national guard shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "kash",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "washington dc shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
+          "name": "washington dc shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "bruna ferreira",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bruna ferreira",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -229,43 +228,43 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "news today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
+          "name": "news today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "shootingdc",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "dc shooting today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "national guard shot in dc",
+          "name": "dc shooting today",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "shootingdc",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "24h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "500%"
         },
         {
           "name": "bruna ferreira",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -282,8 +281,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "washington dc shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -299,113 +307,115 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
+          "started": "23h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "panama",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "dc national guard shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "trendBreakdown": "jeanine",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "dc shooting today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
+          "name": "dc shooting today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "shootingdc",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "dc shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "national guard shot in dc",
+          "name": "dc shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "washington",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "nbc",
+      "topTopic": "shooting at white house",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nbc",
-          "relevanceScore": 100,
+          "name": "shooting at white house",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doordash",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "24h ago",
-          "percentageIncrease": "75%"
+          "trendBreakdown": "national",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "dc shooting today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "national guard shot in dc",
+          "name": "dc shooting today",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "shootingdc",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "trendBreakdown": "washington",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "washington dc",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
+          "name": "washington dc",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "shootingdc",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "white",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -421,7 +431,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -429,7 +439,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -437,84 +447,76 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "seatgeek",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "bruna ferreira",
+      "topTopic": "mortal wound",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "bruna ferreira",
-          "relevanceScore": 95,
+          "name": "mortal wound",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "washington dc shooting",
+      "topTopic": "nbc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "washington dc shooting",
+          "name": "nbc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "shooting",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "wtop news",
+          "name": "mortal wound",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "10 minutes ago",
+          "trendBreakdown": "andrew",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "homeland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "homeland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -539,25 +541,25 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "dc shooting today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "national guard shot in dc",
+          "name": "dc shooting today",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "shootingdc",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "washington",
+          "percentageIncrease": "600%"
         },
         {
           "name": "micah smith",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -565,7 +567,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -617,7 +619,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -634,17 +636,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "faith",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         }
       ]
@@ -652,18 +645,18 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "dc shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "national guard shot in dc",
+          "name": "dc shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "washington",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -679,7 +672,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -730,8 +723,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "started": "23h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -747,7 +740,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -764,7 +757,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -781,7 +774,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -798,7 +791,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -823,17 +816,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "mortal wound",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "national guard shot in dc",
+          "name": "mortal wound",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "mortal",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         }
       ]
@@ -903,25 +896,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "utah",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "800%"
         },
         {
           "name": "ralph menzies",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -929,7 +913,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -937,25 +921,16 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "hartford courant",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "hartford courant",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -963,25 +938,16 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "jd vance",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "shootingdc",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jd vance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "vance",
           "percentageIncrease": "300%"
         }

@@ -1,44 +1,43 @@
 {
-  "timestamp": "2025-11-27T18:33:44.036Z",
+  "timestamp": "2025-11-27T20:24:58.515Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "tom steyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "21h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "tom steyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "imran khan news",
-          "relevanceScore": 90,
+          "name": "micah smith",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "thanksgiving messages",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "karoline leavitt ice",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,16 +45,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "doordash",
+          "name": "san diego news",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -71,7 +70,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         }
@@ -80,33 +79,17 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "nbc",
+      "topTopic": "net",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "net",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "kristi noem justice department filing",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -122,8 +105,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "national",
+          "started": "23h ago",
+          "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         }
       ]
@@ -140,24 +123,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "shootingdc",
+          "started": "23h ago",
+          "trendBreakdown": "national",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "imran khan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "imran",
           "percentageIncrease": "400%"
         }
@@ -175,7 +150,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         }
@@ -184,16 +159,25 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "bruna ferreira",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "bruna ferreira",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -210,7 +194,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         }
@@ -228,7 +212,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         },
@@ -237,15 +221,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "doordash",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -262,7 +238,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         }
@@ -271,16 +247,17 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "nbc",
+      "topTopic": "national guard shot in dc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nbc",
+          "name": "national guard shot in dc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         },
         {
@@ -288,7 +265,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -296,24 +273,16 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "nbc",
+      "topTopic": "northlake mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "northlake mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -330,32 +299,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "panama",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "wgrz",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -371,17 +324,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doordash",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -397,7 +342,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         }
@@ -440,7 +385,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         }
@@ -458,7 +403,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         }
@@ -467,40 +412,24 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "nbc",
+      "topTopic": "fiesta",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nbc",
-          "relevanceScore": 100,
+          "name": "fiesta",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "micah smith",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "imran khan news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "karoline leavitt family member ice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -508,7 +437,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -516,32 +445,16 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "nbc",
+      "topTopic": "bruna ferreira",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "imran khan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "bruna ferreira",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -549,41 +462,33 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "washington dc shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "national guard shot in dc",
+          "name": "washington dc shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "900%"
         },
         {
           "name": "wtop news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "fox news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -600,17 +505,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "800%"
         },
         {
           "name": "homeland",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -643,7 +548,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         },
@@ -652,7 +557,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -660,7 +565,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -677,7 +582,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         }
@@ -695,16 +600,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doordash",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -719,8 +616,8 @@
           "name": "national guard shot in dc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
+          "searchVolume": "1K+",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -736,8 +633,8 @@
           "name": "faith winter",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "13h ago",
+          "searchVolume": "10K+",
+          "started": "15h ago",
           "trendBreakdown": "faith",
           "percentageIncrease": "1000%"
         },
@@ -746,7 +643,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         }
@@ -764,7 +661,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         }
@@ -782,7 +679,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -833,7 +730,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -850,16 +747,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doordash",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -875,7 +764,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -892,8 +781,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
+          "started": "21h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -909,7 +798,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -943,8 +832,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "national",
+          "started": "22h ago",
+          "trendBreakdown": "mortal",
           "percentageIncrease": "1000%"
         }
       ]
@@ -961,7 +850,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         }
@@ -979,16 +868,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "doordash",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1004,7 +885,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "700%"
         }
@@ -1013,44 +894,43 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "national guard shot in dc",
+      "topTopic": "amber alert utah",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "national guard shot in dc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "amber alert utah",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "utah",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "national guard shot in dc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "800%"
         },
         {
           "name": "ralph menzies",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "micah smith",
-          "relevanceScore": 95,
+          "name": "utah news",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "utah",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1066,7 +946,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "1000%"
         },
@@ -1075,7 +955,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1092,7 +972,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "shootingdc",
           "percentageIncrease": "1000%"
         },
@@ -1101,7 +981,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "vance",
           "percentageIncrease": "300%"
         }
@@ -1119,16 +999,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "doordash",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1144,9 +1016,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         }
       ]
     },

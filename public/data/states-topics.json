@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T16:31:05.954Z",
+  "timestamp": "2025-11-28T18:33:43.914Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,73 +21,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "vaccines",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "third world countries",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "cnn",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "third",
           "percentageIncrease": "200%"
         },
         {
-          "name": "vaccinations",
+          "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "flu shots",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "thanksgiving messages",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "milwaukee",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "loteria",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "navy federal",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -120,15 +96,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "avianca",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -161,17 +129,17 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "nbc",
+      "topTopic": "vaccines",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nbc",
+          "name": "vaccines",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "started": "16h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -222,7 +190,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -265,16 +233,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "jeanine pirro",
+      "topTopic": "supreme",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "supreme",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "jeanine pirro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -291,7 +267,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -299,7 +275,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -307,18 +283,34 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "fox",
+      "topTopic": "supreme",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "fox",
+          "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "mortal",
+          "started": "2h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "pact",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "mortal wound",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -422,23 +414,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "third world countries",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "third",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "vaccinations",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "chief",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "renaissance festival",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "national guard troops shot",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -446,7 +463,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -522,17 +539,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "petco",
+      "topTopic": "vaccinations",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "petco",
-          "relevanceScore": 90,
+          "name": "vaccinations",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -796,7 +813,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -813,7 +830,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]

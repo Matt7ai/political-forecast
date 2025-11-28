@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T12:47:18.502Z",
+  "timestamp": "2025-11-28T14:25:29.185Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -29,7 +29,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -37,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,23 +45,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "flu shots",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "vaccinations",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "flu shots",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -69,7 +69,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -77,7 +77,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -102,18 +102,26 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "mortal wound",
+      "topTopic": "jeanine pirro",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "mortal wound",
+          "name": "jeanine pirro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "jeanine",
+          "started": "1h ago",
+          "trendBreakdown": "mortal",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "avianca",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -129,15 +137,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -179,50 +179,35 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "nbc",
+      "topTopic": "andrew wolfe",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "kash patel",
+          "name": "andrew wolfe",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "trendBreakdown": "news",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "wdiv",
+      "topTopic": "carson cooper",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "wdiv",
-          "relevanceScore": 95,
+          "name": "carson cooper",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "lululemon",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
           "started": "16h ago",
-          "percentageIncrease": "75%"
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -264,42 +249,59 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "nbc",
+      "topTopic": "jeanine pirro",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nbc",
-          "relevanceScore": 100,
+          "name": "jeanine pirro",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "trendBreakdown": "thanksgiving",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "nbc",
+      "topTopic": "northlake mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "northlake mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "navy federal",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "restaurant",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -315,7 +317,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -323,7 +325,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "jeanine",
           "percentageIncrease": "200%"
         }
@@ -332,18 +334,18 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "cnbc",
+      "topTopic": "jeanine pirro",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "cnbc",
-          "relevanceScore": 90,
+          "name": "jeanine pirro",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "tanner",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "trendBreakdown": "mortal",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -420,40 +422,48 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "nbc",
+      "topTopic": "universo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "universo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "micah smith",
+          "name": "chief",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "renaissance festival",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "navy federal",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "seatgeek",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -487,7 +497,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "mortal",
           "percentageIncrease": "700%"
         }
@@ -539,23 +549,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "bruna ferreira",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "bellingham",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "100%"
         },
@@ -564,7 +566,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -829,7 +831,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -846,7 +848,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -923,17 +925,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "nbc",
+      "topTopic": "greenwood mall",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nbc",
-          "relevanceScore": 100,
+          "name": "greenwood mall",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },

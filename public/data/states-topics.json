@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-29T12:43:57.648Z",
+  "timestamp": "2025-11-29T14:22:03.897Z",
   "states": [
     {
       "name": "California",
@@ -13,16 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "trendBreakdown": "valley",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "los gatos coffee roasting company",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "los",
           "percentageIncrease": "200%"
         },
@@ -31,15 +39,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "prime",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "third world countries list",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "newscnn",
           "percentageIncrease": "100%"
         },
@@ -48,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -56,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -64,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -72,33 +88,33 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "lululemon",
+      "topTopic": "prime",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "lululemon",
-          "relevanceScore": 85,
+          "name": "prime",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "third world countries",
+      "topTopic": "venezuela",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "third world countries",
+          "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "40 minutes ago",
           "percentageIncrease": "200%"
         },
         {
@@ -106,24 +122,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "mall near me",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "malls",
-          "percentageIncrease": "100%"
         },
         {
           "name": "supreme",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -140,7 +147,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -148,24 +155,40 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "radar",
+      "topTopic": "prime",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "prime",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -182,7 +205,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -258,16 +281,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "supreme",
+      "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -275,7 +306,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -292,15 +323,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "mall near me",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -308,42 +331,43 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "supreme",
+      "topTopic": "tim walz",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "tim walz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "ilhan",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "mall near me",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "jeanine pirro",
+      "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "jeanine pirro",
-          "relevanceScore": 95,
+          "name": "venezuela",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -367,16 +391,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "pete hegseth",
+      "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "pete hegseth",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -384,7 +416,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -392,7 +424,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -434,33 +466,40 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "third world countries",
+      "topTopic": "venezuela",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "third world countries",
+          "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "trendBreakdown": "third",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "renaissance festival",
-          "relevanceScore": 90,
+          "name": "third world countries list",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "mall near me",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "parks mall",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -845,7 +884,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]

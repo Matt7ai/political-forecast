@@ -1,37 +1,44 @@
 {
-  "timestamp": "2025-11-29T04:29:19.579Z",
+  "timestamp": "2025-11-29T06:34:51.898Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "shooting",
+      "topTopic": "valley fair",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "valley fair",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "4h ago",
+          "trendBreakdown": "valley",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "david",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "third world countries",
-          "relevanceScore": 95,
+          "name": "brandon williams",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "third",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "roger borkum",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -39,8 +46,17 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "on",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "third",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -73,24 +89,40 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "mall near me",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "personal injury lawyer",
+      "topTopic": "state farm insurance",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "state farm insurance",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -132,7 +164,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -149,7 +181,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -209,33 +241,41 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "supreme",
+      "topTopic": "mall near me",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "supreme",
-          "relevanceScore": 95,
+          "name": "mall near me",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "11h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "navy federal",
+      "topTopic": "mall near me",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "mall near me",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "navy federal",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -243,25 +283,17 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "supreme",
+      "topTopic": "mall near me",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "supreme",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pact",
-          "relevanceScore": 95,
+          "name": "mall near me",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -277,7 +309,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -302,18 +334,17 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "mortal wound",
+      "topTopic": "pete hegseth",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "mortal wound",
+          "name": "pete hegseth",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -363,7 +394,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "pete",
           "percentageIncrease": "1000%"
         },
@@ -372,7 +403,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "third",
           "percentageIncrease": "200%"
         },
@@ -381,7 +412,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "mall near me",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -415,7 +454,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -459,16 +498,16 @@
       "code": "WA",
       "topTopic": "pete hegseth",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
           "name": "pete hegseth",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "30 minutes ago",
           "trendBreakdown": "abc",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -518,7 +557,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -681,7 +720,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -765,8 +804,8 @@
           "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]

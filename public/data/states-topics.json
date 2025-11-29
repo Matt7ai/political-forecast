@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T22:24:04.987Z",
+  "timestamp": "2025-11-29T01:44:39.751Z",
   "states": [
     {
       "name": "California",
@@ -13,15 +13,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "third world countries list",
+          "name": "third world countries",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "trendBreakdown": "third",
           "percentageIncrease": "200%"
         },
@@ -30,27 +30,27 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "pact",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "loteria",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "lassen steakhouse",
+          "name": "roger borkum",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -58,12 +58,20 @@
           "percentageIncrease": "100%"
         },
         {
-          "name": "on",
-          "relevanceScore": 85,
+          "name": "loteria",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "75%"
+          "started": "22h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "lassen steakhouse",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -87,34 +95,33 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "roger borkum",
+      "topTopic": "juan orlando",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "juan orlando",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "roger borkum",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "third world countries",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "jeanine pirro",
-          "relevanceScore": 95,
+          "name": "supreme",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "9h ago",
-          "trendBreakdown": "news",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -130,7 +137,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -147,8 +154,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -174,15 +189,15 @@
       "code": "MD",
       "topTopic": "annapolis mall",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "annapolis mall",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -241,16 +256,16 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "jeanine pirro",
+      "topTopic": "supreme",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "jeanine pirro",
+          "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -267,42 +282,33 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "restaurant",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "pact",
+      "topTopic": "supreme",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "pact",
-          "relevanceScore": 90,
+          "name": "supreme",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "9h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "200%"
         },
         {
-          "name": "mortal wound",
-          "relevanceScore": 90,
+          "name": "pact",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "100%"
+          "started": "12h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -317,9 +323,8 @@
           "name": "jeanine pirro",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "mortal",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -405,7 +410,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -413,7 +418,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "trendBreakdown": "third",
           "percentageIncrease": "200%"
         },
@@ -422,31 +427,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "chief",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "renaissance festival",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "national guard troops shot",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -471,17 +460,17 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "mortal wound",
+      "topTopic": "annapolis mall",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "mortal wound",
-          "relevanceScore": 100,
+          "name": "annapolis mall",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -531,8 +520,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "pete hegseth",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -821,17 +819,17 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "sarah beckstrom",
+      "topTopic": "radar",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "sarah beckstrom",
-          "relevanceScore": 100,
+          "name": "radar",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },

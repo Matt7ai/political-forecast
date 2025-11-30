@@ -1,36 +1,52 @@
 {
-  "timestamp": "2025-11-29T22:23:11.434Z",
+  "timestamp": "2025-11-30T01:57:21.716Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "valley fair",
+      "topTopic": "san jose shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "valley fair",
+          "name": "san jose shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "20h ago",
+          "searchVolume": "50K+",
+          "started": "23h ago",
           "trendBreakdown": "valley",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "marine aviation logistics squadron",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "troy nehls",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,31 +54,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "roger borkum",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "remigration",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -70,24 +70,16 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "valley fair active shooter",
+      "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "valley fair active shooter",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "cnn",
           "percentageIncrease": "400%"
         }
@@ -96,25 +88,25 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "boca mall",
+      "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "boca mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "town",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "boca town center",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "boca",
           "percentageIncrease": "400%"
         }
       ]
@@ -131,15 +123,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -156,8 +148,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "newscnn",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "northwestern university",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "troy nehls",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -165,32 +173,24 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "indot",
+      "topTopic": "radar",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "indot",
-          "relevanceScore": 100,
+          "name": "radar",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "southlake mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -200,23 +200,6 @@
       "code": "MD",
       "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "venezuela",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "venezuela",
-      "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
@@ -224,16 +207,49 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
+        {
+          "name": "troy nehls",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "u of m",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
         {
           "name": "u of m",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "radar",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -249,8 +265,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -274,17 +290,26 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "venezuela",
+      "topTopic": "newport mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "newport mall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "newport",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -299,16 +324,16 @@
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "pete hegseth",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -325,7 +350,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -333,7 +358,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "trendBreakdown": "valley",
           "percentageIncrease": "200%"
         },
@@ -342,7 +367,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -352,15 +377,15 @@
       "code": "OH",
       "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "venezuela",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -386,22 +411,22 @@
       "code": "PA",
       "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "venezuela",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "pete hegseth",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -409,7 +434,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -460,15 +485,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "marine aviation logistics squadron",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "valley fair active shooter",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "valley",
           "percentageIncrease": "200%"
         },
@@ -477,16 +510,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "parks mall",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -501,35 +526,19 @@
           "name": "patrick henry mall",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
+          "searchVolume": "10K+",
+          "started": "9h ago",
           "trendBreakdown": "patrick",
           "percentageIncrease": "1000%"
         },
         {
           "name": "venezuela",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "cnn",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "wavy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "ai news today",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "12h ago",
-          "percentageIncrease": "100%"
+          "trendBreakdown": "cnn",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -538,15 +547,15 @@
       "code": "DC",
       "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "venezuela",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -595,8 +604,8 @@
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -680,18 +689,10 @@
           "name": "valley fair active shooter",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "trendBreakdown": "valley",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -868,17 +869,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "venezuela",
+      "topTopic": "radar",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "venezuela",
+          "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -928,9 +929,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "valley",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -963,7 +964,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T14:27:26.745Z",
+  "timestamp": "2025-12-03T16:35:40.640Z",
   "states": [
     {
       "name": "California",
@@ -13,15 +13,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "henry cuellar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "burton high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -37,25 +45,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "ilhan",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "drunk raccoon virginia liquor store",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "trendBreakdown": "drunk",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "burna boy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,32 +71,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "bernie moreno",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "dual",
-          "percentageIncrease": "100%"
         },
         {
           "name": "donald trump",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "nyc mayor adams",
+          "name": "dual citizenship",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -96,15 +95,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "juan orlando",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -129,75 +120,43 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "marvin morales",
+      "topTopic": "henry cuellar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "marvin morales",
+          "name": "henry cuellar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "drunk raccoon virginia liquor store",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "4h ago",
-          "percentageIncrease": "500%"
+          "trendBreakdown": "drunk",
+          "percentageIncrease": "700%"
         },
         {
           "name": "somalia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "ilhan",
           "percentageIncrease": "300%"
         },
         {
-          "name": "chris benoit",
+          "name": "marvin morales",
           "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "donald trump",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "roswell mayor election",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "roswell mayor election",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "mary",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "timothy shane",
-          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "drunk raccoon virginia liquor store",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -205,7 +164,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "timothy shane",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "timothy shane",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "mary robichaux",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "trendBreakdown": "roswell",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "chris benoit",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -215,32 +208,16 @@
       "code": "IL",
       "topTopic": "somalia",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "somalia",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "ilhan",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "marvin morales",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "rebecca park",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -290,7 +267,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "rebecca",
           "percentageIncrease": "900%"
         },
@@ -299,7 +276,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -307,7 +284,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -315,17 +292,17 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "kristi noem",
+      "topTopic": "drunk raccoon virginia liquor store",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kristi noem",
-          "relevanceScore": 95,
+          "name": "drunk raccoon virginia liquor store",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -357,33 +334,25 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "james solomon jersey city",
+      "topTopic": "jersey city mayor election",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "james solomon jersey city",
+          "name": "jersey city mayor election",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "james",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "drunk raccoon virginia liquor store",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "hoboken mayoral race",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "hoboken",
           "percentageIncrease": "700%"
         },
@@ -392,7 +361,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "ilhan",
           "percentageIncrease": "400%"
         }
@@ -401,60 +370,69 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "loans",
+      "topTopic": "lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "loans",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "irs stimulus checks eligibility",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "james solomon",
+      "topTopic": "henry cuellar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "james solomon",
+          "name": "henry cuellar",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "jim",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "drunk raccoon virginia liquor store",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "drunk",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "somalia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "ilhan",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "james solomon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "james",
           "percentageIncrease": "400%"
         },
         {
@@ -462,15 +440,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "dijon",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -478,15 +456,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -494,7 +464,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "100%"
         }
@@ -512,7 +482,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -520,7 +490,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -528,16 +498,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "irs stimulus checks eligibility",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
+          "started": "16h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -561,24 +523,33 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "ilhan omar",
+      "topTopic": "drunk raccoon virginia liquor store",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ilhan omar",
-          "relevanceScore": 95,
+          "name": "drunk raccoon virginia liquor store",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "somalia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "ilhan",
+          "percentageIncrease": "500%"
         },
         {
           "name": "parkland school district",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -603,24 +574,16 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "wsmv news",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "wsmv news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "cnn",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -628,16 +591,25 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "drunk raccoon virginia liquor store",
+      "topTopic": "henry cuellar",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "henry cuellar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "drunk raccoon virginia liquor store",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "liquor",
           "percentageIncrease": "400%"
         },
@@ -646,57 +618,74 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "ilhan",
           "percentageIncrease": "200%"
         },
         {
-          "name": "europe",
+          "name": "kisd",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "marvin morales",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "donald trump",
-          "relevanceScore": 90,
+          "name": "san angelo live",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "south america",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "somalia",
+      "topTopic": "drunk raccoon virginia liquor store",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "drunk raccoon virginia liquor store",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "raccoon",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "somalia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "irs stimulus checks eligibility",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "liberty university",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "liberty",
           "percentageIncrease": "300%"
         }
@@ -705,16 +694,17 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "irs stimulus checks eligibility",
+      "topTopic": "henry cuellar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "irs stimulus checks eligibility",
+          "name": "henry cuellar",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
         },
         {
@@ -722,16 +712,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "ilhan",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "bernie moreno",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -773,17 +755,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "ilhan omar",
+      "topTopic": "drunk raccoon virginia liquor store",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "ilhan omar",
+          "name": "drunk raccoon virginia liquor store",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -841,26 +823,25 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "kktv",
+      "topTopic": "dps",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kktv",
+          "name": "dps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "douglas county",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "douglas",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "dps",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -876,7 +857,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -893,7 +874,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1071,7 +1052,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1148,7 +1129,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "stamford",
           "percentageIncrease": "1000%"
         },
@@ -1157,7 +1138,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1174,7 +1155,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1182,7 +1163,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1199,7 +1180,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]

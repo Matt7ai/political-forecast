@@ -1,45 +1,46 @@
 {
-  "timestamp": "2025-12-05T22:24:37.119Z",
+  "timestamp": "2025-12-06T01:44:03.422Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "birthright citizenship",
+      "topTopic": "san diego news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "san diego news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "birthright citizenship",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "telemundo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
+          "started": "6h ago",
+          "trendBreakdown": "amendmentth",
+          "percentageIncrease": "600%"
         },
         {
           "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "hep",
+          "searchVolume": "5K+",
+          "started": "9h ago",
+          "trendBreakdown": "cdc",
           "percentageIncrease": "300%"
         },
         {
-          "name": "curacao",
+          "name": "suriname",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "2h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -47,15 +48,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "adelita grijalva",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "supreme court texas redistricting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "texas",
           "percentageIncrease": "400%"
         },
@@ -64,7 +73,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -72,14 +81,6 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "republicans health care plan",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
           "percentageIncrease": "100%"
         }
@@ -88,24 +89,25 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "deli",
+      "topTopic": "taco giro",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "taco giro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "taco",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "deli",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -113,7 +115,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -121,57 +123,49 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "birthright citizenship",
+      "topTopic": "trinity poague",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "birthright citizenship",
+          "name": "trinity poague",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "supreme",
+          "started": "3h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "dea agent",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "east ridge high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "trinity poague",
+          "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "cdc",
+          "percentageIncrease": "300%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "hepatitis b",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -179,7 +173,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -187,33 +181,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "jeanine pirro",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "pipe",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "personal injury lawyer",
+      "topTopic": "trinity poague",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trinity poague",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "court",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -221,49 +215,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "curacao",
+          "name": "birthright citizenship",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "3h ago",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "700%"
         },
         {
-          "name": "trinity poague",
+          "name": "atlanta news first",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "court",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "walb",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "tifton",
           "percentageIncrease": "400%"
         },
         {
-          "name": "keefe d",
+          "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "uscis",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -280,7 +273,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
+          "trendBreakdown": "cdc",
           "percentageIncrease": "600%"
         },
         {
@@ -288,7 +282,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "24h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -314,16 +308,24 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "opm",
+      "topTopic": "frederick county public schools",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "frederick county public schools",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "opm",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -331,7 +333,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -339,7 +341,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -347,7 +349,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -355,24 +357,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "700%"
+          "started": "9h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "northwood high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "brian cole pipe bomber",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -388,32 +382,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "8h ago",
+          "trendBreakdown": "escanaba",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hepatitis b",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "affordable housing",
+      "topTopic": "birthright citizenship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "birthright citizenship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "museum of science",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "affordable housing",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -447,49 +450,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "hep",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "curacao",
+      "topTopic": "abc",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "curacao",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "brian cole pipe bomber",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "wral news",
+          "name": "abc",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -506,7 +485,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -514,41 +493,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "900%"
+          "started": "6h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "curacao",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "telemundo",
+          "name": "dea agent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "hep",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "trendBreakdown": "cdc",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "suriname",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -556,31 +534,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "jeanine pirro",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "whec",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "shalom baranes",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -588,7 +550,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -631,34 +593,18 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "ashanti",
+      "topTopic": "hepatitis b",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ashanti",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
-        },
-        {
           "name": "hepatitis b",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "hep",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "cdc",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -682,81 +628,49 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "ashleigh mckinzie",
+      "topTopic": "suge knight",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "ashleigh mckinzie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "wcyb",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "curacao",
+      "topTopic": "trinity poague",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "curacao",
-          "relevanceScore": 100,
+          "name": "trinity poague",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "3h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "birthright citizenship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "supreme",
           "percentageIncrease": "400%"
         },
         {
           "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "cdc",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "birthright citizenship",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "6h ago",
           "percentageIncrease": "400%"
         },
@@ -765,7 +679,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "suriname",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -773,7 +695,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -781,24 +703,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "texas",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "clear creek high school",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "deli near me",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -806,49 +720,114 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "clear creek high school",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "opm",
+      "topTopic": "paul campo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "paul campo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "opm",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hepatitis b",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "frederick county public schools",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "birthright citizenship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "national security strategy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "gmu",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "national security strategy",
+      "topTopic": "paul campo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "paul campo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "paul",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "opm",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "national security strategy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "trendBreakdown": "national",
           "percentageIncrease": "800%"
         },
@@ -857,48 +836,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "supreme",
+          "started": "5h ago",
+          "trendBreakdown": "amendmentth",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "opm",
+          "name": "frederick county public schools",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "13h ago",
+          "searchVolume": "2K+",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hepatitis b",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "dc public schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "paul campo dea",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "pipe bomber arrested",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -906,16 +869,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "suge knight",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "started": "9h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -956,16 +911,24 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "deli near me",
+      "topTopic": "birthright citizenship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "birthright citizenship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "deli near me",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -973,7 +936,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -981,7 +944,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1049,7 +1012,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1057,18 +1020,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "lutsen resort",
+      "topTopic": "hepatitis b",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lutsen resort",
+          "name": "hepatitis b",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "lutsen",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1117,8 +1079,8 @@
           "name": "hiram torres montalvo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "voceroel",
           "percentageIncrease": "1000%"
         }
@@ -1255,16 +1217,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "lutsen resort",
+      "topTopic": "hepatitis b",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "hepatitis b",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "lutsen resort",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "lutsen",
           "percentageIncrease": "400%"
         }

@@ -1,27 +1,35 @@
 {
-  "timestamp": "2025-12-08T14:28:28.176Z",
+  "timestamp": "2025-12-08T16:34:27.256Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "henry cuellar",
+      "topTopic": "gracie mansion",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "henry cuellar",
+          "name": "gracie mansion",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "thailand",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "monroe doctrine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,33 +37,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "thailand cambodia border conflict",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "cambodiathailand",
-          "percentageIncrease": "100%"
         },
         {
           "name": "pearl harbor movie",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "dec",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "alberto rangel",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,15 +54,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "univision",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -79,42 +62,57 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "cassie ventura",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cassie ventura",
-          "relevanceScore": 90,
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "criminal defense lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "dade",
+      "topTopic": "cheryl hines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "cheryl hines",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "focus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "dade",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pearl harbor movie",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "dec",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -122,34 +120,34 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "sling tv",
+      "topTopic": "cheryl hines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "sling tv",
-          "relevanceScore": 95,
+          "name": "cheryl hines",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "benin coup attempt",
+      "topTopic": "daily mail",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
+          "name": "daily mail",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -199,7 +197,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -207,7 +205,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -215,17 +213,17 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "cassie ventura",
+      "topTopic": "gracie mansion",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cassie ventura",
-          "relevanceScore": 90,
+          "name": "gracie mansion",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -266,17 +264,25 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "benin coup attempt",
+      "topTopic": "wake county",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benin coup attempt",
+          "name": "wake county",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "radar",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -291,16 +297,26 @@
           "name": "gracie mansion",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10 minutes ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "gracie",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "news",
+          "percentageIncrease": "300%"
         },
         {
           "name": "thailand",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -308,7 +324,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -316,7 +332,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -350,8 +366,8 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "75%"
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -417,26 +433,34 @@
           "name": "colin allred",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "jasmine",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "cheryl hines",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "monroe doctrine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
+          "name": "vine",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -452,25 +476,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "800%"
+          "started": "18h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "ndaa",
+      "topTopic": "gracie mansion",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ndaa",
-          "relevanceScore": 95,
+          "name": "gracie mansion",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "300%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -554,8 +578,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -604,8 +628,8 @@
           "name": "superior middle school",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -801,7 +825,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -826,17 +850,25 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "brian cole jr",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
-          "relevanceScore": 95,
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "criminal defense lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },

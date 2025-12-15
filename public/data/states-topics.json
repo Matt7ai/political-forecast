@@ -1,30 +1,54 @@
 {
-  "timestamp": "2025-12-15T01:56:05.679Z",
+  "timestamp": "2025-12-15T03:46:48.308Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "bondi beach",
+      "topTopic": "rob reiner",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "rob reiner",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100K+",
+          "started": "2h ago",
+          "trendBreakdown": "michele",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "benjamin erickson",
-          "relevanceScore": 100,
+          "name": "nbc",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "breaking news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "foxnews",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -40,7 +64,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "news",
           "percentageIncrease": "1000%"
         },
@@ -49,7 +73,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -66,7 +90,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -74,9 +98,9 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "university",
           "percentageIncrease": "1000%"
         },
         {
@@ -84,15 +108,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "racing",
+          "name": "nbc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -100,7 +124,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -108,7 +132,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -124,9 +148,9 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "university",
           "percentageIncrease": "1000%"
         }
       ]
@@ -134,17 +158,26 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "benjamin erickson",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "18h ago",
+          "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "started": "6h ago",
+          "trendBreakdown": "university",
           "percentageIncrease": "1000%"
         }
       ]
@@ -161,16 +194,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
-          "trendBreakdown": "bondi",
+          "started": "16h ago",
+          "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -178,7 +211,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -194,9 +227,9 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "brett",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "university",
           "percentageIncrease": "1000%"
         }
       ]
@@ -213,8 +246,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "started": "5h ago",
+          "trendBreakdown": "university",
           "percentageIncrease": "1000%"
         },
         {
@@ -222,7 +255,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -239,7 +272,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -256,7 +289,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -265,7 +298,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -282,8 +315,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "started": "6h ago",
+          "trendBreakdown": "cookella",
           "percentageIncrease": "1000%"
         },
         {
@@ -291,7 +324,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -307,8 +340,8 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
+          "searchVolume": "5K+",
+          "started": "6h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -317,7 +350,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -334,7 +367,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -342,9 +375,17 @@
           "name": "brooklyn shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "trendBreakdown": "nyc",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -352,7 +393,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -368,9 +409,9 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "brett",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "smileybrett",
           "percentageIncrease": "1000%"
         },
         {
@@ -378,7 +419,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -386,7 +427,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -403,8 +444,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
-          "trendBreakdown": "australia",
+          "started": "17h ago",
+          "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
         {
@@ -412,9 +453,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "news",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -429,9 +478,9 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "cookella",
           "percentageIncrease": "1000%"
         },
         {
@@ -439,23 +488,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "2h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "stroud mall",
-          "relevanceScore": 100,
+          "name": "nbc",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "amtrak",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -472,7 +521,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -480,8 +529,8 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -498,7 +547,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -507,8 +556,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "providence",
+          "started": "5h ago",
+          "trendBreakdown": "rhode",
           "percentageIncrease": "1000%"
         }
       ]
@@ -524,8 +573,8 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "16h ago",
+          "searchVolume": "100K+",
+          "started": "18h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -533,18 +582,26 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
+          "searchVolume": "10K+",
+          "started": "6h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nbc news",
-          "relevanceScore": 90,
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "foxnews",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -560,9 +617,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "started": "6h ago",
+          "trendBreakdown": "cookella",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nbc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -578,8 +643,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "started": "6h ago",
+          "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
         },
         {
@@ -587,8 +652,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -604,9 +677,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -639,8 +711,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -656,9 +727,9 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "where",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
         }
       ]
@@ -675,8 +746,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "brown",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -684,18 +754,17 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -711,8 +780,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "rhode",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -729,7 +797,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
+          "started": "16h ago",
           "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
@@ -738,18 +806,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "stewartville mn school shooting",
+          "name": "nbc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "stewartville shooting update",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "4h ago",
           "trendBreakdown": "stewartville",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -860,8 +936,8 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -878,7 +954,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -895,7 +971,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -912,25 +988,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "4h ago",
-          "trendBreakdown": "coventry",
+          "started": "6h ago",
+          "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "atf",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "providence college",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
@@ -963,7 +1023,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -972,7 +1032,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         }
@@ -990,8 +1050,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "brown",
+          "started": "4h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1007,8 +1066,8 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "14h ago",
+          "searchVolume": "10K+",
+          "started": "16h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -1017,7 +1076,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "news",
           "percentageIncrease": "1000%"
         }
@@ -1035,9 +1094,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1053,7 +1111,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -1061,18 +1119,10 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "brett",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sandy hook anniversary",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1088,16 +1138,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "where",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fcps",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1105,18 +1146,18 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "brown university active shooter",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "where",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1132,7 +1173,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }

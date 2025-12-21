@@ -1,44 +1,36 @@
 {
-  "timestamp": "2025-12-21T14:23:29.342Z",
+  "timestamp": "2025-12-21T16:29:31.483Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "palace hotel",
+      "topTopic": "danville earthquake",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "palace hotel",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "palace",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "danville earthquake",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "nyc mayor",
+          "name": "palace hotel san francisco",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "palace",
           "percentageIncrease": "100%"
         },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -55,49 +47,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "home depot",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "dollar tree",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "randall spivey",
+      "topTopic": "gaylord palms",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "randall spivey",
-          "relevanceScore": 95,
+          "name": "gaylord palms",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "missing",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -114,25 +89,33 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "dollar tree",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "illinois tollway",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "illinois tollway",
-          "relevanceScore": 90,
+          "name": "dollar tree",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -199,7 +182,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -250,7 +233,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -258,42 +241,48 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "dollar tree",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "rochester police officers shot",
+      "topTopic": "seneca falls",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "rochester police officers shot",
-          "relevanceScore": 90,
+          "name": "seneca falls",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "rochester",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "flu a",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "flu",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "unemployment",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -310,7 +299,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -361,7 +350,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -386,42 +375,42 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "town east mall",
+      "topTopic": "katy mills",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "town east mall",
+          "name": "katy mills",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "hardees",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "hardees",
-          "relevanceScore": 90,
+          "name": "dollar tree",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -479,16 +468,24 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "unemployment",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "dollar tree",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "unemployment",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -496,7 +493,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -633,7 +630,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -864,7 +861,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]

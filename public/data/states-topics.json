@@ -1,36 +1,52 @@
 {
-  "timestamp": "2025-12-21T16:29:31.483Z",
+  "timestamp": "2025-12-21T18:33:57.064Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "danville earthquake",
+      "topTopic": "palace hotel",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "palace hotel",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "palace",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "danville earthquake",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "palace hotel san francisco",
+          "name": "the guardian",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "palace",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "chicago",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -47,7 +63,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -55,16 +71,25 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "gaylord palms",
+      "topTopic": "missing boaters fort myers",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "missing boaters fort myers",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "missing",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "gaylord palms",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -72,7 +97,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -89,7 +114,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -97,7 +122,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -114,7 +139,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -122,17 +147,17 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "dollar tree",
+      "topTopic": "home depot",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
         {
-          "name": "dollar tree",
+          "name": "home depot",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -173,16 +198,24 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "dollar tree",
+      "topTopic": "fox",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -207,17 +240,17 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "kearny nj",
+      "topTopic": "totowa police chief",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kearny nj",
-          "relevanceScore": 95,
+          "name": "totowa police chief",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -233,7 +266,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -241,7 +274,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -249,7 +282,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -266,7 +299,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -274,7 +307,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "por",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -282,7 +323,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -299,7 +340,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -307,17 +348,17 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "elise stefanik",
+      "topTopic": "home depot",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
+          "name": "home depot",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -350,7 +391,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -384,7 +425,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -392,7 +433,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -409,7 +450,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -434,17 +475,18 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "dollar tree",
+      "topTopic": "reddit",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "dollar tree",
-          "relevanceScore": 85,
+          "name": "reddit",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
+          "started": "9h ago",
+          "trendBreakdown": "fox",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -468,49 +510,33 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "dollar tree",
+      "topTopic": "unemployment",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
-        {
-          "name": "dollar tree",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "unemployment",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "home depot",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "dollar tree",
+      "topTopic": "sonic",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
         {
-          "name": "dollar tree",
+          "name": "sonic",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -621,16 +647,24 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "el nuevo dia",
+      "topTopic": "home depot",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
+        {
+          "name": "home depot",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "el nuevo dia",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -861,7 +895,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T03:47:49.952Z",
+  "timestamp": "2025-12-22T04:45:26.687Z",
   "states": [
     {
       "name": "California",
@@ -13,15 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "victor valley mall",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "1h ago",
-          "percentageIncrease": "500%"
+          "trendBreakdown": "victorville",
+          "percentageIncrease": "400%"
         },
         {
           "name": "sunvalley mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "sun",
           "percentageIncrease": "300%"
         },
@@ -30,7 +39,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -38,7 +47,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +55,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -80,7 +89,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -88,7 +97,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -96,7 +105,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "17h ago",
           "trendBreakdown": "missing",
           "percentageIncrease": "200%"
         },
@@ -105,7 +114,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -113,7 +122,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -121,25 +130,25 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "atlanta airport shooting",
+      "topTopic": "atlanta airport",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "atlanta airport shooting",
+          "name": "atlanta airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "atlanta",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "reddit",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -147,7 +156,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -164,15 +173,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "700%"
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -189,7 +198,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -206,7 +215,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -240,7 +249,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -265,24 +274,16 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "kearny nj",
+      "topTopic": "totowa police chief",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kearny nj",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "totowa police chief",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -290,7 +291,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -307,7 +308,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -315,7 +316,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -323,7 +324,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -340,15 +341,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "knickerbocker village",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -356,7 +349,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -364,7 +357,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -372,7 +365,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -406,7 +399,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -423,7 +416,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "16h ago",
           "trendBreakdown": "dollar",
           "percentageIncrease": "50%"
         }
@@ -441,7 +434,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -466,16 +459,24 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "dollar tree",
+      "topTopic": "sonic",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
+        {
+          "name": "sonic",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "50%"
+        },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -492,7 +493,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -509,7 +510,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -561,7 +562,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -578,7 +579,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -603,17 +604,17 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "claudio neves valente",
+      "topTopic": "walmart",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
+          "name": "walmart",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "15h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -698,7 +699,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -929,7 +930,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]

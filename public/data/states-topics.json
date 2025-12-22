@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T16:32:05.813Z",
+  "timestamp": "2025-12-22T18:37:02.123Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,7 +21,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "victorville",
           "percentageIncrease": "400%"
         },
@@ -38,7 +46,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "sun",
           "percentageIncrease": "300%"
         },
@@ -47,16 +55,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "foxnews",
+          "name": "in",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "75%"
+          "started": "8h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -80,40 +88,32 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "carel pedre",
+      "topTopic": "carel pedre arrests",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "carel pedre",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "carel pedre arrests",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "greenland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "is christmas eve a federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "donovan metayer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -121,33 +121,34 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "dekalb county jail",
+      "topTopic": "atlanta airport",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "dekalb county jail",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "atlanta airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "trendBreakdown": "atlanta",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "flu a",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "100%"
         },
         {
           "name": "reddit",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -164,7 +165,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -181,7 +182,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -266,7 +267,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -291,25 +292,34 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "madhu gottumukkala cisa polygraph",
+      "topTopic": "surge",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "surge",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "madhu gottumukkala cisa polygraph",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "flu symptoms",
-          "relevanceScore": 85,
+          "name": "new york times",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "50%"
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -394,7 +404,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -402,24 +412,24 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "flu symptoms",
+      "topTopic": "reddit",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
-        {
-          "name": "flu symptoms",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "50%"
-        },
         {
           "name": "reddit",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "flu symptoms",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -436,7 +446,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -444,7 +454,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -452,17 +462,17 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "dollar tree",
+      "topTopic": "fox news",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
         {
-          "name": "dollar tree",
+          "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
+          "started": "8h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -786,17 +796,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "brown university suspect",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "8h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -932,7 +942,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "landry",
           "percentageIncrease": "600%"
         }
@@ -950,7 +960,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "75%"
         }
       ]

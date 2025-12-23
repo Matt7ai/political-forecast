@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T06:40:11.557Z",
+  "timestamp": "2025-12-23T08:35:45.256Z",
   "states": [
     {
       "name": "California",
@@ -13,16 +13,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "retuquel",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "tatyana remley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,24 +30,40 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "is christmas eve a federal holiday",
+          "name": "christmas eve",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "news",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "surge",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "san diego",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "san",
           "percentageIncrease": "50%"
         }
@@ -73,16 +89,17 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "is christmas eve a federal holiday",
+      "topTopic": "when is christmas eve",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "is christmas eve a federal holiday",
+          "name": "when is christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "1h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "200%"
         },
         {
@@ -90,7 +107,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -107,17 +124,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "dekalb",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -201,7 +210,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -235,7 +244,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -243,7 +252,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -260,7 +269,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -277,7 +286,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "jeff",
           "percentageIncrease": "200%"
         },
@@ -286,7 +295,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -294,17 +303,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "trendBreakdown": "flu",
+          "started": "18h ago",
+          "trendBreakdown": "symptoms",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "new york times",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -355,7 +356,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -389,25 +390,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "sonic",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "reddit",
+      "topTopic": "white",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "reddit",
-          "relevanceScore": 85,
+          "name": "white",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -423,7 +432,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -431,7 +440,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "uss",
           "percentageIncrease": "300%"
         }
@@ -449,7 +458,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "jeff",
           "percentageIncrease": "200%"
         }
@@ -569,7 +578,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "wild",
           "percentageIncrease": "1000%"
         }
@@ -587,7 +596,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "influenza",
           "percentageIncrease": "100%"
         }
@@ -735,7 +744,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "furnas",
           "percentageIncrease": "700%"
         }
@@ -959,7 +968,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         }
       ]

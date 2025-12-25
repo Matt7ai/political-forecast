@@ -1,20 +1,52 @@
 {
-  "timestamp": "2025-12-24T22:25:12.894Z",
+  "timestamp": "2025-12-25T01:53:42.074Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "sce",
+      "topTopic": "hawaii",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "hawaii",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "sce",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "cal",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "unredacted epstein files",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "valley plaza mall",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "michael abatti",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "breaking",
           "percentageIncrease": "100%"
         },
         {
@@ -22,7 +54,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -30,7 +62,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -38,67 +70,49 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "larry nassar",
+      "topTopic": "sakura sushi",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "larry nassar",
-          "relevanceScore": 100,
+          "name": "sakura sushi",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "epstein files pdf",
+      "topTopic": "presidente",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "epstein files pdf",
+          "name": "presidente",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "doj",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "is the post office open on christmas eve",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "post",
-          "percentageIncrease": "300%"
         },
         {
           "name": "les wexner",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "public",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "prince andrew",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -106,7 +120,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -114,7 +128,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "barnes",
           "percentageIncrease": "50%"
         }
@@ -158,7 +172,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -209,16 +223,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -234,8 +240,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -268,75 +274,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20 minutes ago",
+          "started": "3h ago",
           "trendBreakdown": "delaware",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "nursing home explosion bristol pa",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "bristol",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "wawa",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "garden state plaza",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "abc",
+      "topTopic": "wect",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "abc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "epstein files pdf",
+          "name": "wect",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "why are flags at half mast today",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "wect",
-          "relevanceScore": 95,
+          "name": "southpark mall",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -352,54 +325,11 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "nursing home explosion bristol pa",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "nursing",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "bank",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "unredacted",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "white",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "dayton news",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "dayton news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -407,12 +337,53 @@
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ashlee buzzard",
+          "name": "nasry asfura",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "marshals",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "white",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "epstein files pdf",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "epstein files pdf",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "22h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "red robin",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -436,26 +407,26 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "delaware state police",
+      "topTopic": "epstein files pdf",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "delaware state police",
+          "name": "epstein files pdf",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "delaware",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "wawa",
-          "relevanceScore": 90,
+          "name": "ty snook",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "delaware",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -505,8 +476,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "unredacted",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "hawaii",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "merry christmas and happy new year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -514,7 +501,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -522,7 +509,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -530,24 +517,16 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "abc",
+      "topTopic": "barnes and noble",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "abc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -555,32 +534,16 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "epstein files pdf",
+      "topTopic": "barnes and noble",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "wawa",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -588,16 +551,16 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "melodee buzzard",
+      "topTopic": "homeland",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "melodee buzzard",
+          "name": "homeland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -622,25 +585,25 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "epstein files pdf",
+      "topTopic": "washington state income tax",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "washington state income tax",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "red robin",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -698,25 +661,25 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "kimberlee singler",
+      "topTopic": "measles",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "kimberlee singler",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "measles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "red robin",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },

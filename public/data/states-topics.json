@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T02:03:56.427Z",
+  "timestamp": "2025-12-28T03:56:47.952Z",
   "states": [
     {
       "name": "California",
@@ -13,23 +13,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "lillian bonsignore",
+          "name": "wallace idaho",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "barnes and nobles",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -37,7 +29,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "barnes and nobles",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -104,17 +104,17 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "somaliland",
+      "topTopic": "atlantic station",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "somaliland",
+          "name": "atlantic station",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -138,17 +138,18 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "irs announces gigantic tax refund",
+      "topTopic": "castleton mall",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "irs announces gigantic tax refund",
-          "relevanceScore": 95,
+          "name": "castleton mall",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "castleton",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -164,7 +165,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -181,7 +182,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -189,34 +190,42 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "flu symptoms",
+      "topTopic": "super flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "flu symptoms",
-          "relevanceScore": 90,
+          "name": "super flu symptoms",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "southwest airlines",
+      "topTopic": "tm fieldhouse",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "tm fieldhouse",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "southwest airlines",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -233,7 +242,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -250,49 +259,58 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "flu symptoms",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "john pilaccio",
+      "topTopic": "iran president",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "john pilaccio",
+          "name": "iran president",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "super flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "300%"
         },
         {
-          "name": "palau",
-          "relevanceScore": 95,
+          "name": "news",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "newark airport",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -300,7 +318,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -351,8 +369,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "abc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -410,7 +436,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -495,7 +521,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -503,7 +529,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -571,7 +597,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -664,18 +690,17 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "wallace idaho",
+      "topTopic": "wallace shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wallace idaho",
-          "relevanceScore": 100,
+          "name": "wallace shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "wallace",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -776,7 +801,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -818,16 +843,24 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "ksl",
+      "topTopic": "ksl news",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
+        {
+          "name": "ksl news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "ksl",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]

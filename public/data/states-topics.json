@@ -1,36 +1,43 @@
 {
-  "timestamp": "2025-12-29T14:27:01.973Z",
+  "timestamp": "2025-12-29T16:32:06.291Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "greenland",
+      "topTopic": "war",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "greenland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "war",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "posthuffington",
+          "started": "9h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "iran news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "somali daycare minnesota",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "california minimum wage",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -38,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,32 +53,40 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "cnn news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "greenland",
+      "topTopic": "iran",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
+          "name": "iran",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -112,24 +127,32 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "greenland",
+      "topTopic": "iran",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
+          "name": "iran",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wtoc",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "walb",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -137,25 +160,24 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "river north shooting",
+      "topTopic": "iran",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "river north shooting",
+          "name": "iran",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "chicago",
-          "percentageIncrease": "700%"
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "kankakee county",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -163,15 +185,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "santa clara",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "chicago shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -179,16 +217,24 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "wthr",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "iran",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "wthr",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -205,7 +251,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -213,24 +259,24 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "greenland",
+      "topTopic": "iran",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
+          "name": "iran",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "cnn",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -256,66 +302,74 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "tm fieldhouse",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "tm fieldhouse",
-          "relevanceScore": 100,
+          "name": "nick shirley",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "flu symptoms",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "iran",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "tim walz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "tim walz",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "chad ollinger",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "chad ollinger",
-          "relevanceScore": 95,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -323,7 +377,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -331,12 +385,20 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "greenland",
+      "topTopic": "iran news",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "greenland",
+          "name": "iran news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "iranian",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -348,58 +410,58 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "greenland",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "iran war",
+      "topTopic": "iran",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "iran war",
+          "name": "iran",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "ssa",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ssa",
-          "relevanceScore": 95,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "flu symptoms",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -407,128 +469,135 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "barnes and noble",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "barnes and noble",
-          "relevanceScore": 90,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "iran war",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "iran war",
-          "relevanceScore": 95,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "nick shirley",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "minnesota fraud",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "minnesota fraud",
-          "relevanceScore": 95,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "tim",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "eddy betancourt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "chad ollinger",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "minnesota",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "texas department of public safety",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "greenland",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
+          "name": "iran",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "trendBreakdown": "tim",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "nick shirley",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "nick shirley",
-          "relevanceScore": 95,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "laredo",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "iran",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -552,43 +621,43 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "minnesota fraud",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "minnesota fraud",
-          "relevanceScore": 95,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "unemployment",
-          "relevanceScore": 85,
+          "name": "somali daycare minnesota",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "75%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "tim",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "barnes and noble",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "barnes and noble",
-          "relevanceScore": 85,
+          "name": "iran",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -629,24 +698,16 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "greenland",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "greenland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -662,18 +723,9 @@
           "name": "iran",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "tim walz",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "learning",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -842,25 +894,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "nick shirley",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "nick shirley",
-          "relevanceScore": 95,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -893,15 +945,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "iran",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -943,16 +1003,32 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "fox news",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "iran",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "wdrb",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]

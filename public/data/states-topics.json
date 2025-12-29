@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-29T08:38:01.278Z",
+  "timestamp": "2025-12-29T10:29:37.120Z",
   "states": [
     {
       "name": "California",
@@ -13,23 +13,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "started": "6h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "greenland",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "war",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "posthuffington",
+          "percentageIncrease": "200%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -37,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -54,7 +63,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -62,7 +71,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -70,25 +79,16 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "minnesota fraud",
+      "topTopic": "fort lauderdale shooting",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "minnesota fraud",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "tim",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "fort lauderdale shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -96,9 +96,18 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
           "trendBreakdown": "world",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "tim walz",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -114,7 +123,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -122,7 +131,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         }
@@ -131,33 +140,33 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "iran war",
+      "topTopic": "river north shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "iran war",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "river north shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "chicago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "iran war",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "kankakee county",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -165,7 +174,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         },
@@ -174,7 +183,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -182,16 +191,24 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "nick shirley",
+      "topTopic": "wthr",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "wthr",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -225,7 +242,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -233,7 +250,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         }
@@ -251,7 +268,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "100%"
         }
@@ -286,7 +303,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "20h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         }
@@ -295,33 +312,33 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "iran war",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "iran war",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "20h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "iran war",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -338,15 +355,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "taiwan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -354,7 +371,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -371,7 +388,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         },
@@ -380,7 +397,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -397,7 +414,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -405,24 +422,16 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "iran war",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "iran war",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -430,7 +439,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         },
@@ -439,7 +448,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -473,7 +482,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -481,33 +490,33 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "iran war",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "iran war",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "iran war",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "eddy betancourt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -524,7 +533,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "20h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         },
@@ -533,7 +542,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -541,25 +550,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "minnesota fraud",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota fraud",
+          "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "200%"
+          "started": "20h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "300%"
         },
         {
           "name": "wynter wagoner",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -610,7 +619,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "300%"
         }
@@ -679,7 +688,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -687,7 +696,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -704,7 +713,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         }
@@ -892,7 +901,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -926,7 +935,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -934,7 +943,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]

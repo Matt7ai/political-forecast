@@ -1,36 +1,19 @@
 {
-  "timestamp": "2026-01-04T14:23:39.089Z",
+  "timestamp": "2026-01-04T16:30:40.033Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "uss iwo jima",
+      "topTopic": "abc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
-          "trendBreakdown": "maduro",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "abc",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -38,16 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "maria machado",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "nobel",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -55,41 +29,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "secretary",
           "percentageIncrease": "300%"
         },
         {
-          "name": "dea",
+          "name": "who is nicolas maduro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "started": "23h ago",
+          "trendBreakdown": "chapoel",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "machado venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "venezuela flag",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "nicolas maduro captura",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "captura",
-          "percentageIncrease": "300%"
         },
         {
           "name": "colombia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -97,7 +71,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -105,7 +79,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -113,16 +87,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "juan",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "nicaragua",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "katie miller",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "is california an open carry state",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "open",
           "percentageIncrease": "100%"
         },
@@ -131,23 +121,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "guardian",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "sicario",
+          "name": "aruba",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "royal",
           "percentageIncrease": "100%"
         }
       ]
@@ -155,65 +138,34 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cilia flores",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "maria corina machado",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "23h ago",
+          "trendBreakdown": "cbs",
+          "percentageIncrease": "800%"
         },
         {
           "name": "valenzuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "dentist",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "delcy",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "uss",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "where",
           "percentageIncrease": "300%"
         }
       ]
@@ -221,17 +173,34 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "edmundo",
+      "topTopic": "pete hegseth",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "edmundo",
+          "name": "pete hegseth",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "delcy",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "north korea",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "what is the monroe doctrine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "mara",
+          "trendBreakdown": "donroe",
           "percentageIncrease": "400%"
         },
         {
@@ -239,24 +208,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "north korea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "el chapo",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "vivotelemundo",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -264,15 +216,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "esposa de maduro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "mayo",
+          "percentageIncrease": "200%"
         },
         {
           "name": "telemundo noticias",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "noticias",
           "percentageIncrease": "200%"
         },
@@ -281,7 +242,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -289,42 +250,16 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "delcy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "venezuela",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "maria corina machado",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "maria",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -332,82 +267,67 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "dea",
+          "name": "venezuela map",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "maduro",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "delcy",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "maria corina machado",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "machado",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "started": "23h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "noriega",
+          "name": "marjorie taylor greene",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "machado venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "900%"
+          "trendBreakdown": "edmundo",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "dentist",
-          "relevanceScore": 100,
+          "name": "venezuela population",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "300%"
         },
         {
           "name": "mexico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -423,25 +343,16 @@
           "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hugo chavez",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "2K+",
           "started": "23h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -449,159 +360,86 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "delcy",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "maria corina machado",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "cilia flores",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "noriega",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "apartments",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "delcy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "venezuela",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "monroe doctrine",
+          "name": "marco rubio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "delcy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "delcy",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "maria corina machado",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "aruba",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "trendBreakdown": "venezuela",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "delta",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "started": "23h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "maria corina machado",
-          "relevanceScore": 100,
+          "name": "delcy",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "machado",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "venezuela",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -617,24 +455,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "where is venezuela",
+          "name": "president of venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "hugo",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "cilia",
+          "percentageIncrease": "500%"
         },
         {
           "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -642,50 +480,33 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "delcy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "venezuela",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "maria corina machado",
+          "name": "what happened in venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "23h ago",
-          "trendBreakdown": "machado",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "maduro",
+          "percentageIncrease": "500%"
         },
         {
           "name": "north korean ballistic missiles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "north",
           "percentageIncrease": "200%"
         }
@@ -694,144 +515,109 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "monroe doctrine",
+      "topTopic": "clay street raleigh nc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "venezuela",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "clay street raleigh nc",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "ravenscroft",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "maria corina machado",
+          "name": "delcy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "machado",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "maduro",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "machado venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "uss iwo jima",
+      "topTopic": "north korean ballistic missiles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
-          "trendBreakdown": "metropolitan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "north korean ballistic missiles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "north",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "caribbean airlines cancelled flights",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "trendBreakdown": "aruba",
+          "percentageIncrease": "900%"
         },
         {
           "name": "cuba",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "dea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "machado venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
           "started": "23h ago",
-          "trendBreakdown": "maria",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "aruba flights",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "caribbean",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "el chapo",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "gustavo petro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "aclu",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "bandits",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "chavez",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -839,100 +625,32 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "venezuela map",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "maria corina machado",
-          "relevanceScore": 100,
+          "name": "delcy",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "nobel",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "delta airlines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "puerto",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "venezuela president",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "venezuela president",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "abc news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "nytimes",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Pennsylvania",
-      "code": "PA",
       "topTopic": "monroe doctrine",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -941,60 +659,61 @@
           "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "24h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "maria corina machado",
+          "name": "uss iwo jima",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "23h ago",
-          "trendBreakdown": "machado",
-          "percentageIncrease": "500%"
-        },
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "marco rubio",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "delcy",
-          "relevanceScore": 95,
+          "name": "maduro captured picture",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "map",
+          "percentageIncrease": "600%"
         },
         {
           "name": "north korean ballistic missiles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "north",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "super flu virus",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "cuba",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "20h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1027,48 +746,6 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "monroe doctrine",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "maduro wife",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "delcy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
-        }
-      ]
-    },
-    {
-      "name": "Texas",
-      "code": "TX",
       "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1077,58 +754,94 @@
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "900%"
         },
+        {
+          "name": "president of venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "delcy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "600%"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "north korea",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
         {
           "name": "north korea",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "trendBreakdown": "north",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "edmundo",
+          "name": "delcy rodriguez",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "maria",
-          "percentageIncrease": "300%"
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "vice",
+          "percentageIncrease": "200%"
         },
         {
           "name": "cuba",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "24h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "dea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "nicolas maduro captura",
+          "name": "edmundo",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "23h ago",
+          "trendBreakdown": "machado",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "telemundo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "24h ago",
           "trendBreakdown": "mayo",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "hotel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "caribbean airlines cancelled flights",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1136,7 +849,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1144,42 +857,25 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "delcy",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
+          "started": "23h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "maria corina machado",
+          "name": "maduro captured picture",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
           "started": "23h ago",
-          "trendBreakdown": "maria",
+          "trendBreakdown": "saddam",
           "percentageIncrease": "600%"
         },
         {
@@ -1187,7 +883,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "north",
           "percentageIncrease": "200%"
         }
@@ -1196,50 +892,34 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "monroe doctrine",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "venezuela",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "maria corina machado",
+          "name": "machado venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "machado",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "mara",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "dea",
+          "name": "delcy rodriguez",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "maduro",
           "percentageIncrease": "200%"
         }
       ]
@@ -1256,17 +936,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "venezuela president",
+          "name": "uss iwo jima",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1300,57 +980,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "why",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cilia flores",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "maria corina machado",
+          "name": "abc",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "nobel",
-          "percentageIncrease": "700%"
+          "started": "16h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "greenland",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1358,24 +1012,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "guardian",
-          "relevanceScore": 90,
+          "name": "delcy",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "nytimes",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "2K+",
           "started": "22h ago",
-          "percentageIncrease": "100%"
+          "trendBreakdown": "venezuela",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1391,17 +1038,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "hugo chavez",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1417,17 +1055,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
+          "started": "23h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "venezuela president",
+          "name": "uss iwo jima",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1452,34 +1090,18 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "monroe doctrine",
+      "topTopic": "delcy",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "delcy",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "hugo",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "nytimes",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "maduro",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1495,59 +1117,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "hugo chavez",
+          "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "venezuala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "where",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "venezuela president",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "venezuela president",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "600%"
-        }
-      ]
-    },
-    {
-      "name": "South Dakota",
-      "code": "SD",
-      "topTopic": "venezuela news",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "venezuela news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "nicolas",
-          "percentageIncrease": "900%"
-        }
-      ]
-    },
-    {
-      "name": "Puerto Rico",
-      "code": "PR",
       "topTopic": "uss iwo jima",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1556,34 +1150,76 @@
           "name": "uss iwo jima",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "hugo",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "900%"
         },
+        {
+          "name": "monroe doctrine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "South Dakota",
+      "code": "SD",
+      "topTopic": "nicolas maduro",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "nicolas maduro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR",
+      "topTopic": "delcy",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
         {
           "name": "delcy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "venezuela maduro",
+          "name": "iwo jima",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "telemundo",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "vuelos cancelados hoy puerto rico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "jetblue",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "4h ago",
           "trendBreakdown": "airlinesdelta",
           "percentageIncrease": "100%"
         }
@@ -1610,36 +1246,35 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "nicolas maduro",
+      "topTopic": "venezuela president",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nicolas maduro",
+          "name": "venezuela president",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "24h ago",
-          "trendBreakdown": "venezuela",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "uss",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "nicolas maduro",
+      "topTopic": "uss iwo jima",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nicolas maduro",
+          "name": "uss iwo jima",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "presidentvenezuela",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1691,7 +1326,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "uss",
           "percentageIncrease": "600%"
         }
@@ -1700,18 +1335,18 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "nicolas maduro",
+      "topTopic": "venezuela president",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nicolas maduro",
+          "name": "venezuela president",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "venezuela",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "uss",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1727,49 +1362,67 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump venezuela",
+          "name": "where is venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "aruba",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "trendBreakdown": "maduro",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "venezuela president",
+      "topTopic": "uss iwo jima",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "venezuela president",
+          "name": "uss iwo jima",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "trump",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Nevada",
       "code": "NV",
+      "topTopic": "trump venezuela",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "uss",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "monroe doctrine",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "700%"
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "code": "UT",
       "topTopic": "monroe doctrine",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1779,50 +1432,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "venezuela president",
+          "name": "uss iwo jima",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Utah",
-      "code": "UT",
-      "topTopic": "venezuela president",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "venezuela president",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "hugo",
+          "percentageIncrease": "900%"
         },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1839,24 +1466,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "hugo",
-          "percentageIncrease": "1000%"
+          "started": "23h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1864,16 +1482,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "aruba",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1889,17 +1499,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump venezuela",
+          "name": "president of venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "100+",
           "started": "22h ago",
-          "trendBreakdown": "hugo",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "maduro",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1915,17 +1525,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "venezuela president",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
           "started": "23h ago",
-          "trendBreakdown": "uss",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1941,35 +1542,35 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "uss iwo jima",
-          "relevanceScore": 100,
+          "name": "trump venezuela",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "hugo",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "where",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Montana",
       "code": "MT",
-      "topTopic": "nicolas maduro",
+      "topTopic": "maduro venezuela",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nicolas maduro",
+          "name": "maduro venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "maduro",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "trendBreakdown": "venezuela",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1985,7 +1586,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "maduro",
           "percentageIncrease": "600%"
         }

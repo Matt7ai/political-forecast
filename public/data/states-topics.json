@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T18:39:01.524Z",
+  "timestamp": "2026-01-05T20:31:20.712Z",
   "states": [
     {
       "name": "California",
@@ -13,51 +13,74 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "800%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "barry pollack",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "alvin",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "jd vance",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "matt gutman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump greenland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "hilton",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "jd vance",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "jd vance",
+          "name": "mark kelly",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "hilton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -73,7 +96,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "julian",
           "percentageIncrease": "1000%"
         },
@@ -81,8 +104,8 @@
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -90,16 +113,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "trendBreakdown": "personal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "car accident lawyers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -107,40 +122,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "mdc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "minutes",
-          "percentageIncrease": "200%"
         },
         {
           "name": "jd vance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "mdc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "minutes",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "hilton",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "united healthcare",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -148,17 +163,25 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "greenland",
+      "topTopic": "barry pollack",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
+          "name": "barry pollack",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "jd vance",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -174,24 +197,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "barry pollack",
+          "name": "mark kelly",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "800%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "katie",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -199,49 +229,41 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "monroe doctrine",
+      "topTopic": "jd vance",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "monroe doctrine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "maria corina machado",
-          "relevanceScore": 100,
+          "name": "jd vance",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "greenland",
+      "topTopic": "nbc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "nbc",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "19h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "focus",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -258,7 +280,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "accident",
           "percentageIncrease": "1000%"
         },
@@ -267,15 +289,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "car accident lawyers",
+          "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -283,15 +305,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "greenland",
+          "name": "jd vance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -299,41 +321,41 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "greenland",
+      "topTopic": "jd vance",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "jd vance",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "alvin hellerstein",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "greenland",
+      "topTopic": "jd vance",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "jd vance",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -341,16 +363,25 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "cbs",
+      "topTopic": "barry pollack",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "barry pollack",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "alvin",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "cbs",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -358,7 +389,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -366,40 +397,32 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "dentist",
+      "topTopic": "jd vance",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "jd vance",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "dentist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "jd vance",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "stubhub",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -415,8 +438,8 @@
           "name": "barry pollack",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "4h ago",
           "trendBreakdown": "alvin",
           "percentageIncrease": "1000%"
         },
@@ -425,32 +448,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "personal injury attorney",
+          "name": "politics",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "personal",
+          "started": "15h ago",
+          "trendBreakdown": "doctrinedonroe",
           "percentageIncrease": "500%"
         },
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "personal injury lawyers",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "cea weaver",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -458,23 +482,39 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "cdc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "bryan kohberger",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "drive",
+          "name": "hotel",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "dominican republic",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -482,8 +522,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "trendBreakdown": "huffington",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -500,24 +539,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "vance",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "mark kelly",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -525,7 +556,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -559,16 +590,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "dentist",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "mark kelly",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "dentist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -576,32 +615,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "jd vance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "drive",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
+          "started": "8h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -617,7 +640,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "injury",
           "percentageIncrease": "1000%"
         }
@@ -651,41 +674,41 @@
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "barry pollack",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "julian",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "jd vance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "barry pollack",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "julian",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "hilton",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "houston news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -702,16 +725,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "pete",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "greenland",
+          "name": "jd vance",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -719,7 +742,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -727,34 +750,34 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "barry pollack",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "barry pollack",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "alvin",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "barry pollack",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "alvin",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hilton",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -805,42 +828,42 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "mark kelly",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "mark kelly",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "jd vance",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "american airlines",
+      "topTopic": "usaa",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "american airlines",
-          "relevanceScore": 90,
+          "name": "usaa",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -882,7 +905,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -890,12 +913,12 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "greenland",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -1133,7 +1156,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]

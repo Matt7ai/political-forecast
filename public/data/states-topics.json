@@ -1,60 +1,44 @@
 {
-  "timestamp": "2026-01-04T22:25:06.003Z",
+  "timestamp": "2026-01-05T02:05:21.174Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "abc",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "abc",
+          "name": "greenland",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "6h ago",
           "trendBreakdown": "katie",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "north korea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "marjorie taylor greene",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "nikitha godishala",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "is california an open carry state",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "nikitha godishala",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -62,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "trendBreakdown": "postny",
           "percentageIncrease": "100%"
         }
@@ -89,42 +73,34 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "brooklyn detention center",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "brooklyn detention center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "doral",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "trendBreakdown": "mapus",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         },
         {
-          "name": "north korea",
+          "name": "mdc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "trendBreakdown": "doral",
+          "percentageIncrease": "200%"
         },
         {
           "name": "marjorie taylor greene",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -132,16 +108,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "donroe doctrine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "trendBreakdown": "the",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -149,17 +116,17 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "north korea",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "north korea",
-          "relevanceScore": 100,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -175,8 +142,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "greenland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "katie",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -217,23 +193,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "north korean ballistic missiles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -258,17 +226,17 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "caribbean airlines cancelled flights",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "caribbean airlines cancelled flights",
-          "relevanceScore": 100,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -292,96 +260,110 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "north korean ballistic missiles",
+      "topTopic": "cbs",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "north korean ballistic missiles",
+          "name": "cbs",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "trendBreakdown": "north",
-          "percentageIncrease": "300%"
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "clay street raleigh nc",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "clay street raleigh nc",
-          "relevanceScore": 100,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "ravenscroft",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "ravenscroft teacher killed",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "blitz",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "blitz",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "where",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "caribbean airlines cancelled flights",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "barthsst",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "trendBreakdown": "katie",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
-          "name": "taxes",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "north korean ballistic missiles",
+          "name": "weapons",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20 minutes ago",
           "trendBreakdown": "north",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "alvin hellerstein",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "blitz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "trendBreakdown": "schumerchuck",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "st barths",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "caribbean",
+          "percentageIncrease": "200%"
         },
         {
           "name": "marjorie taylor greene",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -389,7 +371,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -405,8 +387,8 @@
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -440,18 +422,26 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "north korean ballistic missiles",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "north korean ballistic missiles",
+          "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
-          "trendBreakdown": "north",
+          "started": "6h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "weapons",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "north",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -526,58 +516,25 @@
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "north korea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "north",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "riot",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "marjorie taylor greene",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "hotel",
-          "relevanceScore": 95,
+          "name": "north korean ballistic missiles",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "caribbean airlines cancelled flights",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "stewart airport",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -593,24 +550,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "caribbean airlines cancelled flights",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "north korean ballistic missiles",
+          "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "north",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -618,7 +566,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "24h ago",
           "trendBreakdown": "where",
           "percentageIncrease": "300%"
         }
@@ -627,17 +575,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "delcy rodriguez",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "delcy rodriguez",
+          "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "nikitha godishala",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "8h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -688,17 +644,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "abc",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "abc",
-          "relevanceScore": 100,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -766,18 +722,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "delcy",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "delcy",
-          "relevanceScore": 95,
+          "name": "greenland",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "maduro",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -793,8 +748,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "cbs",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1156,9 +1119,9 @@
           "name": "lenny's",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1271,7 +1234,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]

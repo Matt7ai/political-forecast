@@ -1,28 +1,44 @@
 {
-  "timestamp": "2026-01-08T10:30:27.795Z",
+  "timestamp": "2026-01-08T12:54:12.299Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "salt lake city",
+      "topTopic": "marsala",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "salt lake city",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "salt",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "raytheon stock",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "rtx",
           "percentageIncrease": "200%"
         },
@@ -31,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "russian",
           "percentageIncrease": "200%"
         },
@@ -40,7 +56,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -48,7 +64,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,16 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "lindsey halligan",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "lindsey",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -73,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -81,16 +88,24 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "car accident lawyers",
+      "topTopic": "premier league",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "car accident lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "800%"
         },
@@ -99,16 +114,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "aldrich ames",
-          "relevanceScore": 90,
+          "name": "dentist",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -124,33 +139,58 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "salt lake city",
-          "relevanceScore": 95,
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "personal injury attorney",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "russian oil tanker",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "oil",
+          "started": "22h ago",
+          "trendBreakdown": "russian",
           "percentageIncrease": "400%"
         },
         {
-          "name": "wptv",
+          "name": "ashli babbitt",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "rtx stock",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "raytheon",
           "percentageIncrease": "100%"
         }
       ]
@@ -158,24 +198,40 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "dentist",
+      "topTopic": "marsala",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "dentist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -183,7 +239,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -200,8 +256,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -209,15 +273,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "salt lake city",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -225,7 +297,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -233,16 +305,32 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "epic",
+      "topTopic": "marsala",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "epic",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -250,51 +338,49 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "marsala",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "aldrich ames",
+          "name": "marsala",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
+          "started": "7h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "michael reagan",
+          "name": "premier league",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "ronald",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "dentist",
+      "topTopic": "marsala",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "dentist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -302,24 +388,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "zimmerman's meat",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "click on detroit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -335,25 +421,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "hinsdale ma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "pamela smart",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -369,7 +463,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -386,25 +480,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "jd vance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "ny post",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -420,17 +522,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "epic",
-          "relevanceScore": 95,
+          "name": "marsala",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -446,35 +556,51 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "lindsey halligan attorney",
+          "name": "marsala",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "raytheon stock",
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "rtx stock",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "rtx",
-          "percentageIncrease": "400%"
+          "started": "15h ago",
+          "trendBreakdown": "raytheon",
+          "percentageIncrease": "200%"
         },
         {
           "name": "russian oil tanker",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "trendBreakdown": "russian",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "ashli babbitt",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -490,7 +616,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
@@ -498,34 +624,50 @@
           "name": "marsala",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "epic",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "les wexner",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "dentist",
+      "topTopic": "premier league",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "dentist",
+          "name": "premier league",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -541,17 +683,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "ashli babbitt",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -567,8 +733,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
-          "trendBreakdown": "renee",
+          "started": "14h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -576,16 +742,24 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "epic",
+      "topTopic": "premier league",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "epic",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -593,16 +767,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "cea weaver",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -618,24 +784,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "epic",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "dentist",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -643,7 +825,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "russian",
           "percentageIncrease": "200%"
         },
@@ -652,7 +834,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -669,24 +851,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "cape henry towers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "steny hoyer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "epic",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -703,9 +909,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -721,16 +943,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "14h ago",
+          "trendBreakdown": "renee",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "epic",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -738,16 +968,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "okc weather",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -763,7 +985,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -781,16 +1003,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
-          "trendBreakdown": "ice",
+          "started": "15h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "salt lake city",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -798,7 +1028,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -815,25 +1045,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "dentist",
-          "relevanceScore": 95,
+          "name": "marsala",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "epic",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "dentist",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -849,8 +1095,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "14h ago",
+          "trendBreakdown": "renee",
           "percentageIncrease": "1000%"
         }
       ]
@@ -867,7 +1113,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
@@ -876,7 +1122,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -893,7 +1147,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -901,56 +1155,80 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "aldrich ames",
-          "relevanceScore": 90,
+          "name": "marsala",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "dentist",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "dentist",
+      "topTopic": "marsala",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "dentist",
+          "name": "marsala",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "900%"
+          "started": "5h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "fafo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "dentist",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "fox",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "greg bovino",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -958,7 +1236,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -975,8 +1253,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "13h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         },
         {
@@ -984,7 +1262,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1001,7 +1279,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1010,16 +1288,24 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "groenlandia",
+      "topTopic": "renee nicole good",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "renee nicole good",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "groenlandia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1036,7 +1322,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1054,7 +1340,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1072,17 +1358,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "wgme closings",
-          "relevanceScore": 95,
+          "name": "marsala",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1098,9 +1384,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "14h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1116,9 +1410,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1134,7 +1436,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1152,25 +1454,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "minneapolis",
-          "percentageIncrease": "1000%"
+          "started": "13h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "dentist",
+      "topTopic": "marsala",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "dentist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1178,7 +1496,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1195,24 +1513,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marsala",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "epic",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "dentist",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "email",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1229,7 +1571,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1246,9 +1588,9 @@
           "name": "renee nicole good",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "ice",
+          "searchVolume": "10K+",
+          "started": "14h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
         {
@@ -1256,23 +1598,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dentist",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "mass shooting today",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1289,9 +1623,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1307,7 +1649,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
@@ -1316,7 +1658,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1333,16 +1675,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "13h ago",
+          "trendBreakdown": "renee",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "epic",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1350,7 +1700,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1367,8 +1717,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "14h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "premier league",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1376,7 +1734,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1393,7 +1751,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1411,7 +1769,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1429,7 +1787,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1447,7 +1805,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "600%"
         }

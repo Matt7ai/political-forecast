@@ -1,27 +1,36 @@
 {
-  "timestamp": "2026-01-08T22:26:52.394Z",
+  "timestamp": "2026-01-09T01:56:40.794Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "marsala",
+      "topTopic": "portland",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "marsala",
+          "name": "portland",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "josh hawley",
+          "name": "congress aca subsidies",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "aca",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "influenza flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,16 +38,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "salt",
           "percentageIncrease": "400%"
         },
         {
-          "name": "ashli babbitt",
+          "name": "josh hawley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "keith porter",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,16 +63,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "7h ago",
           "trendBreakdown": "newsom",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "new york times",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -79,33 +88,33 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "clima",
-          "relevanceScore": 95,
+          "name": "portland",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "dentist",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -113,16 +122,41 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "lake brantley high school",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "jonathan ross",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "johnathan",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "congress aca subsidies",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "lake brantley high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -130,7 +164,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -138,24 +172,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "rtx stock",
+          "name": "rocio san miguel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "trendBreakdown": "raytheon",
-          "percentageIncrease": "200%"
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "steny hoyer",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -163,7 +196,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -171,17 +204,24 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -197,9 +237,17 @@
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "trendBreakdown": "renee",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "johnathan",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -207,7 +255,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -215,67 +263,67 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "yahoo",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "todd young",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "vancejd",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -283,59 +331,51 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "fatty",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "dentist",
+          "name": "portland",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "zimmerman's meat",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "what does ice stand for",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "vancejd",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -343,17 +383,17 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "yahoo",
           "percentageIncrease": "1000%"
         },
         {
@@ -361,33 +401,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "vancejd",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -395,17 +435,25 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "george",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -413,16 +461,42 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "universal child care nyc",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "jonathan ross",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "johnathan",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "methodist hospital brooklyn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "brooklyn",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "universal child care nyc",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "universal",
           "percentageIncrease": "200%"
         },
@@ -431,7 +505,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -439,49 +513,42 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "kristi noem nyc",
+          "name": "influenza flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "2h ago",
+          "trendBreakdown": "flu",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "ashli babbitt",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "what does ice stand for",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -489,7 +556,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -497,103 +564,111 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "what does ice stand for",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "22h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ashli babbitt",
-          "relevanceScore": 90,
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jonathan gerlach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "mount",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "josh hawley",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -609,83 +684,75 @@
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "trendBreakdown": "renee",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "josh hawley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "dentist",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "hamilton county texas",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "area",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "johnathan",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "marshon lattimore",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cape henry towers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
         },
         {
           "name": "steny hoyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -693,17 +760,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "vancejd",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -711,7 +786,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -719,7 +794,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -727,26 +802,17 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "renee",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -770,17 +836,26 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "renee good",
+      "topTopic": "portland shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "portland shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "5K+",
+          "started": "1h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jonathan ross",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         }
       ]
@@ -788,17 +863,16 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "renee",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -806,7 +880,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -814,85 +888,68 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "renee",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 90,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "started": "4h ago",
+          "trendBreakdown": "renee",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "clima",
-          "relevanceScore": 95,
+          "name": "portland",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "dentist",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -900,25 +957,25 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "ashley babbitt",
+      "topTopic": "portland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ashley babbitt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -961,24 +1018,16 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "renee nicole good",
+      "topTopic": "luma energy",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "renee nicole good",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "luma energy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -986,43 +1035,33 @@
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "renee nicole good",
+      "topTopic": "salt lake city shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "renee nicole good",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "salt lake city shooting",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1048,44 +1087,34 @@
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1128,67 +1157,58 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "what does ice stand for",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 90,
+          "name": "portland",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "clima",
-          "relevanceScore": 95,
+          "name": "portland",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "dentist",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1204,9 +1224,16 @@
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "renee",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1214,17 +1241,25 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "renee",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "layton shelter in place",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1232,60 +1267,51 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "renee good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "renee",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "clima",
-          "relevanceScore": 85,
+          "name": "portland",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1318,17 +1344,25 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "renee nicole good",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "renee",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]

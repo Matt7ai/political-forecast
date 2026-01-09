@@ -1,24 +1,40 @@
 {
-  "timestamp": "2026-01-09T03:44:58.259Z",
+  "timestamp": "2026-01-09T04:45:00.681Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "portland ice shooting",
+      "topTopic": "government shutdown",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "portland ice shooting",
+          "name": "government shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "3h ago",
-          "trendBreakdown": "shootingportland",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "influenza flu symptoms",
+          "name": "aca subsidies",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "congress",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "gladys aurora lopez",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "josh hawley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -26,45 +42,20 @@
           "percentageIncrease": "200%"
         },
         {
-          "name": "congress aca subsidies",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "aca",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "salt lake city",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "salt",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "josh hawley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "government shutdown",
+          "name": "vaccines",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "flu",
           "percentageIncrease": "100%"
         },
         {
           "name": "keith porter",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -72,7 +63,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "trendBreakdown": "newsom",
           "percentageIncrease": "100%"
         },
@@ -81,7 +72,24 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "utah shooting",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "shooting",
           "percentageIncrease": "100%"
         },
         {
@@ -89,8 +97,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "immunizations",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -106,16 +122,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "johnathan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -123,16 +131,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "dentist",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -149,16 +165,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "johnathan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -166,7 +174,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         },
@@ -175,7 +183,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -183,23 +191,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "government shutdown",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "josh hawley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -207,7 +207,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -215,7 +215,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -223,7 +223,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -231,24 +231,16 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "marsala",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -256,9 +248,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -274,7 +274,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         },
@@ -283,16 +283,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "portland ice shooting",
+          "name": "portland",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
-          "trendBreakdown": "shootingportland",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -300,7 +307,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -308,32 +315,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "vaccines",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "marsala",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "yahoo",
           "percentageIncrease": "1000%"
         },
@@ -342,7 +350,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         },
@@ -351,7 +359,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -368,49 +376,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "vancejd",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "marsala",
+          "name": "portland ice shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "portland",
+          "name": "government shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "marsala",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "fatty",
           "percentageIncrease": "1000%"
         },
@@ -419,7 +420,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         }
@@ -437,16 +438,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "vancejd",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -454,7 +447,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         }
@@ -472,7 +465,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "yahoo",
           "percentageIncrease": "1000%"
         },
@@ -481,7 +474,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -489,7 +482,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         }
@@ -507,50 +500,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "vancejd",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "portland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "marsala",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jonathan ross",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "george",
           "percentageIncrease": "1000%"
         },
         {
@@ -561,6 +512,48 @@
           "started": "3h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "jonathan ross",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "jonathan ross",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "portland ice shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "shootingportland",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -576,16 +569,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "trendBreakdown": "johnathan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -593,25 +578,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brooklyn methodist hospital",
+          "name": "methodist hospital brooklyn",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "methodist",
+          "started": "5h ago",
+          "trendBreakdown": "brooklyn",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "universal child care nyc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "trendBreakdown": "universal",
           "percentageIncrease": "200%"
         },
@@ -620,7 +613,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -628,7 +621,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "2h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -636,7 +629,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -644,7 +637,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "200%"
         },
@@ -653,7 +646,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -661,24 +654,16 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "marsala",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         },
@@ -687,7 +672,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         },
@@ -696,7 +681,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -704,17 +689,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "les wexner",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -730,7 +707,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         }
@@ -748,16 +725,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "johnathan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -765,7 +734,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "mount",
           "percentageIncrease": "1000%"
         },
@@ -773,9 +742,17 @@
           "name": "portland ice shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
+          "searchVolume": "5K+",
+          "started": "4h ago",
           "trendBreakdown": "shootingportland",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -783,7 +760,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -791,7 +768,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -808,15 +785,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -824,7 +793,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         }
@@ -833,24 +802,16 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "marsala",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "steve",
           "percentageIncrease": "1000%"
         },
@@ -859,7 +820,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         }
@@ -868,24 +829,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "marsala",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         },
@@ -894,16 +847,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "gladis aurora lopez",
+          "name": "government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "gladys aurora lopez",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "20 minutes ago",
           "percentageIncrease": "200%"
         },
         {
@@ -911,15 +872,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "mexico",
-          "relevanceScore": 90,
+          "name": "gladis aurora lopez",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "vaccinations",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -935,17 +904,9 @@
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "johnathan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "8h ago",
+          "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         },
         {
@@ -953,16 +914,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "marshon lattimore",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -970,7 +939,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -987,16 +956,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "vancejd",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1004,7 +965,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1012,15 +973,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "terry bennett dc police",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1037,25 +1006,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "kfor",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "news",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1079,16 +1031,16 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "portland shooting",
+      "topTopic": "portland ice shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "portland shooting",
+          "name": "portland ice shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "portland",
           "percentageIncrease": "1000%"
         },
@@ -1097,49 +1049,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "johnathan",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "marsala",
+          "name": "government shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "vaccines",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "shotsflu",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "marsala",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "portland ice shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1147,7 +1092,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1164,15 +1109,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1180,7 +1117,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1197,7 +1134,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1214,16 +1151,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "johnathan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1231,7 +1160,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "portland",
           "percentageIncrease": "1000%"
         },
@@ -1240,7 +1169,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1257,25 +1186,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ashley babbitt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1327,7 +1240,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1352,24 +1265,16 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "marsala",
+      "topTopic": "salt lake city shooting",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "salt lake city shooting",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1386,8 +1291,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
+          "started": "7h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1403,7 +1308,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1420,16 +1325,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1480,16 +1377,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "johnathan",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1497,7 +1386,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "shootingportland",
           "percentageIncrease": "1000%"
         }
@@ -1515,7 +1404,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1523,7 +1412,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1540,7 +1429,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1548,24 +1437,16 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "marsala",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1573,7 +1454,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "portland",
           "percentageIncrease": "1000%"
         },
@@ -1582,8 +1463,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "vaea tulikihihifo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1599,15 +1489,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1615,33 +1497,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "shootingportland",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "marsala",
+      "topTopic": "jonathan ross",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "jonathan ross",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         }
@@ -1685,15 +1559,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marsala",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1701,7 +1567,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         }
       ]

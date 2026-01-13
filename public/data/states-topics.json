@@ -1,37 +1,53 @@
 {
-  "timestamp": "2026-01-12T22:24:06.166Z",
+  "timestamp": "2026-01-13T01:53:11.711Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "truck accident lawyer",
+      "topTopic": "perfidy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "perfidy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "20h ago",
+          "trendBreakdown": "reservefederal",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "truck accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "5h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "bill ackman",
+          "name": "state department visas",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "william",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "novice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -39,15 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "seattle",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,7 +71,31 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "house",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "cl",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "william ackman",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -71,43 +103,60 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "jerome powell",
+      "topTopic": "slides",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "jerome powell",
-          "relevanceScore": 100,
+          "name": "slides",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "trumpdonald",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "jerome powell",
+      "topTopic": "boynton beach shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "boynton beach shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "boynton",
+          "percentageIncrease": "500%"
         },
         {
           "name": "jay collins",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "perfidy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "17h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "600%"
         },
         {
@@ -115,32 +164,56 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "spacex",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "rubella",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "pearson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "bill ackman",
+          "name": "randy fine",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "daily",
+          "percentageIncrease": "200%"
         },
         {
           "name": "novice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "wptv",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -148,15 +221,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "jonathan ross gofundme",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "jonathan",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "we",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "trendBreakdown": "monique",
+          "percentageIncrease": "100%"
         },
         {
           "name": "weapons",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -164,25 +255,25 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "jerome powell",
+      "topTopic": "federal reserve chair jerome powell",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "federal reserve chair jerome powell",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "500%"
         },
         {
           "name": "washington county ga",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -190,7 +281,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -198,25 +289,33 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "jerome powell",
+      "topTopic": "perfidy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "perfidy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "bill ackman",
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "marni yang",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -224,15 +323,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "word",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "weapons",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -249,7 +356,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "trumpdonald",
           "percentageIncrease": "500%"
         }
@@ -258,59 +365,67 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "jerome powell",
+      "topTopic": "abc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "abc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "measles",
-          "relevanceScore": 95,
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "jerome powell",
+      "topTopic": "federal reserve chair jerome powell",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "federal reserve chair jerome powell",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "800%"
+          "started": "15h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "500%"
         },
         {
           "name": "novice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "bill ackman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "uss abraham lincoln south china sea",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -318,59 +433,40 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "jerome powell",
+      "topTopic": "perfidy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "perfidy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "bill ackman",
-          "relevanceScore": 95,
+          "name": "abc",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "amber alert",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "amber alert",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "malang",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jerome powell",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
       "topTopic": "jerome powell",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -379,17 +475,52 @@
           "name": "jerome powell",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "amber alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "amber",
           "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "perfidy",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "perfidy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "500%"
         },
         {
           "name": "novice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -397,7 +528,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -405,25 +536,25 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "jerome powell",
+      "topTopic": "federal reserve chair jerome powell",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "federal reserve chair jerome powell",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "600%"
         },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -431,59 +562,75 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "pam bondi",
+      "topTopic": "perfidy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "perfidy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
+          "started": "5h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "bill ackman",
+          "name": "federal reserve chair jerome powell",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "5K+",
           "started": "19h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "donald",
+          "percentageIncrease": "400%"
         },
         {
           "name": "novice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "gofundme jonathan ross",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "jerome powell",
+      "topTopic": "federal reserve chair jerome powell",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "federal reserve chair jerome powell",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "500%"
         },
         {
           "name": "east knox",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "7h ago",
           "trendBreakdown": "east",
           "percentageIncrease": "700%"
         },
@@ -491,8 +638,8 @@
           "name": "bill ackman",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -500,7 +647,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -508,7 +655,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -516,7 +663,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -533,7 +680,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "trumpdonald",
           "percentageIncrease": "600%"
         }
@@ -542,26 +689,42 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "jerome powell",
+      "topTopic": "abc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "abc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "bill ackman",
+          "name": "perfidy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "temple university",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "jonathan",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "temple",
           "percentageIncrease": "300%"
         },
         {
@@ -569,7 +732,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "stephen a smith",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "jonathan",
           "percentageIncrease": "400%"
         }
       ]
@@ -586,17 +758,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "slides",
+          "name": "jerome powell",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "jerome",
-          "percentageIncrease": "300%"
+          "started": "23h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -612,7 +784,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "trumpdonald",
           "percentageIncrease": "600%"
         }
@@ -630,66 +802,74 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "frisco",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "jerome powell",
+          "name": "abc",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "presidente de venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "bill ackman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "novice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "uvalde school shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "president trump cuba",
+          "name": "perfidy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "20h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "novice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "word",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "gofundme",
+          "percentageIncrease": "100%"
         },
         {
           "name": "pearson",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -697,25 +877,33 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "jerome powell",
+      "topTopic": "perfidy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "perfidy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "600%"
         },
         {
           "name": "novice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -723,7 +911,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -731,42 +919,50 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "jerome powell",
+      "topTopic": "bill ackman",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "bill ackman",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "perfidy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brendan banfield",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "federal reserve chair jerome powell",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "400%"
         },
         {
           "name": "novice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "measles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -782,7 +978,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -807,24 +1003,41 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "jerome powell",
+      "topTopic": "perfidy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "perfidy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bill ackman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "slides",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "federal",
+          "percentageIncrease": "200%"
         },
         {
           "name": "weapons",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -841,7 +1054,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "600%"
         }
@@ -859,8 +1072,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "jerome",
+          "started": "9h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "300%"
         }
       ]
@@ -886,52 +1099,51 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "jerome powell",
+      "topTopic": "slides",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "jerome powell",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "trumpdonald",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "bill ackman",
+          "name": "slides",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "jerome powell",
+      "topTopic": "keith ellison",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jerome powell",
+          "name": "keith ellison",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "bill ackman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "gofundme",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "donald trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1000,7 +1212,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1128,9 +1340,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "trumpdonald",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1146,7 +1358,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "500%"
         }
@@ -1155,42 +1367,6 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "slides",
-      "category": "Law and Government",
-      "trendingScore": 90,
-      "topics": [
-        {
-          "name": "slides",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "jerome",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Utah",
-      "code": "UT",
-      "topTopic": "slides",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "slides",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Connecticut",
-      "code": "CT",
       "topTopic": "jerome powell",
       "category": "Law and Government",
       "trendingScore": 95,
@@ -1199,9 +1375,44 @@
           "name": "jerome powell",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "code": "UT",
+      "topTopic": "donald trump",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "donald trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "donald",
+          "started": "23h ago",
+          "trendBreakdown": "powelljerome",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "Connecticut",
+      "code": "CT",
+      "topTopic": "donald trump",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "donald trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1218,7 +1429,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "500%"
         },
@@ -1227,7 +1438,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1244,7 +1455,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1261,7 +1472,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "800%"
         }

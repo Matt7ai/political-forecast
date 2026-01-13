@@ -1,67 +1,76 @@
 {
-  "timestamp": "2026-01-13T10:30:08.001Z",
+  "timestamp": "2026-01-13T12:55:35.980Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "starbucks employee pig",
+      "topTopic": "perfidy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "perfidy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "starbucks employee pig",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "perfidy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "gracie mansion",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "novice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "state department visas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "havana syndrome",
+          "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "spy",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "havana syndrome",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "pearson",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "texas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -69,7 +78,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -77,7 +86,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -94,7 +103,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -102,25 +111,17 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "spacex",
+      "topTopic": "jay collins",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "spacex",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "jay collins",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "byron",
+          "started": "17h ago",
+          "trendBreakdown": "florida",
           "percentageIncrease": "400%"
         },
         {
@@ -128,16 +129,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "boynton",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "perfidy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "havana syndrome",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "pearson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -145,7 +162,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -153,7 +170,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -161,7 +178,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -169,7 +186,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -177,24 +194,16 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "federal reserve chair jerome powell",
+      "topTopic": "word",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "federal reserve chair jerome powell",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "word",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -202,33 +211,24 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "slides",
+      "topTopic": "marni yang",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "slides",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "dow",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "novice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "marni yang",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "slides",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -236,7 +236,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -262,68 +262,59 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "federal reserve chair jerome powell",
+      "topTopic": "slides",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "federal reserve chair jerome powell",
-          "relevanceScore": 100,
+          "name": "slides",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "federal reserve chair jerome powell",
+      "topTopic": "bank",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "federal reserve chair jerome powell",
+          "name": "bank",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "futuresdow",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "perfidy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "uss abraham lincoln south china sea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "federal reserve chair jerome powell",
+      "topTopic": "slides",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "federal reserve chair jerome powell",
-          "relevanceScore": 100,
+          "name": "slides",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -339,17 +330,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "17h ago",
           "trendBreakdown": "amber",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "federal reserve chair jerome powell",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -365,22 +348,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "gracie mansion",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "gracie",
+          "percentageIncrease": "400%"
         },
         {
           "name": "slides",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "uss abraham lincoln south china sea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
           "percentageIncrease": "200%"
         },
@@ -389,7 +373,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -397,50 +381,50 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "federal reserve chair jerome powell",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "federal reserve chair jerome powell",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "tillisthom",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "perfidy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "slides",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "pam bondi",
+      "topTopic": "bank",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bank",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -448,31 +432,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "novice",
+          "name": "havana syndrome",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "slides",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "state department visas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -489,7 +465,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "east",
           "percentageIncrease": "700%"
         },
@@ -498,7 +474,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -506,7 +482,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -514,7 +490,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -540,32 +516,32 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "perfidy",
+      "topTopic": "rubella",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "perfidy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "rubella",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "perfidy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "temple university",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "temple",
           "percentageIncrease": "300%"
         },
@@ -574,7 +550,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -582,8 +558,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "stock",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -591,7 +566,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -608,7 +583,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -643,24 +618,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "frisco",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "acrisure",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "yella beezy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "novice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -668,32 +643,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "texas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "slides",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "dow",
+          "started": "23h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "state department visas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -701,7 +675,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -709,7 +683,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -717,7 +691,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -725,7 +699,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -733,34 +707,25 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "novice",
+      "topTopic": "perfidy",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "perfidy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "novice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "uss abraham lincoln south china sea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "federal reserve",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "trendBreakdown": "dow",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -776,15 +741,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "slides",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -792,7 +757,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -843,17 +808,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "slides",
-          "relevanceScore": 95,
+          "name": "bank",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "futuresdow",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -914,16 +879,24 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "perfidy",
+      "topTopic": "uccs",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "uccs",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "perfidy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -931,7 +904,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "dow",
           "percentageIncrease": "200%"
         }
@@ -949,7 +922,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -992,17 +965,17 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "groenlandia",
+      "topTopic": "departamento de educacion",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "groenlandia",
+          "name": "departamento de educacion",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1146,8 +1119,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "federal",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1235,7 +1207,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1252,7 +1224,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]

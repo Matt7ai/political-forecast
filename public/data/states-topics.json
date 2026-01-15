@@ -1,52 +1,68 @@
 {
-  "timestamp": "2026-01-15T12:53:49.733Z",
+  "timestamp": "2026-01-15T14:30:26.021Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "chief keef",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief keef",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "us evacuation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "supreme court tariff ruling",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "trendBreakdown": "tariffs",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "america",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "hannah natanson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "ice agents",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -54,7 +70,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -62,15 +78,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "au pair",
+          "name": "brendan banfield",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "50 minutes ago",
+          "trendBreakdown": "pairau",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -78,7 +103,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -95,7 +120,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -103,7 +128,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -111,16 +136,25 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "gainesville shooting",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "gainesville shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "trendBreakdown": "gainesville",
           "percentageIncrease": "500%"
         },
@@ -129,7 +163,81 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "restaurant",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "hannah natanson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "pam",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "supreme court tariff ruling",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "denmark",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "brendan banfield",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "ice agent internal bleeding",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "insurrection act",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chief keef",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -138,121 +246,56 @@
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "5h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "greg norman",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hannah natanson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "supreme court tariff ruling",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "ice agent internal bleeding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "denmark",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pam bondi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "chief keef",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "chief keef",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "restaurant",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "cobb county schools",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "henry county schools",
+          "name": "union grove high school",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "union",
-          "percentageIncrease": "200%"
+          "started": "17h ago",
+          "trendBreakdown": "henry",
+          "percentageIncrease": "400%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "cobb county schools",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "chief keef",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief keef",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -260,7 +303,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -277,7 +320,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -294,7 +337,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -302,7 +345,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -310,7 +353,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -318,24 +361,40 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "brendan banfield",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "hannah natanson",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "hannah natanson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -343,7 +402,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -351,16 +410,24 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "supreme court",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -368,7 +435,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -385,15 +452,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "chief keef",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -401,16 +468,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "priyatharsini natarajan",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "priyatharsini natarajan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -418,7 +493,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -426,7 +501,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -434,16 +509,24 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "chief keef",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief keef",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -451,7 +534,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -459,24 +542,25 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "wgrz",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wgrz",
+          "name": "insurrection act",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "chief keef",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -484,15 +568,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "wgrz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "hannah natanson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -500,7 +592,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -508,11 +600,11 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "wsyr",
+          "name": "brendan banfield",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -520,11 +612,19 @@
           "percentageIncrease": "100%"
         },
         {
+          "name": "wsyr",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
           "name": "elissa slotkin",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -532,7 +632,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -540,40 +640,40 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "wtol",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wtol",
+          "name": "insurrection act",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "700%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wpafb",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "chief keef",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "ice agent internal bleeding",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "wkbn",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -581,15 +681,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "ice agent internal bleeding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "denmark",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -597,7 +705,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -614,7 +722,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -622,16 +730,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "chief keef",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief keef",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -639,7 +755,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -647,7 +763,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -655,7 +771,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -672,7 +788,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -689,7 +805,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -697,16 +813,25 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "chief keef",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief keef",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -714,15 +839,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "america",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "jaylen reed",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -730,7 +863,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -738,15 +871,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "denmark",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -754,16 +895,24 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "hannah natanson",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "hannah natanson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -771,7 +920,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -779,7 +928,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -787,7 +936,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -795,7 +944,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -803,16 +952,16 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "hannah natanson",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hannah natanson",
+          "name": "insurrection act",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -820,7 +969,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -828,7 +977,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -836,7 +985,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -853,7 +1002,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -887,7 +1036,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -895,7 +1044,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -912,7 +1061,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -965,7 +1114,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -973,17 +1122,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "tim walz press conference today",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tim walz press conference today",
+          "name": "insurrection act",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "fox",
+          "searchVolume": "5K+",
+          "started": "1h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
@@ -991,7 +1140,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "rocking",
           "percentageIncrease": "1000%"
         },
@@ -1000,7 +1149,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1008,24 +1157,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "martial law",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1144,7 +1277,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1203,16 +1336,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "minneapolis",
+      "topTopic": "insurrection act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "insurrection act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "minneapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1220,7 +1361,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1237,8 +1378,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "900%"
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1290,7 +1431,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1332,18 +1473,17 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "jerome powell",
+      "topTopic": "maps",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "jerome powell",
-          "relevanceScore": 100,
+          "name": "maps",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },

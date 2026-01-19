@@ -1,37 +1,27 @@
 {
-  "timestamp": "2026-01-19T20:30:08.408Z",
+  "timestamp": "2026-01-19T22:27:08.731Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "trump letter to norway",
+      "topTopic": "stock market today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "trump letter to norway",
-          "relevanceScore": 100,
+          "name": "stock market today",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "amendmentth",
-          "percentageIncrease": "600%"
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "lake elsinore",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "goldprice",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -39,33 +29,33 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "personal injury lawyer",
+      "topTopic": "personal injury attorney",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "personal injury attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "personal",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -73,16 +63,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "silver price",
-          "relevanceScore": 90,
+          "name": "news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "silver",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -97,8 +88,8 @@
           "name": "trump letter to norway",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "amendmentth",
           "percentageIncrease": "300%"
         },
@@ -107,50 +98,51 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "stock market today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "pricesilver",
+          "percentageIncrease": "100%"
         },
         {
           "name": "guatemala",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "wptv",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "trendBreakdown": "fort",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "wall street journal",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "trump letter to norway",
+      "topTopic": "nbc",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "stock",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "trump letter to norway",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "new",
+          "started": "5h ago",
+          "trendBreakdown": "why",
           "percentageIncrease": "300%"
         }
       ]
@@ -158,26 +150,25 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "riverside bakery mchenry",
+      "topTopic": "america vs",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "riverside bakery mchenry",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "riverside",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "america vs",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "stock market today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -193,17 +184,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "silver",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -219,8 +202,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "trendBreakdown": "cnn",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -228,43 +210,35 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "trump letter to norway",
+      "topTopic": "wzzm",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "trump letter to norway",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "why",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "martin luther king",
+          "name": "wzzm",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "abc",
+      "topTopic": "stock market today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "abc",
-          "relevanceScore": 100,
+          "name": "stock market today",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "trendBreakdown": "silver",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -288,18 +262,18 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "trump letter to norway",
+      "topTopic": "nj ebike law",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "trump letter to norway",
-          "relevanceScore": 100,
+          "name": "nj ebike law",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "nbc",
-          "percentageIncrease": "600%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "newsnj",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -315,7 +289,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -323,6 +297,40 @@
     {
       "name": "New York",
       "code": "NY",
+      "topTopic": "nbc",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "stock",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "davos",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "what is a data breach",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
       "topTopic": "trump letter to norway",
       "category": "Law and Government",
       "trendingScore": 95,
@@ -331,52 +339,10 @@
           "name": "trump letter to norway",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "trendBreakdown": "amendmentth",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "market",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "davos",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "what is a data breach",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "martin luther king",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "martin luther king",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -402,32 +368,33 @@
       "code": "PA",
       "topTopic": "trump letter to norway",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "trump letter to norway",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "amendmentth",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "stock market today",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "amendmentth",
-          "percentageIncrease": "500%"
+          "started": "9h ago",
+          "trendBreakdown": "todaynews",
+          "percentageIncrease": "100%"
         },
         {
           "name": "nbc",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -468,61 +435,53 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "houston fire",
+      "topTopic": "houston fire today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "houston fire",
-          "relevanceScore": 100,
+          "name": "houston fire today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
           "trendBreakdown": "fire",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "trump letter to norway",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "amendmentth",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "america",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "news",
-          "percentageIncrease": "300%"
         },
         {
           "name": "nbc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "stock market today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "todaynews",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "dave matthews",
+      "topTopic": "trump letter to norway",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "dave matthews",
-          "relevanceScore": 95,
+          "name": "trump letter to norway",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "amendmentth",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -538,7 +497,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "amendmentth",
           "percentageIncrease": "700%"
         }
@@ -590,17 +549,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "amendmentth",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
-          "name": "fox news",
+          "name": "stock market today",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -616,7 +575,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -684,7 +643,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -726,24 +685,16 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "martin luther king",
+      "topTopic": "wanda vázquez",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "martin luther king",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "wanda vázquez",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -846,7 +797,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -991,7 +942,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]

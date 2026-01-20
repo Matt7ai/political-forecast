@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-19T22:27:08.731Z",
+  "timestamp": "2026-01-20T01:57:09.158Z",
   "states": [
     {
       "name": "California",
@@ -12,24 +12,9 @@
           "name": "stock market today",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "lake elsinore",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "por",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "trendBreakdown": "goldprice",
           "percentageIncrease": "100%"
         }
       ]
@@ -37,25 +22,25 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "personal injury attorney",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "personal injury attorney",
+          "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "personal injury lawyer",
+          "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -63,17 +48,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "news",
-          "relevanceScore": 85,
+          "name": "silver price",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "silver",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -89,16 +73,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "amendmentth",
           "percentageIncrease": "300%"
         },
         {
-          "name": "texas",
+          "name": "ana",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -106,7 +90,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "14h ago",
           "trendBreakdown": "pricesilver",
           "percentageIncrease": "100%"
         },
@@ -115,7 +99,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -150,49 +134,6 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "america vs",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "america vs",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "stock market today",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "nbc",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "silver",
-          "percentageIncrease": "600%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
       "topTopic": "trump letter to norway",
       "category": "Law and Government",
       "trendingScore": 95,
@@ -201,9 +142,60 @@
           "name": "trump letter to norway",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "amendmentth",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "america vs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "started": "23h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "silver price",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "silver price",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "trump letter to norway",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump letter to norway",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -236,7 +228,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "silver",
           "percentageIncrease": "100%"
         }
@@ -289,33 +281,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "wxii",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "nbc",
+      "topTopic": "davos",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "nbc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "stock",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "davos",
           "relevanceScore": 90,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "stock market today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "meghan markle",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -323,7 +330,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -340,7 +347,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "trendBreakdown": "amendmentth",
           "percentageIncrease": "400%"
         }
@@ -374,26 +381,25 @@
           "name": "trump letter to norway",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "amendmentth",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "wgal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "stock market today",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "todaynews",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -435,34 +441,17 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "houston fire today",
+      "topTopic": "stock market today",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "houston fire today",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "fire",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "stock market today",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "todaynews",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "silver",
           "percentageIncrease": "100%"
         }
       ]
@@ -548,17 +537,17 @@
           "name": "trump letter to norway",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "amendmentth",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "fox",
+          "percentageIncrease": "500%"
         },
         {
           "name": "stock market today",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -592,7 +581,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -643,7 +632,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -694,8 +683,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "el vocero",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -728,7 +725,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -763,7 +760,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -788,16 +785,24 @@
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "turn to",
+      "topTopic": "wpri",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "wpri",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "turn to",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -822,16 +827,16 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "football",
+      "topTopic": "tmj",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "football",
+          "name": "tmj",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -959,7 +964,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]

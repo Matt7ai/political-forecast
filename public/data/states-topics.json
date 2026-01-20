@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-20T12:58:07.391Z",
+  "timestamp": "2026-01-20T14:36:43.142Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "tekashi",
+      "topTopic": "christian church",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "christian church",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "tekashi",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -21,32 +29,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "ms",
-          "relevanceScore": 95,
+          "name": "ukraine",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "lake elsinore",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "latest news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -62,7 +62,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
         },
@@ -71,7 +71,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "1000%"
         }
@@ -88,24 +88,18 @@
           "name": "chagos islands",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ms",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "2h ago",
+          "trendBreakdown": "diego",
           "percentageIncrease": "600%"
         },
         {
-          "name": "un",
+          "name": "stock market",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "dow",
           "percentageIncrease": "200%"
         }
       ]
@@ -122,7 +116,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -165,34 +159,17 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "trump letter to norway",
+      "topTopic": "towson fire",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "trump letter to norway",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "cnbc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "news",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "towson fire",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -208,9 +185,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "20h ago",
           "trendBreakdown": "ottawa",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "abc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -261,7 +246,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "bike",
           "percentageIncrease": "300%"
         }
@@ -279,7 +264,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -289,30 +274,31 @@
       "code": "NY",
       "topTopic": "chagos islands",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "chagos islands",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "latest news",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "2h ago",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "diego",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "meghan markle",
+          "name": "ukraine",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "trump news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -346,8 +332,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -363,24 +357,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "ms",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "septa",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "50%"
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -396,7 +374,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -423,23 +401,31 @@
       "code": "TX",
       "topTopic": "tekashi",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
           "name": "tekashi",
-          "relevanceScore": 90,
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "abc",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "50%"
+          "started": "2h ago",
+          "percentageIncrease": "75%"
+        },
+        {
+          "name": "christian church",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -455,7 +441,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -463,25 +449,16 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "trump letter to norway",
+      "topTopic": "new york times",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "trump letter to norway",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "amendmentth",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "new york times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -523,17 +500,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "stock market today",
+      "topTopic": "christian church",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "stock market today",
-          "relevanceScore": 85,
+          "name": "christian church",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -542,15 +519,15 @@
       "code": "AL",
       "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
           "name": "cnn",
-          "relevanceScore": 90,
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -600,8 +577,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -701,8 +678,8 @@
           "name": "christian church",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         }
       ]

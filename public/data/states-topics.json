@@ -1,96 +1,103 @@
 {
-  "timestamp": "2026-01-20T22:28:12.972Z",
+  "timestamp": "2026-01-21T01:59:58.740Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "somalia",
+      "topTopic": "daycare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "daycare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "somalia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "federal government shutdown",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "democrats",
+          "percentageIncrease": "400%"
         },
         {
           "name": "chagos islands",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "garciadiego",
           "percentageIncrease": "200%"
         },
         {
-          "name": "lindsey halligan",
+          "name": "mark carney",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "federal government shutdown",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "300%"
         },
         {
           "name": "lamar odom",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "300%"
         },
         {
           "name": "csulb",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "macron",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "mark",
-          "percentageIncrease": "100%"
         },
         {
           "name": "tekashi",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "trump greenland news",
-          "relevanceScore": 85,
+          "name": "latest news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "macron",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "75%"
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "trump news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -114,59 +121,59 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "purple alert",
+      "topTopic": "federal government shutdown",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "federal government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "democrats",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "purple alert",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ms",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "greg bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "stock market",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "12h ago",
-          "trendBreakdown": "stock",
-          "percentageIncrease": "300%"
         },
         {
           "name": "diego garcia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "islandschagos",
+          "started": "13h ago",
+          "trendBreakdown": "chagos",
           "percentageIncrease": "300%"
         },
         {
-          "name": "federal government shutdown",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "why does trump want greenland",
+          "name": "yahoo news",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -174,7 +181,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "tekashi",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -182,31 +197,6 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "hard rock stadium",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "somalia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
       "topTopic": "somalia",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -216,23 +206,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "insurance",
+          "name": "news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "federal government shutdown",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "federal government shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "democrats",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "somalia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "cps",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -274,26 +290,25 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "hard rock stadium",
+      "topTopic": "somalia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "where",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "somalia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "school",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -309,16 +324,90 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "shrewsbury",
-          "percentageIncrease": "500%"
+          "started": "6h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "hard rock stadium",
+          "name": "somalia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "fox",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "federal government shutdown",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "federal government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "somalia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "phil murphy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "federal government shutdown",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "federal government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "ligon middle school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -326,39 +415,74 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "800%"
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "why does trump want greenland",
-          "relevanceScore": 90,
+          "name": "diego garcia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "federal government shutdown",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "federal government shutdown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "democrats",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "chagos islands",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "diego",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "scotusblog",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "trump news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
     },
     {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "hard rock stadium",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
+      "name": "Ohio",
+      "code": "OH",
       "topTopic": "somalia",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -368,158 +492,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "phil murphy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "5h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "ligon middle school",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "ligon middle school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "somalia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "diego garcia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "hard rock stadium",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "chagos islands",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "diego",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "scotusblog",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "macron",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "mark",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "nato",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "trump news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "hard rock stadium",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "where",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "somalia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -527,24 +500,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "chagos",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "wfin school delays",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "wdtn",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -552,16 +517,17 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "christian church",
+      "topTopic": "usha vance",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "christian church",
+          "name": "usha vance",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "4h ago",
+          "trendBreakdown": "usha",
           "percentageIncrease": "1000%"
         }
       ]
@@ -569,24 +535,33 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "hard rock stadium",
+      "topTopic": "federal government shutdown",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hard rock stadium",
+          "name": "federal government shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "democrats",
+          "percentageIncrease": "800%"
         },
         {
           "name": "diego garcia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ms",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -603,7 +578,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -628,49 +603,42 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "hard rock stadium",
+      "topTopic": "federal government shutdown",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
+          "name": "federal government shutdown",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "democrats",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "erika kirk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "chagos islands",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "diego",
           "percentageIncrease": "200%"
         },
         {
-          "name": "why does trump want greenland",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "texas comptroller",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "tekashi",
+          "name": "trump news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -678,24 +646,16 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "hard rock stadium",
+      "topTopic": "somalia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "somalia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -703,42 +663,59 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "stock",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "erika kirk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "colonial parkway murders",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "trendBreakdown": "alan",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "hard rock stadium",
+      "topTopic": "federal government shutdown",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hard rock stadium",
+          "name": "federal government shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "democrats",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "stock market",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "stock",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "government shutdown",
+          "name": "new york times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -754,8 +731,9 @@
           "name": "usha vance",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "vancejd",
           "percentageIncrease": "1000%"
         }
       ]
@@ -780,33 +758,25 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "hard rock stadium",
+      "topTopic": "somalia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "somalia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "ice in seattle",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "seattle",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "200%"
         }
       ]
@@ -831,16 +801,16 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "hard rock stadium",
+      "topTopic": "usha vance",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hard rock stadium",
+          "name": "usha vance",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "3h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -857,7 +827,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -865,25 +835,26 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "tina peters",
+      "topTopic": "amber alert colorado",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "amber alert colorado",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "amber",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "tina peters",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -899,23 +870,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "hard rock stadium",
+          "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "somalia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1008,18 +979,17 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "portland maine weather",
+      "topTopic": "usha vance",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "portland maine weather",
-          "relevanceScore": 95,
+          "name": "usha vance",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "trendBreakdown": "wgme",
-          "percentageIncrease": "300%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1077,17 +1047,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "hard rock stadium",
+      "topTopic": "usha vance",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hard rock stadium",
+          "name": "usha vance",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1111,16 +1081,17 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "hard rock stadium",
+      "topTopic": "usha vance",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hard rock stadium",
+          "name": "usha vance",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "3h ago",
+          "trendBreakdown": "vancejd",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1187,17 +1158,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "hard rock stadium",
+      "topTopic": "wdrb",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "hard rock stadium",
-          "relevanceScore": 100,
+          "name": "wdrb",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1221,17 +1192,18 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "hard rock stadium",
+      "topTopic": "usha vance",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hard rock stadium",
+          "name": "usha vance",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "vancejd",
+          "percentageIncrease": "1000%"
         }
       ]
     },

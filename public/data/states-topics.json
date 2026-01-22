@@ -1,54 +1,80 @@
 {
-  "timestamp": "2026-01-22T14:37:05.559Z",
+  "timestamp": "2026-01-22T16:41:32.419Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "willowbrook ca",
+      "topTopic": "jack smith testimony today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "jack smith testimony today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "willowbrook ca",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shooting",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "austin beutner",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "emily",
-          "percentageIncrease": "400%"
         },
         {
           "name": "san jose shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "san",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "liam ramos",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "irs taxes",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "irs",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "shanquella robinson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "austin beutner",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "20h ago",
+          "trendBreakdown": "emily",
+          "percentageIncrease": "300%"
         },
         {
           "name": "mark rutte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "bludgeoned",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,25 +82,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "uvalde",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "irs reorganization",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "trendBreakdown": "irs",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "lisa cook",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -82,15 +91,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "congress government shutdown",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -98,15 +99,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "scott bessent",
+          "name": "bludgeoned",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "barron trump",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -114,32 +123,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "newsom",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "news",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "jack smith",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "can",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -147,7 +131,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -155,33 +139,59 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "yahoo finance",
+      "topTopic": "jack smith",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "yahoo finance",
-          "relevanceScore": 90,
+          "name": "jack smith",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "mark rutte",
+      "topTopic": "jack smith",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "jack smith",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "weapons",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "irs taxes",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "irs",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "mark rutte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -189,7 +199,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -197,7 +207,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -222,33 +232,50 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "mark rutte",
+      "topTopic": "jack smith",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "jack smith",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "mark rutte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "ca",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "grocery store",
+      "topTopic": "jack smith",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "grocery store",
+          "name": "jack smith",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -273,16 +300,25 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "grand valley state university",
+      "topTopic": "jack smith",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "jack smith",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "grand valley state university",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -290,7 +326,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -298,51 +334,61 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "grocery store",
+      "topTopic": "jack smith",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "grocery store",
+          "name": "jack smith",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "jack",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "liam ramos",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "grocery store",
+      "topTopic": "jack smith",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "grocery store",
+          "name": "jack smith",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "yahoo finance",
+      "topTopic": "jack smith",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "yahoo finance",
-          "relevanceScore": 90,
+          "name": "jack smith",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -358,90 +404,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "hedingham",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "liam ramos",
+      "topTopic": "jack smith testimony",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "liam ramos",
-          "relevanceScore": 95,
+          "name": "jack smith testimony",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mark rutte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "lisa cook",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "somalia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ilhan omar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mas",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "jack smith",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "jessica tisch",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "irs reorganization",
+          "name": "mas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "3h ago",
-          "trendBreakdown": "irs",
           "percentageIncrease": "100%"
         },
         {
@@ -449,74 +455,84 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "jd vance toledo",
+      "topTopic": "jack smith",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "jd vance toledo",
-          "relevanceScore": 95,
+          "name": "jack smith",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "grocery store",
+      "topTopic": "jack smith",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "grocery store",
+          "name": "jack smith",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "irs announces new tax benefit",
+      "topTopic": "jack smith",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "jack smith",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "irs announces new tax benefit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "liam ramos",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "mark rutte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -524,7 +540,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -532,8 +548,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "wpxi",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -557,24 +581,16 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "riverdale high school",
+      "topTopic": "facebook",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "riverdale high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "facebook",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -582,16 +598,25 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "uvalde trial",
+      "topTopic": "jack smith",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "jack smith",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "uvalde trial",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "adrian",
           "percentageIncrease": "700%"
         },
@@ -600,7 +625,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "irs",
           "percentageIncrease": "200%"
         },
@@ -609,7 +634,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -617,7 +642,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -625,7 +650,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -633,16 +658,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "liam ramos",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -658,7 +675,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -666,7 +683,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -674,25 +691,26 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "lisa cook",
+      "topTopic": "jack smith",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lisa cook",
+          "name": "jack smith",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "started": "2h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "spy",
+          "name": "mark rutte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -820,31 +838,40 @@
       "code": "MN",
       "topTopic": "jd vance minneapolis",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "jd vance minneapolis",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "jack smith",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "liam ramos",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "minnesota",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "boundary waters",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -852,7 +879,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -860,7 +887,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -962,7 +989,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1038,17 +1065,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "grocery store",
+      "topTopic": "jack smith",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "grocery store",
+          "name": "jack smith",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1089,34 +1116,50 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "usha vance",
+      "topTopic": "fox",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "usha vance",
-          "relevanceScore": 100,
+          "name": "fox",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "wfsb closings",
+      "topTopic": "jack smith",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "jack smith",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "wfsb closings",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wfsb weather",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1150,7 +1193,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1158,16 +1201,24 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "salmen high school",
+      "topTopic": "fox news",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "fox news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "salmen high school",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]

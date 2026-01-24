@@ -1,43 +1,53 @@
 {
-  "timestamp": "2026-01-24T18:35:59.689Z",
+  "timestamp": "2026-01-24T20:27:30.312Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "alexander soofer",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alexander soofer",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "50K+",
+          "started": "4h ago",
+          "trendBreakdown": "shootingice",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "stub",
+          "percentageIncrease": "200%"
         },
         {
           "name": "cbp",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "giovanni primo blount",
-          "relevanceScore": 95,
+          "name": "kyle rittenhouse",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "california who",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "california",
           "percentageIncrease": "100%"
         },
@@ -46,15 +56,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ap",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -62,33 +64,25 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "pl",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "5K+",
           "started": "2h ago",
-          "trendBreakdown": "ice",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -96,40 +90,25 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "minneapolis",
+      "topTopic": "cbp",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "cbp",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "measles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "trendBreakdown": "greg",
+          "percentageIncrease": "500%"
         },
         {
           "name": "uf",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -137,7 +116,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -145,65 +124,42 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "vijay kumar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "mexico",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "minneapolis",
+      "topTopic": "stubhub",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "minneapolis",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mexico",
-          "relevanceScore": 100,
+          "name": "stubhub",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "rasheed walker",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -211,7 +167,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -219,7 +175,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -227,16 +183,17 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         },
         {
@@ -244,7 +201,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -252,16 +209,17 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "shooting",
           "percentageIncrease": "1000%"
         },
         {
@@ -269,50 +227,68 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mexico",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "greg bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "greg bovino",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -327,9 +303,9 @@
           "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "shootingice",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -345,8 +321,8 @@
           "name": "minneapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -354,50 +330,67 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "greg bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "cbp",
+      "topTopic": "bronx fire",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "cbp",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "bronx fire",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "new",
+          "started": "8h ago",
+          "trendBreakdown": "bronx",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "nyu langone",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "canada",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -405,7 +398,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -413,7 +406,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -421,49 +414,67 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mexico",
+          "name": "greg bovino",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -471,24 +482,32 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "minneapolis",
+      "topTopic": "cbp",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "cbp",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "stubhub",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "weapons",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -496,16 +515,17 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
           "started": "2h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -513,16 +533,17 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "5K+",
           "started": "2h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -530,32 +551,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "minneapolis",
+      "topTopic": "fort worth isd",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "minneapolis",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cbp",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "fort worth isd",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -563,7 +568,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -571,7 +576,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -579,32 +584,25 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "daily mail",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -612,41 +610,43 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "pl",
-          "relevanceScore": 95,
+          "name": "greg bovino",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -679,34 +679,35 @@
           "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "1h ago",
-          "trendBreakdown": "shootingice",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "breaking news",
-          "relevanceScore": 95,
+          "name": "greg bovino",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "shooting",
           "percentageIncrease": "1000%"
         }
       ]
@@ -714,16 +715,17 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -731,23 +733,6 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "yahoo finance",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "yahoo finance",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Colorado",
-      "code": "CO",
       "topTopic": "minneapolis",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -756,24 +741,34 @@
           "name": "minneapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "500+",
           "started": "2h ago",
           "percentageIncrease": "1000%"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "code": "CO",
+      "topTopic": "minneapolis shooting",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
         {
-          "name": "mexico",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "vail",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -789,25 +784,25 @@
           "name": "ice shooting minneapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "3h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "100K+",
+          "started": "4h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mpr news",
+          "name": "jana shortal",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "insurrection act minnesota",
+          "name": "national guard minnesota",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "30 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -815,33 +810,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "900%"
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "fox news",
-          "relevanceScore": 90,
+          "name": "mpr news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "greg bovino",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "1h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kstp news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "wtva weather",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "wtva weather",
-          "relevanceScore": 90,
+          "name": "minneapolis shooting",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -874,7 +885,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -899,33 +910,35 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -941,8 +954,8 @@
           "name": "minneapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -950,34 +963,36 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "yahoo finance",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "yahoo finance",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "2h ago",
-          "percentageIncrease": "500%"
+          "trendBreakdown": "shootingice",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "minneapolis",
+      "topTopic": "ice shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "ice shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1001,17 +1016,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "2h ago",
-          "trendBreakdown": "ice",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "shooting",
           "percentageIncrease": "1000%"
         },
         {
@@ -1019,7 +1034,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1027,7 +1042,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1035,17 +1050,17 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "2h ago",
-          "trendBreakdown": "ice",
+          "trendBreakdown": "shooting",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1061,8 +1076,8 @@
           "name": "minneapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1070,16 +1085,17 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1087,16 +1103,17 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "1h ago",
+          "started": "2h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1112,9 +1129,8 @@
           "name": "minneapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "ice",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1122,58 +1138,61 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "ktlo",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ktlo",
-          "relevanceScore": 90,
+          "name": "minneapolis shooting",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "shootingice",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "minneapolis",
+      "topTopic": "minneapolis shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "shootingice",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "covington high school",
-          "relevanceScore": 95,
+          "name": "ktbs",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Montana",
       "code": "MT",
-      "topTopic": "renee nicole good",
+      "topTopic": "ice shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "renee nicole good",
+          "name": "ice shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "700%"
         }
       ]
@@ -1206,10 +1225,9 @@
           "name": "minneapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-24T08:32:54.765Z",
+  "timestamp": "2026-01-24T10:26:57.505Z",
   "states": [
     {
       "name": "California",
@@ -13,15 +13,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
-          "percentageIncrease": "900%"
+          "started": "15h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "fullerton news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,25 +45,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "california who",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "california",
-          "percentageIncrease": "100%"
         },
         {
           "name": "hot springs arkansas fight",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "cooper",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "california who",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "100%"
         },
         {
@@ -63,7 +71,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +79,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,7 +87,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -104,24 +112,16 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "nicole pardo molina",
+      "topTopic": "uf",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "nicole pardo molina",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "uf",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -129,16 +129,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "liam ramos ice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "year",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -146,7 +137,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -154,33 +145,51 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "fox",
+      "topTopic": "vijay kumar",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "fox",
-          "relevanceScore": 90,
+          "name": "vijay kumar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "brook",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "alarm",
+      "topTopic": "mexico",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "mexico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "nicole",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "alarm",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -188,31 +197,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "erie insurance",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "weapons",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "online lottery",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -246,16 +239,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "700%"
+          "started": "16h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "erie insurance",
-          "relevanceScore": 100,
+          "name": "mexico",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -348,7 +341,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -356,29 +349,37 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "luigi mangione",
+      "topTopic": "mexico",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "luigi mangione",
-          "relevanceScore": 90,
+          "name": "mexico",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "liam ramos ice",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "year",
           "percentageIncrease": "100%"
         },
         {
           "name": "hot springs arkansas fight",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "luigi mangione",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -399,8 +400,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -486,16 +487,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "cooper",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "alexander soofer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -512,7 +521,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -529,7 +538,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -640,17 +649,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "michael fanone",
+      "topTopic": "mexico",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "michael fanone",
+          "name": "mexico",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -666,8 +675,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "14h ago",
+          "trendBreakdown": "msp",
           "percentageIncrease": "800%"
         }
       ]
@@ -701,7 +710,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -854,7 +863,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -981,7 +990,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         }
       ]

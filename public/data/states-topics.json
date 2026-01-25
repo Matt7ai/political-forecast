@@ -1,80 +1,71 @@
 {
-  "timestamp": "2026-01-24T22:25:09.787Z",
+  "timestamp": "2026-01-25T02:07:14.901Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
+          "searchVolume": "100K+",
           "started": "6h ago",
-          "trendBreakdown": "jeffrey",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
         {
           "name": "kyle rittenhouse",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "cbp",
+          "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "minnesota national guard",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
           "started": "4h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "uf",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "stubhub",
+          "name": "trump truth social",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "stub",
+          "started": "6h ago",
+          "trendBreakdown": "ilhan",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "california who",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "california",
-          "percentageIncrease": "100%"
         },
         {
           "name": "canada",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "truth",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "pl",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -99,24 +90,49 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "kyle rittenhouse",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
+          "name": "alex pretti",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "6h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "kyle rittenhouse",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "government shutdown",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "greg bovino",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -124,7 +140,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -132,7 +148,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -140,42 +156,66 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "minneapolis shooting",
-          "relevanceScore": 100,
+          "name": "kristi noem",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "trendBreakdown": "shootingice",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "gwinnett county",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "stubhub",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "stubhub",
-          "relevanceScore": 95,
+          "name": "alex pretti",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "6h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kyle rittenhouse",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "5h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "new york",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -183,49 +223,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "liam ramos ice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "weapons",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "erie insurance",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "minneapolis shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "trendBreakdown": "shootingice",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "erie insurance",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -233,25 +248,16 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "erie insurance",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "minneapolis shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "trendBreakdown": "shootingice",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "erie insurance",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -259,25 +265,34 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "greg bovino",
+      "topTopic": "lucas mattson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lucas mattson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "lucas",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "greg bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "stubhub",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -292,12 +307,46 @@
           "name": "kyle rittenhouse",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "minnesota national guard",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "700%"
+          "started": "2h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "300%"
         },
         {
           "name": "greg bovino",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "kyle rittenhouse",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "kyle rittenhouse",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -307,79 +356,118 @@
       ]
     },
     {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "minneapolis shooting",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "minneapolis shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "trendBreakdown": "shootingice",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "minneapolis",
+      "topTopic": "kyle rittenhouse",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "kyle rittenhouse",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "500+",
           "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "greg bovino",
+      "topTopic": "kyle rittenhouse",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "kyle rittenhouse",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "greg bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "new york",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
+          "searchVolume": "100K+",
           "started": "6h ago",
-          "trendBreakdown": "jeffrey",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kyle rittenhouse",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "national guard minnesota",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "300%"
         },
         {
           "name": "greg bovino",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -387,16 +475,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "14h ago",
           "trendBreakdown": "bronx",
           "percentageIncrease": "300%"
         },
         {
-          "name": "stubhub",
+          "name": "nicole pardo molina",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "canada",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "100+",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -404,15 +500,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "canada",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -420,7 +508,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -428,23 +516,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hot springs arkansas fight",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "luigi mangione",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -460,25 +532,25 @@
           "name": "kyle rittenhouse",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "greg bovino",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "stubhub",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -503,32 +575,41 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "cbp",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "cbp",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "50K+",
+          "started": "6h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "stubhub",
-          "relevanceScore": 90,
+          "name": "kyle rittenhouse",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "weapons",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -536,17 +617,17 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "shootingice",
+          "searchVolume": "10K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -572,29 +653,45 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "5h ago",
-          "trendBreakdown": "shooting",
+          "searchVolume": "100K+",
+          "started": "6h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "stubhub",
+          "name": "kyle rittenhouse",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "fort worth isd",
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "dagestan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "saisd",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -602,44 +699,60 @@
           "percentageIncrease": "300%"
         },
         {
-          "name": "alexander soofer",
+          "name": "government shutdown",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "1h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "fort worth isd",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "la nicholette",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "daily mail",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "greg bovino",
+      "topTopic": "kyle rittenhouse",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "kyle rittenhouse",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "greg bovino",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -647,16 +760,32 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "pl",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "minnesota national guard",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "pl",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -664,17 +793,17 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "shootingice",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -682,16 +811,17 @@
     {
       "name": "Vermont",
       "code": "VT",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -699,34 +829,50 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "greg bovino",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
           "name": "greg bovino",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
+          "started": "6h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "shootingice",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -734,17 +880,17 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "ice",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -752,43 +898,42 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "minneapolis shooting",
-          "relevanceScore": 100,
+          "name": "kristi noem",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "vail",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -796,67 +941,66 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "ice shooting minneapolis",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ice shooting minneapolis",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "6h ago",
-          "trendBreakdown": "alex",
+          "started": "7h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "national guard minnesota",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kyle rittenhouse",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "insurrection act minnesota",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "walz national guard",
+          "name": "kare",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jana shortal",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "kare",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cbp",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "112K+",
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "mpr news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -864,24 +1008,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "tina smith",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "kstp",
+          "name": "trump truth social",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "fox news",
+          "name": "renee good",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
           "started": "5h ago",
-          "trendBreakdown": "minnesota",
           "percentageIncrease": "100%"
         }
       ]
@@ -889,33 +1040,35 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "South Dakota",
       "code": "SD",
-      "topTopic": "minneapolis",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "4h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -932,7 +1085,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -940,34 +1093,35 @@
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "grocery store",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "grocery store",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "ice",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -975,17 +1129,17 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "ice",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -993,16 +1147,17 @@
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "minneapolis",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1010,17 +1165,17 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "shootingice",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1028,17 +1183,17 @@
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "ice",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1046,16 +1201,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "grocery store",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "grocery store",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1072,25 +1228,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "shooting",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1098,16 +1262,17 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "minneapolis",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "5K+",
           "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1115,17 +1280,17 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "shootingice",
+          "searchVolume": "10K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1133,35 +1298,43 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "ice",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "shootingice",
+          "searchVolume": "10K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1169,17 +1342,17 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "shooting",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1187,17 +1360,17 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "jeffrey",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         },
         {
@@ -1205,7 +1378,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1213,53 +1386,54 @@
     {
       "name": "Montana",
       "code": "MT",
-      "topTopic": "ice shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ice shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "minneapolis",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Hawaii",
       "code": "HI",
-      "topTopic": "yahoo finance",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "yahoo finance",
-          "relevanceScore": 95,
+          "name": "alex pretti",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "4h ago",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "North Dakota",
       "code": "ND",
-      "topTopic": "minneapolis shooting",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "minneapolis shooting",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "shooting",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "700%"
         }
       ]
     },

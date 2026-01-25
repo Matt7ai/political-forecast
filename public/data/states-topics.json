@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-25T16:31:56.913Z",
+  "timestamp": "2026-01-25T18:36:23.729Z",
   "states": [
     {
       "name": "California",
@@ -13,16 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nra",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "fed chair rick rieder",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "rick",
           "percentageIncrease": "1000%"
         },
@@ -31,24 +39,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "antifa",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "minnesota national guard",
+          "name": "lyon",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "national",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "sacramento news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -56,7 +71,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -64,31 +79,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "california senators",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
+          "searchVolume": "1K+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "discombobulator",
+          "name": "weapons",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "pl",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -96,17 +103,18 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "nra",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nra",
+          "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -121,17 +129,33 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "50K+",
+          "started": "23h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lyon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "nra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "government shutdown",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -139,7 +163,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -147,7 +171,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -155,31 +179,57 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "gdot",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "gdot",
+          "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "ajc com",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "fox news atlanta",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "trendBreakdown": "fox",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
+      "topTopic": "nra",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "nra",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
       "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -188,47 +238,13 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "21h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "government shutdown",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "wthr",
-      "category": "Law and Government",
-      "trendingScore": 90,
-      "topics": [
-        {
-          "name": "wthr",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "erie insurance",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "erie insurance",
+          "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -236,19 +252,52 @@
           "percentageIncrease": "200%"
         },
         {
+          "name": "wthr",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "dcps",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "dcps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "nra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "erie insurance",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
           "name": "wjz",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "government shutdown",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -256,106 +305,119 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "alex pretti",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alex pretti",
+          "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "national guard minnesota",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "alex pretti",
+      "topTopic": "carver ma",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alex pretti",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "carver ma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
+          "searchVolume": "2K+",
+          "started": "16h ago",
           "trendBreakdown": "johns",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "nra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "kyle rittenhouse",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kyle rittenhouse",
+          "name": "alex pretti",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "alex pretti",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alex pretti",
+          "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "alex pretti",
+      "topTopic": "wake county schools",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alex pretti",
+          "name": "wake county schools",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "nra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "wect weather",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -370,8 +432,8 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "21h ago",
+          "searchVolume": "50K+",
+          "started": "23h ago",
           "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         },
@@ -380,24 +442,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "rick",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "national guard minnesota",
+          "name": "nra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "greg bovino",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
+          "started": "23h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -405,7 +475,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -413,7 +483,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -421,7 +491,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -429,17 +499,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "chuck",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "gregory bovino",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "greg",
           "percentageIncrease": "100%"
         },
         {
@@ -447,7 +508,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -455,15 +516,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "nyu langone",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -471,25 +524,24 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "alex pretti",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alex pretti",
+          "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "channel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -497,23 +549,6 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "pizza",
-      "category": "Law and Government",
-      "trendingScore": 90,
-      "topics": [
-        {
-          "name": "pizza",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Pennsylvania",
-      "code": "PA",
       "topTopic": "alex pretti",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -522,18 +557,35 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "21h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "abc",
+          "name": "pizza",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "nra",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "nra",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -549,8 +601,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         }
       ]
@@ -558,17 +610,18 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "facebook",
+      "topTopic": "alex pretti",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "facebook",
-          "relevanceScore": 85,
+          "name": "alex pretti",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -583,9 +636,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "21h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "50K+",
+          "started": "23h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         },
         {
@@ -593,16 +646,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "rick",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "lyon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "saisd",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -610,15 +679,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "what does ice stand for",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -626,42 +703,59 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "alex pretti",
+      "topTopic": "nra",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "alex pretti",
-          "relevanceScore": 100,
+          "name": "nra",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "21h ago",
-          "trendBreakdown": "minneapolis",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "dc metro",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "dc metro",
+          "name": "nra",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "dcps",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
+          "started": "6h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "dc metro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "metro",
+          "percentageIncrease": "400%"
         },
         {
           "name": "government shutdown",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
+          "trendBreakdown": "government",
           "percentageIncrease": "200%"
         },
         {
@@ -669,7 +763,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -685,9 +779,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "1000%"
         }
       ]
@@ -704,8 +798,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -713,42 +806,32 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "alex pretti",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alex pretti",
+          "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "21h ago",
-          "trendBreakdown": "minneapolis",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "minnesota national guard",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "patty murray",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
+          "started": "21h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "government shutdown",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -764,9 +847,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         }
       ]
@@ -782,9 +865,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         }
       ]
@@ -801,35 +884,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "facebook",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "alex pretti",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alex pretti",
+          "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "18h ago",
-          "trendBreakdown": "minneapolis",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -845,25 +919,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "national guard minnesota",
+          "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "national",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "insurrection act minnesota",
+          "name": "national guard",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "22h ago",
+          "trendBreakdown": "walz",
           "percentageIncrease": "800%"
         },
         {
@@ -871,7 +945,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -879,7 +953,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -887,7 +961,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -904,17 +978,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "facebook",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -930,9 +996,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -965,7 +1031,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "600%"
         }
@@ -982,8 +1048,8 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "5K+",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1000,9 +1066,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1018,9 +1084,8 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1036,9 +1101,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1055,7 +1120,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "800%"
         }
@@ -1073,33 +1138,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "facebook",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "erie insurance",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "nra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "erie insurance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1115,9 +1180,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "shooting",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1133,9 +1198,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1151,9 +1216,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1170,8 +1235,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
-          "trendBreakdown": "minneapolis",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1187,9 +1252,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "1000%"
         },
         {
@@ -1197,16 +1262,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "facebook",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1222,7 +1279,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "1000%"
         }
@@ -1239,9 +1296,9 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "19h ago",
-          "trendBreakdown": "minneapolis",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1258,7 +1315,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "900%"
         }
@@ -1276,7 +1333,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "900%"
         }
@@ -1293,8 +1350,8 @@
           "name": "alex pretti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "1K+",
+          "started": "21h ago",
           "trendBreakdown": "minneapolis",
           "percentageIncrease": "600%"
         }
@@ -1312,9 +1369,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "shootingminneapolis",
-          "percentageIncrease": "500%"
+          "started": "20h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1330,7 +1387,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         }
       ]

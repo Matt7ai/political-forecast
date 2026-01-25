@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-25T20:30:03.650Z",
+  "timestamp": "2026-01-25T22:25:41.461Z",
   "states": [
     {
       "name": "California",
@@ -12,9 +12,17 @@
           "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "second",
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "alex pretty minneapolis shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "greg",
           "percentageIncrease": "500%"
         },
         {
@@ -22,7 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "rick",
           "percentageIncrease": "1000%"
         },
@@ -31,7 +39,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -39,15 +47,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
+          "started": "21h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "pam",
+          "percentageIncrease": "200%"
         },
         {
           "name": "keith porter",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
+          "searchVolume": "1K+",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -55,31 +72,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "sacramento news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "government shutdown",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "california senators",
+          "name": "girl scout cookies",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -87,7 +96,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -104,7 +113,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "alex",
           "percentageIncrease": "400%"
         }
@@ -113,6 +122,64 @@
     {
       "name": "Florida",
       "code": "FL",
+      "topTopic": "alex pretty minneapolis shooting",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alex pretty minneapolis shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minneapolispretti",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "nra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "navy commodore douglas whimpey relieved",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "florida senators",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
       "topTopic": "kristi noem",
       "category": "Law and Government",
       "trendingScore": 95,
@@ -121,76 +188,17 @@
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "trendBreakdown": "alex",
           "percentageIncrease": "400%"
         },
         {
-          "name": "navy commodore douglas whimpey relieved",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
           "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "amendmentnd",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "government shutdown",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "florida senators",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "windsor",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "alex pretty minneapolis shooting",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "alex pretty minneapolis shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "greg",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "nra",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -198,16 +206,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -222,18 +222,25 @@
           "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "trendBreakdown": "amendmentnd",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "kristi noem",
+          "name": "alex pretty minneapolis shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "nra",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "greg",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -250,24 +257,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "nra",
+          "started": "23h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "300%"
         },
         {
-          "name": "nra",
+          "name": "wane",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "8h ago",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "fort",
+          "percentageIncrease": "300%"
         },
         {
           "name": "wthr",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -275,6 +283,56 @@
     {
       "name": "Maryland",
       "code": "MD",
+      "topTopic": "dcps",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "dcps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "alex",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "nra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "erie insurance",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "wjz",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
       "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 95,
@@ -283,59 +341,17 @@
           "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "alex",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "erie insurance",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "wjz",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "kristi noem",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "alex",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "nra",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -352,26 +368,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "johns",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "nra",
-          "percentageIncrease": "400%"
         },
         {
           "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "alex pretty minneapolis shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "pretty",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -387,7 +403,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -395,7 +411,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "alex",
           "percentageIncrease": "400%"
         }
@@ -413,60 +429,68 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "kristi noem",
+          "name": "alex pretty minneapolis shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "alex",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "kristi noem",
+      "topTopic": "durham public schools",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "thom",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "durham public schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "thom tillis",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "alex",
+          "percentageIncrease": "300%"
         },
         {
           "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "wral news",
-          "relevanceScore": 90,
+          "name": "wral",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "trendBreakdown": "abc",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -482,33 +506,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "rick",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "amendmentnd",
+          "started": "19h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "alex pretty minneapolis shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "bovinogregory",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -516,7 +548,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -524,7 +556,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -532,16 +564,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "government shutdown",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "chuck",
+          "searchVolume": "500+",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -549,7 +580,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -565,16 +596,25 @@
           "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "franklin county sheriff's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "trendBreakdown": "franklin",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "trendBreakdown": "alex",
           "percentageIncrease": "400%"
         },
@@ -583,7 +623,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -600,8 +640,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "alex",
+          "started": "23h ago",
+          "trendBreakdown": "greg",
           "percentageIncrease": "300%"
         },
         {
@@ -609,7 +649,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -617,7 +657,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -625,26 +665,34 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "nra",
+      "topTopic": "navy commodore douglas whimpey relieved",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nra",
+          "name": "navy commodore douglas whimpey relieved",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "kristi noem",
+          "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "nra",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "alex pretty minneapolis shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "alex",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -669,18 +717,18 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "alex pretty minneapolis",
+      "topTopic": "alex pretty minneapolis shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "alex pretty minneapolis",
-          "relevanceScore": 100,
+          "name": "alex pretty minneapolis shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "kristi",
-          "percentageIncrease": "500%"
+          "started": "10 minutes ago",
+          "trendBreakdown": "alex",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -696,33 +744,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "rick",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "kristi noem",
+          "name": "alex pretty minneapolis shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "alex",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "greg",
+          "percentageIncrease": "400%"
         },
         {
           "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "navy commodore douglas whimpey relieved",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "dagestan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -730,7 +794,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "channel",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -738,7 +810,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -746,34 +818,35 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "navy commodore douglas whimpey relieved",
+      "topTopic": "nra statement",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "navy commodore douglas whimpey relieved",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "kristi noem",
+          "name": "nra statement",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "nra",
+          "started": "10h ago",
+          "trendBreakdown": "statement",
           "percentageIncrease": "400%"
         },
         {
-          "name": "nra",
+          "name": "alex pretty minneapolis shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "1h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "richmond news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -788,33 +861,42 @@
           "name": "dcps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "eleanor holmes norton",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "nra statement",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "statement",
+          "percentageIncrease": "400%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "nra",
+          "started": "23h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "300%"
         },
         {
-          "name": "nra",
+          "name": "navy commodore douglas whimpey relieved",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "metro dc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -822,7 +904,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "government",
           "percentageIncrease": "200%"
         },
@@ -831,7 +913,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -839,7 +921,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -890,34 +972,33 @@
           "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "amendmentnd",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "nra statement",
+          "name": "alex pretty minneapolis shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "alex",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "kristi",
           "percentageIncrease": "600%"
         },
         {
-          "name": "patty murray",
-          "relevanceScore": 95,
+          "name": "abc news",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "government shutdown",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -961,17 +1042,17 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "alex pretti",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "alex pretti",
-          "relevanceScore": 100,
+          "name": "news",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -986,8 +1067,8 @@
           "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -995,7 +1076,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "alex",
           "percentageIncrease": "300%"
         }
@@ -1004,75 +1085,52 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "pam bondi",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "pam bondi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "18h ago",
-          "trendBreakdown": "nra",
-          "percentageIncrease": "800%"
-        },
-        {
           "name": "nra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "walz national guard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "antifa",
-          "relevanceScore": 95,
+          "name": "pam bondi",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "pam",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "tina smith",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "renee good",
-          "relevanceScore": 90,
+          "name": "keith ellison",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "trendBreakdown": "walz",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "alex pretti",
+      "topTopic": "facebook",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "alex pretti",
-          "relevanceScore": 100,
+          "name": "facebook",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -1234,25 +1292,25 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "kristi noem",
+      "topTopic": "nra",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "alex",
-          "percentageIncrease": "400%"
-        },
-        {
           "name": "nra",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "alex",
           "percentageIncrease": "400%"
         },
         {
@@ -1260,7 +1318,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1340,25 +1398,16 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "alex jeffrey pretti",
+      "topTopic": "erie insurance",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "alex jeffrey pretti",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "news",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "erie insurance",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1384,17 +1433,17 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "alex jeffrey pretti",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "alex jeffrey pretti",
-          "relevanceScore": 100,
+          "name": "news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1461,9 +1510,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shootingminneapolis",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "facebook",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1479,7 +1536,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]

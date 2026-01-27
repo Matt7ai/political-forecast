@@ -1,37 +1,28 @@
 {
-  "timestamp": "2026-01-27T20:29:38.846Z",
+  "timestamp": "2026-01-27T22:28:18.401Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "greg bovino",
+      "topTopic": "greg bovino fired",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
+          "name": "greg bovino fired",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
-          "trendBreakdown": "corey",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "paul varoff",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "el centro",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "19h ago",
-          "trendBreakdown": "greg",
+          "started": "22h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "arizona",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -39,16 +30,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "kristi",
           "percentageIncrease": "200%"
         },
         {
-          "name": "maldives",
+          "name": "paul varoff",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "corey lewandowski",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,16 +55,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "william ackman",
+          "name": "maldives",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "dean",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -73,7 +71,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -81,7 +79,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -89,7 +87,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -97,7 +95,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -105,268 +103,17 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "greg bovino",
+      "topTopic": "border patrol shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "hsi",
+          "name": "border patrol shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "u of a",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "corey",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "alex vindman",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "alexander",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "maldives",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "alex pretti shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "us attorney lindsey halligan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "discombobulator",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "bovinogregory",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "warlord chicago",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "warlord chicago",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "trevor",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "corey lewandowski",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "trendBreakdown": "stephen",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "700%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "is the federal government closed tomorrow",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "the",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "alex pretti shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "alex",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "booz allen",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "bovinogregory",
-          "percentageIncrease": "900%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "corey",
+          "started": "10 minutes ago",
+          "trendBreakdown": "arivaca",
           "percentageIncrease": "1000%"
         },
         {
@@ -374,142 +121,114 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "trendBreakdown": "bovino",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "alex pretti shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "alex pretti shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "alex",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
           "percentageIncrease": "700%"
         },
         {
-          "name": "maldives",
+          "name": "hsi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "u of a",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "alex vindman",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alex vindman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "alexander",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "keene's crossing",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "aveda institute",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "gregory bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "greg",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "maldives",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "arizona",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "us attorney lindsey halligan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "discombobulator",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "alex pretti shooting",
+          "name": "corey lewandowski",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "witn",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
     },
     {
-      "name": "New York",
-      "code": "NY",
+      "name": "Georgia",
+      "code": "GA",
       "topTopic": "gregory bovino",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -518,25 +237,278 @@
           "name": "gregory bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "alex pretti shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "greg bovino fired",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "greg bovino fired",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
           "started": "22h ago",
-          "trendBreakdown": "greg",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "alex pretti shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "shootingpretti",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "trevor fleming",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "corey lewandowski",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "trendBreakdown": "breaking",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "stephen miller",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "bovino",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "gregory bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "bovino",
           "percentageIncrease": "600%"
         },
         {
-          "name": "arizona",
+          "name": "alex pretti shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "300%"
+          "started": "50 minutes ago",
+          "trendBreakdown": "alex",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "gregory bovino",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "gregory bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "booz allen",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "gregory bovino",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "gregory bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "700%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "bovino fired",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "bovino fired",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "trendBreakdown": "greg",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "gregory bovino",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "gregory bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "gregory bovino",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "gregory bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "600%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "durham county schools",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "durham county schools",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "gregory bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "greg",
+          "percentageIncrease": "500%"
         },
         {
           "name": "maldives",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "us attorney lindsey halligan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "alex pretti shooting",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "alex pretti shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "greg bovino fired",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "maldives",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -544,23 +516,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "noem",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "alex pretti shooting",
+          "name": "corey lewandowski",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "20h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "hudson valley school closings",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -568,7 +541,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "news",
           "percentageIncrease": "100%"
         }
@@ -577,41 +550,41 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "greg bovino",
+      "topTopic": "maldives",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "bovinogregory",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "maldives",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "wtol",
-          "relevanceScore": 90,
+          "name": "alex pretti shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "gregory bovino",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "400%"
         },
         {
           "name": "white",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "stephen",
           "percentageIncrease": "100%"
         }
@@ -629,51 +602,59 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "bovinogregory",
-          "percentageIncrease": "800%"
+          "started": "22h ago",
+          "trendBreakdown": "gregory",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "greg bovino",
+      "topTopic": "greg bovino fired",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
+          "name": "greg bovino fired",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "corey",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "700%"
         },
         {
           "name": "maldives",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "fetterman",
+          "name": "alex pretti shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "kevin castiglia churchville",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "northampton",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "stephen miller",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -690,8 +671,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "donald",
+          "started": "23h ago",
+          "trendBreakdown": "gregory",
           "percentageIncrease": "800%"
         },
         {
@@ -699,51 +680,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "gregory",
+          "started": "22h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "donald trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "greg bovino",
+      "topTopic": "bovino",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
           "name": "bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "gregory",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "alex pretti shooting",
-          "relevanceScore": 95,
+          "name": "gregory bovino",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "alex",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -751,24 +730,17 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "liberty hill isd",
+      "topTopic": "greg bovino fired",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "liberty hill isd",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "alex pretti shooting",
+          "name": "greg bovino fired",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "bovino",
           "percentageIncrease": "300%"
         },
         {
@@ -776,7 +748,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -784,87 +756,93 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "stephen miller",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "greg bovino",
+      "topTopic": "bovino fired",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "corey",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "opm status for tomorrow",
+          "name": "bovino fired",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "the",
+          "started": "21h ago",
+          "trendBreakdown": "greg",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "alex pretti shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "keith",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "dcps",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "corey lewandowski",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "greg bovino",
+      "topTopic": "bovino fired",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
+          "name": "bovino fired",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "corey",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "trendBreakdown": "bovino",
           "percentageIncrease": "700%"
         },
         {
-          "name": "is federal government closed today",
+          "name": "alex pretti shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "9h ago",
-          "trendBreakdown": "opm",
-          "percentageIncrease": "400%"
+          "trendBreakdown": "alex",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "charles littlejohn",
+          "name": "corey lewandowski",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -881,16 +859,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
+          "trendBreakdown": "gregory",
           "percentageIncrease": "800%"
         },
         {
           "name": "bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "gregory",
+          "searchVolume": "500+",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -915,44 +893,27 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "greg bovino",
+      "topTopic": "gregory bovino",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
+          "name": "gregory bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "2K+",
           "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "900%"
+          "trendBreakdown": "greg",
+          "percentageIncrease": "500%"
         },
         {
           "name": "government shutdown",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "government",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "alex pretti shooting",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "trendBreakdown": "pretti",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -968,16 +929,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "bovinogregory",
+          "started": "23h ago",
+          "trendBreakdown": "gregory",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "government shutdown",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "government",
           "percentageIncrease": "200%"
         }
@@ -995,16 +964,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "bovinogregory",
+          "started": "22h ago",
+          "trendBreakdown": "gregory",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1021,7 +998,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1029,50 +1006,59 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "greg bovino",
+      "topTopic": "gregory bovino",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
+          "name": "gregory bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "todd lyons",
+      "topTopic": "bovino fired",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bovino fired",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "greg",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "todd lyons",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "alex pretti shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "noem",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1089,7 +1075,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1140,7 +1126,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1157,16 +1143,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1181,9 +1159,17 @@
           "name": "greg bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
+          "searchVolume": "1K+",
+          "started": "22h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1199,7 +1185,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1216,7 +1202,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1233,7 +1219,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1250,7 +1236,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1258,33 +1244,25 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "greg bovino",
+      "topTopic": "gregory bovino",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
+          "name": "gregory bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "1K+",
           "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "gregory",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "bovino",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1292,35 +1270,43 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "greg bovino",
+      "topTopic": "trump in iowa",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump in iowa",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "greg bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "started": "23h ago",
+          "trendBreakdown": "gregory",
+          "percentageIncrease": "700%"
         },
         {
           "name": "bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "gregory",
+          "searchVolume": "500+",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "trump in iowa",
-          "relevanceScore": 95,
+          "name": "trump",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1336,16 +1322,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "started": "23h ago",
+          "trendBreakdown": "gregory",
+          "percentageIncrease": "900%"
         },
         {
           "name": "bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "gregory",
+          "searchVolume": "500+",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1362,16 +1348,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "bovinogregory",
+          "started": "22h ago",
+          "trendBreakdown": "gregory",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1388,7 +1382,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
+          "trendBreakdown": "gregory",
           "percentageIncrease": "700%"
         },
         {
@@ -1396,8 +1391,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "gregory",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1405,18 +1399,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "greg bovino",
+      "topTopic": "bovino",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
+          "name": "bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "1K+",
           "started": "22h ago",
-          "trendBreakdown": "bovinogregory",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1432,7 +1425,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1449,16 +1442,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "bovinogregory",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "cnn",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1475,7 +1468,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1492,16 +1485,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1534,7 +1519,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]

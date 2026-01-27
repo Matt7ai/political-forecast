@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-01-27T03:56:48.147Z",
+  "timestamp": "2026-01-27T04:52:52.470Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "chris madel",
+      "topTopic": "greg bovino",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "greg bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "6h ago",
+          "trendBreakdown": "tom",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chris madel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -21,8 +30,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "caindean",
+          "started": "9h ago",
+          "trendBreakdown": "dean",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -46,23 +63,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "gregory bovino wife",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "ai detector",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -78,7 +87,7 @@
           "name": "zipps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "10K+",
           "started": "4h ago",
           "percentageIncrease": "1000%"
         },
@@ -86,8 +95,8 @@
           "name": "greg bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
+          "searchVolume": "10K+",
+          "started": "7h ago",
           "trendBreakdown": "bovinogregory",
           "percentageIncrease": "1000%"
         },
@@ -96,7 +105,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -104,6 +113,106 @@
     {
       "name": "Florida",
       "code": "FL",
+      "topTopic": "alex pretti shooting",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "alex pretti shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "chris madel",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "discombobulator",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "vcs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ilhan omar",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "greg bovino",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "greg bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "tom",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "goa",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "atlanta ice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "government shutdown",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "government",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
       "topTopic": "goa",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -121,140 +230,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "alex pretti shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "discombobulator",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "vcs",
+          "name": "noem",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "ilhan omar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "government shutdown",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "greg bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "tom",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "goa",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "atlanta ice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "government shutdown",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "government",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "bovino",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "tom",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "goa",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "apartments",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "chris madel",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "stephen miller",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "karoline",
           "percentageIncrease": "100%"
         },
@@ -263,7 +255,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "trendBreakdown": "shootingpretti",
           "percentageIncrease": "100%"
         }
@@ -281,7 +273,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -290,7 +282,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -307,7 +299,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -316,7 +308,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -324,7 +316,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "federal",
           "percentageIncrease": "700%"
         },
@@ -333,7 +325,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -341,7 +333,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "trendBreakdown": "keith",
           "percentageIncrease": "200%"
         },
@@ -350,7 +342,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "16h ago",
           "trendBreakdown": "federal",
           "percentageIncrease": "100%"
         },
@@ -359,7 +351,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -376,7 +368,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -385,7 +377,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -393,7 +385,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -410,7 +402,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "tom",
           "percentageIncrease": "1000%"
         },
@@ -419,7 +411,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -436,7 +428,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -445,7 +437,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -453,7 +445,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -470,7 +462,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -479,7 +471,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -487,7 +479,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "trendBreakdown": "pretti",
           "percentageIncrease": "100%"
         }
@@ -505,7 +497,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -513,8 +505,8 @@
           "name": "goa",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
+          "searchVolume": "10K+",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -522,15 +514,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "ncsu",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "new hanover county schools",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -538,7 +538,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -555,7 +555,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -563,24 +563,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "apartments",
+          "name": "karoline leavitt",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
           "name": "noem",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "karoline",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "newschannel",
           "percentageIncrease": "100%"
         }
       ]
@@ -588,51 +588,51 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "greg bovino",
+      "topTopic": "goa",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "homantom",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "goa",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "greg bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "homantom",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "stephen",
+          "percentageIncrease": "700%"
         },
         {
           "name": "muskingum county snow level",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "19h ago",
           "trendBreakdown": "muskingum",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "stephen miller",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "karoline",
-          "percentageIncrease": "100%"
         },
         {
           "name": "irs",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -649,7 +649,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "bovinogregory",
           "percentageIncrease": "1000%"
         },
@@ -658,41 +658,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "greg bovino",
+      "topTopic": "goa",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "greg bovino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "homantom",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "goa",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "22h ago",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "greg bovino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
         {
@@ -700,7 +692,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -708,7 +700,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -725,7 +717,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "bovinogregory",
           "percentageIncrease": "1000%"
         },
@@ -734,16 +726,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ai detector",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -759,8 +743,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "bovinogregory",
+          "started": "6h ago",
+          "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
         {
@@ -768,7 +752,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -776,7 +760,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -784,7 +768,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -801,15 +785,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "liberty hill isd",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "alex pretti shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "news",
           "percentageIncrease": "200%"
         },
@@ -818,7 +810,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -826,7 +818,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -834,7 +826,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -842,8 +834,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "karoline",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "marketplace insurance",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -851,7 +851,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -859,15 +859,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "ai detector",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "started": "12h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -884,7 +876,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -893,15 +885,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "booz allen",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "booz",
           "percentageIncrease": "500%"
         },
@@ -910,24 +902,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "federal",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "apartments",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "jmu",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -935,7 +919,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -943,7 +927,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -951,7 +935,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -968,7 +952,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -977,48 +961,65 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "dcps school closures",
+          "name": "booz allen",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "opm",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "trendBreakdown": "booz",
+          "percentageIncrease": "900%"
         },
         {
           "name": "chris madel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "federal government closure",
+          "name": "dcps school closures",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "9h ago",
+          "trendBreakdown": "opm",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "federal government closure",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "op",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "dc news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1026,7 +1027,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1043,8 +1044,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "bovinogregory",
+          "started": "5h ago",
+          "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
         {
@@ -1052,7 +1053,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1069,7 +1070,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1086,7 +1087,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -1095,17 +1096,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "noem",
-          "relevanceScore": 95,
+          "name": "karoline leavitt",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "karoline",
-          "percentageIncrease": "200%"
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1121,7 +1121,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "bovinogregory",
           "percentageIncrease": "1000%"
         },
@@ -1130,32 +1130,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "road conditions birmingham al",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "19h ago",
-          "trendBreakdown": "birmingham",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "waff",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "irs",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1172,7 +1155,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -1181,7 +1164,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1198,7 +1181,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1215,7 +1198,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -1224,7 +1207,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1232,7 +1215,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1249,23 +1232,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "alex pretty minneapolis shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "ai detector",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1273,17 +1248,17 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "greg bovino",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "greg bovino",
-          "relevanceScore": 100,
+          "name": "cnn",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1299,7 +1274,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1333,7 +1308,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1341,7 +1316,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1349,7 +1324,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1366,7 +1341,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1374,7 +1349,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1391,7 +1366,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1399,7 +1374,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1407,7 +1382,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1424,7 +1399,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "4h ago",
+          "trendBreakdown": "noemkristi",
           "percentageIncrease": "1000%"
         },
         {
@@ -1432,7 +1408,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1449,7 +1425,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1457,7 +1433,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1474,15 +1450,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
+          "started": "4h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "goa",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1490,17 +1466,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "goa",
+      "topTopic": "greg bovino",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "goa",
+          "name": "greg bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1515,9 +1491,9 @@
           "name": "greg bovino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "homantom",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "tom",
           "percentageIncrease": "1000%"
         },
         {
@@ -1525,7 +1501,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1533,7 +1509,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1550,7 +1526,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -1559,7 +1535,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1576,7 +1552,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "bovinogregory",
           "percentageIncrease": "1000%"
         },
@@ -1585,7 +1561,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1593,7 +1569,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1610,7 +1586,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "bovinogregory",
           "percentageIncrease": "1000%"
         },
@@ -1619,16 +1595,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1644,7 +1612,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1652,7 +1620,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "bovinogregory",
           "percentageIncrease": "1000%"
         }
@@ -1670,8 +1638,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "bovinogregory",
+          "started": "6h ago",
+          "trendBreakdown": "gregory",
           "percentageIncrease": "1000%"
         },
         {
@@ -1679,23 +1647,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
+          "started": "22h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "irs",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1712,7 +1672,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "homantom",
           "percentageIncrease": "1000%"
         },
@@ -1738,7 +1698,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "bovinogregory",
           "percentageIncrease": "1000%"
         },
@@ -1747,30 +1707,14 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "irs",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "wafb",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "18h ago",
           "percentageIncrease": "100%"
         },
@@ -1779,8 +1723,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -1813,7 +1765,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         }
       ]

@@ -1,68 +1,88 @@
 {
-  "timestamp": "2026-01-30T22:32:07.832Z",
+  "timestamp": "2026-01-31T02:09:51.508Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "lindsey graham",
+      "topTopic": "steve tisch",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "lindsey graham",
+          "name": "steve tisch",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "california mileage tax",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "mileage",
           "percentageIncrease": "200%"
         },
         {
-          "name": "trump sues irs",
+          "name": "jerome powell",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "fed",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ice protest",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "protests",
+          "percentageIncrease": "300%"
         },
         {
           "name": "fire near me",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "where my refund",
+          "name": "la protests today",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "100%"
         },
         {
           "name": "is the government shutting down again",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
+          "searchVolume": "1K+",
+          "started": "22h ago",
           "trendBreakdown": "shutdown",
           "percentageIncrease": "100%"
         },
         {
-          "name": "obama",
+          "name": "pablo escobar",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ghislaine maxwell",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -70,23 +90,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "vaccines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "vaccinations",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -94,6 +98,22 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "vaccines",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "vaccinations",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "23h ago",
           "percentageIncrease": "100%"
         },
@@ -102,7 +122,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -118,8 +138,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -127,8 +147,8 @@
           "name": "kevin warsh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
@@ -137,7 +157,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -153,43 +173,43 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
+          "searchVolume": "10K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "where my refund",
-          "relevanceScore": 95,
+          "name": "jerome powell",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "is the government shutting down again",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "government",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "cuba",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "trendBreakdown": "fed",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump cuba",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "government shutdown update",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -204,8 +224,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -214,34 +234,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "tulsi gabbard",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "is the government shutting down again",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "shutdown",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "au pair",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "23h ago",
+          "trendBreakdown": "government",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -256,35 +260,34 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
+          "searchVolume": "10K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "kevin warsh",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "jerome",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "where my refund",
+          "name": "jerome powell",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "fed",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "is the government shutting down again",
+          "name": "pizza",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "trendBreakdown": "government",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "illinois",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -301,7 +304,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -310,7 +313,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
@@ -319,16 +322,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "where my refund",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "10h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -343,8 +338,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -353,18 +348,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "is the government shutting down again",
+          "name": "govt shutdown",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "government",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "trendBreakdown": "fox",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -379,8 +374,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -389,17 +384,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "tulsi gabbard",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -414,8 +401,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -423,8 +410,8 @@
           "name": "kevin warsh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
+          "searchVolume": "10K+",
+          "started": "23h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
@@ -432,17 +419,17 @@
           "name": "steve tisch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "amy klobuchar",
-          "relevanceScore": 95,
+          "name": "lily jean",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -458,59 +445,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "robin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kevin warsh",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "sean grayson",
-          "relevanceScore": 95,
+          "name": "kevin warsh",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "jerome",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "kevin warsh",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kevin warsh",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "jerome",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -518,24 +488,16 @@
           "name": "steve tisch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sean grayson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
         },
         {
           "name": "bank of america",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -551,8 +513,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -561,82 +523,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "au pair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "amy klobuchar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "where my refund",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "epstein files",
+      "topTopic": "steve tisch",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "robin",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "steve tisch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
+          "searchVolume": "5K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jerome powell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "trendBreakdown": "fed",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "where my refund",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "obama",
+          "name": "is the government shutting down again",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -644,7 +574,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -660,8 +590,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
+          "searchVolume": "10K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -670,18 +600,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "au pair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "brendan",
-          "percentageIncrease": "600%"
         }
       ]
     },
@@ -696,8 +617,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -706,7 +627,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
@@ -715,7 +636,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -723,7 +644,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "government",
           "percentageIncrease": "100%"
         }
@@ -740,8 +661,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
+          "searchVolume": "10K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -750,26 +671,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "where my refund",
-          "relevanceScore": 95,
+          "name": "steve tisch",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "au pair",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "brendan",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -784,8 +696,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -794,7 +706,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
@@ -803,7 +715,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -819,8 +731,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -829,7 +741,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
@@ -838,90 +750,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "sean grayson",
-          "relevanceScore": 95,
+          "name": "chase",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "epstein files",
+      "topTopic": "jerome powell",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files",
+          "name": "jerome powell",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "robin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "where my refund",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "tilak jewelers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "trump sues irs",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "20h ago",
-          "percentageIncrease": "400%"
+          "trendBreakdown": "fed",
+          "percentageIncrease": "500%"
         },
         {
           "name": "kathryn burgum",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "venezuelan tps",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "is the government shutting down again",
+          "name": "government shutdown update",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "government",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "tulsi gabbard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
+          "searchVolume": "500+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -937,35 +808,25 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "kevin warsh",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "jerome",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "shutdown",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "the",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "amy klobuchar",
+          "name": "pizza",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -981,43 +842,34 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
+          "searchVolume": "10K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jerome powell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "trendBreakdown": "fed",
+          "percentageIncrease": "700%"
         },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "govt",
+          "started": "12h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "is the government shutting down again",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "gov",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "tulsi gabbard",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "kathryn burgum",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1033,9 +885,17 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "robin",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "measles symptoms",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1043,32 +903,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sonya massey",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Vermont",
       "code": "VT",
-      "topTopic": "greg bovino",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "greg bovino",
+          "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1084,8 +936,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -1094,7 +946,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
@@ -1103,7 +955,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1119,8 +971,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -1129,23 +981,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "where my refund",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "irs",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1161,9 +1005,9 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "robin",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "epstein",
           "percentageIncrease": "1000%"
         },
         {
@@ -1171,7 +1015,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1179,7 +1023,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "trendBreakdown": "government",
           "percentageIncrease": "100%"
         }
@@ -1196,17 +1040,9 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "government shutdown",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1221,8 +1057,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -1230,8 +1066,8 @@
           "name": "kevin warsh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
@@ -1240,16 +1076,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "government shutdown",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1265,7 +1093,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -1274,7 +1102,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         }
@@ -1325,9 +1153,9 @@
           "name": "cheque de alivio contributivo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1376,25 +1204,34 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "robin",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "kevin warsh",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "epstein files",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kevin warsh",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1411,7 +1248,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1427,8 +1264,9 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "robin",
           "percentageIncrease": "600%"
         },
         {
@@ -1436,7 +1274,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1444,24 +1282,16 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "epstein files",
+      "topTopic": "kevin warsh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "kevin warsh",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1478,7 +1308,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -1487,7 +1317,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
         },
@@ -1496,7 +1326,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1512,8 +1342,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -1522,7 +1352,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1538,8 +1368,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -1548,16 +1378,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "sonya massey",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1572,8 +1394,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -1582,7 +1404,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1590,51 +1412,43 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "kevin warsh",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "epstein files",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "robin",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "steve tisch",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kevin warsh",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "jerome",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "epstein files",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "robin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "luigi mangione",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "government shutdown",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1649,8 +1463,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "robin",
           "percentageIncrease": "1000%"
         },
@@ -1659,7 +1473,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1667,16 +1481,25 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "kevin warsh",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "epstein files",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "robin",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kevin warsh",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1692,9 +1515,18 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "trendBreakdown": "robin",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "east carroll parish",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "riverbend",
           "percentageIncrease": "600%"
         }
       ]

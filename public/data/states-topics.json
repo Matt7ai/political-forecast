@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T18:38:57.030Z",
+  "timestamp": "2026-01-31T20:31:35.350Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -21,33 +21,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "did",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "fire near me",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "rob reiner",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "per mile tax california",
+          "name": "ca mileage tax",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "3h ago",
-          "trendBreakdown": "california",
+          "trendBreakdown": "per",
           "percentageIncrease": "100%"
         },
         {
@@ -55,24 +47,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "protests",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "silver stock",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -80,7 +56,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -88,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -96,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -104,7 +80,15 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
+          "percentageIncrease": "75%"
+        },
+        {
+          "name": "lost coast outpost",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -112,33 +96,25 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "robin leach",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "robin leach",
+          "name": "peter attia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "epstein",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "peter",
-          "percentageIncrease": "600%"
+          "started": "4h ago",
+          "trendBreakdown": "bill",
+          "percentageIncrease": "800%"
         },
         {
           "name": "iran",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -146,6 +122,33 @@
     {
       "name": "Florida",
       "code": "FL",
+      "topTopic": "peter attia",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "peter attia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "jeffrey",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "is the government shut down",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "did",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
       "topTopic": "bill gates",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -154,52 +157,9 @@
           "name": "bill gates",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "pusha",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "is the government shut down",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "did",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "nytimes",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "robin leach",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bill gates",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "epstein",
+          "started": "22h ago",
+          "trendBreakdown": "jeffrey",
           "percentageIncrease": "600%"
         },
         {
@@ -207,8 +167,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "senate",
+          "started": "8h ago",
+          "trendBreakdown": "did",
           "percentageIncrease": "500%"
         }
       ]
@@ -216,6 +176,58 @@
     {
       "name": "Illinois",
       "code": "IL",
+      "topTopic": "peter attia",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "peter attia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "jeffrey",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "juliana stratton",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "pizza",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "epstein files released",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "epstein files released",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "peter",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
       "topTopic": "bill gates",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -224,77 +236,17 @@
           "name": "bill gates",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "21h ago",
           "trendBreakdown": "peter",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "pizza",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "robin leach",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bill gates",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "robin leach",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "peter attia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "bill",
-          "percentageIncrease": "800%"
         },
         {
           "name": "is the government shut down",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "did",
           "percentageIncrease": "500%"
         }
@@ -303,33 +255,25 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "robin leach",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "robin leach",
+          "name": "peter attia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bill gates",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "peter",
-          "percentageIncrease": "300%"
+          "started": "5h ago",
+          "trendBreakdown": "prince",
+          "percentageIncrease": "600%"
         },
         {
           "name": "is the government shut down",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "the",
           "percentageIncrease": "300%"
         },
@@ -338,7 +282,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -346,24 +290,16 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "robin leach",
+      "topTopic": "bill gates",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bill gates",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "peter",
           "percentageIncrease": "700%"
         },
@@ -372,57 +308,66 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "gloucester",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "bank",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "gloucester fisherman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "lily",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "robin leach",
+      "topTopic": "amber alert",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "robin leach",
+          "name": "amber alert",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "peter attia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "epstein",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "sonic",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -430,32 +375,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "steve tisch",
+      "topTopic": "bill gates",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "steve tisch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bill gates",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "jeffrey",
+          "started": "23h ago",
+          "trendBreakdown": "peter",
           "percentageIncrease": "900%"
         },
         {
-          "name": "robin leach",
+          "name": "steve tisch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "5K+",
           "started": "23h ago",
           "percentageIncrease": "1000%"
         },
@@ -464,7 +401,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -472,33 +409,25 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "robin leach",
+      "topTopic": "epstein files released",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bill gates",
+          "name": "epstein files released",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "600%"
+          "started": "23h ago",
+          "trendBreakdown": "peter",
+          "percentageIncrease": "900%"
         },
         {
           "name": "roy williams",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -506,16 +435,25 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "steve tisch",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "peter attia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "jeffrey",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "steve tisch",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -523,28 +461,12 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "senate",
           "percentageIncrease": "200%"
         },
         {
           "name": "budget",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "gold stock",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "in",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -556,8 +478,16 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "75%"
+        },
+        {
+          "name": "world news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -573,138 +503,122 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "peter",
           "percentageIncrease": "600%"
         },
         {
           "name": "is the government shut down",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "senate",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "did",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "robin leach",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "peter attia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "epstein",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "bill gates",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bill gates",
+          "name": "peter attia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "peter",
-          "percentageIncrease": "700%"
+          "started": "6h ago",
+          "trendBreakdown": "jeffrey",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "steve tisch",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "is the government shut down",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "senate",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "robin leach",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "peter attia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "robin leach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "epstein files released",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "bill",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "robin leach",
+      "topTopic": "cedar creek marina",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "cedar creek marina",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "peter attia",
+          "name": "bill gates",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "bill",
+          "started": "20h ago",
+          "trendBreakdown": "attiapeter",
           "percentageIncrease": "400%"
         },
         {
@@ -712,7 +626,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -720,75 +634,68 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "is the government shut down",
+      "topTopic": "peter attia",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "peter attia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "jeffrey",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "is the government shut down",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "senate",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "nathan chasing horse",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "electric rates",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "iran news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "robin leach",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bill gates",
+          "name": "peter attia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "500%"
+          "started": "5h ago",
+          "trendBreakdown": "jeffrey",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "is the government shut down",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "did",
           "percentageIncrease": "700%"
         },
@@ -797,7 +704,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -814,24 +721,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "peter",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "is the government shut down",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "did",
           "percentageIncrease": "700%"
         },
@@ -840,15 +739,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "news today",
+          "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
+          "searchVolume": "500+",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -856,17 +755,16 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "epstein files",
+      "topTopic": "measles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files",
+          "name": "measles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "epstein",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -874,8 +772,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "epstein files released",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -891,7 +797,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -908,16 +814,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
           "started": "23h ago",
+          "trendBreakdown": "epstein",
           "percentageIncrease": "1000%"
         },
         {
@@ -925,7 +823,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "rainier",
           "percentageIncrease": "700%"
         },
@@ -934,7 +832,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -951,7 +849,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -959,7 +857,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "did",
           "percentageIncrease": "400%"
         }
@@ -968,17 +866,16 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "epstein files",
+      "topTopic": "hospital",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files",
+          "name": "hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "epstein",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -986,8 +883,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "epstein files released",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1003,7 +908,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1011,52 +916,36 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "robin leach",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "peter attia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "epstein",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "robin leach",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "peter attia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "epsteinjeffrey",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "bill",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1071,8 +960,8 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1123,7 +1012,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1140,7 +1029,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1148,24 +1037,16 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "epstein files",
+      "topTopic": "robin leach",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "epstein files",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "robin leach",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1199,7 +1080,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1209,16 +1090,16 @@
       "code": "RI",
       "topTopic": "epstein files",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "epstein files",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "robin",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1242,25 +1123,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "robin leach",
+      "topTopic": "epstein files released",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "epstein files released",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "bill",
+          "started": "23h ago",
+          "trendBreakdown": "peter",
           "percentageIncrease": "800%"
         },
         {
@@ -1268,7 +1141,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "the",
           "percentageIncrease": "300%"
         }
@@ -1277,24 +1150,16 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "robin leach",
+      "topTopic": "epstein files released",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "robin leach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "epstein files released",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1311,7 +1176,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1328,7 +1193,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1336,7 +1201,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "bill",
           "percentageIncrease": "400%"
         },
@@ -1345,7 +1210,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1353,34 +1218,26 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "steve tisch",
+      "topTopic": "peter attia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "peter attia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "gatesbill",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "steve tisch",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "robin leach",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "epstein",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "bill",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1404,24 +1261,16 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "epstein files",
+      "topTopic": "robin leach",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "epstein files",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "robin leach",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1429,7 +1278,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1437,25 +1286,16 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "epstein files",
+      "topTopic": "east carroll parish",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "east carroll parish",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "riverbend",
           "percentageIncrease": "500%"
         },
@@ -1464,7 +1304,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]

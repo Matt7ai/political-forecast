@@ -1,9 +1,93 @@
 {
-  "timestamp": "2026-02-05T05:21:11.591Z",
+  "timestamp": "2026-02-05T07:05:06.402Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
+      "topTopic": "ryan routh",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "ryan routh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "brad karp",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "paul",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "college of the desert",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "virginia giuffre",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "karen bass",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "abraham lincoln",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ",
+      "topTopic": "flagstaff helicopter crash",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "flagstaff helicopter crash",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "newsflagstaff",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
       "topTopic": "brad karp",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -12,116 +96,16 @@
           "name": "brad karp",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "paul",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "ryan routh",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "julie le doj attorney contempt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "julie",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "college of the desert",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "virginia giuffre",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "karen bass",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "data privacy regulations",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "abraham lincoln",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Arizona",
-      "code": "AZ",
-      "topTopic": "lucy letby",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "alex saab",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
         {
           "name": "alex saab",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -129,7 +113,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "christopher",
           "percentageIncrease": "1000%"
         },
@@ -138,7 +122,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -146,7 +130,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "wesh",
           "percentageIncrease": "1000%"
         },
@@ -155,7 +139,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -163,7 +147,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -171,23 +155,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "michael ollis",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -195,7 +171,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -203,7 +179,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -211,15 +187,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "epstein island",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "3h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -236,66 +204,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "flu",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "lucy letby",
+      "topTopic": "brad karp",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lucy letby",
+          "name": "brad karp",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "ryan routh",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "brad karp",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "iranian drones",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "virginia giuffre",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -311,8 +255,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
+          "started": "7h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -328,7 +272,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "freetown",
           "percentageIncrease": "1000%"
         }
@@ -346,7 +290,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -363,16 +307,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -388,7 +324,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -405,7 +341,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -413,7 +349,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "paul",
           "percentageIncrease": "1000%"
         },
@@ -422,16 +358,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -447,7 +375,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -455,7 +383,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -472,33 +400,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "gavin",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "scott barshay",
+          "name": "brad karp paul weiss",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "paul",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
+          "started": "4h ago",
+          "trendBreakdown": "scott",
+          "percentageIncrease": "500%"
         },
         {
           "name": "ryan routh",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -506,7 +426,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -514,8 +434,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "what",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -523,15 +442,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "data privacy regulations",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -548,40 +459,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "lucy letby",
+      "topTopic": "jeffrey epstein",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "lucy letby",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "jeffrey epstein",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -598,7 +493,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "lehigh",
           "percentageIncrease": "1000%"
         },
@@ -607,7 +502,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -615,16 +510,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -640,24 +527,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "jeffrey epstein",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -673,7 +544,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -689,24 +560,16 @@
           "name": "ryan routh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
+          "started": "13h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "brad karp",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -714,16 +577,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "doj epstein files",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -739,16 +594,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -764,7 +611,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "paul",
           "percentageIncrease": "1000%"
         },
@@ -773,7 +620,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -781,7 +628,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -789,7 +636,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -806,7 +653,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -857,16 +704,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "jeffrey epstein",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "75%"
+          "started": "6h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -882,7 +721,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -916,7 +755,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -924,7 +763,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -941,7 +780,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -949,7 +788,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -966,7 +805,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1051,7 +890,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1085,7 +924,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1102,7 +941,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1119,7 +958,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1136,25 +975,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "lucy letby",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "jeffrey epstein",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "doj",
-          "percentageIncrease": "75%"
+          "started": "7h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1170,8 +992,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
+          "started": "6h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1187,7 +1009,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1197,15 +1019,15 @@
       "code": "UT",
       "topTopic": "mitch mcconnell",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "mitch mcconnell",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1221,17 +1043,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brad karp",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "jeffrey",
-          "percentageIncrease": "700%"
+          "started": "7h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1289,16 +1102,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "jeffrey epstein",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "75%"
         }
       ]
     },

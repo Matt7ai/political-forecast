@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-02-09T14:57:41.709Z",
+  "timestamp": "2026-02-09T19:16:51.139Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "telemundo",
+      "topTopic": "clemency",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "clemency",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "amendmentth",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -21,7 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -29,16 +38,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "government shutdown dhs funding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "conduent",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "poland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -46,23 +71,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "warehouse",
+          "name": "camera",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "government shutdown dhs funding",
+          "name": "abraham lincoln",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "warehouse",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -70,7 +103,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -78,48 +111,39 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "queensland",
+          "name": "court",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "un",
+          "name": "when is the world cup",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "abraham lincoln",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "san jose shooting",
+          "name": "nbc news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "20h ago",
-          "trendBreakdown": "san",
           "percentageIncrease": "100%"
         },
         {
-          "name": "is",
+          "name": "un",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -127,17 +151,33 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "darron lee",
+      "topTopic": "world cup",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "darron lee",
+          "name": "world cup",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "government shutdown dhs funding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "latest",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -153,41 +193,58 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "personal injury lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury attorney",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "accident lawyers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "telemundo en vivo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "clemency",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "world cup",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "trendBreakdown": "fifa",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "who",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -203,15 +260,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "latest",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "200%"
         },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -219,7 +285,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -227,7 +293,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -235,24 +301,56 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "telemundo",
+      "topTopic": "clemency",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "clemency",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
+          "started": "19h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "china",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "government shutdown dhs funding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "common",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "who",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -260,7 +358,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -268,17 +366,17 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "darron lee",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "darron lee",
-          "relevanceScore": 100,
+          "name": "cnn",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -294,7 +392,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -302,8 +400,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "world cup",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -319,8 +425,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "personal",
+          "started": "11h ago",
+          "trendBreakdown": "accident",
           "percentageIncrease": "1000%"
         },
         {
@@ -328,8 +434,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "latest",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -345,15 +460,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "marlborough hospital",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -378,16 +501,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "telemundo",
+      "topTopic": "clemency",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "clemency",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -395,7 +526,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -403,8 +534,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "world cup",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "china",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -420,7 +567,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -428,16 +575,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "latest",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "doj epstein files",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "roku",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "email",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -453,7 +624,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -461,31 +632,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "clemency",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "jimmy lai",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "william",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "world",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -493,74 +656,98 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "pl",
-          "relevanceScore": 95,
+          "name": "prince",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "poland",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "fifa world cup",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "estonia",
+      "topTopic": "world cup",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "estonia",
-          "relevanceScore": 100,
+          "name": "world cup",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "darron lee",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "darron lee",
-          "relevanceScore": 100,
+          "name": "cnn",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
+          "started": "5h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "telemundo",
+      "topTopic": "clemency",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "clemency",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -568,7 +755,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -576,7 +763,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -584,24 +771,25 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "injury attorney",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "injury attorney",
+          "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "injury",
+          "percentageIncrease": "800%"
         },
         {
           "name": "ice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -618,58 +806,100 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "lifetouch",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "telemundo",
+      "topTopic": "clemency",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "clemency",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "newscnn",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "personal injury lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "500%"
         },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "cnn",
+          "started": "18h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "email",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "fifa world cup",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "when",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "telemundo",
+      "topTopic": "clemency",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "clemency",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -677,24 +907,57 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "world cup",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "email",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "china",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "telemundo",
+      "topTopic": "clemency",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "clemency",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -702,8 +965,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "world cup",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -744,24 +1015,24 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "government shutdown dhs funding",
+      "topTopic": "china",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "government shutdown dhs funding",
+          "name": "china",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "world",
+          "name": "who",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -837,34 +1108,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "latest",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "darron lee",
+      "topTopic": "jeff johnson mn",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "darron lee",
+          "name": "jeff johnson mn",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "jeff",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "umn fire",
+          "name": "clemency",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "university",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -913,26 +1192,35 @@
           "name": "liam conejo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "liam",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "bill stevenson",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "bill stevenson",
-          "relevanceScore": 100,
+          "name": "cnn",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1093,7 +1381,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1127,7 +1415,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1169,17 +1457,17 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "baton rouge parades",
+      "topTopic": "email",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "baton rouge parades",
+          "name": "email",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },

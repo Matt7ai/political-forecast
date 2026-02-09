@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-02-09T10:59:50.507Z",
+  "timestamp": "2026-02-09T13:17:08.724Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "matt mahan",
+      "topTopic": "telemundo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "matt mahan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -21,24 +29,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "aoc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "poland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -46,79 +46,72 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "imf",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "world",
+          "name": "warehouse",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "india",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "european",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "warehouse",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
           "name": "government",
-          "relevanceScore": 90,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "canada",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "denmark",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "smh",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "government shutdown dhs funding",
+          "name": "court",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "7h ago",
+          "trendBreakdown": "jimmy",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "un",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "school",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -126,7 +119,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -134,17 +127,9 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "san",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "healthcare",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -168,16 +153,24 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "personal injury attorney",
+      "topTopic": "telemundo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "accident",
           "percentageIncrease": "1000%"
         },
@@ -186,7 +179,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -194,32 +187,56 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "common",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "georgia governor race",
+      "topTopic": "telemundo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "government shutdown dhs funding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "georgia governor race",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "prince",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -227,16 +244,40 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "prince",
+      "topTopic": "telemundo",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "china",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "common",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "prince",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -261,17 +302,25 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "government shutdown dhs funding",
+      "topTopic": "telemundo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "government shutdown dhs funding",
+          "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "government shutdown dhs funding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -287,33 +336,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "5h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "estonia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "marlborough hospital",
+      "topTopic": "telemundo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "marlborough hospital",
-          "relevanceScore": 95,
+          "name": "telemundo",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -321,7 +386,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -346,17 +411,33 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "prince",
+      "topTopic": "telemundo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "prince",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "china",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -372,7 +453,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -380,37 +469,61 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "government shutdown dhs funding",
+      "topTopic": "telemundo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "government shutdown dhs funding",
-          "relevanceScore": 95,
+          "name": "telemundo",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "china",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "jimmy",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "government shutdown dhs funding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "guyana",
+          "name": "william",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "buffalo public schools",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "friends",
+          "name": "estonia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "guyana",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -422,7 +535,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -430,7 +543,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -438,17 +551,16 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "darron lee",
+      "topTopic": "estonia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "darron lee",
+          "name": "estonia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "darren",
+          "searchVolume": "500+",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -473,25 +585,32 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "government shutdown dhs funding",
+      "topTopic": "telemundo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "estonia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ross park mall",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "ross",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -499,7 +618,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -516,7 +635,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -524,16 +643,24 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "lifetouch",
+      "topTopic": "telemundo",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "lifetouch",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -541,16 +668,24 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "government shutdown dhs funding",
+      "topTopic": "telemundo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -558,7 +693,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -566,16 +701,32 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "government shutdown dhs funding",
+      "topTopic": "telemundo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "estonia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -583,7 +734,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -591,25 +742,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "government shutdown dhs funding",
+      "topTopic": "telemundo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "china",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -659,15 +810,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "imf",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "government shutdown dhs funding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -734,17 +893,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "darron lee",
+      "topTopic": "telemundo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "darron lee",
+          "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -998,17 +1157,17 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "ghislaine maxwell",
+      "topTopic": "telemundo",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "ghislaine maxwell",
+          "name": "telemundo",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },

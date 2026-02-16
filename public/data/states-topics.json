@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-16T10:55:44.130Z",
+  "timestamp": "2026-02-16T13:11:22.491Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,7 +21,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -47,12 +47,29 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "passport",
+      "topTopic": "fire near me",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "passport",
+          "name": "fire near me",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "is today a holiday",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "federal",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "how old is savannah guthrie",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -60,11 +77,27 @@
           "percentageIncrease": "300%"
         },
         {
+          "name": "passport",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "george washington",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
           "name": "ted bundy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -81,8 +114,8 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "75%"
+          "started": "4h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -91,15 +124,15 @@
       "code": "IL",
       "topTopic": "aldi near me",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
           "name": "aldi near me",
-          "relevanceScore": 90,
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
+          "started": "12h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -150,7 +183,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -184,7 +217,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -201,8 +234,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "aol",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -226,16 +267,25 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "passport",
+      "topTopic": "is today a holiday",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "is today a holiday",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "federal",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "passport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -243,7 +293,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "lance",
           "percentageIncrease": "200%"
         },
@@ -252,7 +302,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -260,24 +310,16 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "spotlight lounge",
+      "topTopic": "passport",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "spotlight lounge",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "passport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -302,26 +344,25 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "passport",
+      "topTopic": "is today a holiday",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "is today a holiday",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "passport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "latest",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "postny",
-          "percentageIncrease": "200%"
+          "started": "12h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -371,7 +412,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -379,7 +420,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -387,7 +428,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -395,7 +436,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -403,8 +444,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "politics",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },

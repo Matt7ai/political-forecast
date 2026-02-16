@@ -1,28 +1,29 @@
 {
-  "timestamp": "2026-02-16T20:37:56.517Z",
+  "timestamp": "2026-02-16T22:34:22.921Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "passport",
+      "topTopic": "rhode island",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "rhode island",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "rhode",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "passport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "lax",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -47,24 +48,25 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "george washington",
+      "topTopic": "rhode island shooting",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "george washington",
-          "relevanceScore": 95,
+          "name": "rhode island shooting",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "rhode",
+          "percentageIncrease": "900%"
         },
         {
           "name": "passport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -72,7 +74,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "daily mail",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -80,7 +90,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -88,16 +98,24 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "caroline kennedy",
+      "topTopic": "car accident lawyer",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "car accident lawyer",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "caroline kennedy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -105,24 +123,16 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "chicago news",
+      "topTopic": "aldi near me",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
-        {
-          "name": "chicago news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "75%"
-        },
         {
           "name": "aldi near me",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -165,24 +175,16 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "george washington",
+      "topTopic": "passport",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "george washington",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "passport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -199,7 +201,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -224,16 +226,25 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "passport",
+      "topTopic": "rhode island shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "rhode island shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "rhode",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "passport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -241,7 +252,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -249,74 +260,66 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "personal injury lawyer",
+      "topTopic": "statesville high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "statesville high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "george washington",
-          "relevanceScore": 90,
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "state department passport",
+      "topTopic": "rhode island shooting",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "state department passport",
-          "relevanceScore": 95,
+          "name": "rhode island shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "rhode",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "passport",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "started": "22h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "how old is savannah guthrie",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "george washington",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "lance woods buffalo police",
+          "name": "what is presidents day",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "lance",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -332,34 +335,58 @@
           "name": "ashley flynn tipp city ohio",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "flynn",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alicia hughes",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "passport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "aol",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "fox news",
+      "topTopic": "news today",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
+        {
+          "name": "news today",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "75%"
+        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -376,16 +403,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "george washington",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -435,23 +454,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "president day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "how old is savannah guthrie",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -459,7 +470,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -467,23 +478,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "george washington",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "caroline kennedy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -491,7 +494,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -586,17 +589,18 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "fox news",
+      "topTopic": "mobile alabama",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "mobile alabama",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "mobile",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -654,18 +658,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "nancy guthrie update",
+      "topTopic": "rhode island shooting",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "nancy guthrie update",
-          "relevanceScore": 90,
+          "name": "rhode island shooting",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "nancy",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -810,17 +813,17 @@
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "nancy guthrie update",
+      "topTopic": "wpri",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "nancy guthrie update",
-          "relevanceScore": 90,
+          "name": "wpri",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -914,17 +917,18 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "valentines",
+      "topTopic": "pawtucket",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "valentines",
-          "relevanceScore": 95,
+          "name": "pawtucket",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "rhode",
+          "percentageIncrease": "1000%"
         }
       ]
     },

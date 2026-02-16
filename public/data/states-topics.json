@@ -1,20 +1,28 @@
 {
-  "timestamp": "2026-02-15T22:30:21.737Z",
+  "timestamp": "2026-02-16T02:28:38.438Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "monterrey",
+      "topTopic": "passport",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "monterrey",
-          "relevanceScore": 100,
+          "name": "passport",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "angela vergara",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -39,17 +47,34 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "restaurant",
+      "topTopic": "wes moore",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "wes moore",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "gov",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "restaurant",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nancy guthrie breaking news today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -73,17 +98,25 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "monterrey",
+      "topTopic": "wes moore",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "monterrey",
+          "name": "wes moore",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "aldi near me",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -142,16 +175,16 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "alexei navalny",
+      "topTopic": "passport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alexei navalny",
+          "name": "passport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -168,7 +201,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -176,16 +209,16 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "monterrey",
+      "topTopic": "wes moore",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "monterrey",
+          "name": "wes moore",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -210,50 +243,50 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "marco rubio",
+      "topTopic": "wes moore",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "marco rubio",
-          "relevanceScore": 90,
+          "name": "wes moore",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "angela vergara",
-          "relevanceScore": 90,
+          "name": "passport",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "spotlight lounge",
+      "topTopic": "wes moore",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "wes moore",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "spotlight lounge",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "mall",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -277,17 +310,17 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "alexei navalny",
+      "topTopic": "wes moore",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alexei navalny",
+          "name": "wes moore",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -328,49 +361,74 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "wood county texas",
+      "topTopic": "wes moore",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "wes moore",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "gov",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "passport",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "wes moore governor",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "wood county texas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "khou",
+          "name": "bo french",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "wesley hunt",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "democrats government shutdown",
+      "topTopic": "nbc news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "democrats government shutdown",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "nbc news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -378,24 +436,16 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "monterrey",
+      "topTopic": "marco rubio",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "monterrey",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "marco rubio",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -508,17 +558,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "alexei navalny",
+      "topTopic": "silver plume fire",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "alexei navalny",
-          "relevanceScore": 100,
+          "name": "silver plume fire",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },

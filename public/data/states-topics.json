@@ -1,64 +1,106 @@
 {
-  "timestamp": "2026-02-22T16:36:52.935Z",
+  "timestamp": "2026-02-22T18:41:33.437Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "mar a lago",
+      "topTopic": "puerto vallarta",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mar a lago",
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "jaliscotapalpa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "1h ago",
+          "trendBreakdown": "nemesio",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "puerto vallarta news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "puerto vallarta",
-          "relevanceScore": 100,
+          "name": "puerto vallarta news today",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "tsa precheck",
+      "topTopic": "el mencho",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "amber alert arizona",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "19h ago",
-          "trendBreakdown": "kehlani",
           "percentageIncrease": "1000%"
         },
         {
           "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kehlani rogers amber alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "20h ago",
+          "trendBreakdown": "amber",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -74,25 +116,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "2h ago",
-          "trendBreakdown": "lago",
+          "started": "4h ago",
+          "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "jax beach shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "jacksonville",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "wptv",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -100,7 +166,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -108,7 +174,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -116,7 +182,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -133,12 +199,20 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mar a lago",
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -146,11 +220,20 @@
           "percentageIncrease": "1000%"
         },
         {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "mar",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "car accident lawyer",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -158,7 +241,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -166,25 +249,41 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "tsa precheck",
+      "topTopic": "el mencho",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck",
+          "name": "el mencho",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tsa precheck",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "15h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
         },
@@ -193,26 +292,50 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "caleb",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "illinois",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "6h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -220,7 +343,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -228,26 +351,34 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "12h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "opm",
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -263,25 +394,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "west bloomfield shooting",
-          "relevanceScore": 95,
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "thornberry",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "mar",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "caleb flynn american idol",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -298,7 +445,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
@@ -307,7 +454,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -315,7 +462,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -331,17 +478,9 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mar a lago",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -357,17 +496,26 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "searchVolume": "5K+",
+          "started": "14h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
         }
       ]
@@ -384,18 +532,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mar a lago",
+          "name": "austin tucker martin nc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "mar",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "1h ago",
-          "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -411,59 +583,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "tsa precheck shutdown",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "tsa precheck shutdown",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "tsa",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mar a lago",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "news today",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "trendBreakdown": "cnn",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Oregon",
-      "code": "OR",
       "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -472,10 +633,61 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "14h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "mar",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
+      "topTopic": "el mencho",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tsa precheck",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -491,7 +703,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
@@ -499,9 +711,17 @@
           "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "mar",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -509,7 +729,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -517,17 +737,25 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -535,17 +763,34 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "13h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
         }
       ]
@@ -553,27 +798,68 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "el mencho",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "trendBreakdown": "mar",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "nemesio oseguera cervantes",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "newsmexico",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "john barron",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -588,9 +874,17 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "searchVolume": "5K+",
+          "started": "14h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -598,8 +892,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
+          "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "opm",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -615,41 +918,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "opm",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "4h ago",
-          "percentageIncrease": "500%"
+          "trendBreakdown": "mar",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "molly miller colt haynes",
+      "topTopic": "puerto vallarta",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "molly miller colt haynes",
+          "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -682,61 +986,77 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
+          "searchVolume": "5K+",
+          "started": "15h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mar a lago",
+          "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "caleb flynn american idol",
-          "relevanceScore": 95,
+          "name": "el mencho",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "1h ago",
-          "trendBreakdown": "caleb",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "prince andrew",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "prince andrew",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         }
       ]
@@ -770,24 +1090,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mar a lago",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -795,16 +1115,24 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "tsa precheck",
+      "topTopic": "puerto vallarta",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck",
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "6h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         }
@@ -856,7 +1184,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -881,17 +1209,17 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "portico north meridian",
+      "topTopic": "puerto vallarta",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "portico north meridian",
+          "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -915,16 +1243,16 @@
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "prince andrew",
+      "topTopic": "puerto vallarta",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "prince andrew",
+          "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -941,7 +1269,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "600%"
         }
@@ -984,33 +1312,33 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "puerto vallarta",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "puerto vallarta",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "tsa",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mar a lago",
+          "name": "el mencho",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "parkside",
+          "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1036,34 +1364,58 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "el mencho",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "el mencho",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tsa precheck",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "el mencho",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "el mencho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         }
@@ -1072,6 +1424,32 @@
     {
       "name": "Connecticut",
       "code": "CT",
+      "topTopic": "tsa precheck",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "tsa precheck",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "tsa",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "code": "KY",
       "topTopic": "tsa precheck shutdown",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1083,33 +1461,15 @@
           "searchVolume": "1K+",
           "started": "4h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Kentucky",
-      "code": "KY",
-      "topTopic": "tsa precheck",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "tsa precheck",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "tsa",
-          "percentageIncrease": "900%"
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1133,18 +1493,18 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
-          "relevanceScore": 100,
+          "name": "tsa precheck",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1168,16 +1528,17 @@
     {
       "name": "Hawaii",
       "code": "HI",
-      "topTopic": "tsa precheck",
+      "topTopic": "tsa precheck shutdown",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck",
+          "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "tsa",
           "percentageIncrease": "500%"
         }
       ]

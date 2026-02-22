@@ -1,20 +1,28 @@
 {
-  "timestamp": "2026-02-22T14:31:43.957Z",
+  "timestamp": "2026-02-22T16:36:52.935Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "tsa precheck",
+      "topTopic": "mar a lago",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck",
+          "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "trendBreakdown": "tsa",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "mar",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -30,36 +38,44 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "amber alert arizona",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "trendBreakdown": "kehlani",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "mar a lago",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "7h ago",
-          "trendBreakdown": "tsa",
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "trendBreakdown": "lago",
           "percentageIncrease": "1000%"
         },
         {
@@ -67,33 +83,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "jacksonville",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "mar a lago",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "wptv",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "us",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "iran",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -101,7 +100,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -109,7 +108,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -117,33 +116,33 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "united airlines",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
+          "searchVolume": "5K+",
+          "started": "11h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -151,7 +150,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -159,7 +158,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -176,8 +175,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
         },
         {
@@ -185,7 +193,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "caleb",
           "percentageIncrease": "200%"
         }
@@ -202,8 +210,8 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
@@ -212,7 +220,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -228,18 +236,18 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "wbal",
-          "relevanceScore": 90,
+          "name": "opm",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "3h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -254,27 +262,27 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "caleb flynn american idol",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "west bloomfield shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "thornberry",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "caleb flynn american idol",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -289,9 +297,17 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -299,7 +315,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -315,35 +331,43 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "stl weather",
-          "relevanceScore": 95,
+          "name": "mar a lago",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "12h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -351,17 +375,26 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "tsa precheck shutdown",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck shutdown",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
         }
       ]
@@ -377,18 +410,19 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
+          "searchVolume": "10K+",
+          "started": "13h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "russian warplanes alaska",
-          "relevanceScore": 95,
+          "name": "mar a lago",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "mar",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -404,9 +438,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "trendBreakdown": "cnn",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -421,10 +472,10 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -439,9 +490,18 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "mar",
           "percentageIncrease": "1000%"
         },
         {
@@ -449,7 +509,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -465,8 +525,8 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         }
@@ -483,8 +543,8 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         }
@@ -501,10 +561,19 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "10h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "mar",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -520,18 +589,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mass shooting richmond va",
+          "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "mass",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -546,9 +614,17 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -556,7 +632,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -607,9 +683,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "caleb flynn american idol",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "caleb",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -624,10 +717,10 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -676,9 +769,25 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -694,10 +803,10 @@
           "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -738,17 +847,17 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "melinda romero",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "melinda romero",
-          "relevanceScore": 95,
+          "name": "tsa precheck",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -823,17 +932,18 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "lindsay clancy",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lindsay clancy",
+          "name": "tsa precheck",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "tsa",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -882,16 +992,24 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "uw parkside",
+          "name": "mar a lago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "parkside",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "22h ago",
           "percentageIncrease": "1000%"
         }
@@ -918,35 +1036,36 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "tsa precheck",
+      "topTopic": "tsa precheck shutdown",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck",
-          "relevanceScore": 95,
+          "name": "tsa precheck shutdown",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "8h ago",
           "trendBreakdown": "tsa",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "tsa precheck",
+      "topTopic": "tsa precheck shutdown",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "tsa precheck",
-          "relevanceScore": 95,
+          "name": "tsa precheck shutdown",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -961,9 +1080,17 @@
           "name": "tsa precheck shutdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mar a lago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -971,18 +1098,18 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "caleb flynn american idol",
+      "topTopic": "tsa precheck",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "caleb flynn american idol",
-          "relevanceScore": 95,
+          "name": "tsa precheck",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "caleb",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "trendBreakdown": "tsa",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1006,17 +1133,18 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "shreveport weather",
+      "topTopic": "tsa precheck shutdown",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "shreveport weather",
-          "relevanceScore": 95,
+          "name": "tsa precheck shutdown",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "tsa",
+          "percentageIncrease": "1000%"
         }
       ]
     },

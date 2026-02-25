@@ -1,28 +1,47 @@
 {
-  "timestamp": "2026-02-25T05:35:52.497Z",
+  "timestamp": "2026-02-25T07:07:45.928Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "state of the union address",
+      "topTopic": "trump state of the union",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "state of the union address",
+          "name": "trump state of the union",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "8h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "900%"
+          "started": "6h ago",
+          "trendBreakdown": "state",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "medal",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "abigail spanberger",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "democratic",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sage blair",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "1h ago",
+          "started": "3h ago",
+          "trendBreakdown": "sage",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,7 +49,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
           "percentageIncrease": "1000%"
         },
         {
@@ -38,49 +58,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "medal of honor",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "royce",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "sage blair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "sage",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jd vance",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "mike johnson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -88,16 +66,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mike johnson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "marco rubio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "barron trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "barron",
           "percentageIncrease": "600%"
         },
         {
@@ -105,7 +100,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "supreme court justices",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "amy",
           "percentageIncrease": "500%"
         },
         {
@@ -113,24 +117,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "supreme court justices",
+          "name": "car accident lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "amy",
-          "percentageIncrease": "500%"
+          "started": "9h ago",
+          "trendBreakdown": "truck",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jd vance",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "who is the designated survivor tonight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "designated",
           "percentageIncrease": "200%"
         },
@@ -139,15 +151,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "alex padilla",
+          "name": "savannah guthrie",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "2K+",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -155,7 +167,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "nowms",
           "percentageIncrease": "100%"
         },
@@ -164,7 +176,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -172,25 +184,34 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "state of the union address",
+      "topTopic": "trump state of the union",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "state of the union address",
+          "name": "trump state of the union",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "900%"
+          "started": "4h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "congressional",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "melania trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -198,58 +219,67 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "barron trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "personal injury lawyers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "car accident attorneys",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "14h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "personal injury lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "barron trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "zachery ty bryan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "300%"
         },
         {
           "name": "dea",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "phoenix",
           "percentageIncrease": "400%"
         },
         {
-          "name": "personal injury attorney",
+          "name": "car accident attorney",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -257,7 +287,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -265,25 +295,26 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "state of the union address",
+      "topTopic": "trump state of the union",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "state of the union address",
+          "name": "trump state of the union",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "8h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "900%"
+          "started": "7h ago",
+          "trendBreakdown": "state",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "abigail spanberger",
+          "name": "eric slover",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "congressional",
           "percentageIncrease": "1000%"
         },
         {
@@ -291,7 +322,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "abigail spanberger",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -299,16 +339,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "congressional medal of honor",
+          "name": "barron trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "royce",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "ivanka",
           "percentageIncrease": "1000%"
         },
         {
@@ -316,23 +356,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mike johnson",
+          "name": "sarah beckstrom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "barron trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
         },
         {
@@ -340,16 +373,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "purple heart",
+          "name": "mike johnson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "sarah",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -357,7 +389,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -365,24 +397,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ivanka trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "barron",
-          "percentageIncrease": "600%"
         },
         {
           "name": "supreme court justices",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "amy",
           "percentageIncrease": "900%"
         },
@@ -391,7 +414,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -399,8 +422,253 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "zachery ty bryan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "designated survivor",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "who",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "hakeem jeffries",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "bank",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "aoc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "erika kirk",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "charlie",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "eric slover",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "congressional",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "melania trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brady lum",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "brady",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "nancy pelosi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sage blair",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "who is the designated survivor tonight",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "injury attorney",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "eric slover",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "congressional",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "abigail spanberger",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sage blair",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nancy pelosi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "melania trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sarah beckstrom",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "andrew",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marco rubio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mike johnson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "barron trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "ivanka",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jd vance",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "washu",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "wash",
+          "percentageIncrease": "800%"
         },
         {
           "name": "zachery ty bryan",
@@ -411,245 +679,28 @@
           "percentageIncrease": "400%"
         },
         {
-          "name": "designated survivor",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "who",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "hakeem jeffries",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "bank",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "aoc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "erika kirk",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "charlie",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "brady lum",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "brady lum",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "brady",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "nancy pelosi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "melania trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sage blair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "who is the designated survivor tonight",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "injury attorney",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "abigail spanberger",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "abigail spanberger",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nancy pelosi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sage blair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "congressional medal of honor",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "royce",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "melania trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mike johnson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sarah beckstrom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "purple",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jd vance",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "barron trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "washu",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "wash",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "zachery ty bryan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
-        },
-        {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "charlie",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "rfk jr",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "rfk jr",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -657,7 +708,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -674,7 +725,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -682,16 +733,17 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "trump state of the union",
+      "topTopic": "what time is the state of the union",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump state of the union",
+          "name": "what time is the state of the union",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "3h ago",
+          "started": "11h ago",
+          "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         },
         {
@@ -699,7 +751,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -707,7 +759,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -715,7 +767,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -723,7 +775,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -731,7 +783,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -739,7 +791,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -747,12 +799,12 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "melania trump",
+      "topTopic": "sage blair",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "melania trump",
+          "name": "sage blair",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -760,11 +812,11 @@
           "percentageIncrease": "1000%"
         },
         {
-          "name": "sage blair",
+          "name": "melania trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -772,7 +824,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -780,17 +832,17 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "nancy pelosi",
+      "topTopic": "eric slover",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nancy pelosi",
+          "name": "eric slover",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "2h ago",
-          "trendBreakdown": "elizabeth",
+          "trendBreakdown": "congressional",
           "percentageIncrease": "1000%"
         },
         {
@@ -798,15 +850,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nancy pelosi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
+          "percentageIncrease": "800%"
         },
         {
           "name": "melania trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -814,7 +875,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -822,7 +883,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -830,7 +891,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -847,8 +908,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "7h ago",
-          "trendBreakdown": "the",
+          "started": "9h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
@@ -856,7 +917,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "trendBreakdown": "wash",
           "percentageIncrease": "1000%"
         },
@@ -865,7 +926,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -873,16 +934,25 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "abigail spanberger",
+      "topTopic": "eric slover",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "congressional",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "abigail spanberger",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -890,7 +960,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "elizabeth",
           "percentageIncrease": "1000%"
         },
@@ -899,7 +969,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -907,16 +977,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "congressional medal of honor",
+          "name": "sarah beckstrom",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "royce",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
         },
         {
@@ -924,28 +994,19 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "purple heart",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "sarah",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "jd vance",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -957,7 +1018,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -965,7 +1026,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -973,29 +1034,30 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "jackson borrello",
+      "topTopic": "eric slover",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jackson borrello",
+          "name": "eric slover",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "jackson",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "sage blair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "2h ago",
+          "trendBreakdown": "congressional",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "melania trump",
+          "name": "jackson dylan borrello",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "jackson",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "abigail spanberger",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -1003,12 +1065,36 @@
           "percentageIncrease": "1000%"
         },
         {
-          "name": "congressional medal of honor",
+          "name": "sage blair",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "royce",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nancy pelosi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "melania trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "save america act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1016,16 +1102,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "save america act",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1041,7 +1119,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -1050,7 +1128,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "melania trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "congressional",
           "percentageIncrease": "1000%"
         },
         {
@@ -1058,7 +1153,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "sage",
           "percentageIncrease": "1000%"
         },
@@ -1067,15 +1162,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "melania trump",
+          "name": "sarah beckstrom",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
           "started": "3h ago",
+          "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
         },
         {
@@ -1083,42 +1180,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "congressional medal of honor",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "medal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "amy coney barrett",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "purple heart",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "sarah",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1126,68 +1188,68 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "trendBreakdown": "ivanka",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "marco rubio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "jd vance",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "amy coney barrett",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "800%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ivanka trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "barron",
-          "percentageIncrease": "500%"
         },
         {
           "name": "save america act",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "save",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "msnbc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "nowms",
-          "percentageIncrease": "200%"
         },
         {
           "name": "designated survivor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "who",
           "percentageIncrease": "400%"
         },
         {
-          "name": "erika kirk",
+          "name": "msnbc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "charlie",
+          "started": "4h ago",
+          "trendBreakdown": "nowms",
           "percentageIncrease": "200%"
         },
         {
@@ -1195,65 +1257,49 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "maduro",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "aoc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "nancy pelosi",
+      "topTopic": "eric slover",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nancy pelosi",
+          "name": "eric slover",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "congressional medal of honor",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "royce",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "congressional",
+          "percentageIncrease": "900%"
         },
         {
           "name": "melania trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1261,15 +1307,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "nancy pelosi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "sage blair",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1277,7 +1332,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1285,7 +1340,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1293,7 +1348,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1310,8 +1365,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
-          "trendBreakdown": "state",
+          "started": "15h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
@@ -1319,7 +1374,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1327,16 +1382,25 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "abigail spanberger",
+      "topTopic": "eric slover",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "congressional",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "abigail spanberger",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1344,25 +1408,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nancy pelosi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "elizabeth",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "congressional medal of honor",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "royce",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1370,32 +1416,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nancy pelosi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sarah beckstrom",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mike johnson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "purple heart",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "sarah",
+          "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
         },
         {
@@ -1403,15 +1442,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "mike johnson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marco rubio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "barron trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "ivanka",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1419,7 +1483,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "designated",
           "percentageIncrease": "1000%"
         },
@@ -1428,7 +1492,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "1000%"
         },
@@ -1437,7 +1501,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1445,15 +1509,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "pittsburgh public schools",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1470,41 +1534,58 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "mike johnson",
+      "topTopic": "eric slover",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mike johnson",
+          "name": "eric slover",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "congressional",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "jd vance",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "mike johnson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "iran",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1512,25 +1593,26 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "state of the union address",
+      "topTopic": "trump state of the union",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "state of the union address",
+          "name": "trump state of the union",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
           "started": "6h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "900%"
+          "trendBreakdown": "state",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "abigail spanberger",
+          "name": "eric slover",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "medal",
           "percentageIncrease": "1000%"
         },
         {
@@ -1538,42 +1620,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "elizabeth",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "medal of honor",
+          "name": "sarah beckstrom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "congressional",
+          "started": "3h ago",
+          "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "sage blair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jd vance",
+          "name": "abigail spanberger",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "3h ago",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "amber alert",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
-          "trendBreakdown": "amber",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1581,7 +1654,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sage blair",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1589,65 +1670,74 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mike johnson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "purple heart",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "sarah",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "barron trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "barron",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "jd vance",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "mike johnson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "amber alert austin",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "jazzlyn",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "save america act",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "supreme court justices",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "amy",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "save america act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "legion of merit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "good",
           "percentageIncrease": "1000%"
         },
@@ -1656,7 +1746,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1664,7 +1754,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "charlie",
           "percentageIncrease": "200%"
         },
@@ -1673,7 +1763,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "designated",
           "percentageIncrease": "400%"
         },
@@ -1682,16 +1772,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "rfk jr",
-          "relevanceScore": 95,
+          "name": "yahoo",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1707,15 +1797,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "medal",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "sage blair",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1723,16 +1822,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "medal of honor",
+          "name": "sarah beckstrom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "congressional",
+          "started": "3h ago",
+          "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
         },
         {
@@ -1740,41 +1840,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "purple heart",
+          "name": "designated survivor",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "sarah",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "barron trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "who is the designated survivor tonight",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "designated",
-          "percentageIncrease": "900%"
+          "started": "5h ago",
+          "trendBreakdown": "who",
+          "percentageIncrease": "500%"
         },
         {
           "name": "supreme court justices",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "amy",
           "percentageIncrease": "1000%"
         },
@@ -1783,15 +1866,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "politico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "bbc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1799,7 +1890,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1816,24 +1907,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "trendBreakdown": "state",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "abigail spanberger",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nancy pelosi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1841,24 +1916,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "medal of honor",
+          "name": "eric slover",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "congressional",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "medal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mike johnson",
+          "name": "abigail spanberger",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nancy pelosi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "elizabeth",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sarah beckstrom",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "3h ago",
+          "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
         },
         {
@@ -1866,25 +1959,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "doug",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "mike johnson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "melania trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "purple heart",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "sarah",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1892,7 +1984,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1900,7 +1992,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "amy",
           "percentageIncrease": "1000%"
         },
@@ -1909,7 +2001,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1917,8 +2009,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "barron",
+          "started": "5h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1926,7 +2017,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "barron trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1943,8 +2042,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "trump",
+          "started": "7h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
@@ -1952,7 +2051,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1960,7 +2059,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1977,7 +2076,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -1986,67 +2085,76 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "state of the union address",
+      "topTopic": "trump state of the union",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "state of the union address",
+          "name": "trump state of the union",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
           "started": "5h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "900%"
+          "trendBreakdown": "the",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "gig harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "gig",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "congressional",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "abigail spanberger",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "medal of honor",
+          "name": "sarah beckstrom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "congressional",
+          "started": "3h ago",
+          "trendBreakdown": "purple",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "jd vance",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "charlie",
           "percentageIncrease": "200%"
         },
@@ -2055,7 +2163,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -2072,7 +2180,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         },
@@ -2081,7 +2189,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -2098,7 +2206,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2116,7 +2224,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2125,49 +2233,6 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "sotu",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "sotu",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "sage blair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "franktown fire",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "dahlberg",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "barron trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Minnesota",
-      "code": "MN",
       "topTopic": "trump state of the union",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -2178,7 +2243,16 @@
           "category": "Law and Government",
           "searchVolume": "10K+",
           "started": "4h ago",
-          "trendBreakdown": "the",
+          "trendBreakdown": "what",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "eric slover",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "congressional",
           "percentageIncrease": "1000%"
         },
         {
@@ -2186,7 +2260,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "franktown fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "dahlberg",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "barron trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "code": "MN",
+      "topTopic": "sage blair",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "sage blair",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2194,7 +2302,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -2202,15 +2310,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "4h ago",
+          "trendBreakdown": "state",
+          "percentageIncrease": "300%"
         },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "charlie",
           "percentageIncrease": "300%"
         }
@@ -2228,9 +2345,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "trendBreakdown": "state",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -2246,7 +2363,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2264,7 +2381,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -2281,7 +2398,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2299,7 +2416,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2317,7 +2434,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -2334,7 +2451,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         }
@@ -2352,7 +2469,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         }
@@ -2370,7 +2487,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         },
@@ -2379,7 +2496,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -2387,7 +2504,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -2404,7 +2521,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2422,7 +2539,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2430,7 +2547,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -2438,7 +2555,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "200%"
         }
@@ -2456,7 +2573,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2474,8 +2591,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "the",
+          "started": "8h ago",
+          "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         },
         {
@@ -2483,7 +2600,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -2500,7 +2617,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         },
@@ -2509,7 +2626,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -2526,7 +2643,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         },
@@ -2535,7 +2652,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -2552,8 +2669,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "7h ago",
-          "trendBreakdown": "trump",
+          "started": "9h ago",
+          "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         },
         {
@@ -2561,7 +2678,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -2578,9 +2695,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "yahoo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -2596,7 +2721,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2604,7 +2729,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -2621,7 +2746,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2632,16 +2757,16 @@
       "code": "HI",
       "topTopic": "state of the union",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "state of the union",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "14h ago",
           "trendBreakdown": "state",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -2657,7 +2782,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2675,7 +2800,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }
@@ -2693,7 +2818,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         }

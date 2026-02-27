@@ -1,19 +1,37 @@
 {
-  "timestamp": "2026-02-27T14:43:14.149Z",
+  "timestamp": "2026-02-27T16:46:03.400Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "torrance news",
+      "topTopic": "vaccines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "vaccines",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "lauren boebert",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "clinton",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "torrance news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -21,32 +39,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "elaina",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "personal injury attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -54,7 +56,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -62,15 +64,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "howard lutnick",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -78,15 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "icc",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -103,34 +97,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "clintonbill",
-          "percentageIncrease": "700%"
+          "started": "23h ago",
+          "trendBreakdown": "bill",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "hillary clinton",
+      "topTopic": "bill clinton",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "hillary clinton",
-          "relevanceScore": 100,
+          "name": "bill clinton",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "24h ago",
+          "searchVolume": "5K+",
+          "started": "19h ago",
           "trendBreakdown": "lauren",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ethel kennedy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "terrion arnold",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -138,49 +140,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "howard lutnick",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "hillary clinton",
+      "topTopic": "ethel kennedy",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "hillary clinton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "bill",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "supreme",
+          "name": "ethel kennedy",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "myers elementary school",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -188,34 +173,17 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "hillary clinton",
+      "topTopic": "ethel kennedy",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "hillary clinton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "lauren",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "supreme",
+          "name": "ethel kennedy",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "terrion arnold",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -231,7 +199,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "lauren",
           "percentageIncrease": "600%"
         }
@@ -249,7 +217,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "lauren",
           "percentageIncrease": "700%"
         },
@@ -258,7 +226,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -274,8 +242,8 @@
           "name": "terrion arnold",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
+          "searchVolume": "5K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -283,8 +251,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "boebertlauren",
+          "started": "22h ago",
+          "trendBreakdown": "bill",
           "percentageIncrease": "600%"
         }
       ]
@@ -301,8 +269,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "lauren",
+          "started": "23h ago",
+          "trendBreakdown": "bill",
           "percentageIncrease": "600%"
         }
       ]
@@ -319,7 +287,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "boebertlauren",
           "percentageIncrease": "500%"
         }
@@ -328,18 +296,26 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "hillary clinton",
+      "topTopic": "ethel kennedy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hillary clinton",
+          "name": "ethel kennedy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "boebertlauren",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "lauren boebert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "clintonbill",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -355,26 +331,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "lauren",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "ellie aghayeva",
+      "topTopic": "elmina aghayeva",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ellie aghayeva",
+          "name": "elmina aghayeva",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "elmina",
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "trendBreakdown": "elaina",
           "percentageIncrease": "700%"
         },
         {
@@ -382,57 +358,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "clinton",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "gusmane coulibaly",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "jd",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "mamdani trump",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "diddy",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "azerbaijan",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
+          "trendBreakdown": "sunnyside",
           "percentageIncrease": "100%"
         },
         {
@@ -440,7 +376,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -448,7 +384,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "diddy",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -464,9 +408,9 @@
           "name": "hillary clinton",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "boebertlauren",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "bill",
           "percentageIncrease": "800%"
         }
       ]
@@ -483,16 +427,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "lauren",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -500,26 +436,18 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "hillary clinton",
+      "topTopic": "bill clinton",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "hillary clinton",
-          "relevanceScore": 100,
+          "name": "bill clinton",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "trendBreakdown": "lauren",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -535,7 +463,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "lauren",
           "percentageIncrease": "500%"
         },
@@ -544,7 +472,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -561,7 +489,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "blue",
           "percentageIncrease": "1000%"
         },
@@ -570,7 +498,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -578,7 +506,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "lauren",
           "percentageIncrease": "500%"
         },
@@ -587,7 +515,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -595,7 +523,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -603,7 +531,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -611,57 +539,32 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "hillary clinton",
+      "topTopic": "terrion arnold",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "hillary clinton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "lauren",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "supreme",
+          "name": "terrion arnold",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "cars",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "jd",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "kouri richins",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -678,24 +581,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "boebertlauren",
+          "started": "23h ago",
+          "trendBreakdown": "bill",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "yahoo news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -712,17 +607,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "boebertlauren",
+          "started": "23h ago",
+          "trendBreakdown": "lauren",
           "percentageIncrease": "800%"
         },
         {
-          "name": "supreme",
-          "relevanceScore": 100,
+          "name": "bbc",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -773,17 +668,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "lauren",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "joe fitzgibbon",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "howard lutnick",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -799,16 +702,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "measles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -860,25 +755,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "lauren",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "golden gate canyon fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
@@ -894,7 +781,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "lauren",
           "percentageIncrease": "400%"
         }
@@ -1051,7 +938,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1086,7 +973,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "lauren",
           "percentageIncrease": "500%"
         },
@@ -1095,17 +982,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "point",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1172,7 +1051,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "trendBreakdown": "bill",
           "percentageIncrease": "600%"
         }
       ]
@@ -1223,24 +1103,16 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "car accident lawyer",
+      "topTopic": "hillary clinton",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "hillary clinton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "lauren",
           "percentageIncrease": "300%"
         }

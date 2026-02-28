@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-28T12:53:42.611Z",
+  "timestamp": "2026-02-28T14:27:49.281Z",
   "states": [
     {
       "name": "California",
@@ -13,34 +13,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "abu",
           "percentageIncrease": "1000%"
         },
         {
           "name": "daniel serafini",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "trendBreakdown": "dan",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
         },
         {
-          "name": "uae",
-          "relevanceScore": 100,
+          "name": "abc news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "saudi",
-          "percentageIncrease": "600%"
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "igor komarov",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -48,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -56,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -64,23 +63,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "daily mail",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "rubios",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -88,8 +79,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "usps",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -98,15 +97,23 @@
       "code": "AZ",
       "topTopic": "daniel serafini",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "daniel serafini",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "abc news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "900%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -121,9 +128,9 @@
           "name": "bahrain",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "abu",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "dhabiabu",
           "percentageIncrease": "1000%"
         },
         {
@@ -131,24 +138,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "serafinidan",
+          "started": "11h ago",
+          "trendBreakdown": "dan",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "abc news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "igor komarov",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "did trump declare war",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "npr",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "orlando",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "trendBreakdown": "airportorlando",
+          "percentageIncrease": "100%"
         },
         {
           "name": "colin gray",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "1h ago",
           "trendBreakdown": "colt",
           "percentageIncrease": "100%"
         }
@@ -157,16 +197,17 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "abc news",
+      "topTopic": "daniel serafini",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "abc news",
+          "name": "daniel serafini",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "serafinidan",
           "percentageIncrease": "300%"
         },
         {
@@ -174,7 +215,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -182,7 +223,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -190,8 +231,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "dmv",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -206,27 +255,43 @@
           "name": "bahrain",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "abu",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "dhabiabu",
           "percentageIncrease": "1000%"
         },
         {
           "name": "daniel serafini",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "trendBreakdown": "dan",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "500%"
         },
         {
-          "name": "dmv",
-          "relevanceScore": 85,
+          "name": "cook county property tax",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "50%"
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "npr",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "grants for reentry programs",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -250,104 +315,37 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "iran",
+      "topTopic": "abc news",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 85,
+          "name": "abc news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "75%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "abc news",
+      "topTopic": "daniel serafini",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "abc news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "terrion arnold news",
+          "name": "daniel serafini",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "daily mail",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "daily mail",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "igor komarov",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "howard lutnick",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "yahoo",
-      "category": "Law and Government",
-      "trendingScore": 85,
-      "topics": [
-        {
-          "name": "yahoo",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "abc news",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "abc news",
+          "name": "npr",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -355,13 +353,88 @@
           "percentageIncrease": "200%"
         },
         {
-          "name": "yahoo",
-          "relevanceScore": 90,
+          "name": "terrion arnold news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "dan",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "npr",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "npr",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "igor komarov",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "howard lutnick",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "dmv",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "dmv",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "daniel serafini",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "daniel serafini",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "serafinidan",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "abc news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -377,39 +450,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "crystal mangum",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "abc news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "daniel serafini",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "igor komarov",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "randys pizza",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -417,7 +482,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -433,17 +498,17 @@
           "name": "bahrain",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "abu",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "dhabiabu",
           "percentageIncrease": "1000%"
         },
         {
           "name": "daniel serafini",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "10h ago",
           "trendBreakdown": "dan",
           "percentageIncrease": "500%"
         },
@@ -452,40 +517,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "dampier circle liverpool ny",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "mark",
           "percentageIncrease": "500%"
         },
         {
-          "name": "daily mail",
-          "relevanceScore": 90,
+          "name": "abc news",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "pete hegseth",
-          "relevanceScore": 90,
+          "name": "iran map",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "colt gray",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "johnny somali",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -493,15 +566,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "diddy",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -509,34 +574,26 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "bahrain",
+      "topTopic": "daniel serafini",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "bahrain",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "daniel serafini",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "dan",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "serafinidan",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "abc news",
-          "relevanceScore": 90,
+          "name": "npr",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -569,16 +626,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "serafinidan",
-          "percentageIncrease": "300%"
+          "started": "10h ago",
+          "trendBreakdown": "dan",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "abc news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "igor komarov",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -586,15 +651,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "newsmax",
+          "name": "grants for reentry programs",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -619,17 +684,17 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "yahoo",
+      "topTopic": "abc news",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "yahoo",
-          "relevanceScore": 85,
+          "name": "abc news",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "50%"
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -644,18 +709,18 @@
           "name": "bahrain",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "abu",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "dhabiabu",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "uae",
+          "name": "daniel serafini",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "saudi",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "trendBreakdown": "serafinidan",
           "percentageIncrease": "300%"
         },
         {
@@ -663,7 +728,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "300%"
         },
@@ -672,7 +737,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -680,7 +745,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -688,31 +753,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "abc news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "npr",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "ted cruz",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "howard lutnick",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "voting",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -720,7 +785,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -728,25 +793,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "yahoo",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "daniel",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "daily mail",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -761,9 +809,9 @@
           "name": "bahrain",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "abu",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "navy",
           "percentageIncrease": "1000%"
         },
         {
@@ -771,31 +819,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "abc news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "dmv",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "50%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "va lottery",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -803,18 +835,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "bahrain",
+      "topTopic": "abc news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "bahrain",
-          "relevanceScore": 100,
+          "name": "abc news",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "100+",
           "started": "3h ago",
-          "trendBreakdown": "abu",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "npr",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -864,9 +903,9 @@
           "name": "bahrain",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "abu",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "dhabiabu",
           "percentageIncrease": "1000%"
         },
         {
@@ -874,16 +913,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "uber eats",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "yahoo",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "daniel",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -943,16 +991,24 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "iran",
+      "topTopic": "abc news",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran",
+          "name": "abc news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "usps",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "100+",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -960,17 +1016,25 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "daniel serafini",
+      "topTopic": "npr",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "daniel serafini",
+          "name": "npr",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "abc news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1021,7 +1085,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1151,17 +1215,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "iran",
+      "topTopic": "abc news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 95,
+          "name": "abc news",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1185,17 +1249,17 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "iran",
+      "topTopic": "daniel serafini",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 95,
+          "name": "daniel serafini",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1228,7 +1292,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1245,7 +1309,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1288,7 +1352,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1323,7 +1387,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "trendBreakdown": "kapolei",
           "percentageIncrease": "1000%"
         }
@@ -1359,7 +1423,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]

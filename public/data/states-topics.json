@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-01T12:56:08.564Z",
+  "timestamp": "2026-03-01T14:29:47.296Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,16 +21,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "warus",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "palestine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "gang of eight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,16 +46,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "trump war",
+          "name": "did trump declare war",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "nowms",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "100%"
         },
         {
@@ -55,15 +63,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "maduro",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +71,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "maduro",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,7 +87,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -87,33 +95,42 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "daily mail",
+      "topTopic": "yahoo",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "daily mail",
-          "relevanceScore": 90,
+          "name": "yahoo",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "drug lawyer",
+      "topTopic": "austin shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "austin shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "texasaustin",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "drug lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -121,7 +138,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "elijah",
           "percentageIncrease": "200%"
         },
@@ -130,26 +147,26 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "gang",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "ms now",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "war",
-          "percentageIncrease": "100%"
         },
         {
           "name": "mossad",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "huffington post",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "trendBreakdown": "nowms",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -165,7 +182,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "stonecrest",
           "percentageIncrease": "900%"
         },
@@ -174,65 +191,42 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "grants for reentry programs",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "whataburger",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "dmv",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "iran president",
+      "topTopic": "reza pahlavi",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran president",
-          "relevanceScore": 100,
+          "name": "reza pahlavi",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "trendBreakdown": "huffington",
+          "percentageIncrease": "300%"
         },
         {
           "name": "gang of eight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "cook county property tax",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -282,23 +276,6 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "reza pahlavi",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "reza pahlavi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
       "topTopic": "dan serafini",
       "category": "Law and Government",
       "trendingScore": 95,
@@ -308,17 +285,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "austin shooting",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
         {
-          "name": "elijah allman",
-          "relevanceScore": 90,
+          "name": "austin shooting",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "elijah",
-          "percentageIncrease": "100%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "reza pahlavi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -350,32 +343,32 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "iran president",
+      "topTopic": "reza pahlavi",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran president",
-          "relevanceScore": 100,
+          "name": "reza pahlavi",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "17h ago",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "200%"
         },
         {
-          "name": "dan serafini",
+          "name": "arutz sheva",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "united states",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -383,24 +376,40 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "auto accidents attorney",
+      "topTopic": "austin shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "austin shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "auto accidents attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan serafini",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "jordan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -408,7 +417,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -416,25 +425,57 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "gang of eight",
+      "topTopic": "austin shooting",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "austin shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "arutz sheva",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "gang of eight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "22h ago",
           "trendBreakdown": "gang",
           "percentageIncrease": "300%"
         },
         {
-          "name": "regal movie theater",
+          "name": "bandits",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "cyprus",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "war powers act",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -442,11 +483,11 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "war powers act",
+          "name": "palestine",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -458,8 +499,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "cher",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -509,16 +558,32 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "fox nation",
+      "topTopic": "austin shooting",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "austin shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "reza pahlavi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "fox nation",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -560,6 +625,74 @@
     {
       "name": "Texas",
       "code": "TX",
+      "topTopic": "reza pahlavi",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "reza pahlavi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "gang of eight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "gang",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "fox nation",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "mission impossible",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "topTopic": "reza pahlavi",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "reza pahlavi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "gang of eight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
       "topTopic": "austin shooting",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -568,92 +701,16 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "austin",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "gang of eight",
+          "name": "reza pahlavi",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "gang",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "entergy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox nation",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "mission impossible",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ap",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Virginia",
-      "code": "VA",
-      "topTopic": "gang of eight",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "gang of eight",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "saudi arabia",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "saudi arabia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "cnn live",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
+          "searchVolume": "1K+",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -705,7 +762,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -713,17 +770,17 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "war",
+      "topTopic": "yahoo",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "war",
-          "relevanceScore": 100,
+          "name": "yahoo",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -739,7 +796,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -774,7 +831,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "trendBreakdown": "boulder",
           "percentageIncrease": "1000%"
         },
@@ -783,16 +840,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -938,17 +987,18 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "state of the union",
+      "topTopic": "elijah allman",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "state of the union",
-          "relevanceScore": 100,
+          "name": "elijah allman",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "elijah",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1075,17 +1125,18 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "morgan violi",
+      "topTopic": "riverfront live",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "morgan violi",
+          "name": "riverfront live",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "started": "3h ago",
+          "trendBreakdown": "riverfront",
+          "percentageIncrease": "1000%"
         }
       ]
     },

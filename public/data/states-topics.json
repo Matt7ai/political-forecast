@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-03-01T22:30:21.185Z",
+  "timestamp": "2026-03-02T02:25:20.241Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "uss abraham lincoln",
+      "topTopic": "austin shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "austin shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "12h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "uss abraham lincoln",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "trendBreakdown": "uss",
           "percentageIncrease": "800%"
         },
@@ -22,7 +31,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "troops",
           "percentageIncrease": "300%"
         },
@@ -31,40 +40,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
           "name": "sicario",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "ro khanna",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "maduro",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "san diego",
+          "name": "ny post",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "san",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "trendBreakdown": "new",
           "percentageIncrease": "75%"
         }
       ]
@@ -81,9 +74,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cyprus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -98,8 +99,8 @@
           "name": "uss abraham lincoln",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "abraham",
           "percentageIncrease": "600%"
         },
@@ -108,7 +109,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "service",
           "percentageIncrease": "300%"
         },
@@ -117,27 +118,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "trendBreakdown": "elijah",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "thomas massie",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "trendBreakdown": "huffington",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "bbc world news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "trendBreakdown": "associated",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -152,8 +135,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -161,8 +144,8 @@
           "name": "uss abraham lincoln",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -170,7 +153,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -178,15 +161,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "atlanta news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "whataburger",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -203,7 +194,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -211,9 +202,17 @@
           "name": "uss abraham lincoln",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "sicario",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -229,9 +228,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "riverfront live cincinnati",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "cincinnati",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -246,18 +254,25 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
+          "searchVolume": "5K+",
+          "started": "11h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uss abraham lincoln",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "new york times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "trendBreakdown": "maildaily",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -274,16 +289,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uss abraham lincoln",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "mahmoud ahmadinejad",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -291,7 +314,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -307,8 +330,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -316,18 +339,18 @@
           "name": "uss abraham lincoln",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "elijah allman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "trendBreakdown": "elijah",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -343,7 +366,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         }
@@ -360,8 +383,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "7h ago",
+          "searchVolume": "10K+",
+          "started": "11h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -370,8 +393,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "daily mail",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -386,8 +417,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -396,7 +427,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -404,7 +435,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -420,16 +451,16 @@
           "name": "uss abraham lincoln",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "fareed zakaria",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -437,25 +468,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "8h ago",
           "trendBreakdown": "troops",
           "percentageIncrease": "200%"
         },
         {
-          "name": "abc",
+          "name": "washington dc",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "tomer bar",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "cher",
-          "relevanceScore": 85,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "75%"
+          "started": "22h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -471,7 +510,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -479,9 +518,17 @@
           "name": "uss abraham lincoln",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "target",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -496,8 +543,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "10h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         }
@@ -514,8 +561,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -524,25 +571,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "nytimes",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "trendBreakdown": "service",
-          "percentageIncrease": "100%"
         },
         {
           "name": "new york post",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "trendBreakdown": "postny",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "nytimes",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "trendBreakdown": "service",
           "percentageIncrease": "100%"
         }
       ]
@@ -559,9 +606,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "austin",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "uss abraham lincoln",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -577,17 +632,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss abraham lincoln",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -603,15 +650,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "kvue",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "cincinnati shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -619,24 +674,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "troops",
           "percentageIncrease": "300%"
         },
         {
-          "name": "thomas massie",
-          "relevanceScore": 95,
+          "name": "texas independence day",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "sicario",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -644,7 +699,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -660,8 +715,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -670,15 +725,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "us service members killed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "maildaily",
           "percentageIncrease": "500%"
         }
@@ -695,43 +750,26 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mahmoud ahmadinejad",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "uss abraham lincoln",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "dan serafini",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "bbc world news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "trendBreakdown": "jazeera",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -747,9 +785,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tulsa weather",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "weather",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -783,7 +830,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -792,8 +839,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "started": "11h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "cyprus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -808,8 +863,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "10h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -818,7 +873,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -835,7 +890,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "800%"
         }
@@ -852,8 +907,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -869,10 +924,18 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cyprus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -888,7 +951,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
@@ -897,7 +960,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "trendBreakdown": "daily",
           "percentageIncrease": "600%"
         }
@@ -908,15 +971,16 @@
       "code": "MS",
       "topTopic": "austin shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "austin shooting",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -967,7 +1031,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1001,7 +1065,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1018,7 +1082,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1035,7 +1099,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1087,7 +1151,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         }
@@ -1104,10 +1168,10 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "trendBreakdown": "austin",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1122,8 +1186,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         }
@@ -1141,7 +1205,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         }
@@ -1158,8 +1222,8 @@
           "name": "austin shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         }
@@ -1176,8 +1240,8 @@
           "name": "cincinnati shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
+          "searchVolume": "5K+",
+          "started": "13h ago",
           "trendBreakdown": "riverfront",
           "percentageIncrease": "1000%"
         },
@@ -1186,9 +1250,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "trendBreakdown": "austin",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1204,9 +1268,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "trendBreakdown": "austin",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1222,7 +1286,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         }

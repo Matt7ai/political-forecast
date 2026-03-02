@@ -1,28 +1,27 @@
 {
-  "timestamp": "2026-03-02T16:55:31.400Z",
+  "timestamp": "2026-03-02T18:55:48.242Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "ndiaga diagne",
+      "topTopic": "sicario",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "ndiaga diagne",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "austin",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "sicario",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "weapons",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -38,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,15 +53,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "misty roberts",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -70,25 +61,26 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "austin texas shooting",
+      "topTopic": "kuwait",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
+          "trendBreakdown": "bbc",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "texas shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "24h ago",
+          "trendBreakdown": "ndiaga",
           "percentageIncrease": "400%"
         }
       ]
@@ -96,33 +88,16 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "nas pensacola",
+      "topTopic": "kuwait",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "nas pensacola",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ndiaga diagne",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "shooting",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "shot",
           "percentageIncrease": "300%"
         },
@@ -131,67 +106,50 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "cincinnati shooting",
+          "name": "weapons",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "misty roberts",
-          "relevanceScore": 90,
-          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "us troops killed",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "service",
-          "percentageIncrease": "100%"
+          "started": "16h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "austin texas shooting",
+      "topTopic": "kuwait",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "shot",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "what happened in austin texas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "ndiaga",
+          "percentageIncrease": "300%"
         },
         {
           "name": "cyprus",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -199,7 +157,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -207,6 +165,73 @@
     {
       "name": "Illinois",
       "code": "IL",
+      "topTopic": "kuwait",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "kuwait",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "cyprus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ndiaga diagne",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "texas shooting",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "texas shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "travel advisory",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "benjamin netanyahu",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
       "topTopic": "texas shooting",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -215,7 +240,7 @@
           "name": "texas shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
           "trendBreakdown": "ndiaga",
           "percentageIncrease": "700%"
@@ -225,83 +250,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "cyprus",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "misty roberts",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "austin texas shooting",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "uss abraham lincoln",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "travel advisory",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "austin texas shooting",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "kuwait",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -309,25 +258,16 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "texas shooting",
+      "topTopic": "kuwait",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "diagnendiaga",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -335,7 +275,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "texas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "ndiaga",
           "percentageIncrease": "300%"
         }
       ]
@@ -343,33 +292,49 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "texas shooting",
+      "topTopic": "kuwait",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "diagnendiaga",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "misty roberts",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "cyprus",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ndiaga diagne",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "22h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "go",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -377,43 +342,42 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "austin texas shooting",
+      "topTopic": "kuwait",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "austin texas shooting",
+          "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "austin",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "austin texas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "texas shooting",
+      "topTopic": "kuwait",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "texasaustin",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -421,8 +385,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "ndiaga diagne",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -438,17 +411,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "shot",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
-          "name": "texas shooting",
+          "name": "ndiaga diagne",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "ndiaga",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "shooting",
           "percentageIncrease": "400%"
         },
         {
@@ -456,14 +429,88 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "benjamin netanyahu",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
+      "topTopic": "misty roberts",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "misty roberts",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "austin shooter",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "mike pompeo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "sleeper cells",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "sicario",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "whoop",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "washington dc",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
       "topTopic": "ndiaga diagne",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -472,75 +519,17 @@
           "name": "ndiaga diagne",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "shooting",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "misty roberts",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mike pompeo",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "sicario",
-          "relevanceScore": 90,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "whoop",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "washington dc",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "texas shooting",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
           "started": "22h ago",
           "trendBreakdown": "austin",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -548,7 +537,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -565,7 +554,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -573,33 +562,16 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "texas shooting",
+      "topTopic": "kuwait",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "ndiaga",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -607,41 +579,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "misty roberts",
-          "relevanceScore": 90,
+          "name": "ndiaga diagne",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "austin texas shooting",
+      "topTopic": "uss abraham lincoln",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "uss abraham lincoln",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -649,18 +613,18 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "austin texas shooting",
+      "topTopic": "texas shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
+          "name": "texas shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "700%"
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -676,8 +640,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "shot",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ryder harrington austin",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "trendBreakdown": "victims",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "misty roberts",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -685,7 +666,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -693,15 +674,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -709,7 +682,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -717,7 +690,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -725,15 +698,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "cincinnati",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -741,34 +706,34 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "austin texas shooting",
+      "topTopic": "ndiaga diagne",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "austin texas shooting",
+          "name": "ndiaga diagne",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "500%"
         },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "shot",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "cyprus",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -776,25 +741,33 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "austin texas shooting",
+      "topTopic": "ndiaga diagne",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "austin texas shooting",
+          "name": "ndiaga diagne",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "shooting",
+          "percentageIncrease": "500%"
         },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "misty roberts",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -802,7 +775,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "sleeper cells",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "trendBreakdown": "abc",
           "percentageIncrease": "300%"
         }
       ]
@@ -819,7 +801,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -845,25 +827,16 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "austin texas shooting",
+      "topTopic": "kuwait",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "shot",
           "percentageIncrease": "300%"
         },
@@ -872,8 +845,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "texas shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "ndiaga",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "komo news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -889,16 +879,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brookwood",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -906,7 +888,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -958,7 +940,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "ndiaga",
           "percentageIncrease": "500%"
         },
@@ -967,7 +949,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -975,18 +957,18 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "austin texas shooting",
+      "topTopic": "texas shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
+          "name": "texas shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "ndiaga",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1055,7 +1037,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1089,7 +1071,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1166,26 +1148,26 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "austin texas shooting",
+      "topTopic": "kuwait",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "austin texas shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "kuwait",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "aurora sinai",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "trendBreakdown": "milwaukee",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1201,16 +1183,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "austin shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "austin",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1227,7 +1200,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "texas",
           "percentageIncrease": "400%"
         }
@@ -1272,18 +1245,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "austin shooting",
+      "topTopic": "austin texas shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "austin shooting",
-          "relevanceScore": 100,
+          "name": "austin texas shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "austin",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1317,7 +1289,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "texasaustin",
           "percentageIncrease": "300%"
         }

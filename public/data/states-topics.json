@@ -1,45 +1,62 @@
 {
-  "timestamp": "2026-03-03T16:55:27.766Z",
+  "timestamp": "2026-03-03T20:38:20.289Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "caleb flynn",
+      "topTopic": "thom tillis",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "thom tillis",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "kristi",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "spain",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "colt gray",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "colin",
+          "percentageIncrease": "500%"
+        },
+        {
           "name": "caleb flynn",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "caleb",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "nancy mace",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "400%"
         },
         {
           "name": "savitha shan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -47,66 +64,68 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "cnbc",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "misty roberts",
+      "topTopic": "spain",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "misty roberts",
-          "relevanceScore": 95,
+          "name": "spain",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "kristi noem",
+      "topTopic": "spain",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "university high school",
+          "name": "spain",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "university",
-          "percentageIncrease": "900%"
+          "started": "3h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "colin gray",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "colt",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mike pompeo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -114,7 +133,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -122,7 +141,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -130,49 +149,58 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "cnbc",
-          "relevanceScore": 85,
+          "name": "university high school shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "75%"
+          "started": "23h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "colin gray",
+      "topTopic": "sidney dorsey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "colin gray",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "colin",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "sidney dorsey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "derwin",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "misty roberts",
+          "name": "colin gray",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "colt",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "judge john smith fulton county",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -180,7 +208,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -188,24 +216,67 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "nancy mace",
+      "topTopic": "spain",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "nancy mace",
-          "relevanceScore": 90,
+          "name": "spain",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "colin gray",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "colt",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "thom tillis",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "kristi",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "caleb flynn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "nancy mace",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "jb pritzker",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "pritzker",
+          "percentageIncrease": "300%"
         },
         {
           "name": "savitha shan",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -222,8 +293,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -239,7 +318,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -247,7 +326,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -255,7 +334,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -272,31 +351,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "misty roberts",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "riyadh",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -304,32 +367,49 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "milwaukee",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "milwaukee",
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "colin gray",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "misty roberts",
-          "relevanceScore": 95,
+          "name": "savitha shan",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "caleb flynn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "nancy mace",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -337,24 +417,16 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "jarod rhodes",
+      "topTopic": "misty roberts",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "jarod rhodes",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "misty roberts",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -362,17 +434,26 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "caleb flynn",
+      "topTopic": "spain",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "caleb flynn",
+          "name": "spain",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -387,25 +468,43 @@
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "thom",
           "percentageIncrease": "500%"
         },
         {
-          "name": "melanie shekita",
-          "relevanceScore": 95,
+          "name": "daryl farrow nc senate",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "sherita",
-          "percentageIncrease": "300%"
+          "started": "8h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "misty roberts",
+          "name": "colin gray",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "colt",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "sherita walton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "8h ago",
+          "trendBreakdown": "melanie",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "where to vote near me",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -413,15 +512,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "lebanon",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "dmv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -429,25 +536,51 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "texas primary",
+      "topTopic": "spain",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "texas primary",
-          "relevanceScore": 95,
+          "name": "spain",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "colin gray",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "colt",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "caleb flynn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "4h ago",
-          "trendBreakdown": "kristi",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "400%"
         },
         {
           "name": "nancy mace",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -455,7 +588,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -463,15 +596,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "justin timberlake",
+          "name": "bloomberg",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -479,32 +612,33 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "cnbc",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "misty roberts",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "misty roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -512,16 +646,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "cnbc",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -545,24 +671,58 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "erin burnett",
+      "topTopic": "spain",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "spain",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "colin gray",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "colt",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "erin burnett",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "400%"
         },
         {
           "name": "nancy mace",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "wgal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -604,15 +764,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
+          "started": "4h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "misty roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -620,144 +780,134 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "savitha shan",
+      "topTopic": "where to vote near me",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "savitha shan",
+          "name": "where to vote near me",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
           "started": "21h ago",
-          "trendBreakdown": "savitha",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "voting",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "where to vote near me",
+          "name": "caleb flynn",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "17h ago",
-          "trendBreakdown": "voting",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "texas elections",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "misty roberts",
-          "relevanceScore": 95,
+          "name": "savitha shan austin",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "23h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "colin gray",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "colt",
           "percentageIncrease": "400%"
         },
         {
-          "name": "act",
+          "name": "spain",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "voter registration texas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "chip roy",
-          "relevanceScore": 90,
+          "name": "mayes middleton",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "mayes",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "chip",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ted cruz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "nancy mace",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "attorney general texas",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "cnbc",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "jared llamado mclean va",
+      "topTopic": "opm",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "jared llamado mclean va",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "jared",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "opm",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "woodbrook elementary",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "woodbrook",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "misty roberts",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "300%"
         },
         {
           "name": "state department travel advisory",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "woodbrook elementary school",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -765,17 +915,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "jared llamado mclean va",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jared llamado mclean va",
+          "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "jared",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "spain",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -783,32 +941,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "texas primary",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "kristi",
-          "percentageIncrease": "200%"
         },
         {
           "name": "nancy mace",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "misty roberts",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -816,7 +957,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "300%"
         }
@@ -868,8 +1009,18 @@
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "colt gray",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "1h ago",
+          "trendBreakdown": "colin",
           "percentageIncrease": "500%"
         }
       ]
@@ -886,7 +1037,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -894,7 +1045,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -902,7 +1053,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -947,22 +1098,22 @@
       "code": "CO",
       "topTopic": "kristi noem",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "kristi noem",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "started": "5h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "misty roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -970,24 +1121,16 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "kristi noem",
+      "topTopic": "misty roberts",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "misty roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1004,7 +1147,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1115,18 +1258,17 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "cher",
+      "topTopic": "elijah blue allman",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "cher",
-          "relevanceScore": 100,
+          "name": "elijah blue allman",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "elijah",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1177,25 +1319,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "kuwait",
+      "topTopic": "brody middle school",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kuwait",
-          "relevanceScore": 95,
+          "name": "brody middle school",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1238,17 +1380,17 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "misty roberts",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "misty roberts",
-          "relevanceScore": 95,
+          "name": "kristi noem",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1264,7 +1406,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1281,7 +1423,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1298,7 +1440,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1315,7 +1457,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "aaron",
           "percentageIncrease": "600%"
         }

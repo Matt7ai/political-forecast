@@ -1,27 +1,36 @@
 {
-  "timestamp": "2026-03-04T02:13:52.811Z",
+  "timestamp": "2026-03-04T05:12:14.518Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "spain",
+      "topTopic": "ecuador",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "newsecuador",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "spain",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "caleb flynn",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "caleb",
           "percentageIncrease": "600%"
         },
@@ -30,7 +39,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -38,26 +47,42 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "chip roy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "colt gray",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "colin",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "us consulate dubai",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "coachella",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -73,7 +98,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "400%"
         }
@@ -82,52 +107,60 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "kristi noem",
+      "topTopic": "ecuador",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kristi noem",
+          "name": "ecuador",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cody khork",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "thom",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "spain",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ghetts",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "colin gray",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "colt",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "mike pompeo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "nancy mace",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "colt",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -142,8 +175,8 @@
           "name": "sidney dorsey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "5K+",
+          "started": "13h ago",
           "trendBreakdown": "derwin",
           "percentageIncrease": "1000%"
         },
@@ -152,8 +185,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "colt",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -161,7 +202,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "16h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "700%"
         },
@@ -170,24 +211,40 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "act",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "spain",
+      "topTopic": "ecuador",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "spain",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -195,7 +252,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "colin",
           "percentageIncrease": "500%"
         },
@@ -204,7 +261,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -212,34 +269,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "jb pritzker epstein",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "pritzkerjb",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "nancy mace",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "savitha shan",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -255,41 +287,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "public safety alert",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "kristi noem",
+      "topTopic": "ecuador",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kristi noem",
+          "name": "ecuador",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "thom",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "anne arundel county public schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -297,7 +320,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -305,15 +328,66 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "colin",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
+      "topTopic": "ecuador",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "caleb flynn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "spain",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
       "topTopic": "kristi noem",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -322,76 +396,26 @@
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "trendBreakdown": "thom",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "spain",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "caleb flynn",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "riyadh",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "thom tillis",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "thom tillis",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "kristi",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "colin gray",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "colt",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "savitha shan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "spain",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -399,16 +423,24 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "misty roberts",
+      "topTopic": "ecuador",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "misty roberts",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -424,17 +456,25 @@
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "14h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "spain",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -442,25 +482,51 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "thom tillis",
+      "topTopic": "phil berger",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "thom tillis",
+          "name": "phil berger",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "kristi",
+          "started": "3h ago",
+          "trendBreakdown": "sam",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "north carolina primary",
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "trendBreakdown": "thom",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "mecklenburg county election results",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "2h ago",
+          "trendBreakdown": "cabarrus",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "gaston county election results",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -468,33 +534,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "colin",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "christine walczyk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "sherita walton",
+          "name": "wral news",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "melanie",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "wiley nickel",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "sherita",
+          "percentageIncrease": "200%"
         },
         {
           "name": "where to vote near me",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "spain",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -502,7 +584,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -510,7 +592,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -527,43 +609,59 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "spain",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "colt gray",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "colin",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "caleb flynn",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "trendBreakdown": "ashley",
           "percentageIncrease": "600%"
         },
         {
-          "name": "ghetts",
+          "name": "colt gray",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "colin",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "north korea",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "kim jong un",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -579,51 +677,51 @@
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "14h ago",
           "trendBreakdown": "thom",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "spain",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "colt gray",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "colin",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "nancy mace",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "kristi noem",
+      "topTopic": "ecuador",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -640,16 +738,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "spain",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -657,16 +763,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "colin",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "wgal",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -683,7 +789,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -691,75 +797,111 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "kristi noem",
+      "topTopic": "ecuador",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kristi noem",
+          "name": "ecuador",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "bexar county elections",
+      "topTopic": "mayes middleton",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bexar county elections",
+          "name": "mayes middleton",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "chip",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "texas election results",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "who",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "1h ago",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "wfaa",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "caleb flynn",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "ken paxton",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "14h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "ted cruz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "don huffines",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "texas",
+          "percentageIncrease": "200%"
         },
         {
           "name": "sharia law in texas",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "12h ago",
-          "trendBreakdown": "jorge",
+          "searchVolume": "2K+",
+          "started": "15h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "texas district",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "sarah",
+          "percentageIncrease": "300%"
         },
         {
           "name": "spain",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -767,17 +909,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "colin",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "mayes middleton",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "attorney",
           "percentageIncrease": "300%"
         },
         {
@@ -785,24 +918,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "texas",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "kwtx",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "associated press",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -810,34 +935,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "places",
+          "started": "16h ago",
+          "trendBreakdown": "voting",
           "percentageIncrease": "300%"
         },
         {
-          "name": "chip roy",
-          "relevanceScore": 90,
+          "name": "kwtx",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "kelly hancock",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "3h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "us consulate dubai",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "trendBreakdown": "embassyus",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -853,7 +961,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "colin",
           "percentageIncrease": "600%"
         },
@@ -862,7 +970,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -870,7 +978,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "400%"
         },
@@ -879,16 +987,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "foreign service officer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -904,24 +1004,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "thom",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "spain",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "opm",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -929,7 +1037,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -972,26 +1080,42 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "kristi noem",
+      "topTopic": "ecuador",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "thom",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "spain",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "spy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1067,9 +1191,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "thom",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "tina peters",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1084,8 +1216,9 @@
           "name": "nicole amor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "nicole",
           "percentageIncrease": "1000%"
         },
         {
@@ -1093,9 +1226,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "thom",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1205,17 +1338,17 @@
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "austin shooting",
+      "topTopic": "noah tietjens",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "austin shooting",
+          "name": "noah tietjens",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1274,16 +1407,32 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "spain",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "spain",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "newsap",
           "percentageIncrease": "400%"
         }
@@ -1301,7 +1450,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1371,15 +1520,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "misty roberts",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1387,25 +1528,26 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "hallie shoffner",
+      "topTopic": "arkansas primary election",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "hallie shoffner",
-          "relevanceScore": 95,
+          "name": "arkansas primary election",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "supha",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "washington county election results",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "act",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "500%"
         }
       ]
     },

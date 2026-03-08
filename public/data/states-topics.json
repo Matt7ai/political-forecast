@@ -1,54 +1,62 @@
 {
-  "timestamp": "2026-03-08T02:26:10.740Z",
+  "timestamp": "2026-03-08T05:13:38.585Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "southwest airlines flight diverted",
+      "topTopic": "oslo",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "southwest airlines flight diverted",
-          "relevanceScore": 100,
+          "name": "oslo",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "3h ago",
-          "trendBreakdown": "bomb",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "america",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "oakland shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "lounge",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "embassy",
+          "percentageIncrease": "400%"
         },
         {
           "name": "rene redzepi",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "oakland shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "trendBreakdown": "lounge",
+          "percentageIncrease": "200%"
         },
         {
           "name": "bryan pata",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "kari lake",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "cher",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -72,16 +80,33 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "shield of the americas summit",
+      "topTopic": "oslo",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "oslo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "embassy",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "what was released thursday night",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "shield of the americas summit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "doral",
           "percentageIncrease": "200%"
         },
@@ -90,23 +115,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "shield of america",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -123,41 +140,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "daniel",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "bomb threat nashville flight",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "southwest",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "ian huntley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "tyler jaggers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "target",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -165,26 +174,42 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "bomb threat nashville flight",
+      "topTopic": "ian huntley",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "bomb threat nashville flight",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "southwest",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "ian huntley",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "bomb threat nashville flight",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "southwest",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "obama presidential center",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "esmail qaani",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -200,7 +225,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -234,17 +259,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "southwest",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "ian huntley",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "dave and busters shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "500%"
+          "started": "1h ago",
+          "trendBreakdown": "dave",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "oslo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -260,7 +302,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -268,7 +310,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -285,7 +327,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -293,7 +335,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -301,7 +343,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -309,16 +351,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "ian huntley",
+      "topTopic": "oslo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "oslo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "ian huntley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -326,16 +376,25 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "ian huntley",
+      "topTopic": "bomb threat nashville flight",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bomb threat nashville flight",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "southwest",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "ian huntley",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -343,7 +402,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -351,25 +410,43 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "rene redzepi",
+      "topTopic": "bomb threat nashville flight",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bomb threat nashville flight",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "southwest",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "oslo norway",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "embassy",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "rene redzepi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "restaurantnoma",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "cassidy hutchinson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -386,33 +463,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "kroger maineville",
-          "relevanceScore": 100,
+          "name": "bomb threat nashville flight",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "kroger",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "southwest",
+          "percentageIncrease": "400%"
         },
         {
           "name": "brian mcginnis",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "tyler jaggers",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -436,16 +505,25 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "brian mcginnis",
+      "topTopic": "bomb threat nashville flight",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "bomb threat nashville flight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "southwest",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "brian mcginnis",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -453,7 +531,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -486,27 +564,27 @@
           "name": "bomb threat nashville flight",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "nashville",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "southwest",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "southwest airlines flight diverted",
+      "topTopic": "mountain view college",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "southwest airlines flight diverted",
+          "name": "mountain view college",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "bomb",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "mountain",
           "percentageIncrease": "1000%"
         },
         {
@@ -514,40 +592,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "what was released thursday night",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "condoleezza rice",
+          "name": "oslo",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "ian huntley",
+      "topTopic": "bomb threat nashville flight",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "bomb threat nashville flight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "southwest",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "ian huntley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -555,16 +634,24 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "target",
+      "topTopic": "oslo",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "oslo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "target",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -615,7 +702,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -623,24 +710,16 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "bomb threat nashville flight",
+      "topTopic": "target",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "bomb threat nashville flight",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "target",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -717,7 +796,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -734,7 +813,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -950,7 +1029,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1036,7 +1115,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1071,7 +1150,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "50%"
         }
       ]

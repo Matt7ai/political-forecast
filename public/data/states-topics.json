@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-11T02:12:06.471Z",
+  "timestamp": "2026-03-11T05:16:02.716Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "4h ago",
           "trendBreakdown": "save",
           "percentageIncrease": "500%"
         },
@@ -21,8 +21,8 @@
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "5K+",
+          "started": "13h ago",
           "trendBreakdown": "erika",
           "percentageIncrease": "400%"
         },
@@ -30,16 +30,16 @@
           "name": "miami",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "darron lee",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -47,7 +47,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -55,19 +55,11 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "fani willis",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "alexander butterfield",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -79,7 +71,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -95,25 +87,26 @@
           "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "car",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "car accident attorneys",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "car",
+          "percentageIncrease": "500%"
         },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury lawyers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -121,7 +114,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -129,7 +122,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -137,49 +130,67 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "steve witkoff",
+      "topTopic": "boca raton election results",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "boca raton election results",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "boca",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "steve witkoff",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "3h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "erika kirk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "erika",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "boca raton elections",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "darron lee",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "miami",
+          "name": "erika kirk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "erika",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "alina habba",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "mahmoud khalil",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "harvey weinstein",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -187,24 +198,40 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "erika kirk",
+      "topTopic": "miami",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "miami",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "colton moore",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "car crash lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "200%"
         },
@@ -213,7 +240,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -221,7 +248,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -237,25 +264,25 @@
           "name": "byron nuclear plant",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
+          "searchVolume": "5K+",
+          "started": "6h ago",
           "trendBreakdown": "byron",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "karoline leavitt",
+          "name": "streator il",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "trendBreakdown": "erika",
           "percentageIncrease": "300%"
         },
@@ -264,7 +291,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -272,7 +299,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -280,7 +307,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -288,7 +315,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -296,49 +323,49 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "alexander brothers",
+      "topTopic": "weather fort wayne",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "alexander brothers",
-          "relevanceScore": 95,
+          "name": "weather fort wayne",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "alexander brothers",
+      "topTopic": "erika kirk",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "alexander brothers",
+          "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "xfinity",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "baltimore",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ben gvir",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -355,16 +382,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "7h ago",
           "trendBreakdown": "dale",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "miami",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -372,7 +407,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -380,17 +415,33 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "erika kirk",
+      "topTopic": "miami",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "miami",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mahmoud khalil",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -423,40 +474,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "5h ago",
           "trendBreakdown": "berkeley",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "alina habba",
+          "name": "miami",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "darron lee",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "3h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "grits and grace",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -464,16 +499,24 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "erika kirk",
+      "topTopic": "miami",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "miami",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -481,7 +524,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -498,7 +541,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "erika",
           "percentageIncrease": "500%"
         },
@@ -507,24 +550,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "alina habba",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "miami",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -532,23 +558,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "mta",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "save act",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -565,7 +583,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -573,7 +591,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -581,16 +599,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "trump cincinnati",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -606,24 +616,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "600%"
+          "started": "8h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "ed martin",
+      "topTopic": "mahmoud khalil",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "mahmoud khalil",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "ed martin",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -631,15 +649,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "miami",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "darron lee",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -647,7 +673,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -681,7 +707,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -689,6 +715,56 @@
     {
       "name": "Texas",
       "code": "TX",
+      "topTopic": "america",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "america",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "erika kirk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "erika",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "darron lee",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "mahmoud khalil",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "tracy tutor",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
       "topTopic": "miami",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -698,73 +774,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "america",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "2h ago",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         },
-        {
-          "name": "erika kirk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "trendBreakdown": "erika",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "darron lee",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "tracy tutor",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Virginia",
-      "code": "VA",
-      "topTopic": "karoline leavitt",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
         {
           "name": "karoline leavitt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "mahmoud khalil",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "darron lee",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -781,7 +823,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -789,7 +831,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -797,7 +839,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -814,7 +856,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -839,24 +881,33 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "erika kirk",
+      "topTopic": "washington state income tax",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "washington state income tax",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "state",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "erika kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "seattle news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -873,7 +924,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "trendBreakdown": "charles",
           "percentageIncrease": "700%"
         }
@@ -882,16 +933,16 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "kwch",
+      "topTopic": "kake news",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "kwch",
+          "name": "kake news",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -951,7 +1002,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -959,17 +1010,17 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "target",
+      "topTopic": "mississippi elections",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "target",
-          "relevanceScore": 90,
+          "name": "mississippi elections",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1138,24 +1189,16 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "alexander brothers",
+      "topTopic": "act",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "alexander brothers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "act",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1197,17 +1240,17 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "yahoo",
+      "topTopic": "ksl news",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "yahoo",
-          "relevanceScore": 85,
+          "name": "ksl news",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1240,7 +1283,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1248,8 +1291,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },

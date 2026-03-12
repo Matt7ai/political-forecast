@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-12T20:41:12.762Z",
+  "timestamp": "2026-03-12T22:31:56.821Z",
   "states": [
     {
       "name": "California",
@@ -13,25 +13,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
+          "searchVolume": "5K+",
+          "started": "6h ago",
           "trendBreakdown": "old",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uss gerald ford aircraft carrier fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "iranian drone attack",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "16h ago",
-          "trendBreakdown": "iranian",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "trendBreakdown": "iran",
           "percentageIncrease": "1000%"
         },
         {
@@ -39,7 +47,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -47,8 +55,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "personal",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -56,16 +63,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "arcadia",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "cmu",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "jones act",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -73,23 +88,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "royal netherlands navy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "leon black",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -97,15 +104,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "navy ship ran aground shortcut",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -113,7 +112,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -121,25 +120,42 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "synagogue",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "old dominion university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "old",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "uss gerald ford aircraft carrier fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "synagogue",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "temple",
-          "percentageIncrease": "700%"
+          "started": "3h ago",
+          "trendBreakdown": "michigan",
+          "percentageIncrease": "600%"
         },
         {
           "name": "iranian drone attack",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "california",
           "percentageIncrease": "500%"
         }
@@ -156,8 +172,8 @@
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
+          "searchVolume": "10K+",
+          "started": "6h ago",
           "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         },
@@ -166,8 +182,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
+          "started": "4h ago",
+          "trendBreakdown": "michigan",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uss gerald ford aircraft carrier fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "3h ago",
-          "trendBreakdown": "west",
           "percentageIncrease": "1000%"
         },
         {
@@ -175,7 +199,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -183,7 +207,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "17h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "1000%"
         },
@@ -192,7 +216,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -200,7 +224,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -217,7 +241,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         },
@@ -225,9 +249,9 @@
           "name": "synagogue",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "synagoguemichigan",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "shootingsynagogue",
           "percentageIncrease": "1000%"
         },
         {
@@ -235,7 +259,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "400%"
         },
@@ -244,7 +268,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "atl",
           "percentageIncrease": "100%"
         },
@@ -253,7 +277,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -261,26 +285,26 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "west bloomfield michigan",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "west bloomfield michigan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
-          "trendBreakdown": "temple",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "old",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "west bloomfield michigan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "4h ago",
+          "trendBreakdown": "israel",
           "percentageIncrease": "1000%"
         },
         {
@@ -288,7 +312,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -296,8 +320,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "iran",
+          "started": "17h ago",
+          "trendBreakdown": "iranian",
           "percentageIncrease": "600%"
         },
         {
@@ -305,7 +329,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -313,24 +337,26 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "west bloomfield michigan",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "west bloomfield michigan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "old",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "synagogue",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "3h ago",
+          "trendBreakdown": "west",
           "percentageIncrease": "1000%"
         },
         {
@@ -338,7 +364,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "200%"
         }
@@ -355,26 +381,34 @@
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "active",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "shootingodu",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "michigan",
+          "name": "temple israel west bloomfield",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "synagoguemichigan",
-          "percentageIncrease": "1000%"
+          "started": "1h ago",
+          "trendBreakdown": "michigan",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "uss gerald ford aircraft carrier fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "dca",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -382,7 +416,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "300%"
         }
@@ -400,16 +434,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "old",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jarvis butts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "fox",
+          "percentageIncrease": "700%"
         },
         {
           "name": "iranian drone attack",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "400%"
         }
@@ -427,25 +470,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "michigan synagogue",
+          "name": "michigan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "bloomfield",
+          "started": "4h ago",
           "percentageIncrease": "900%"
         },
         {
           "name": "iranian drone attack",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "500%"
         },
@@ -454,7 +496,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -470,9 +512,10 @@
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "old",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -488,7 +531,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         },
@@ -497,8 +540,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "temple",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -506,17 +548,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "newark airport",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -531,8 +565,8 @@
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
+          "searchVolume": "10K+",
+          "started": "6h ago",
           "trendBreakdown": "odu",
           "percentageIncrease": "1000%"
         },
@@ -541,8 +575,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "west",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -550,8 +583,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "dronesiranian",
+          "started": "16h ago",
+          "trendBreakdown": "iranian",
           "percentageIncrease": "500%"
         },
         {
@@ -559,68 +592,69 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "greensboro weather",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "michigan",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "old dominion university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "old",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "michigan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "2h ago",
-          "trendBreakdown": "west",
+          "started": "4h ago",
+          "trendBreakdown": "temple",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "old dominion university",
+          "name": "thomas medlin",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "old",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "thomas",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "california drone attack",
-          "relevanceScore": 95,
+          "name": "uss gerald ford aircraft carrier fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "iranian drone attack",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "200%"
+          "started": "18h ago",
+          "trendBreakdown": "california",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "what is the jones act",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "jones",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uss gerald ford aircraft carrier fire",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
           "percentageIncrease": "300%"
         },
         {
@@ -628,24 +662,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "nyc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "jfk tsa wait times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "trendBreakdown": "jfk",
+          "started": "14h ago",
+          "trendBreakdown": "lga",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "subway",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -662,7 +696,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         },
@@ -670,16 +704,8 @@
           "name": "west bloomfield michigan",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uss gerald ford aircraft carrier fire",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "searchVolume": "5K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -687,7 +713,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "500%"
         },
@@ -696,24 +722,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "thomas massie",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "hebron",
-          "percentageIncrease": "400%"
         },
         {
           "name": "nancy guthrie",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -746,34 +763,26 @@
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "dominion",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "synagogue",
+          "name": "michigan synagogue shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "west",
-          "percentageIncrease": "1000%"
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "synagogue",
+          "percentageIncrease": "700%"
         },
         {
           "name": "megan nieberle",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "uss gerald ford aircraft carrier fire",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -781,24 +790,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "17h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "royal netherlands navy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "save act",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -814,8 +815,9 @@
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         },
         {
@@ -823,7 +825,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -831,7 +833,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "300%"
         }
@@ -848,76 +850,69 @@
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "west bloomfield michigan",
+          "name": "synagogue",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "synagoguemichigan",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "hebron ky",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "started": "3h ago",
+          "trendBreakdown": "west",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "synagogue",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "synagogue",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
-          "trendBreakdown": "synagoguemichigan",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
+          "searchVolume": "5K+",
+          "started": "6h ago",
           "trendBreakdown": "old",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "synagogue",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "4h ago",
+          "trendBreakdown": "michigan",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uss gerald ford aircraft carrier fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "jones act",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "uss gerald ford aircraft carrier fire",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "iranian drone attack",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "300%"
         },
@@ -926,7 +921,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -934,32 +929,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "personal injury attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "navy ship ran aground shortcut",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "florsheim shoes",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "22h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -975,16 +946,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "michigan",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "wavy tv",
+          "name": "sierra leone",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "20 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -992,34 +963,26 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "subway",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "michigan synagogue",
+      "topTopic": "synagogue",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "michigan synagogue",
+          "name": "synagogue",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "bloomfieldwest",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "shootingsynagogue",
           "percentageIncrease": "1000%"
         },
         {
@@ -1027,7 +990,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1035,7 +998,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1043,7 +1006,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "400%"
         }
@@ -1086,59 +1049,77 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "synagogue",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "synagogue",
+          "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "michigan",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "trendBreakdown": "old",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "uss gerald ford aircraft carrier fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "synagogue",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "synagoguemichigan",
+          "percentageIncrease": "800%"
         },
         {
           "name": "iranian drone attack",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "iran",
+          "started": "17h ago",
+          "trendBreakdown": "iranian",
           "percentageIncrease": "700%"
         },
         {
-          "name": "komo news",
-          "relevanceScore": 90,
+          "name": "seattle city light",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "aniah blanchard",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "aniah blanchard",
+          "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "old",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1146,7 +1127,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1206,8 +1187,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "fire",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "old dominion university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1215,16 +1205,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "synagogue",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "synagogue",
+          "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1232,16 +1223,16 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "mississippi elections",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "mississippi elections",
+          "name": "old dominion university",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1380,15 +1371,15 @@
       "code": "RI",
       "topTopic": "old dominion university",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "old dominion university",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1412,16 +1403,32 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "west bloomfield michigan",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "old dominion university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uss gerald ford aircraft carrier fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "west bloomfield michigan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1429,7 +1436,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1437,17 +1444,17 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "iowa",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "iowa",
-          "relevanceScore": 95,
+          "name": "old dominion university",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1497,8 +1504,9 @@
           "name": "old dominion university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "old",
           "percentageIncrease": "1000%"
         },
         {
@@ -1506,7 +1514,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1514,17 +1522,34 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "fayette county detention center",
+      "topTopic": "old dominion university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "old dominion university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "fayette county detention center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "kentucky",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         }
       ]
     },

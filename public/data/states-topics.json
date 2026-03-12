@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-12T10:44:19.906Z",
+  "timestamp": "2026-03-12T13:07:46.348Z",
   "states": [
     {
       "name": "California",
@@ -13,8 +13,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "16h ago",
-          "trendBreakdown": "iranian",
+          "started": "19h ago",
+          "trendBreakdown": "attack",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "arcadia",
           "percentageIncrease": "600%"
         },
@@ -31,7 +31,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "personal injury attorney",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -39,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -47,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,15 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "boots",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -71,15 +71,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "save act",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -87,17 +95,17 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "california",
+      "topTopic": "iranian drone attack",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "california",
+          "name": "iranian drone attack",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "iranian",
+          "started": "6h ago",
+          "trendBreakdown": "drone",
           "percentageIncrease": "300%"
         }
       ]
@@ -105,6 +113,68 @@
     {
       "name": "Florida",
       "code": "FL",
+      "topTopic": "stryker cyber attack",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stryker cyber attack",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "cyber",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "iran california",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "dronesiranian",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "iranian drones",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "iranian drones",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "californiairan",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "tsa wait times atlanta",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "atl",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "channel",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
       "topTopic": "stryker",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -114,77 +184,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
+          "started": "23h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "iranian drone attack",
-          "relevanceScore": 100,
+          "name": "california",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "drone",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "focus",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "iranian drone attack",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "iranian drone attack",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "channel",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "iranian drone attack",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "iranian drone attack",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "californiairan",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "stryker",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "started": "18h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -200,16 +210,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "wthr",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -233,24 +235,24 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "stryker",
+      "topTopic": "iranian drones",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "stryker",
+          "name": "iranian drones",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -258,7 +260,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -266,7 +268,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -274,53 +276,43 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "iranian drone attack",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "iranian drone attack",
+      "topTopic": "california",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iranian drone attack",
+          "name": "california",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "californiairan",
-          "percentageIncrease": "500%"
+          "started": "16h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "iranian drone attack",
+      "topTopic": "iranian drones",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iranian drone attack",
-          "relevanceScore": 90,
+          "name": "iranian drones",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "100%"
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -335,37 +327,37 @@
           "name": "stryker cyber attack",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "attacks",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "cyber",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "iranian drone attack",
+          "name": "iranian drones",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "trendBreakdown": "californiairan",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "iranian drone attack",
+      "topTopic": "california",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iranian drone attack",
-          "relevanceScore": 100,
+          "name": "california",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "dronesiranian",
-          "percentageIncrease": "500%"
+          "started": "15h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -380,77 +372,78 @@
           "name": "stryker",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
+          "searchVolume": "10K+",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "iranian drone attack",
-          "relevanceScore": 100,
+          "name": "california",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "18h ago",
           "trendBreakdown": "iran",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "david protein bar",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "trendBreakdown": "david",
           "percentageIncrease": "100%"
         },
         {
-          "name": "ny post",
-          "relevanceScore": 85,
+          "name": "jfk tsa wait times",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "trendBreakdown": "tsa",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "iranian drone attack",
+      "topTopic": "iranian drones",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iranian drone attack",
+          "name": "iranian drones",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump in cincinnati",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "why",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "800%"
         },
         {
           "name": "whio tv",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "why is trump coming to cincinnati",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "why",
+          "percentageIncrease": "400%"
         },
         {
           "name": "wdtn",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -458,7 +451,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -466,44 +459,36 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "iranian drone attack",
+      "topTopic": "iranian drones",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "iranian drone attack",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
           "name": "iranian drones",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "trendBreakdown": "iran",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "iranian drone attack",
+      "topTopic": "california",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iranian drone attack",
-          "relevanceScore": 100,
+          "name": "california",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "trendBreakdown": "iranian",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -519,7 +504,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -527,33 +512,32 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "hebron ky",
+      "topTopic": "iranian drones",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "iranian drones",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "hebron ky",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "iranian drone attack",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "300%"
         },
         {
           "name": "murfreesboro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -561,42 +545,51 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "stryker",
+      "topTopic": "lina hidalgo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "stryker",
+          "name": "lina hidalgo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "lina",
           "percentageIncrease": "500%"
         },
         {
-          "name": "lina hidalgo",
-          "relevanceScore": 95,
+          "name": "amber alert",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "lina",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "amber",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "iranian drone attack",
+          "name": "stryker",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "iranian",
+          "started": "23h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "california",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "200%"
         },
         {
           "name": "cedric ricks",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -604,7 +597,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -612,7 +605,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -620,41 +613,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "kisd",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "iranian drone attack",
+      "topTopic": "california",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iranian drone attack",
-          "relevanceScore": 100,
+          "name": "california",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "dronesiranian",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "300%"
         },
         {
           "name": "vcu",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -662,7 +647,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -670,18 +655,18 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "iranian drone attack",
+      "topTopic": "iranian drones",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "iranian drone attack",
-          "relevanceScore": 95,
+          "name": "iranian drones",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "californiairan",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -722,7 +707,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -730,26 +715,34 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "iranian drone attack",
+      "topTopic": "wsdot",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "iranian drone attack",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "wsdot",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "iran california",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "wa income tax",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -765,7 +758,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -773,7 +766,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -790,7 +783,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -833,42 +826,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jax gratton",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "dia security wait times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
+          "trendBreakdown": "denver",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "colorado springs weather",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "iranian drone attack",
+      "topTopic": "iranian drones",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "iranian drone attack",
+          "name": "iranian drones",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "300%"
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -952,7 +945,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1064,7 +1057,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1098,7 +1091,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1115,7 +1108,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1149,7 +1142,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -1158,17 +1151,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "trump",
+          "started": "19h ago",
+          "trendBreakdown": "kentuckytrump",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "wdrb weather",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },

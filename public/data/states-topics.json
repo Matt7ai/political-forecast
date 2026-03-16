@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-03-16T19:08:08.438Z",
+  "timestamp": "2026-03-16T20:44:31.168Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "costco meat product alert",
+      "topTopic": "loandepot park",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "costco meat product alert",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "loandepot park",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -29,33 +21,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "car",
+          "started": "13h ago",
+          "trendBreakdown": "truck",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nick reiner",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "santa monica pier",
+          "name": "santa monica pier shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "trendBreakdown": "santa",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "costco meat product alert",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "united states park police",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "iran war hormuz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "brent",
           "percentageIncrease": "400%"
         },
@@ -63,18 +63,19 @@
           "name": "car accident lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "personal",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "car",
           "percentageIncrease": "300%"
         },
         {
-          "name": "st patricks day",
-          "relevanceScore": 90,
+          "name": "personal injury attorney",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -90,7 +91,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -106,42 +107,44 @@
           "name": "truck accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "car",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "truck",
           "percentageIncrease": "800%"
         },
         {
-          "name": "car accident lawyer",
+          "name": "personal injury lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "personal",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "costco meat product alert",
+          "name": "car accident lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "car",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "macdill air force base",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "american",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "macdill",
+          "percentageIncrease": "400%"
         },
         {
           "name": "new york post",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -158,7 +161,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -166,7 +169,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "wsb",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -174,7 +185,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -190,8 +201,8 @@
           "name": "neal dunn",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -199,8 +210,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "chicago news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "raja krishnamoorthi",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -216,15 +243,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "neal dunn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "queens university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -232,16 +267,24 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "susie wiles",
+      "topTopic": "neal dunn",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "neal dunn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -249,7 +292,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -266,15 +309,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
         },
@@ -282,9 +325,8 @@
           "name": "car accident lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "truck",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -292,7 +334,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "truck accident lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -300,7 +350,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -308,16 +358,24 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "susie wiles",
+      "topTopic": "shawn sullivan tyngsboro ma",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "shawn sullivan tyngsboro ma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -334,7 +392,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -342,16 +400,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "tucker carlson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -375,33 +425,49 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "crest high school",
+      "topTopic": "neal dunn",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "neal dunn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kaleb mitchell",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "crest high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "crest",
+          "started": "8h ago",
+          "trendBreakdown": "cleveland",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "wfmy news",
+          "name": "news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "21K+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "noaa weather",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -409,17 +475,24 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "car accident lawyer",
+      "topTopic": "united states park police",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "united states park police",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
           "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "personal",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -427,8 +500,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "car",
+          "started": "13h ago",
+          "trendBreakdown": "auto",
           "percentageIncrease": "1000%"
         },
         {
@@ -436,23 +509,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "daytona beach",
+          "name": "kouri richins",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "loandepot park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -460,7 +533,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "brent crude oil price",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "iran",
           "percentageIncrease": "100%"
         }
       ]
@@ -477,7 +559,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -502,55 +584,12 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "loandepot park",
+      "topTopic": "neal dunn",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "loandepot park",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "800%"
-        }
-      ]
-    },
-    {
-      "name": "South Carolina",
-      "code": "SC",
-      "topTopic": "auto accident attorneys",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "auto accident attorneys",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "1h ago",
-          "trendBreakdown": "truck",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury attorney",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "car wreck lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "susie wiles",
+          "name": "neal dunn",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -558,11 +597,72 @@
           "percentageIncrease": "1000%"
         },
         {
+          "name": "loandepot park",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "code": "SC",
+      "topTopic": "personal injury attorney",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "personal injury attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "car wreck lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "car",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "auto accident attorneys",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "auto",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "susie wiles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "truck accident lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "trendBreakdown": "truck",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "crest high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -579,7 +679,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -587,7 +687,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -595,7 +695,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -603,7 +703,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -619,8 +719,8 @@
           "name": "neal dunn",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -628,33 +728,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "car accident lawyers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "truck",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "personal injury attorney",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "800%"
         },
         {
           "name": "costco meat product alert",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -662,8 +744,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "20h ago",
           "trendBreakdown": "altitude",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "personal",
           "percentageIncrease": "200%"
         }
       ]
@@ -679,25 +770,25 @@
           "name": "neal dunn",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "lcps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "loudoun",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "loudoun county public schools",
+          "name": "opm",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "loudoun",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -705,23 +796,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "loudoun county",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "costco meat product alert",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -729,7 +812,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -737,7 +820,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -745,34 +828,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "opm",
+      "topTopic": "lcps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lcps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "loudoun",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "opm",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "19h ago",
-          "trendBreakdown": "weather",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lcps",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "loudoun county public schools",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "loudoun",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -780,23 +854,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "loudoun county",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "gmu",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -848,23 +914,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "costco meat product alert",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "loandepot park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -881,7 +939,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "aden",
           "percentageIncrease": "1000%"
         },
@@ -890,15 +948,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "waff",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -958,7 +1024,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -975,16 +1041,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "st patricks day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1034,7 +1092,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1103,7 +1161,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1171,16 +1229,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "susie wiles",
+      "topTopic": "criminal defense attorney",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "criminal defense attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1197,7 +1263,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1232,7 +1298,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1257,16 +1323,24 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "news",
+      "topTopic": "wave",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "wave",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1292,18 +1366,18 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "klfy",
+      "topTopic": "braxton guillot village",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "klfy",
-          "relevanceScore": 90,
+          "name": "braxton guillot village",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "braxton",
-          "percentageIncrease": "100%"
+          "started": "18h ago",
+          "trendBreakdown": "weatherlafayette",
+          "percentageIncrease": "600%"
         }
       ]
     },

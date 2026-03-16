@@ -1,47 +1,54 @@
 {
-  "timestamp": "2026-03-16T13:20:47.208Z",
+  "timestamp": "2026-03-16T15:05:25.577Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "santa monica pier",
+      "topTopic": "loandepot park",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "loandepot park",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "nick reiner",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "santa monica pier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "santa",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "car accident lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "truck",
           "percentageIncrease": "300%"
         },
         {
-          "name": "personal injury attorney",
-          "relevanceScore": 95,
+          "name": "brent crude oil price",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "car",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "mothers day uk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -82,17 +89,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "truck accident lawyers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "car",
+          "started": "7h ago",
+          "trendBreakdown": "truck",
           "percentageIncrease": "1000%"
         },
         {
@@ -100,7 +98,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "destin",
           "percentageIncrease": "900%"
         },
@@ -109,7 +107,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -117,7 +115,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -125,7 +123,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -133,24 +131,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "20h ago",
           "trendBreakdown": "ponte",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "daytona beach news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "american airlines",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -160,31 +150,39 @@
       "code": "GA",
       "topTopic": "fulton county schools",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "fulton county schools",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "dylan bentley athens ga",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "gwinnett county",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "dylan bentley athens ga",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -200,25 +198,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "juliana stratton",
-          "relevanceScore": 90,
+          "name": "gma",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "raja",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         },
         {
           "name": "american airlines",
-          "relevanceScore": 90,
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
+          "started": "23h ago",
+          "percentageIncrease": "75%"
+        },
+        {
+          "name": "raja krishnamoorthi",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -234,16 +239,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "chase",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -259,7 +256,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -276,17 +273,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "car",
+          "started": "7h ago",
+          "trendBreakdown": "truck",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "personal injury attorney",
+          "name": "accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "accident",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "injury",
           "percentageIncrease": "1000%"
         },
         {
@@ -294,9 +291,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "injury",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "loandepot park",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -329,17 +333,17 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "drug store",
+      "topTopic": "tucker carlson",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "drug store",
-          "relevanceScore": 100,
+          "name": "tucker carlson",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "19h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -355,16 +359,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "mothers day uk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -379,18 +375,67 @@
           "name": "radar",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "crest high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
+          "started": "2h ago",
+          "trendBreakdown": "crest",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wfmy news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "durham public schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "durham",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "winston salem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "tucker carlson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "greenville nc weather",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "american airlines",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -405,35 +450,42 @@
           "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "truck",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "personal injury attorney",
+          "name": "nick reiner",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "car",
-          "percentageIncrease": "1000%"
+          "started": "14h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "newsday",
-          "relevanceScore": 90,
+          "name": "loandepot park",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -474,16 +526,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "american airlines",
+      "topTopic": "loandepot park",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "loandepot park",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "american airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -499,26 +559,18 @@
           "name": "car accident lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "truck",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "auto",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "injury attorney",
+          "name": "crest high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "auto accident lawyers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -534,15 +586,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "wreg",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -550,7 +602,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -558,60 +610,44 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "personal injury attorney",
+      "topTopic": "loandepot park",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "personal injury attorney",
+          "name": "loandepot park",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "car",
-          "percentageIncrease": "900%"
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "port a shooting",
-          "relevanceScore": 95,
+          "name": "car accident lawyers",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "port",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "truck",
+          "percentageIncrease": "600%"
         },
         {
           "name": "round rock shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "altitude",
           "percentageIncrease": "200%"
         },
         {
-          "name": "mothers day uk",
+          "name": "port aransas shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "22h ago",
+          "trendBreakdown": "shooting",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "american airlines",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -627,7 +663,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "loudoun",
           "percentageIncrease": "1000%"
         },
@@ -636,23 +672,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "tornado watch virginia",
+          "name": "loandepot park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "14h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "gmu",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -669,7 +705,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "loudoun",
           "percentageIncrease": "1000%"
         },
@@ -678,25 +714,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "gmu",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "sayre oklahoma",
+      "topTopic": "american airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "sayre oklahoma",
-          "relevanceScore": 100,
+          "name": "american airlines",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "irs",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -720,34 +780,34 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "drug store",
+      "topTopic": "loandepot park",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "drug store",
-          "relevanceScore": 100,
+          "name": "loandepot park",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "mothers day",
+      "topTopic": "whnt",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "mothers day",
+          "name": "whnt",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -814,17 +874,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "drug store",
+      "topTopic": "tucker carlson",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "drug store",
-          "relevanceScore": 100,
+          "name": "tucker carlson",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -874,7 +934,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1021,7 +1081,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1029,17 +1089,17 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "old dominion university",
+      "topTopic": "american airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "old dominion university",
-          "relevanceScore": 100,
+          "name": "american airlines",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1073,8 +1133,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "kouri richins trial",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1090,7 +1158,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1100,15 +1168,15 @@
       "code": "KY",
       "topTopic": "wave",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "wave",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1141,7 +1209,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         }
       ]

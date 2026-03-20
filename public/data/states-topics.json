@@ -1,108 +1,133 @@
 {
-  "timestamp": "2026-03-19T22:34:18.034Z",
+  "timestamp": "2026-03-20T02:24:20.983Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "supreme",
+      "topTopic": "pearl harbor",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "pearl harbor",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "9h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "supreme",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "china",
+          "name": "ai",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "irán",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "pearl harbor",
-          "relevanceScore": 95,
+          "name": "european",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "saleh mohammadi",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "lamar odom",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "car accident lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "america",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "singapore",
+          "name": "the croissanterie",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "australia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "france",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "school",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "philippines",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "john fetterman",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "car",
           "percentageIncrease": "100%"
         },
         {
-          "name": "new",
+          "name": "gold",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
+          "searchVolume": "500+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -110,7 +135,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -118,44 +143,43 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "joseph duggar",
+      "topTopic": "park place mall shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "josh",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "park place mall shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "park",
+          "started": "23h ago",
+          "trendBreakdown": "tucson",
           "percentageIncrease": "1000%"
         },
         {
           "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "james",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
-          "name": "afroman lawsuit",
-          "relevanceScore": 95,
+          "name": "ai",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "17h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "pearl harbor",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -170,26 +194,26 @@
           "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
-          "trendBreakdown": "jimmy",
-          "percentageIncrease": "800%"
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "alabama",
+          "percentageIncrease": "900%"
         },
         {
           "name": "pearl harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "the croissanterie",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -197,48 +221,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "duggar",
-          "relevanceScore": 95,
+          "name": "ai",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "josh",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "saleh mohammadi",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "lamar odom",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "blue cypress park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -246,7 +261,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -254,7 +269,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -262,7 +277,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -270,78 +285,52 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "joseph duggar",
+      "topTopic": "pearl harbor",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ai",
+          "name": "pearl harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lemon pound cake afroman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "trendBreakdown": "afroman",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "joseph duggar",
+      "topTopic": "sheridan gorman",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "sheridan gorman",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "loyola",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "james gracey barcelona",
+          "name": "jimmy gracey barcelona",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "barcelona",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "pearl harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "600%"
         },
         {
@@ -349,7 +338,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -357,74 +346,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "china",
+          "name": "ai",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "joseph duggar",
+      "topTopic": "michigan",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "michigan",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "josh",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "joseph duggar",
+      "topTopic": "pearl harbor",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "pearl harbor",
           "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "china",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "afroman lawsuit",
-          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "6h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "fort mcnair",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -432,349 +404,154 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "james",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
         },
         {
-          "name": "pearl harbor",
+          "name": "south hills middle school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "afroman trial",
+          "name": "michigan",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "jimmy",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "pearl harbor",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "800%"
         },
         {
           "name": "boston police officer arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "trendBreakdown": "nicholas",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "kelsey fitzsimmons",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "afroman lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "afroman",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "afroman lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "joseph duggar",
+      "topTopic": "pearl harbor",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "pearl harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "800%"
         },
         {
           "name": "supreme",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "china",
+          "name": "ai",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "afroman lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "measles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "joseph duggar",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "alabama",
           "percentageIncrease": "1000%"
         },
         {
           "name": "pearl harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "james gracey",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "jimmy",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "sheridan gorman",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "6h ago",
-          "trendBreakdown": "loyola",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "ai",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "china",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "poland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "power",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "saleh mohammadi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ohio",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "linda campitelli",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "joseph duggar",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "act",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "tql lawsuit",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -782,7 +559,116 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "pearl harbor",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "pearl harbor",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "alabama student missing",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "jimmy",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "saleh mohammadi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "sheridan gorman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "loyola",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "ai",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "poland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "germany",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ohio",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "pearl harbor",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "pearl harbor",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -790,25 +676,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "china",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "afroman lemon pound cake",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "where",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -840,33 +709,33 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "joseph duggar",
+      "topTopic": "pearl harbor",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "pearl harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "china",
+          "name": "saleh mohammadi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "ai",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -874,59 +743,34 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "john",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "joseph",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "afroman",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "jimmy gracey",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "james",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "tulsi gabbard",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -968,24 +812,25 @@
           "name": "pearl harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "america",
+          "name": "ai",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "the croissanterie",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -993,31 +838,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "lamar odom",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "cross",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1025,70 +854,60 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "james gracey",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "jimmy",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "800%"
         },
         {
           "name": "pearl harbor",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "8h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "ai",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "15h ago",
           "trendBreakdown": "james",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "pearl harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -1097,58 +916,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "wisconsin",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "ai",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "afroman lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "afroman",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "joseph duggar",
+      "topTopic": "ai",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "ai",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
+          "searchVolume": "100+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "afroman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1172,77 +966,44 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "duggarjoe",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "500%"
         },
         {
           "name": "spokane news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "china",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "pearl harbor",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "lemon pound cake afroman",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "7h ago",
-          "trendBreakdown": "afroman",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "aniah blanchard",
+      "topTopic": "ibraheem yazeed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "aniah blanchard",
+          "name": "ibraheem yazeed",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "ibraheem",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "afroman lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "aniah",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1299,103 +1060,60 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "josh",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "7h ago",
           "trendBreakdown": "james",
           "percentageIncrease": "500%"
         },
         {
-          "name": "afroman lawsuit",
-          "relevanceScore": 95,
+          "name": "ai",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "duggarjoe",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ai",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "rand paul",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "joseph",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ai",
+          "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "afroman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1445,7 +1163,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1462,7 +1180,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1622,25 +1340,17 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "joseph duggar",
+      "topTopic": "ai",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "ai",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "searchVolume": "100+",
+          "started": "17h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "afroman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1672,103 +1382,85 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "afroman",
-          "relevanceScore": 95,
+          "name": "ai",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "joseph",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "joseph duggar",
+      "topTopic": "the croissanterie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "joseph duggar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "duggarjosh",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "the croissanterie",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "afroman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "joseph duggar",
+      "topTopic": "jimmy gracey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "joseph duggar",
+          "name": "jimmy gracey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "joseph",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "afroman",
-          "relevanceScore": 95,
+          "name": "afroman lawsuit",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },

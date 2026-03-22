@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T14:33:26.573Z",
+  "timestamp": "2026-03-22T16:37:01.958Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,15 +30,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "tsa",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "21h ago",
+          "trendBreakdown": "strait",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +39,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -54,16 +47,16 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "donald trump",
+      "topTopic": "new york times",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "donald trump",
+          "name": "new york times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -79,18 +72,9 @@
           "name": "robert mueller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "21h ago",
+          "searchVolume": "100K+",
+          "started": "23h ago",
           "trendBreakdown": "robert",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "donald trump tsa",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "airportstsa",
           "percentageIncrease": "1000%"
         },
         {
@@ -98,8 +82,26 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
+          "trendBreakdown": "jerusalem",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "independence day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "tsa",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -115,7 +117,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "war",
           "percentageIncrease": "200%"
         }
@@ -133,7 +135,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         },
@@ -142,7 +144,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -150,7 +152,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -244,7 +246,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -278,9 +280,9 @@
           "name": "donald trump",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "war",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "israel",
           "percentageIncrease": "100%"
         }
       ]
@@ -288,16 +290,24 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "donald trump",
+      "topTopic": "patio nightclub",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "patio nightclub",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "donald trump",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "newstrump",
           "percentageIncrease": "200%"
         }
@@ -315,7 +325,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         },
@@ -324,24 +334,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "tsa",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "donald trump",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "iran",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "israel",
           "percentageIncrease": "100%"
         }
       ]
@@ -358,7 +368,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -375,7 +385,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         },
@@ -384,7 +394,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -392,8 +402,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "trendBreakdown": "iran",
+          "started": "8h ago",
+          "trendBreakdown": "war",
           "percentageIncrease": "100%"
         }
       ]
@@ -410,7 +420,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         },
@@ -419,7 +429,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -427,16 +437,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "anna paulina luna",
+          "name": "tsa",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -452,7 +462,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -488,25 +498,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tsa airports",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "donald trump",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "iah tsa wait times",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "tsa",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -549,8 +558,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "war",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -558,7 +566,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -575,7 +583,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         },
@@ -584,7 +592,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "200%"
         }
@@ -602,7 +610,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -636,7 +644,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         },
@@ -645,16 +653,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "diego garcia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -670,7 +670,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -688,7 +688,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -706,7 +706,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "50%"
         }
@@ -741,7 +741,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -759,7 +759,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -776,8 +776,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "900%"
+          "started": "22h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -793,7 +793,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         },
@@ -802,7 +802,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -819,7 +819,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -835,8 +835,8 @@
           "name": "robert mueller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -854,7 +854,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -872,7 +872,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -890,7 +890,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -908,7 +908,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -917,18 +917,18 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "robert mueller",
+      "topTopic": "donald trump",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "robert mueller",
-          "relevanceScore": 100,
+          "name": "donald trump",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "robert",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -944,7 +944,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -962,7 +962,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -979,8 +979,8 @@
           "name": "robert mueller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
+          "searchVolume": "10K+",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -998,7 +998,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         },
@@ -1007,7 +1007,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "100%"
         }
@@ -1025,7 +1025,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -1043,7 +1043,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
         }
@@ -1061,17 +1061,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "donald trump",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1087,7 +1079,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1104,7 +1096,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1121,7 +1113,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1138,8 +1130,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
+          "started": "22h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1155,7 +1147,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]

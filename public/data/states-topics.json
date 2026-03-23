@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T13:15:30.860Z",
+  "timestamp": "2026-03-23T15:00:20.179Z",
   "states": [
     {
       "name": "California",
@@ -13,16 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
         },
         {
           "name": "ice at airports",
-          "relevanceScore": 90,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "trump",
+          "started": "20h ago",
+          "trendBreakdown": "airportsfo",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "zaya restaurant",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -30,7 +38,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -55,67 +63,61 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "personal injury attorney",
+      "topTopic": "car accident lawyers",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "personal injury attorney",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cory booker",
+          "name": "car accident lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "4h ago",
+          "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "sheridan gorman",
+          "name": "ice at airports",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "agents",
+          "percentageIncrease": "200%"
         },
         {
           "name": "cuban military",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
           "name": "cnn news",
-          "relevanceScore": 85,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "75%"
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "tsa",
+      "topTopic": "government shutdown",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "tsa",
-          "relevanceScore": 95,
+          "name": "government shutdown",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "hartsfield",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -131,7 +133,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "20h ago",
           "trendBreakdown": "illinois",
           "percentageIncrease": "700%"
         },
@@ -139,27 +141,19 @@
           "name": "jose medina",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "sheridan",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "jose",
+          "percentageIncrease": "600%"
         },
         {
           "name": "ohare tsa wait time",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "tsa",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "percentageIncrease": "50%"
+          "started": "4h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -220,23 +214,15 @@
       "code": "MA",
       "topTopic": "logan airport",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
           "name": "logan airport",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "50%"
         }
       ]
@@ -297,24 +283,16 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "cory booker",
+      "topTopic": "cuban military",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "cory booker",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "cuban military",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -322,16 +300,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "ice",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "jfk",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -339,7 +317,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -347,7 +325,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -355,7 +333,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -363,16 +341,25 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "cnn news",
+      "topTopic": "cvg tsa wait times",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "cvg tsa wait times",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "hopkins",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "cnn news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -380,7 +367,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -442,36 +429,36 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "trump memphis",
+      "topTopic": "trump in memphis",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "trump memphis",
+          "name": "trump in memphis",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "memphis",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "tsa",
+      "topTopic": "ice at airports",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "tsa",
-          "relevanceScore": 85,
+          "name": "ice at airports",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "1h ago",
-          "trendBreakdown": "dfw",
-          "percentageIncrease": "75%"
+          "trendBreakdown": "airportiah",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -487,7 +474,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -495,17 +482,17 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "anna paulina luna",
+      "topTopic": "ice at airports",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "anna paulina luna",
-          "relevanceScore": 95,
+          "name": "ice at airports",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -547,18 +534,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "robert mueller cause of death",
+      "topTopic": "tsa",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "robert mueller cause of death",
-          "relevanceScore": 95,
+          "name": "tsa",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "who",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -618,17 +604,25 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "iran war",
+      "topTopic": "tsa",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran war",
+          "name": "tsa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "den",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "trendBreakdown": "donald",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -636,18 +630,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "robert muller",
+      "topTopic": "florida",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "robert muller",
+          "name": "florida",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "robert",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -663,7 +656,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -837,7 +830,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -915,17 +908,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "uk",
+      "topTopic": "cvg tsa wait times",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "uk",
-          "relevanceScore": 100,
+          "name": "cvg tsa wait times",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },

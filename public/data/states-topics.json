@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T09:02:51.434Z",
+  "timestamp": "2026-03-23T10:56:41.731Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -21,7 +21,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "100%"
         },
@@ -30,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -47,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -55,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -63,49 +63,41 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "restaurant",
+      "topTopic": "personal injury attorney",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "restaurant",
+          "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "cory booker",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "donald trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "cuban military",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "tsa wait times mco",
+          "name": "ice at airports",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "tsa",
+          "started": "10 minutes ago",
+          "trendBreakdown": "wait",
           "percentageIncrease": "100%"
         }
       ]
@@ -113,26 +105,17 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "hartsfield-jackson atlanta international",
+      "topTopic": "tsa",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "hartsfield-jackson atlanta international",
+          "name": "tsa",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "atl",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "donald trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "iran",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "200%"
         }
       ]
@@ -149,16 +132,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "illinois",
           "percentageIncrease": "800%"
         },
         {
-          "name": "jose medina",
+          "name": "jose medina medina",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "jose",
           "percentageIncrease": "700%"
         }
@@ -220,34 +203,44 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "donald trump",
+      "topTopic": "logan airport",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "donald trump",
+          "name": "logan airport",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "2h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "donald trump",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "donald trump",
-          "relevanceScore": 95,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "news",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -298,7 +291,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -306,32 +299,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "ice at airports",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "200%"
         },
         {
           "name": "department of state",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "real",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -339,15 +315,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "tsa",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "100%"
         },
         {
           "name": "mvp arena",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -443,17 +428,17 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "tsa airport security",
+      "topTopic": "new york times",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "tsa airport security",
-          "relevanceScore": 95,
+          "name": "new york times",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -504,7 +489,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "200%"
         }
@@ -557,7 +542,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -812,18 +797,25 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "donald trump",
+      "topTopic": "water street shooting",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "donald trump",
-          "relevanceScore": 90,
+          "name": "water street shooting",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "100%"
+          "started": "18h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -883,18 +875,17 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "iran",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 90,
+          "name": "news",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -935,17 +926,17 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "robert mueller death",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "robert mueller death",
-          "relevanceScore": 95,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "75%"
         }
       ]
     },

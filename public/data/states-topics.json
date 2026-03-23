@@ -1,64 +1,58 @@
 {
-  "timestamp": "2026-03-23T17:00:31.071Z",
+  "timestamp": "2026-03-23T19:01:07.903Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "bryan bostic",
+      "topTopic": "sfo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "sfo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "restaurant",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "zaya",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "bryan bostic",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "ice at airports",
-          "relevanceScore": 95,
+          "name": "san diego airport",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "sfo",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "sheridan gorman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "bookercory",
+          "percentageIncrease": "100%"
         },
         {
           "name": "chad bianco",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "realtor",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "zaya restaurant",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -79,26 +73,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
           "name": "tsa",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "sky",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "az news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "phoenix",
-          "percentageIncrease": "75%"
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -113,34 +97,42 @@
           "name": "personal injury lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "trendBreakdown": "car",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "truck accident lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "ice at airports",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "tsa",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "wait",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "florida",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "sheridan gorman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "trump truth social",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -148,7 +140,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -156,59 +148,42 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "why is the government shut down",
+      "topTopic": "cory booker",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "why is the government shut down",
-          "relevanceScore": 95,
+          "name": "cory booker",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "2h ago",
           "trendBreakdown": "government",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "isu shooting",
+      "topTopic": "jose medina",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "isu shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "illinois",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "jose medina",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "jose",
           "percentageIncrease": "500%"
         },
@@ -217,8 +192,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "ohare",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "illinois state university",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "illinois",
           "percentageIncrease": "300%"
         }
       ]
@@ -235,7 +219,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -251,8 +235,8 @@
           "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "trendBreakdown": "dayton",
           "percentageIncrease": "1000%"
         },
@@ -261,7 +245,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -295,26 +279,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "kelsey",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "cory booker",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "airportsice",
+          "percentageIncrease": "700%"
         },
         {
           "name": "realtor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "tsa",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -339,17 +323,18 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "jfk airport",
+      "topTopic": "cory booker",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "jfk airport",
-          "relevanceScore": 90,
+          "name": "cory booker",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "jfk",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -383,23 +368,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "florida",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "department of state",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "jfk airport",
+          "name": "jfk",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -407,7 +400,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -415,18 +408,18 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "cleveland airport",
+      "topTopic": "cvg tsa wait times",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "cleveland airport",
-          "relevanceScore": 95,
+          "name": "cvg tsa wait times",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "cvg",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "cleveland",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -451,17 +444,18 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "hospital",
+      "topTopic": "cory booker",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "hospital",
-          "relevanceScore": 95,
+          "name": "cory booker",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "phl",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -486,26 +480,27 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "trump in memphis",
+      "topTopic": "florida",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "trump in memphis",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "florida",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
+          "trendBreakdown": "tsa",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump memphis",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -521,8 +516,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "iah",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "sheridan gorman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -530,25 +533,25 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "realtor",
+      "topTopic": "dayton webber",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "dayton webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "realtor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -563,26 +566,17 @@
           "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "dayton",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump truth social",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "ice at airports",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "fox",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -634,7 +628,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -704,8 +698,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "tsa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "trendBreakdown": "den",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1033,7 +1036,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         }
       ]

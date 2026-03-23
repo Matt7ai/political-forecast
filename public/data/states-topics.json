@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T15:00:20.179Z",
+  "timestamp": "2026-03-23T17:00:31.071Z",
   "states": [
     {
       "name": "California",
@@ -13,20 +13,44 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         },
         {
           "name": "ice at airports",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "airportsfo",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "200%"
         },
         {
-          "name": "zaya restaurant",
+          "name": "sfo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "sheridan gorman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "chad bianco",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "realtor",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -34,11 +58,11 @@
           "percentageIncrease": "100%"
         },
         {
-          "name": "chad bianco",
+          "name": "zaya restaurant",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -46,78 +70,120 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "phoenix news",
+      "topTopic": "realtor",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "phoenix news",
+          "name": "realtor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "tsa",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "sky",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "az news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "trendBreakdown": "phoenix",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "car accident lawyers",
+      "topTopic": "personal injury lawyers",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "car accident lawyers",
+          "name": "personal injury lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "personal",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "car",
           "percentageIncrease": "1000%"
         },
         {
           "name": "ice at airports",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "agents",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "tsa",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "sheridan gorman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "trump truth social",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "cuban military",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "cnn news",
+          "name": "realtor",
           "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "foxnews",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "6h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "government shutdown",
+      "topTopic": "why is the government shut down",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "government shutdown",
-          "relevanceScore": 90,
+          "name": "why is the government shut down",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "hartsfield",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "trendBreakdown": "government",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -133,7 +199,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "illinois",
           "percentageIncrease": "700%"
         },
@@ -142,53 +208,61 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "jose",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
-          "name": "ohare tsa wait time",
-          "relevanceScore": 90,
+          "name": "ice at airports",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "ohare",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "who is robert mueller",
+      "topTopic": "realtor",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "who is robert mueller",
-          "relevanceScore": 95,
+          "name": "realtor",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "robert mueller death",
+      "topTopic": "dayton webber",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "robert mueller death",
+          "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "bob",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "dayton",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "florida",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -212,18 +286,35 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "logan airport",
+      "topTopic": "kelsey fitzsimmons",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "logan airport",
-          "relevanceScore": 85,
+          "name": "kelsey fitzsimmons",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "kelsey",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "realtor",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "tsa",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "5h ago",
           "trendBreakdown": "ice",
-          "percentageIncrease": "50%"
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -248,17 +339,16 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "donald trump",
+      "topTopic": "jfk airport",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "donald trump",
+          "name": "jfk airport",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "iran",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -266,17 +356,18 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "patio nightclub",
+      "topTopic": "tsa",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "patio nightclub",
-          "relevanceScore": 100,
+          "name": "tsa",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
+          "started": "6h ago",
+          "trendBreakdown": "clt",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -292,83 +383,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "ice at airports",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "jfk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "department of state",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "jfk airport",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "mvp arena",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "cnn news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "cvg tsa wait times",
+      "topTopic": "cleveland airport",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "cvg tsa wait times",
-          "relevanceScore": 90,
+          "name": "cleveland airport",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "4h ago",
-          "trendBreakdown": "hopkins",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "cnn news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "50%"
+          "trendBreakdown": "cvg",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -393,17 +451,16 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "tsa",
+      "topTopic": "hospital",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "tsa",
+          "name": "hospital",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "pittsburgh",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -431,16 +488,24 @@
       "code": "TN",
       "topTopic": "trump in memphis",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "trump in memphis",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "florida",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -455,9 +520,9 @@
           "name": "ice at airports",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "airportiah",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "iah",
           "percentageIncrease": "200%"
         }
       ]
@@ -465,16 +530,24 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "government shutdown",
+      "topTopic": "realtor",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "government shutdown",
+          "name": "realtor",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "foxnews",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -482,16 +555,34 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "ice at airports",
+      "topTopic": "dayton webber",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "dayton webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump truth social",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "ice at airports",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "fox",
           "percentageIncrease": "100%"
         }
       ]
@@ -534,17 +625,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "tsa",
+      "topTopic": "realtor",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "tsa",
-          "relevanceScore": 90,
+          "name": "realtor",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "2h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -604,26 +695,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "tsa",
+      "topTopic": "realtor",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "tsa",
+          "name": "realtor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "den",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "50%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -656,7 +738,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -942,17 +1024,17 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "fox news",
+      "topTopic": "realtor",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "realtor",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "75%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },

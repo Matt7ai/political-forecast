@@ -1,53 +1,88 @@
 {
-  "timestamp": "2026-03-23T22:38:41.304Z",
+  "timestamp": "2026-03-24T02:24:43.805Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "immigration news green card",
+      "topTopic": "bill cosby",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bill cosby",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "trendBreakdown": "donna",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dayton webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "immigration news green card",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "bill cosby",
+          "name": "restaurant",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "donna",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "trendBreakdown": "zaya",
+          "percentageIncrease": "500%"
         },
         {
           "name": "sfo",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "trendBreakdown": "ice",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "insolvent",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "martin heinrich",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "markwayne",
+          "percentageIncrease": "400%"
         },
         {
           "name": "sheridan gorman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "jeremy meeks",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "searchVolume": "1K+",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,16 +90,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "san",
+          "started": "12h ago",
+          "trendBreakdown": "airportsice",
           "percentageIncrease": "100%"
         },
         {
-          "name": "zaya restaurant",
+          "name": "dwp",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -72,15 +107,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "target",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -88,16 +115,25 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "realtor",
+      "topTopic": "dayton james webber",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "dayton james webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "realtor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -105,41 +141,43 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "trendBreakdown": "harbor",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "immigration news green card",
+      "topTopic": "bill cosby",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bill cosby",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "donna",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dayton webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "immigration news green card",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bill cosby",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -147,7 +185,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
         },
@@ -156,7 +194,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -164,32 +202,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "trendBreakdown": "wait",
           "percentageIncrease": "200%"
         },
         {
-          "name": "cuban military",
+          "name": "florida property tax",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "realtor",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "wink news",
+          "name": "jeremy meeks",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -197,24 +235,25 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "immigration news green card",
+      "topTopic": "dayton webber",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "dayton webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "immigration news green card",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dayton webber",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -222,8 +261,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "ice",
+          "started": "16h ago",
+          "trendBreakdown": "why",
           "percentageIncrease": "100%"
         },
         {
@@ -231,7 +270,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "trendBreakdown": "injury",
           "percentageIncrease": "100%"
         }
@@ -240,58 +279,67 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "immigration news green card",
+      "topTopic": "bill cosby",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bill cosby",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dayton webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "immigration news green card",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "bill cosby",
+          "name": "markwayne mullin",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "maria hadden",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "jose",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "ice at airports",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "trendBreakdown": "ohare",
           "percentageIncrease": "300%"
         },
         {
-          "name": "illinois state shooting",
+          "name": "maria hadden",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "jose",
+          "percentageIncrease": "400%"
         },
         {
           "name": "news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -307,25 +355,26 @@
           "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "immigration news green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "realtor",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -341,12 +390,12 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "dayton",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "immigration news green card",
+          "name": "markwayne mullin",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -354,78 +403,63 @@
           "percentageIncrease": "800%"
         },
         {
-          "name": "florida",
+          "name": "immigration news green card",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "75%"
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "immigration news green card",
+      "topTopic": "dayton webber",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "immigration news green card",
+          "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "700%"
         },
         {
           "name": "dtw tsa wait times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "trendBreakdown": "tsa",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "kelsey fitzsimmons",
+      "topTopic": "bill cosby",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bill cosby",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kelsey fitzsimmons",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "kelsey",
           "percentageIncrease": "800%"
         },
@@ -433,32 +467,25 @@
           "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "ice at airports",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "realtor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "news",
+          "name": "logan airport",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "ice",
           "percentageIncrease": "50%"
         }
       ]
@@ -492,8 +519,17 @@
           "name": "bill cosby",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dayton webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
+          "trendBreakdown": "dayton",
           "percentageIncrease": "1000%"
         },
         {
@@ -501,41 +537,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jfk airport",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "newark",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "news",
+      "topTopic": "dayton webber",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "dayton webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "immigration news green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "tsa",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "clt",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -551,9 +596,26 @@
           "name": "bill cosby",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "donna",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dayton webber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "markwayne mullin",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -561,32 +623,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "dayton webber",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "abc",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cuban military",
-          "relevanceScore": 100,
+          "name": "insolvent",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "leon black",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "loyola student shot",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -594,15 +655,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "jfk",
+          "name": "ice",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "19h ago",
+          "trendBreakdown": "airportjfk",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "is the government shutdown right now",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -610,15 +680,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -626,33 +688,34 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "cvg tsa wait times",
+      "topTopic": "dayton webber",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cvg tsa wait times",
-          "relevanceScore": 90,
+          "name": "dayton webber",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "cleveland",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "markwayne mullin",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "cleveland",
           "percentageIncrease": "50%"
         }
       ]
@@ -686,25 +749,18 @@
           "name": "bill cosby",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "cnn",
-          "relevanceScore": 85,
+          "name": "dayton webber",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
+          "started": "5h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -729,76 +785,93 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "trump in memphis",
+      "topTopic": "dayton webber",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump in memphis",
+          "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "florida",
-          "relevanceScore": 100,
+          "name": "trump memphis",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "pot for potholes tennessee",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "trendBreakdown": "tsa",
-          "percentageIncrease": "600%"
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "immigration news green card",
+      "topTopic": "bill cosby",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "immigration news green card",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
-        },
-        {
           "name": "bill cosby",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "dayton",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "immigration news green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "ice at airports",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "trendBreakdown": "newsfox",
+          "percentageIncrease": "200%"
         },
         {
           "name": "sheridan gorman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "iah wait times",
+          "name": "jd vance",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "ice",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -814,17 +887,25 @@
           "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "dayton",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "markwayne mullin",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "kemps river crossing",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -832,7 +913,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -848,26 +929,34 @@
           "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
+          "searchVolume": "5K+",
+          "started": "11h ago",
           "trendBreakdown": "dayton",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bill cosby",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "markwayne mullin",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "fort washington park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "ice at airports",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -909,60 +998,60 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "realtor",
+      "topTopic": "insolvent",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "insolvent",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "realtor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "target",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "donald trump",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "donald trump",
-          "relevanceScore": 95,
+          "name": "news",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "17h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "franklin park prairie village",
+      "topTopic": "dayton james webber",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "franklin park prairie village",
-          "relevanceScore": 95,
+          "name": "dayton james webber",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "prairie",
-          "percentageIncrease": "400%"
+          "started": "30 minutes ago",
+          "trendBreakdown": "dayton",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -996,24 +1085,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "cnn",
-          "relevanceScore": 85,
+          "name": "news today",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "50%"
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1028,17 +1109,25 @@
           "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "trendBreakdown": "abc",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "immigration news green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "msp tsa wait times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "msp",
           "percentageIncrease": "100%"
         }
@@ -1056,7 +1145,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1141,7 +1230,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1220,17 +1309,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "water street shooting",
+      "topTopic": "dayton webber",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "water street shooting",
+          "name": "dayton webber",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1357,7 +1446,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]

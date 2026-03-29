@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-29T14:38:24.592Z",
+  "timestamp": "2026-03-29T16:41:19.549Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -21,8 +21,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "reuters",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -46,25 +54,25 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "flight status",
+      "topTopic": "haiti",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "flight status",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "haiti",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "flight status",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -98,16 +106,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "glenview shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -140,9 +140,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "arundel",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -209,7 +209,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -217,33 +217,41 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "coup",
+      "topTopic": "greenville nc",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "coup",
-          "relevanceScore": 100,
+          "name": "greenville nc",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "syracuse weather",
+      "topTopic": "fox nation",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "fox nation",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "syracuse weather",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -251,17 +259,17 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "coup",
+      "topTopic": "why are flags at half mast today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "coup",
-          "relevanceScore": 100,
+          "name": "why are flags at half mast today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -294,7 +302,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -336,24 +344,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "fox nation",
+      "topTopic": "univision",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "fox nation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "univision",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -387,7 +387,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "arundel",
           "percentageIncrease": "900%"
         }
@@ -576,7 +576,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "trendBreakdown": "voceroel",
           "percentageIncrease": "100%"
         }

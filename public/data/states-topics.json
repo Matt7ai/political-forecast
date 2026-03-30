@@ -1,36 +1,54 @@
 {
-  "timestamp": "2026-03-30T20:52:38.615Z",
+  "timestamp": "2026-03-30T22:41:37.122Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "amy hillyard",
+      "topTopic": "airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "amy hillyard",
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "santee fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "trendBreakdown": "fire",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "amy hillyard",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "20h ago",
           "trendBreakdown": "amy",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "ice cream",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "kid rock",
+          "name": "deputy levi vargas",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "levi",
           "percentageIncrease": "100%"
         },
         {
@@ -38,16 +56,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "deputy levi vargas",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "levi",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -55,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,7 +72,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -71,16 +80,24 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "health",
+      "topTopic": "airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -88,15 +105,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -104,7 +113,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -121,7 +130,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -129,25 +138,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "airport",
+          "name": "travel",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "hernando beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "hernando",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "kid rock",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -162,16 +179,32 @@
           "name": "fulton county",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ai news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "500+",
           "started": "4h ago",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "travel",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -187,8 +220,8 @@
           "name": "airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -196,15 +229,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -212,7 +245,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "cook",
           "percentageIncrease": "100%"
         },
@@ -221,7 +254,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -254,8 +287,8 @@
           "name": "airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -263,15 +296,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -305,8 +338,8 @@
           "name": "airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -314,7 +347,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -322,7 +355,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -339,7 +372,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "1000%"
         },
@@ -348,7 +381,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -356,7 +389,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -364,115 +397,23 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "ny post",
+      "topTopic": "travel",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "ny post",
-          "relevanceScore": 85,
+          "name": "travel",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "health",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "health",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "wral news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "ai news",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "ai news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "health",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "whitney cummings",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "shooting nyc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "nyc",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "frontier airlines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "bomb",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "caroline kennedy",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
       "topTopic": "airport",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -482,41 +423,125 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "tsa",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "ai news",
-          "relevanceScore": 100,
+          "name": "health",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "wral news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "whitney cummings",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "whitney cummings",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "kid rock",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "shooting nyc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "nyc",
+          "percentageIncrease": "300%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "23h ago",
+          "trendBreakdown": "bomb",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "caroline kennedy",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "travel",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "travel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "wait",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "ai news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "health",
+      "topTopic": "travel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "travel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -524,40 +549,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "health",
+      "topTopic": "airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "wait",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -565,7 +583,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -590,17 +608,18 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "coup",
+      "topTopic": "jd vance nashville",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "coup",
+          "name": "jd vance nashville",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "nashville",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -615,33 +634,24 @@
           "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hill country college preparatory high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "bulverde",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
+          "searchVolume": "10K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "connally high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -649,24 +659,24 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "ai news",
+      "topTopic": "airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -674,7 +684,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -682,16 +692,24 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "ai news",
+      "topTopic": "travel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "travel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -699,15 +717,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -715,7 +725,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -723,7 +733,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -731,25 +741,25 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "ai news",
+      "topTopic": "airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
         }
       ]
     },
@@ -773,24 +783,24 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "health",
+      "topTopic": "travel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "travel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -798,7 +808,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -823,24 +833,24 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "health",
+      "topTopic": "airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -848,7 +858,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -883,15 +893,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -899,7 +909,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1107,7 +1117,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1149,32 +1159,32 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "ai news",
+      "topTopic": "airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1199,16 +1209,24 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "mary hanna mattingly",
+      "topTopic": "travel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "travel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "mary hanna mattingly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1326,33 +1344,33 @@
     {
       "name": "Wyoming",
       "code": "WY",
-      "topTopic": "ai news",
+      "topTopic": "travel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "travel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "started": "9h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "started": "9h ago",
+          "percentageIncrease": "800%"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T11:07:29.233Z",
+  "timestamp": "2026-03-30T13:27:51.812Z",
   "states": [
     {
       "name": "California",
@@ -13,16 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "flight",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "frontier",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "fire",
           "percentageIncrease": "1000%"
         },
@@ -39,33 +30,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "amy",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "france",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "ice cream",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "dezi freeman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "deputy levi vargas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "baker",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "dezi freeman",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -73,32 +72,16 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "ai news",
+      "topTopic": "ice cream",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "ai news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "coup",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "ice cream",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -106,7 +89,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -114,50 +97,42 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "hernando beach fire",
+      "topTopic": "hernando beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hernando beach fire",
+          "name": "hernando beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "trendBreakdown": "hernando",
           "percentageIncrease": "500%"
         },
         {
-          "name": "car",
-          "relevanceScore": 95,
+          "name": "email",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "iran israel",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "iran israel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -165,43 +140,35 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "italian citizenship crackdown",
+      "topTopic": "lily bova glenview",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "italian citizenship crackdown",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "flight",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "frontier",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "car",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "lily bova glenview",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "walk",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "cook county property tax",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "cook",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "frontier airlines",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -225,26 +192,17 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "flight",
+      "topTopic": "ai news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "flight",
+          "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "3h ago",
-          "trendBreakdown": "frontier",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "coup",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
@@ -260,7 +218,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "detroit",
           "percentageIncrease": "100%"
         }
@@ -295,24 +253,16 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "coup",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "coup",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -372,25 +322,25 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "flight",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "flight",
-          "relevanceScore": 100,
+          "name": "frontier airlines",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "frontier",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "bomb",
+          "percentageIncrease": "100%"
         },
         {
           "name": "caroline kennedy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -398,7 +348,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -415,7 +365,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -432,7 +382,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -508,25 +458,8 @@
           "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "flight",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "frontier",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "car",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -559,25 +492,32 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "flight",
+      "topTopic": "ai news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "flight",
+          "name": "ai news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "3h ago",
-          "trendBreakdown": "frontier",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "frontier airlines",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "caroline kennedy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -653,7 +593,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -904,24 +844,16 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "coup",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "coup",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]

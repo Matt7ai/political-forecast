@@ -1,28 +1,70 @@
 {
-  "timestamp": "2026-03-29T22:36:39.166Z",
+  "timestamp": "2026-03-30T02:43:56.454Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "baker to vegas",
+      "topTopic": "amy hillyard missing",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "amy hillyard missing",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "amy",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "santee fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "fire",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "baker to vegas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "baker",
+          "started": "21h ago",
+          "trendBreakdown": "deputy",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "fire near me",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "fire",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "dezi freeman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "italian citizenship crackdown",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,49 +72,58 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "ilhan omar",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "tbs",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "tbs",
-          "relevanceScore": 95,
+          "name": "frontier airlines",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "haiti",
+      "topTopic": "shoal line fire",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "haiti",
-          "relevanceScore": 95,
+          "name": "shoal line fire",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "hernando",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "flight status",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -80,18 +131,17 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "kash patel",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "kash patel",
-          "relevanceScore": 100,
+          "name": "frontier airlines",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -107,17 +157,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "glenview shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "salem",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "lily",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "frontier airlines",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -141,26 +199,16 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "arundel mills shooting",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "arundel mills shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "arundel",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bwi wait times",
+          "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "bwi",
+          "started": "50 minutes ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -168,16 +216,24 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "dtw",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "frontier airlines",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "dtw",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "7h ago",
           "trendBreakdown": "detroit",
           "percentageIncrease": "100%"
         }
@@ -220,16 +276,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "ny post",
+      "topTopic": "emergency alert",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "emergency alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ny post",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -246,7 +310,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "14h ago",
           "trendBreakdown": "ecu",
           "percentageIncrease": "600%"
         }
@@ -255,41 +319,73 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "jimmy henchman",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "frontier airlines",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "caroline kennedy",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "ilhan omar",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "greyhound",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "jimmy henchman",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "syracuse weather",
-          "relevanceScore": 90,
+          "name": "powerball",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "news today",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "news today",
+          "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -323,16 +419,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "news today",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -407,18 +495,17 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "arundel mills mall shooting",
+      "topTopic": "caroline kennedy",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "arundel mills mall shooting",
-          "relevanceScore": 100,
+          "name": "caroline kennedy",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "arundel",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -736,17 +823,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "kash patel",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "kash patel",
-          "relevanceScore": 100,
+          "name": "frontier airlines",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
         }
       ]
     },

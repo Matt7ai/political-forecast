@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-03-30T07:59:44.136Z",
+  "timestamp": "2026-03-30T09:22:11.649Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "car",
+      "topTopic": "flight",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "flight",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "frontier",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "car",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "30 minutes ago",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,16 +30,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "fire",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ai news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -38,33 +39,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "amy",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "bomb threat frontier airlines",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "frontier",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "italian citizenship crackdown",
+          "name": "ice cream",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "dezi freeman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -72,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "baker",
           "percentageIncrease": "100%"
         }
@@ -81,17 +73,33 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "frontier airlines",
+      "topTopic": "car",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "frontier airlines",
-          "relevanceScore": 90,
+          "name": "car",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "coup",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "ice cream",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -107,42 +115,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "hernando",
           "percentageIncrease": "600%"
         },
         {
-          "name": "bomb threat frontier airlines",
+          "name": "northwest stadium",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "frontier",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "flight status",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "frontier airlines",
+      "topTopic": "coup",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "coup",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -159,7 +166,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -167,7 +174,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "walk",
           "percentageIncrease": "300%"
         },
@@ -176,7 +183,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -184,34 +191,42 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "kash patel",
+      "topTopic": "coup",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kash patel",
-          "relevanceScore": 95,
+          "name": "coup",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "400%"
+          "started": "21h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "frontier airlines",
+      "topTopic": "northwest stadium",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "frontier airlines",
-          "relevanceScore": 95,
+          "name": "northwest stadium",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "coup",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -227,7 +242,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "trendBreakdown": "detroit",
           "percentageIncrease": "100%"
         }
@@ -244,8 +259,8 @@
           "name": "coup",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -253,16 +268,24 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "frontier airlines",
+      "topTopic": "coup",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "coup",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -279,7 +302,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -296,7 +319,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "ecu",
           "percentageIncrease": "600%"
         },
@@ -305,7 +328,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -313,33 +336,41 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "car",
+      "topTopic": "flight",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "flight",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "frontier",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "car",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "900%"
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "frontier airlines",
-          "relevanceScore": 90,
+          "name": "northwest stadium",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "bomb",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "ilhan omar",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -347,7 +378,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -355,7 +386,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -363,7 +394,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -371,24 +402,16 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "bankruptcy",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "bankruptcy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -396,41 +419,50 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "kash patel",
+      "topTopic": "coup",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kash patel",
-          "relevanceScore": 95,
+          "name": "coup",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "car",
+      "topTopic": "flight",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "flight",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "frontier",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "car",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "600%"
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "italian citizenship crackdown",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -463,9 +495,9 @@
           "name": "coup",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -497,33 +529,50 @@
           "name": "coup",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "northwest stadium",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "frontier airlines",
+      "topTopic": "flight",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "frontier airlines",
-          "relevanceScore": 95,
+          "name": "flight",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "trendBreakdown": "frontier",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "northwest stadium",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "caroline kennedy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -565,34 +614,34 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "no kings protest vancouver wa",
+      "topTopic": "coup",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "no kings protest vancouver wa",
-          "relevanceScore": 95,
+          "name": "coup",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "kash patel",
+      "topTopic": "coup",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "kash patel",
+          "name": "coup",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -634,34 +683,34 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "kash patel",
+      "topTopic": "coup",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kash patel",
+          "name": "coup",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "started": "20h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "kash patel",
+      "topTopic": "coup",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kash patel",
+          "name": "coup",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "started": "21h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -842,16 +891,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "frontier airlines",
+      "topTopic": "coup",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "coup",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -910,18 +967,17 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "patrick king plainville ct",
+      "topTopic": "coup",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "patrick king plainville ct",
+          "name": "coup",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "plainville",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },

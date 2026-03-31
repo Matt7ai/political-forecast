@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T13:26:56.537Z",
+  "timestamp": "2026-03-31T15:07:42.569Z",
   "states": [
     {
       "name": "California",
@@ -13,34 +13,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "14h ago",
           "trendBreakdown": "americans",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "charlie kirk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "tyler",
-          "percentageIncrease": "200%"
         },
         {
           "name": "kid rock",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "trendBreakdown": "kid",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "charlie kirk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "tyler",
+          "percentageIncrease": "200%"
         },
         {
           "name": "axios",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -48,7 +48,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,7 +56,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -64,17 +64,18 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "kid rock",
+      "topTopic": "charlie kirk",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "kid rock",
-          "relevanceScore": 100,
+          "name": "charlie kirk",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "tyler",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -89,24 +90,16 @@
           "name": "kid rock",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "travel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "canadian citizenship for americans",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -114,16 +107,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "tyler",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "axios",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -131,7 +116,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "trendBreakdown": "palm",
           "percentageIncrease": "200%"
         }
@@ -149,7 +134,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -157,15 +142,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "ai news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -173,72 +166,65 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "charlie kirk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "tyler",
+          "percentageIncrease": "200%"
         },
         {
           "name": "travel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "american idol",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "kid rock",
+      "topTopic": "radar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kid rock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "health",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "travel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "radar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kid rock",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "charlie kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "charlie",
           "percentageIncrease": "300%"
         }
@@ -256,8 +242,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "charlie kirk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "tyler",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -297,18 +292,10 @@
           "name": "charlie kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "trendBreakdown": "tyler",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "target",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -324,51 +311,59 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "charlie kirk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "tyler",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "amber alert",
+      "topTopic": "american idol",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "amber alert",
-          "relevanceScore": 100,
+          "name": "american idol",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "amber",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "charlie kirk",
+      "topTopic": "tyler robinson",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "charlie kirk",
+          "name": "tyler robinson",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "charlie",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "kid rock",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -376,7 +371,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -384,7 +379,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -401,49 +396,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "ai news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "charlie kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "charlie",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "tyler",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "health",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kid rock",
+      "topTopic": "canadian citizenship for americans",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kid rock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "canadian citizenship for americans",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "trendBreakdown": "americans",
           "percentageIncrease": "600%"
         },
@@ -452,7 +439,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -460,25 +447,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "charlie",
+          "started": "13h ago",
+          "trendBreakdown": "tyler",
           "percentageIncrease": "200%"
         },
         {
-          "name": "deficit",
+          "name": "kid rock",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "trump presidential library",
+          "name": "axios",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -494,15 +481,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "900%"
+          "started": "16h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -510,7 +497,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -518,76 +505,84 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "ai news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "charlie kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "tyler",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "american idol",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "travel",
+      "topTopic": "kid rock",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "travel",
-          "relevanceScore": 100,
+          "name": "kid rock",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "health",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "kid rock",
+      "topTopic": "deficit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "deficit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "kid rock",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
         },
         {
           "name": "charlie kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "trendBreakdown": "tyler",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -620,7 +615,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "nashville",
           "percentageIncrease": "500%"
         },
@@ -629,7 +624,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "nashville",
           "percentageIncrease": "1000%"
         }
@@ -638,16 +633,25 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "lubbock weather",
+      "topTopic": "bulverde shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bulverde shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "bulverde",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "lubbock weather",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -655,81 +659,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "kid rock",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "canadian citizenship for americans",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "charlie kirk",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "charlie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "target",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Virginia",
-      "code": "VA",
-      "topTopic": "airport",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "health",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "travel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
           "name": "charlie kirk",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "trendBreakdown": "charlie",
           "percentageIncrease": "200%"
         },
@@ -737,8 +675,42 @@
           "name": "kid rock",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "canadian citizenship for americans",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
           "started": "14h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "topTopic": "tyler robinson",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "tyler robinson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "charlie",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kid rock",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -746,7 +718,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -763,16 +735,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "800%"
+          "started": "16h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "charlie kirk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "tyler",
+          "percentageIncrease": "300%"
         },
         {
           "name": "axios",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "american idol",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -788,7 +777,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -796,7 +785,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -804,8 +793,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "ai news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -829,16 +826,25 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "canadian citizenship for americans",
+      "topTopic": "tyler robinson",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "tyler robinson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "charlie",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "canadian citizenship for americans",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -846,25 +852,17 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "travel",
+      "topTopic": "charlie kirk",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "travel",
+          "name": "charlie kirk",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "2h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
         }
       ]
     },
@@ -930,25 +928,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "health",
+      "topTopic": "kid rock",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "health",
+          "name": "kid rock",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "target",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -964,33 +954,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "charlie kirk",
-          "relevanceScore": 95,
+          "name": "american idol",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "carroll county ms",
+      "topTopic": "american idol",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "carroll county ms",
-          "relevanceScore": 100,
+          "name": "american idol",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1154,17 +1144,26 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "kid rock",
+      "topTopic": "radar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kid rock",
+          "name": "radar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "tyler robinson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
+          "started": "50 minutes ago",
+          "trendBreakdown": "charlie",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1255,16 +1254,24 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "health",
+      "topTopic": "ai news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "ai news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1272,7 +1279,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1280,7 +1287,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1288,7 +1295,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1296,15 +1303,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "news",
+          "name": "american idol",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]

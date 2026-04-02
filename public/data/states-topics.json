@@ -1,49 +1,56 @@
 {
-  "timestamp": "2026-04-02T15:01:14.556Z",
+  "timestamp": "2026-04-02T17:01:08.102Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "ted bundy",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "800%"
+        },
+        {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "5K+",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "car accident lawyer",
+          "name": "drake",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "pam bondi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "lee",
-          "percentageIncrease": "400%"
+          "started": "11h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "christina marie plante",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "nbc",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "biden",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "kron",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -51,20 +58,12 @@
           "percentageIncrease": "200%"
         },
         {
-          "name": "supreme court birthright citizenship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "cecillia",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "neil armstrong",
+          "name": "immigration lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "300%"
         },
         {
@@ -72,7 +71,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -80,24 +79,49 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "medicare",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "msnow",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "ted bundy",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ted bundy",
+          "name": "drake",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "lee zeldin",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "pam",
           "percentageIncrease": "500%"
         },
         {
@@ -105,7 +129,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "1000%"
         },
@@ -114,17 +138,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "birthright citizenship",
+          "name": "christina marie plante",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "supreme",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "christina",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ted bundy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -141,8 +173,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "coral",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -150,7 +199,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -158,33 +207,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "pam bondi",
+          "name": "christina marie plante",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "trendBreakdown": "lee",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
           "name": "supreme court birthright citizenship",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "cecillia",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "neil armstrong",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -192,7 +231,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -200,7 +239,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -208,100 +247,108 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "ted bundy",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
+          "started": "19h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "childcare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "pooh shiesty",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "supreme court birthright citizenship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "pam bondi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "ted bundy",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "ted bundy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "car accident attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "trendBreakdown": "car",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "pam bondi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "trendBreakdown": "lee",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "supreme court birthright citizenship",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "pam bondi",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "wong",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ted bundy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "car accident attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "car",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court birthright citizenship",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -309,16 +356,24 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "neil armstrong",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "neil armstrong",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -326,7 +381,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -334,17 +389,49 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "birthright citizenship",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "birthright citizenship",
+          "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "birthright",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "personal injury attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "msnow",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -352,25 +439,49 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "birthright citizenship supreme court",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "birthright citizenship supreme court",
+          "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "ted bundy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "supreme court birthright citizenship",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -378,17 +489,25 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "accident lawyer",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "accident lawyer",
+          "name": "drake",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "car",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "lee",
           "percentageIncrease": "1000%"
         },
         {
@@ -396,7 +515,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -404,7 +523,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "wong",
           "percentageIncrease": "500%"
         },
@@ -413,7 +532,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -421,10 +540,69 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "ted bundy",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "ted bundy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "birthright citizenship supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "pam bondi",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
@@ -434,54 +612,19 @@
           "percentageIncrease": "700%"
         },
         {
-          "name": "birthright citizenship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "amendmentth",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "ted bundy",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "ted bundy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "800%"
-        },
-        {
           "name": "neil armstrong",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lee zeldin",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "pam",
-          "percentageIncrease": "200%"
         },
         {
           "name": "ny post",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "50%"
         }
@@ -490,102 +633,116 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "ted bundy",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "birthright citizenship supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "900%"
         },
         {
           "name": "childcare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "jonathan diller",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "jonathan diller",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "guy",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "pam bondi",
+          "name": "drake",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "lee",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "supreme court birthright citizenship",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "cecillia",
-          "percentageIncrease": "500%"
         },
         {
           "name": "christina marie plante",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "nbc",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "neil armstrong",
+          "name": "drake galarneau",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "luigi mangione",
+          "name": "personal injury attorney",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -593,7 +750,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -601,15 +758,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "pooh shiesty",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -617,7 +766,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -625,59 +774,83 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "msnow",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "15h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "sp",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "ted bundy",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "truck accident attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "car",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "trendBreakdown": "car",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "birthright citizenship supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "500%"
         },
         {
           "name": "neil armstrong",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -702,42 +875,49 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "ted bundy",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
+          "started": "20h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "whitney cummings",
+          "name": "pooh shiesty",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "pam bondi",
+          "name": "lindsey graham",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "lee",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "supreme court birthright citizenship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "wong",
+          "searchVolume": "100+",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -745,16 +925,32 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "ted bundy",
+      "topTopic": "pooh shiesty",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "ted bundy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -762,24 +958,24 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "birthright citizenship",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "birthright citizenship",
+          "name": "drake",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
+          "started": "6h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "ted bundy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -787,16 +983,57 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "ted bundy",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "ipaws",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "christina marie plante",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -804,94 +1041,75 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "truck",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "neil armstrong",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "pam bondi",
-          "relevanceScore": 95,
+          "name": "car accident lawyers",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "lee",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "supreme court birthright citizenship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
           "started": "24h ago",
-          "trendBreakdown": "wong",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
           "trendBreakdown": "car",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "kisd",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "lee zeldin",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lee zeldin",
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "drake",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "pam",
-          "percentageIncrease": "600%"
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "supreme court birthright citizenship",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "cecillia",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -899,42 +1117,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "weather richmond va",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "richmond",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "nato",
-          "relevanceScore": 95,
+          "name": "richmond weather",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "lee zeldin",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lee zeldin",
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "lee",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "drake",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "pam",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -942,41 +1159,56 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "wong kim ark",
+          "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "cecillia",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nathan milliron",
-          "relevanceScore": 90,
+          "name": "white house",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "16h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "radar",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "radar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1001,59 +1233,83 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "ted bundy",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lee zeldin",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "pam",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "pam bondi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "supreme court birthright citizenship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "20h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "spy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "sp",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "ted bundy",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ted bundy",
+          "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "800%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1095,16 +1351,32 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "ted bundy",
+      "topTopic": "tina peters",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "tina peters",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ted bundy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1112,29 +1384,11 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Minnesota",
-      "code": "MN",
-      "topTopic": "birthright citizenship",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "birthright citizenship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "amendmentth",
-          "percentageIncrease": "300%"
         },
         {
-          "name": "pam bondi",
+          "name": "hotels",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -1144,18 +1398,51 @@
       ]
     },
     {
+      "name": "Minnesota",
+      "code": "MN",
+      "topTopic": "pam bondi",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "wlox",
+      "topTopic": "pooh shiesty",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "wlox",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1180,18 +1467,17 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "dan santiago alcalde de villalba",
+      "topTopic": "frontier",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "dan santiago alcalde de villalba",
-          "relevanceScore": 90,
+          "name": "frontier",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "trendBreakdown": "voceroel",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1224,7 +1510,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "boise",
           "percentageIncrease": "400%"
         }
@@ -1277,7 +1563,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1319,34 +1605,34 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "ticketmaster",
+      "topTopic": "drake",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ticketmaster",
-          "relevanceScore": 90,
+          "name": "drake",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "kristi noem",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kristi noem",
-          "relevanceScore": 95,
+          "name": "pam bondi",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1362,7 +1648,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1379,8 +1665,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "laura",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "measles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1388,7 +1690,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1396,16 +1698,24 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "maps",
+      "topTopic": "drake",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "drake",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "maps",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1413,17 +1723,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "ted bundy",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ted bundy",
+          "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1447,17 +1757,25 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "ted bundy",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ted bundy",
-          "relevanceScore": 95,
+          "name": "pam bondi",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pooh shiesty",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1473,8 +1791,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "started": "15h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },

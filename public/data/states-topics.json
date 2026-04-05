@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-04-05T05:49:42.787Z",
+  "timestamp": "2026-04-05T07:13:29.438Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "trump hospital",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "12h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,31 +30,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "400%"
         },
         {
           "name": "tsa airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "queen",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "santa monica",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +63,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -61,7 +71,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -69,7 +79,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -77,76 +87,59 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "trump hospital",
+      "topTopic": "donald trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "donald trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "newstrump",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed",
+          "name": "donald trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "donald",
+          "started": "7h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "trump hospital",
+      "topTopic": "dadeland mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "trump hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "dadeland mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "8h ago",
-          "trendBreakdown": "missing",
-          "percentageIncrease": "400%"
         },
         {
           "name": "hamideh soleimani afshar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -154,7 +147,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -171,16 +164,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "piedmont",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -188,61 +190,52 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "trump walter reed",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "trump walter reed",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "10h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "9h ago",
-          "trendBreakdown": "missing",
-          "percentageIncrease": "500%"
+          "started": "11h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "donald trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "10h ago",
+          "trendBreakdown": "war",
+          "percentageIncrease": "600%"
         },
         {
           "name": "tsa airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -258,25 +251,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "donald trump hospital",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
+          "started": "10h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "iran",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         },
         {
@@ -284,7 +277,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -292,70 +285,62 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "trump walter reed",
+      "topTopic": "donald trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "donald trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "11h ago",
+          "trendBreakdown": "war",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "donald",
+          "started": "10h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "trump hospital",
+      "topTopic": "donald trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "donald trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "10h ago",
+          "trendBreakdown": "war",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed",
+          "name": "donald trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "9h ago",
-          "trendBreakdown": "donald",
+          "started": "8h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -370,16 +355,8 @@
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump walter reed",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
+          "searchVolume": "10K+",
+          "started": "10h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -388,7 +365,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -396,7 +373,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "14h ago",
           "trendBreakdown": "northeastern",
           "percentageIncrease": "1000%"
         },
@@ -405,8 +382,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "jazeeraal",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         }
       ]
@@ -414,16 +391,25 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "trump hospital",
+      "topTopic": "donald trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "donald trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "war",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -431,18 +417,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -458,26 +435,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed",
+          "name": "donald trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "1000%"
+          "searchVolume": "10K+",
+          "started": "11h ago",
+          "trendBreakdown": "war",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "trump",
+          "name": "donald trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "10K+",
           "started": "8h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "500%"
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -493,26 +470,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed",
+          "name": "donald trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "1000%"
+          "searchVolume": "10K+",
+          "started": "10h ago",
+          "trendBreakdown": "newstrump",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "trump",
+          "name": "donald trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "500%"
+          "searchVolume": "10K+",
+          "started": "8h ago",
+          "trendBreakdown": "walter",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -528,41 +505,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "8h ago",
-          "trendBreakdown": "missing",
-          "percentageIncrease": "500%"
         },
         {
           "name": "hamideh soleimani afshar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "reuters",
+          "name": "tsa airport",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "huffington",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "ny times",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -570,16 +537,25 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "trump hospital",
+      "topTopic": "donald trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "donald trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "10h ago",
+          "trendBreakdown": "war",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -587,18 +563,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "missing",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -614,7 +581,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -622,7 +589,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -631,7 +598,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "washington",
           "percentageIncrease": "500%"
         },
@@ -640,8 +607,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         }
       ]
@@ -649,34 +616,17 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "trump hospital",
+      "topTopic": "trump",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "trump hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump walter reed",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "10h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "iranian",
+          "searchVolume": "10K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         },
         {
@@ -684,7 +634,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -692,111 +642,94 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "trump hospital",
+      "topTopic": "donald trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "donald trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "newstrump",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump",
-          "relevanceScore": 95,
+          "name": "trump walter reed",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "9h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "donald trump hospital",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
+          "trendBreakdown": "donald",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "trump hospital",
+      "topTopic": "donald trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump hospital",
+          "name": "donald trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "war",
+          "percentageIncrease": "600%"
         },
         {
           "name": "donald trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "700%"
         },
         {
-          "name": "trump",
-          "relevanceScore": 95,
+          "name": "trump hospital",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "trump hospital",
+      "topTopic": "tsa airport",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "trump hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "8h ago",
-          "trendBreakdown": "second",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "tsa airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "hamideh soleimani afshar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -804,7 +737,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -812,7 +745,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -829,7 +762,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
         },
@@ -838,7 +771,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -846,8 +779,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "iran",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         }
       ]
@@ -855,34 +788,34 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "trump walter reed",
+      "topTopic": "donald trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "donald trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "war",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "jazeeraal",
-          "percentageIncrease": "500%"
         },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -890,7 +823,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -907,16 +840,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "shot",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         }
       ]
@@ -941,34 +874,34 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "trump walter reed",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "trump walter reed",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "jazeeraal",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         }
       ]
@@ -985,15 +918,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "president",
           "percentageIncrease": "600%"
         },
@@ -1001,9 +934,9 @@
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "iran",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "300%"
         }
       ]
@@ -1019,9 +952,9 @@
           "name": "trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "trendBreakdown": "iran",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "600%"
         },
         {
@@ -1029,16 +962,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
+          "started": "8h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump walter reed",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "trump",
+          "started": "9h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         },
         {
@@ -1046,7 +979,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1063,24 +996,34 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "trump hospital",
+      "topTopic": "trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1088,71 +1031,54 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "trump hospital",
+      "topTopic": "donald trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump walter reed",
+          "name": "donald trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
+          "started": "10h ago",
+          "trendBreakdown": "newstrump",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "trump",
+          "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "600%"
+          "searchVolume": "10K+",
+          "started": "10h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "target",
+      "topTopic": "donald trump",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "target",
-          "relevanceScore": 90,
+          "name": "donald trump",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "trendBreakdown": "shot",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1236,7 +1162,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1244,7 +1170,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1260,8 +1186,9 @@
           "name": "trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "500%"
         }
       ]
@@ -1278,7 +1205,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "11h ago",
           "trendBreakdown": "raymond",
           "percentageIncrease": "1000%"
         },
@@ -1287,7 +1214,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "500%"
         }
       ]
@@ -1304,7 +1232,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1321,7 +1249,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         }
       ]
@@ -1329,33 +1258,33 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "trump hospital",
+      "topTopic": "trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "600%"
         },
         {
           "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         }
@@ -1372,26 +1301,18 @@
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "trump walter reed",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "president",
-          "percentageIncrease": "700%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "shot",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         },
         {
@@ -1399,7 +1320,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1415,27 +1336,19 @@
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "trump",
+          "name": "donald trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "iran",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "newstrump",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "donald trump hospital",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1451,15 +1364,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
+          "started": "8h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "300%"
         },
         {
@@ -1467,9 +1381,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "donald",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1485,7 +1399,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1493,7 +1407,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -1502,7 +1416,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         }
       ]
@@ -1519,26 +1434,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "shot",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "500%"
         },
         {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "trump walter reed",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
           "started": "8h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1553,8 +1460,9 @@
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "300%"
         }
       ]
@@ -1571,26 +1479,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
+          "started": "8h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "600%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "shot",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "donald trump hospital",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1674,7 +1582,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T22:35:43.686Z",
+  "timestamp": "2026-04-05T02:43:37.582Z",
   "states": [
     {
       "name": "California",
@@ -12,59 +12,42 @@
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
+          "searchVolume": "10K+",
+          "started": "7h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump walter reed",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump walter reed today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "900%"
         },
         {
           "name": "hamideh soleimani afshar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "900%"
+          "started": "10h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "iranian fighter jets",
+          "name": "iran war fighter jets",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "500%"
+          "started": "13h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "tsa airport",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "ig",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "go",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -72,153 +55,177 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "crown fire acton",
+          "name": "go",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "new york times",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "nato",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "ktla",
+          "name": "water",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
+          "started": "16h ago",
+          "percentageIncrease": "75%"
+        },
+        {
+          "name": "huffington post",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "iranian fighter jets",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iranian fighter jets",
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "iran war fighter jets",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "500%"
+          "started": "11h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "trump hospital",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "6h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed today",
+          "name": "tsa airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "100+",
           "started": "1h ago",
-          "trendBreakdown": "walter",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "dadeland mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "iranian fighter jets",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nato",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "marion county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
+          "started": "7h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "hamideh soleimani afshar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "nato meaning",
+          "name": "missing pilot iran",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "trump hospital",
+      "topTopic": "piedmont park",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "piedmont park",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "piedmont",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "iran war fighter jets",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "500+",
+          "started": "12h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "800%"
         }
@@ -227,6 +234,41 @@
     {
       "name": "Illinois",
       "code": "IL",
+      "topTopic": "trump walter reed",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "president",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "iran war fighter jets",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
       "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -236,61 +278,67 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "trump",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "iranian fighter jets",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "iran",
+          "started": "5h ago",
+          "trendBreakdown": "president",
           "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "iranian fighter jets",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
+        },
         {
-          "name": "iranian fighter jets",
+          "name": "iran war fighter jets",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "iran",
+          "started": "10h ago",
+          "trendBreakdown": "iranian",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "iran war fighter jets",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "iran war fighter jets",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "12h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "800%"
         }
@@ -299,6 +347,102 @@
     {
       "name": "Michigan",
       "code": "MI",
+      "topTopic": "trump walter reed",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "iran war fighter jets",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "trump walter reed",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "raymond nh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "newsboston",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "northeastern shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "northeastern",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "iranian fighter jets",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
       "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -307,97 +451,25 @@
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "is trump in the hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "nato",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "iranian",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "raymond nh",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "raymond nh",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "breaking",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "iranian fighter jets",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "northeastern shooting",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "northeastern",
+          "started": "5h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "iran war fighter jets",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
+        },
         {
           "name": "iran war fighter jets",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "800%"
         }
@@ -406,44 +478,25 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "trump hospital",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump hospital",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "iranian fighter jets",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "trump hospital",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -451,7 +504,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "12h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "trump walter reed",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "iran war fighter jets",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "1000%"
         }
@@ -460,51 +548,42 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "trump hospital",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed today",
+          "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "walter",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "iranian fighter jets",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "iran",
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
           "name": "hamideh soleimani afshar",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "tsa airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "700%"
         },
         {
@@ -512,34 +591,50 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "missing pilot iran",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "ny times",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "trump hospital",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump hospital",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed today",
+          "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "donald",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -547,7 +642,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "iranian",
           "percentageIncrease": "1000%"
         }
@@ -556,16 +651,25 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "trump hospital",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -573,7 +677,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "shot",
           "percentageIncrease": "200%"
         }
@@ -582,44 +686,43 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "trump hospital",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "iranian fighter jets",
+          "name": "iran war fighter jets",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "iran",
+          "started": "12h ago",
+          "trendBreakdown": "iranian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "samuel alito",
+          "name": "john fetterman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -634,51 +737,8 @@
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nato",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        }
-      ]
-    },
-    {
-      "name": "Tennessee",
-      "code": "TN",
-      "topTopic": "nato",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "nato",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        }
-      ]
-    },
-    {
-      "name": "Texas",
-      "code": "TX",
-      "topTopic": "trump hospital",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -686,33 +746,86 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "code": "TN",
+      "topTopic": "trump hospital",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "donald trump hospital",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
+          "started": "5h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "trump walter reed",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "iranian fighter jets",
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "iran war fighter jets",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "500%"
+          "started": "13h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "tsa airport",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "hamideh soleimani afshar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -720,7 +833,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -728,7 +841,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -736,6 +849,84 @@
     {
       "name": "Virginia",
       "code": "VA",
+      "topTopic": "trump walter reed",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "iran war fighter jets",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "trump walter reed",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "iran war fighter jets",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "iranian",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "hamideh soleimani afshar",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "code": "OK",
       "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -745,81 +936,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump walter reed today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "iranian fighter jets",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "iran",
+          "started": "3h ago",
           "percentageIncrease": "700%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "trump walter reed today",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump walter reed today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "walter",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump hospital",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "iranian fighter jets",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "800%"
-        }
-      ]
-    },
-    {
-      "name": "Oklahoma",
-      "code": "OK",
-      "topTopic": "news",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "shot",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -843,6 +961,32 @@
     {
       "name": "Washington",
       "code": "WA",
+      "topTopic": "trump walter reed",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Alabama",
+      "code": "AL",
       "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -852,51 +996,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "iran war fighter jets",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "shot",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Alabama",
-      "code": "AL",
-      "topTopic": "act",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "act",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "trendBreakdown": "president",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "wichita weather",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "is trump in the hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "wichita weather",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -922,43 +1065,51 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "trump hospital",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump hospital",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed today",
+          "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "trump hospital",
+      "topTopic": "trump walter reed",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1018,52 +1169,51 @@
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "pooh shiesty",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "pooh shiesty",
+          "name": "trump hospital",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "pocatello shooting",
+      "topTopic": "east idaho news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "pocatello shooting",
-          "relevanceScore": 100,
+          "name": "east idaho news",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "21h ago",
-          "trendBreakdown": "east",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "wabi",
+      "topTopic": "raymond nh",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wabi",
-          "relevanceScore": 90,
+          "name": "raymond nh",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1095,10 +1245,18 @@
           "name": "raymond nh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "raymond",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1149,51 +1307,60 @@
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump walter reed today",
+          "name": "trump walter reed",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "iran war fighter jets",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "shot",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nato",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "fox news",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1201,16 +1368,16 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "act",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "act",
+          "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1218,18 +1385,17 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "pam bondi",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "pam bondi",
+          "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "todd",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1244,8 +1410,17 @@
           "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
         },
         {
@@ -1253,7 +1428,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1261,17 +1436,26 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "gucci mane",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "gucci mane",
+          "name": "trump hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump walter reed",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1287,7 +1471,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1295,18 +1479,17 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "news today",
+      "topTopic": "trump hospital",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "news today",
-          "relevanceScore": 90,
+          "name": "trump hospital",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "shot",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1390,7 +1573,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]

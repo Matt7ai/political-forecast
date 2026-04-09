@@ -1,55 +1,87 @@
 {
-  "timestamp": "2026-04-09T15:25:55.124Z",
+  "timestamp": "2026-04-09T17:13:04.672Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "pam bondi deposition",
+      "topTopic": "military draft",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "military draft",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "trendBreakdown": "automatic",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "judge halts ethiopia tps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "us forest service",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "pam bondi deposition",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "house",
           "percentageIncrease": "700%"
         },
         {
-          "name": "military draft",
+          "name": "personal injury lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "14h ago",
-          "trendBreakdown": "automatic",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "courtney williams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "courtney",
+          "started": "17h ago",
+          "trendBreakdown": "seth",
           "percentageIncrease": "300%"
         },
         {
-          "name": "gilgo beach killer",
+          "name": "abigail spanberger",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "gerhardt konig",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
+          "trendBreakdown": "arielle",
           "percentageIncrease": "200%"
         },
         {
@@ -57,7 +89,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -65,7 +97,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -73,7 +105,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -81,7 +113,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -89,7 +121,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -97,7 +129,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "chico weather",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -105,11 +145,19 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "toilet paper warehouse fire",
+          "name": "truck accident lawyer",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "diddy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -117,11 +165,19 @@
           "percentageIncrease": "100%"
         },
         {
+          "name": "toilet paper warehouse fire",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
           "name": "sotomayor rebukes kavanaugh",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -129,7 +185,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -137,51 +193,74 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "rex heuermann",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "bomber",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "gilgo beach killer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "courtney williams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "seth",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "srp election",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "trendBreakdown": "srp",
+          "searchVolume": "500+",
+          "started": "14h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "military draft",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "military",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "kimberly clark warehouse fire",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "car accident attorney",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "21h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "300%"
         }
@@ -190,35 +269,58 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "courtney williams",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "courtney williams",
+          "name": "judge halts ethiopia tps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "courtney",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "military draft",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
-          "trendBreakdown": "draftus",
-          "percentageIncrease": "500%"
+          "started": "15h ago",
+          "trendBreakdown": "draft",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "gilgo beach killer",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
+          "started": "5h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "courtney williams",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "us forest service",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "legalization",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -226,7 +328,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -234,25 +336,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "house",
           "percentageIncrease": "700%"
         },
         {
-          "name": "kimberly clark warehouse fire",
+          "name": "chamel abdulkarim",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "17h ago",
           "trendBreakdown": "kimberly",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "submarine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "minnesota classic car law",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -260,15 +370,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "wsvn",
+          "name": "diddy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -276,33 +386,49 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "wsvn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "rex heuermann",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "military draft",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "automatic",
+          "percentageIncrease": "400%"
         },
         {
           "name": "courtney williams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "seth",
           "percentageIncrease": "300%"
         }
@@ -311,52 +437,68 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "rex heuermann",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "judge halts ethiopia tps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "courtney williams",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "trendBreakdown": "seth",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "military draft",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "military",
-          "percentageIncrease": "500%"
+          "started": "16h ago",
+          "trendBreakdown": "draftus",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "robert bee pekin il",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "robert",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "courtney williams",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "seth",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kimberly clark warehouse fire",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "chamel",
+          "percentageIncrease": "300%"
         },
         {
           "name": "bomber",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -364,51 +506,73 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "act",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "rex heuermann",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "judge halts ethiopia tps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "rex heuermann",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "judge halts ethiopia tps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "pam bondi deposition",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -416,42 +580,49 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "seth",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "military draft",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "rex heuermann",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "judge halts ethiopia tps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pension",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "bomber",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -459,33 +630,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "car chase",
-          "relevanceScore": 100,
+          "name": "nba ben",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "courtney williams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "seth",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "military draft",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -500,32 +663,32 @@
           "name": "legalization",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "kimberly clark warehouse fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "gilgo beach killer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "pam bondi deposition",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -533,7 +696,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -541,16 +704,32 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "courtney williams",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "judge halts ethiopia tps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "courtney williams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "seth",
           "percentageIncrease": "400%"
         },
@@ -559,7 +738,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "trendBreakdown": "gilgo",
           "percentageIncrease": "300%"
         }
@@ -568,51 +747,84 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "american dream meadowlands",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "american dream meadowlands",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "military draft",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "draftus",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "courtney williams",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "seth",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "courtney williams",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "courtney williams",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "seth",
           "percentageIncrease": "600%"
         },
         {
-          "name": "rex heuermann",
+          "name": "military draft",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
+          "searchVolume": "500+",
+          "started": "14h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "us forest service",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "legalization",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -620,7 +832,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -628,7 +840,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -645,67 +857,83 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "draftus",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "judge halts ethiopia tps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "zohran mamdani jessica tisch",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "900%"
         },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "american dream meadowlands",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "pam bondi deposition",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "erik duran",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "kimberly clark warehouse fire",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "kimberly",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "courtney williams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "seth",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
-          "name": "karen vergata",
+          "name": "bomber",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "gilgo",
+          "searchVolume": "500+",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -713,63 +941,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "car accident lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "bomber",
+          "name": "gilgo beach serial killer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
+          "started": "23h ago",
+          "trendBreakdown": "asa",
+          "percentageIncrease": "200%"
         },
         {
           "name": "social security april",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car chase",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "take it down act",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -777,43 +974,59 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "courtney williams",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "courtney williams",
+          "name": "judge halts ethiopia tps",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "5h ago",
-          "trendBreakdown": "seth",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "rex heuermann",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "supreme court of the united states",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "700%"
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "bomber",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "military draft",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "courtney williams",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "seth",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "gilgo beach killer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -829,7 +1042,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -846,33 +1059,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "mike",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "gilgo beach killer",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "legalization",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "pam bondi deposition",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         },
         {
           "name": "military draft",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "military",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "draftus",
           "percentageIncrease": "400%"
         },
         {
@@ -880,16 +1101,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "seth",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "car chase",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -897,33 +1110,41 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "rex heuermann",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "judge halts ethiopia tps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "courtney williams",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "seth",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "seth harp",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "trendBreakdown": "courtney",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "ice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -931,104 +1152,134 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "independence high school",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "judge halts ethiopia tps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "independence high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "gilgo beach killer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "courtney williams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "seth",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "rex heuermann",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "rex heuermann",
+      "topTopic": "splendora high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "splendora high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kimberly clark warehouse fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "2h ago",
-          "trendBreakdown": "chamel",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "judge halts ethiopia tps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "pam bondi deposition",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "house",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "courtney williams",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "seth",
-          "percentageIncrease": "400%"
         },
         {
           "name": "military draft",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "trendBreakdown": "automatic",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "courtney williams",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "seth",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "chamel abdulkarim",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "trendBreakdown": "kimberly",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "us forest service",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "bomber",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1036,7 +1287,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1044,7 +1295,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1052,7 +1303,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1069,25 +1320,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
-          "trendBreakdown": "courtney",
+          "started": "16h ago",
+          "trendBreakdown": "seth",
           "percentageIncrease": "600%"
         },
         {
-          "name": "rex heuermann",
+          "name": "military draft",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "bomber",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1104,18 +1362,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "16h ago",
           "trendBreakdown": "seth",
           "percentageIncrease": "500%"
         },
         {
-          "name": "rex heuermann",
+          "name": "us forest service",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1131,7 +1396,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1156,44 +1421,43 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "rex heuermann",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "courtney williams",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "seth",
+          "percentageIncrease": "500%"
         },
         {
           "name": "pam bondi deposition",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "courtney williams",
+          "name": "kimberly clark warehouse fire",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "seth",
+          "started": "3h ago",
+          "trendBreakdown": "kimberly",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "military draft",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "trendBreakdown": "military",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1209,7 +1473,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1251,41 +1515,57 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "rex heuermann",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "judge halts ethiopia tps",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "rex heuermann",
+      "topTopic": "judge halts ethiopia tps",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "judge halts ethiopia tps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "courtney williams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "seth",
           "percentageIncrease": "200%"
         }
@@ -1328,17 +1608,18 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "sbs",
+      "topTopic": "el nuevo",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "sbs",
-          "relevanceScore": 100,
+          "name": "el nuevo",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "nuevo",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1465,25 +1746,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "rex heuermann",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rex heuermann",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "pam bondi deposition",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1491,7 +1771,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1516,17 +1796,17 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "athena strand",
+      "topTopic": "supreme court",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "athena strand",
-          "relevanceScore": 95,
+          "name": "supreme court",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1550,25 +1830,16 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "rex heuermann",
+      "topTopic": "athena strand",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "rex heuermann",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "gilgo",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "athena strand",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1585,7 +1856,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1610,18 +1881,17 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "amber alert",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "amber alert",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "amber",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1688,7 +1958,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]

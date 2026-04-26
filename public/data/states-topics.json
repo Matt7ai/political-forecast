@@ -1,37 +1,61 @@
 {
-  "timestamp": "2026-04-26T16:49:30.709Z",
+  "timestamp": "2026-04-26T19:01:20.379Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "cole thomas allen",
+      "topTopic": "cole allen",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "cole thomas allen",
+          "name": "cole allen",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "cole",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jeanine pirro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "kerry kennedy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "fire near me",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "fires",
           "percentageIncrease": "400%"
         },
@@ -40,7 +64,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -48,7 +72,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -56,7 +80,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -64,7 +88,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "hung",
           "percentageIncrease": "100%"
         },
@@ -73,7 +97,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -81,18 +105,26 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "trump",
+      "topTopic": "white house correspondents'",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
+          "name": "white house correspondents'",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "16h ago",
-          "trendBreakdown": "white",
+          "started": "19h ago",
+          "trendBreakdown": "cole",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -107,25 +139,33 @@
           "name": "fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "newsmax",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "hung",
           "percentageIncrease": "200%"
         },
@@ -134,40 +174,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "city",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "trump",
+      "topTopic": "trump assassination attempt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
+          "name": "trump assassination attempt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "16h ago",
+          "started": "17h ago",
+          "trendBreakdown": "cole",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "russia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "newsmax",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -175,7 +216,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -183,7 +224,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -191,17 +232,26 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "trump",
+      "topTopic": "white house correspondents'",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
+          "name": "white house correspondents'",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "16h ago",
-          "trendBreakdown": "white",
+          "started": "21h ago",
+          "trendBreakdown": "cole",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "john bartholomew cpd",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "17h ago",
+          "trendBreakdown": "john",
           "percentageIncrease": "1000%"
         },
         {
@@ -209,16 +259,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "shootingiu",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -226,7 +276,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -234,17 +284,17 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "trump",
+      "topTopic": "white house correspondents'",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
+          "name": "white house correspondents'",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "16h ago",
-          "trendBreakdown": "white",
+          "started": "18h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
@@ -252,9 +302,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "shootingiu",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump endorsed indiana primary challengers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "indiana",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -270,8 +329,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "13h ago",
-          "trendBreakdown": "thomas",
+          "started": "16h ago",
+          "trendBreakdown": "cole",
           "percentageIncrease": "1000%"
         }
       ]
@@ -288,7 +347,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -297,7 +356,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -305,7 +364,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -322,7 +381,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "cole",
           "percentageIncrease": "1000%"
         },
@@ -331,8 +390,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "samuel macausland wellesley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "trendBreakdown": "janette",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -348,7 +416,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -357,7 +425,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -365,12 +433,12 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "trump",
+      "topTopic": "cole allen",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
+          "name": "cole allen",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
@@ -383,7 +451,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -391,7 +459,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -408,7 +476,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "trendBreakdown": "allencole",
           "percentageIncrease": "1000%"
         },
         {
@@ -416,15 +485,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "weather raleigh",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -432,24 +509,40 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kash patel",
+      "topTopic": "jeanine pirro",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "jeanine pirro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "newsmax",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -457,15 +550,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "indiana university shooting",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "indiana",
+          "percentageIncrease": "100%"
         },
         {
           "name": "hospitals",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -473,7 +575,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -481,7 +583,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -489,50 +591,58 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "trump",
+      "topTopic": "white house correspondents'",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
+          "name": "white house correspondents'",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "16h ago",
-          "trendBreakdown": "white",
+          "started": "20h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "russia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "pima county",
+      "topTopic": "kash patel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "pima county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -540,7 +650,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -548,17 +658,17 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "trump",
+      "topTopic": "white house correspondents'",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
+          "name": "white house correspondents'",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "16h ago",
-          "trendBreakdown": "white",
+          "started": "21h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
@@ -566,15 +676,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "hospitals",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -582,7 +700,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -590,16 +708,25 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "kash patel",
+      "topTopic": "white house correspondents'",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "white house correspondents'",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "18h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -616,7 +743,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "16h ago",
+          "started": "18h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
@@ -624,7 +752,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -632,24 +760,40 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "kash patel",
+      "topTopic": "gateway church prosper",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "gateway church prosper",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "newsmax",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -657,7 +801,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -665,25 +809,33 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "white house correspondents'",
+      "topTopic": "cole thomas allen",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "white house correspondents'",
+          "name": "cole thomas allen",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "18h ago",
-          "trendBreakdown": "thomas",
+          "started": "16h ago",
+          "trendBreakdown": "white",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -700,16 +852,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "cole",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "msnbc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -717,7 +877,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -734,7 +894,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -751,7 +911,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "white",
           "percentageIncrease": "700%"
         }
@@ -760,17 +920,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "trump",
+      "topTopic": "cole allen",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
+          "name": "cole allen",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
           "started": "16h ago",
-          "trendBreakdown": "white",
+          "trendBreakdown": "cole",
           "percentageIncrease": "1000%"
         }
       ]
@@ -795,24 +955,16 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "pima county",
+      "topTopic": "kash patel",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "pima county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -820,26 +972,18 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "trump assassination attempt",
+      "topTopic": "trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump assassination attempt",
+          "name": "trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
-          "trendBreakdown": "thomas",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "pima county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "18h ago",
+          "trendBreakdown": "cole",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -855,51 +999,67 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "17h ago",
+          "started": "19h ago",
+          "trendBreakdown": "cole",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "trump",
+      "topTopic": "white house correspondents'",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
+          "name": "white house correspondents'",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "15h ago",
-          "trendBreakdown": "white",
+          "started": "19h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "russia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "trump assassination attempt",
+      "topTopic": "cole allen",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump assassination attempt",
+          "name": "cole allen",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
-          "trendBreakdown": "cole",
-          "percentageIncrease": "1000%"
+          "started": "15h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "pima county",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -916,7 +1076,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "fox",
           "percentageIncrease": "1000%"
         }
@@ -934,23 +1094,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "san juan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "jenniffer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -958,7 +1102,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "trumpdonald",
           "percentageIncrease": "900%"
         }
@@ -976,7 +1120,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "white",
           "percentageIncrease": "1000%"
         },
@@ -985,7 +1129,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -993,56 +1137,6 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "trump assassination attempt",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump assassination attempt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dirk kempthorne",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Maine",
-      "code": "ME",
-      "topTopic": "trump assassination attempt",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump assassination attempt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "pima county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "Nebraska",
-      "code": "NE",
       "topTopic": "trump",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1051,17 +1145,44 @@
           "name": "trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "15h ago",
+          "searchVolume": "5K+",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Maine",
+      "code": "ME",
+      "topTopic": "trump",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
         {
-          "name": "pima county",
+          "name": "trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "trendBreakdown": "white",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "code": "NE",
+      "topTopic": "cole allen",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "cole allen",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1077,7 +1198,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "cole",
           "percentageIncrease": "1000%"
         }
@@ -1095,8 +1216,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "cole",
+          "started": "18h ago",
+          "trendBreakdown": "white",
           "percentageIncrease": "1000%"
         },
         {
@@ -1104,7 +1225,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1112,31 +1233,6 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "trump assassination attempt",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump assassination attempt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "14h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "pima county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        }
-      ]
-    },
-    {
-      "name": "Wisconsin",
-      "code": "WI",
       "topTopic": "trump",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1145,8 +1241,35 @@
           "name": "trump",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "trendBreakdown": "white",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "code": "WI",
+      "topTopic": "white house correspondents'",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "white house correspondents'",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "15h ago",
+          "started": "18h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "minocqua brewing company",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1163,7 +1286,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1171,24 +1294,16 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "pima county",
+      "topTopic": "kash patel",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "pima county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1196,24 +1311,16 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "pima county",
+      "topTopic": "kash patel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "pima county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "kash patel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1255,33 +1362,25 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "white house correspondents'",
+      "topTopic": "trump assassination attempt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "white house correspondents'",
+          "name": "trump assassination attempt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
-          "trendBreakdown": "trump",
+          "started": "17h ago",
+          "trendBreakdown": "thomas",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "pima county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "arkansas state university",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "unity",
           "percentageIncrease": "300%"
         }
@@ -1299,7 +1398,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1316,7 +1415,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1324,18 +1423,17 @@
     {
       "name": "Hawaii",
       "code": "HI",
-      "topTopic": "trump assassination attempt",
+      "topTopic": "trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump assassination attempt",
+          "name": "trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "allencole",
-          "percentageIncrease": "600%"
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1351,7 +1449,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "white",
           "percentageIncrease": "1000%"
         }
@@ -1369,7 +1467,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1386,7 +1484,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]

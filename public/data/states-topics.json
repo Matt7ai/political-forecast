@@ -1,79 +1,88 @@
 {
-  "timestamp": "2026-04-28T17:51:50.583Z",
+  "timestamp": "2026-04-28T19:46:45.845Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "how old is king charles",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "how old is king charles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "queen",
-          "percentageIncrease": "600%"
+          "started": "4h ago",
+          "trendBreakdown": "king",
+          "percentageIncrease": "900%"
         },
         {
           "name": "dhs funding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "dhs",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "mandatory evacuation west bountiful utah",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "el jardinero",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "chp",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "hour",
           "percentageIncrease": "200%"
         },
         {
-          "name": "sun valley orchards labor dispute",
+          "name": "damon jones",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "el jardinero",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "green card",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "hotels",
+          "name": "princess diana",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "jeanine",
+          "started": "4h ago",
+          "trendBreakdown": "catherine",
           "percentageIncrease": "100%"
         },
         {
@@ -81,7 +90,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -89,58 +98,77 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "pete hegseth",
+      "topTopic": "king charles",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
+          "name": "king charles",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "4h ago",
+          "trendBreakdown": "how",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "mlb scores",
-          "relevanceScore": 90,
+          "name": "james comey",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "how old is king charles",
+      "topTopic": "trump administration immigration detention lawsuit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "how old is king charles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "queen",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "sun valley orchards labor dispute",
+          "name": "amy coney barrett",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "temporary",
+          "percentageIncrease": "500%"
         },
         {
           "name": "dhs funding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "dhs",
           "percentageIncrease": "700%"
         },
@@ -149,7 +177,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -157,7 +185,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -165,144 +193,19 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "temporary protected status",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "icon park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "governor of tennessee",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "hotels",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "jeanine",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "joshua trent jacksonville fl",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "maps",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "daily mail",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "50%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "king charles",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "hotels",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "maps",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "us map",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "dhs funding",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "dhs funding",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "todd blanche metropolitan club resistance",
+          "name": "new us visa rules",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -310,44 +213,110 @@
           "percentageIncrease": "300%"
         },
         {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
+          "name": "hotels",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         },
         {
-          "name": "sun valley orchards labor dispute",
+          "name": "joshua trent jacksonville fl",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "maps",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "trump administration immigration detention lawsuit",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "king charles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "21h ago",
+          "trendBreakdown": "how",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "maryland surveillance pricing ban",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "us map",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "hotels",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "trendBreakdown": "jeanine",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "james comey",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dhs funding",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sun valley orchards labor dispute",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "us map",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "hospitals",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -355,50 +324,58 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "andrew dezelan",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "andrew dezelan",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "wthr",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "pete hegseth",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "wdrb",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "dhs funding",
+      "topTopic": "king charles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "king charles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "how",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "dhs funding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -406,23 +383,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "sun valley orchards labor dispute",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -430,25 +399,25 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "wells hall",
+      "topTopic": "pete hegseth",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "wells hall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "wells",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "pete hegseth",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "wells hall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "wells",
           "percentageIncrease": "500%"
         },
         {
@@ -456,33 +425,43 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "king charles",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "how",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "monk",
+      "topTopic": "king charles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "monk",
+          "name": "king charles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "how",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -498,7 +477,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
+          "trendBreakdown": "nba",
           "percentageIncrease": "100%"
         }
       ]
@@ -506,33 +486,16 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "jeanine pirro",
+      "topTopic": "green card",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "jeanine pirro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "green card",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -540,7 +503,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -548,118 +511,85 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "king charles",
+      "topTopic": "james comey",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "king charles",
-          "relevanceScore": 95,
+          "name": "james comey",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "wbtv",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "trump administration immigration detention lawsuit",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "indictmentcomey",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "how old is king charles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "queen",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "dhs funding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "dhs",
           "percentageIncrease": "600%"
         },
         {
-          "name": "jeanine pirro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "mandatory evacuation order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "trendBreakdown": "mandatory",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "todd blanche metropolitan club resistance",
+          "name": "amy coney barrett",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "uscis must resume processing paused green card applications immediately",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "200%"
         },
         {
-          "name": "how old is king charles",
+          "name": "todd blanche metropolitan club resistance",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "queen",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "sun valley orchards labor dispute",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "green card",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -667,24 +597,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "cal",
+          "name": "bank",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "daily mail",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "50%"
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -700,73 +622,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "cincinnati weather",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "maps",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "us map",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "king charles",
+      "topTopic": "pete hegseth",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "pete hegseth",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -774,24 +647,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "pete hegseth",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "pete hegseth",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "sun valley orchards labor dispute",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -799,49 +672,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "governor of tennessee",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "king charles",
+      "topTopic": "weather radar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "king charles",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "weather radar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -849,75 +697,83 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "news",
+      "topTopic": "james comey",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "news",
-          "relevanceScore": 85,
+          "name": "james comey",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "75%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "dhs funding",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "how old is king charles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "dhs funding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "dhs",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "damon jones",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "peter holt yacht captain lawsuits",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "sun valley orchards labor dispute",
+          "name": "damon jones",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "pete hegseth",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -925,24 +781,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "hotels",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "jeanine",
-          "percentageIncrease": "100%"
         },
         {
           "name": "stephen miller",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -950,7 +797,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -958,67 +805,68 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "layoff",
+      "topTopic": "granby high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "layoff",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "pete hegseth",
+          "name": "granby high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "how old is king charles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "king",
+          "percentageIncrease": "900%"
         },
         {
           "name": "dhs funding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "mandatory evacuation order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "dhs funding",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "comey",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "dhs funding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "weather washington",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1061,16 +909,16 @@
       "code": "WA",
       "topTopic": "king charles",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "king charles",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "18h ago",
           "trendBreakdown": "how",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1086,7 +934,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1094,7 +942,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1102,17 +950,17 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "supreme court texas redistricting",
+      "topTopic": "salad",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "supreme court texas redistricting",
-          "relevanceScore": 100,
+          "name": "salad",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1137,16 +985,16 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "king charles",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "king charles",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "10 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1154,7 +1002,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1162,7 +1010,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1170,17 +1018,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "king charles",
+      "topTopic": "trump administration immigration detention lawsuit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "king charles",
+          "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "900%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1365,16 +1213,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "sun valley orchards labor dispute",
+      "topTopic": "speed limit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "speed limit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "sun valley orchards labor dispute",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1382,7 +1238,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1390,7 +1246,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1417,30 +1273,22 @@
       "code": "NV",
       "topTopic": "king charles",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "king charles",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "supreme court texas redistricting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "ccsd",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1474,25 +1322,17 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "supreme court texas redistricting",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court texas redistricting",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1508,8 +1348,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "800%"
+          "started": "4h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1533,18 +1373,17 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "cole allen",
+      "topTopic": "king charles",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "cole allen",
-          "relevanceScore": 100,
+          "name": "king charles",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "jacqui",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T21:11:52.059Z",
+  "timestamp": "2026-04-28T23:01:05.208Z",
   "states": [
     {
       "name": "California",
@@ -12,8 +12,8 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
+          "searchVolume": "10K+",
+          "started": "4h ago",
           "trendBreakdown": "meaning",
           "percentageIncrease": "1000%"
         },
@@ -21,68 +21,26 @@
           "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "trump passport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "trendBreakdown": "passportus",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "dhs funding",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "dhs",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "chp",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "hour",
-          "percentageIncrease": "200%"
         },
         {
           "name": "king charles speech to congress",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "bayer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "backyard poultry",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "el jardinero",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
+          "started": "2h ago",
+          "trendBreakdown": "how",
           "percentageIncrease": "200%"
         },
         {
@@ -90,31 +48,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "green card",
+          "name": "dhs funding bill",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "22h ago",
+          "trendBreakdown": "did",
           "percentageIncrease": "200%"
         },
         {
-          "name": "amy coney barrett",
-          "relevanceScore": 90,
+          "name": "backyard poultry",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "david morens indictment",
+          "name": "chp",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -122,7 +81,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -130,8 +89,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "catherine",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "david morens indictment",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -139,7 +106,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -147,7 +114,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -155,16 +122,32 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "king charles",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "king charles",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "king charles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "trendBreakdown": "how",
           "percentageIncrease": "500%"
         }
@@ -181,17 +164,17 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "james",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
           "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -199,66 +182,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "temporary",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "trump passport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "how old is king charles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "king",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "dhs funding",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "dhs",
-          "percentageIncrease": "700%"
         },
         {
           "name": "fort myers",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "bayer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "delcy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "icon park",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "uscis must resume processing paused green card applications immediately",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "9h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "rosa delauro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -266,31 +224,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "rosa delauro",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
-        {
           "name": "maurene comey trump administration lawsuit",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "hotels",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
+          "trendBreakdown": "kirkcharlie",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "dhs funding bill",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -298,15 +257,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "uscis",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
         },
         {
           "name": "maps",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -322,33 +289,33 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "meaning",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "king charles",
+          "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "trump passport",
-          "relevanceScore": 100,
+          "name": "amy coney barrett",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "900%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "hotels",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -356,7 +323,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -364,7 +331,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -380,42 +347,42 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "indictmentcomey",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
           "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "trump passport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dhs funding",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "started": "2h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "us map",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "hotels",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -431,7 +398,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -439,7 +406,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "how",
           "percentageIncrease": "600%"
         },
@@ -448,7 +415,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -465,57 +432,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "indictmentcomey",
+          "started": "4h ago",
+          "trendBreakdown": "meaning",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump administration immigration detention lawsuit",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "trump passport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "dhs funding",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "king charles",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "how",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "wbal",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "sun valley orchards labor dispute",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -531,16 +458,33 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "meaning",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trump passport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "king charles",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "how",
           "percentageIncrease": "400%"
         }
@@ -557,44 +501,36 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "meaning",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump passport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "king charles",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "how",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "mlb scores",
+      "topTopic": "james comey",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "mlb scores",
-          "relevanceScore": 90,
+          "name": "james comey",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "trendBreakdown": "nba",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -609,32 +545,25 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "meaning",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump passport",
+          "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "green card",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "maps",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -650,8 +579,17 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -667,51 +605,51 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "meaning",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump passport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "3h ago",
-          "trendBreakdown": "indictmentcomey",
           "percentageIncrease": "1000%"
         },
         {
           "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "trump passport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "how old is king charles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "queen",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "king",
           "percentageIncrease": "600%"
         },
         {
-          "name": "dhs funding",
-          "relevanceScore": 100,
+          "name": "amy coney barrett",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "dhs",
-          "percentageIncrease": "600%"
+          "started": "3h ago",
+          "trendBreakdown": "temporary",
+          "percentageIncrease": "400%"
         },
         {
           "name": "uscis must resume processing paused green card applications immediately",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "200%"
         },
@@ -720,7 +658,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "preston mattingly",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -728,7 +674,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -736,15 +682,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "maurene comey trump administration lawsuit",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "bank",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -752,7 +706,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -768,9 +722,9 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "james",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
@@ -778,15 +732,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump passport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "amy coney barrett",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "franklin county ohio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -794,7 +764,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -802,7 +772,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -852,8 +822,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "comey",
+          "started": "4h ago",
+          "trendBreakdown": "meaning",
           "percentageIncrease": "1000%"
         },
         {
@@ -861,7 +831,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump passport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "preston mattingly",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -869,16 +855,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "king",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "amy coney barrett",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "rotavirus",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "dhs funding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -886,59 +887,51 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "trump administration immigration detention lawsuit",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump administration immigration detention lawsuit",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "weather radar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "king charles",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "king charles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "how",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump administration immigration detention lawsuit",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "wjhl",
-          "relevanceScore": 90,
+          "name": "wreg weather",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -953,50 +946,41 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "comey",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
           "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trump passport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "how old is king charles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "dhs funding",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "dhs",
-          "percentageIncrease": "700%"
+          "started": "8h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "amy coney barrett",
+          "name": "noaa",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "bayer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1004,23 +988,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "green card",
+          "name": "dhs funding bill",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "stephen miller",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1028,7 +1012,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1044,9 +1028,17 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "comey",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "does",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1054,24 +1046,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump passport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dhs funding",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1087,7 +1063,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "indictmentcomey",
           "percentageIncrease": "1000%"
         },
@@ -1095,18 +1071,26 @@
           "name": "trump passport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "king charles address to congress",
+          "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "how old is king charles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "king",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1155,25 +1139,25 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "nbc",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "newsnbc",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump passport",
+          "name": "trump administration immigration detention lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "king charles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
+          "searchVolume": "1K+",
+          "started": "22h ago",
           "trendBreakdown": "how",
           "percentageIncrease": "500%"
         }
@@ -1182,24 +1166,16 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "james comey",
+      "topTopic": "william graham oliver",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "james comey",
+          "name": "william graham oliver",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "discovery middle school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1207,24 +1183,16 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "james comey",
+      "topTopic": "salad",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "james comey",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "salad",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1250,16 +1218,24 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "trump administration immigration detention lawsuit",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump administration immigration detention lawsuit",
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump passport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1267,7 +1243,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "how",
           "percentageIncrease": "1000%"
         },
@@ -1276,7 +1252,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1293,9 +1269,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "nbc",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump passport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1338,17 +1330,17 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "costco",
+      "topTopic": "san juan",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "costco",
-          "relevanceScore": 95,
+          "name": "san juan",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1480,6 +1472,49 @@
     {
       "name": "Wisconsin",
       "code": "WI",
+      "topTopic": "james comey",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "meaning",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "king charles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "how",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "speed limit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "us map",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "code": "IA",
       "topTopic": "trump administration immigration detention lawsuit",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1490,74 +1525,40 @@
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "speed limit",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "us map",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Iowa",
-      "code": "IA",
-      "topTopic": "supreme court texas redistricting",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "supreme court texas redistricting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "king charles",
+      "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "james comey",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump administration immigration detention lawsuit",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "king charles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "ccsd",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1598,33 +1599,25 @@
           "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "james comey",
+      "topTopic": "king charles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "james comey",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "king charles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1632,23 +1625,6 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "radar",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "radar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Louisiana",
-      "code": "LA",
       "topTopic": "james comey",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1658,15 +1634,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
-        },
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "Louisiana",
+      "code": "LA",
+      "topTopic": "king charles",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
         {
           "name": "king charles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]

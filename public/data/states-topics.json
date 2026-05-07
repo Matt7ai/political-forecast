@@ -1,27 +1,28 @@
 {
-  "timestamp": "2026-05-07T03:26:22.403Z",
+  "timestamp": "2026-05-07T06:39:55.162Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "guthrie",
+          "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "5K+",
+          "started": "11h ago",
+          "trendBreakdown": "blue",
+          "percentageIncrease": "700%"
         },
         {
           "name": "administración nacional de la seguridad",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,51 +30,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "kristen",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bcbs settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "blue",
-          "percentageIncrease": "700%"
         },
         {
           "name": "kash patel bourbon",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "macarthur park",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "macarthur",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "governor debate tonight",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "antonio",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "john roberts",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -81,32 +56,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "governor debate tonight",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "governor",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "john roberts",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "louise lucas virginia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "louise",
+          "started": "10h ago",
+          "trendBreakdown": "fbi",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump administration immigration detention ruling",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "katie porter",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "car accident lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -114,7 +114,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -122,7 +122,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -130,7 +130,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -138,15 +138,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "viva aerobus",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -154,313 +146,6 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "guthrie",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bcbs settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "blue",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "administración nacional de la seguridad",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "administración nacional de la seguridad",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "administración nacional de la seguridad",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bcbs settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "blue",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kash patel bourbon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "john roberts",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "green card",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury lawyers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "accident lawyers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "louise lucas virginia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "louise",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jayy wick",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "us coast guard special missions command",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "gop senate budget debate",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ohio primary election results",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "strait of hormuz news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "restaurant",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "howard lutnick",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "jamila adams chef",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "trendBreakdown": "mila",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "guthrie",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jayy wick",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bcbs settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "blue",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "administración nacional de la seguridad",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "louise lucas virginia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "cohutta police department",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "chase bank",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "map",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "guthrie",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bcbs settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "blue",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kash patel bourbon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "john roberts",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "administración nacional de la seguridad",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "green card",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
       "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -470,17 +155,302 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "blue",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "kash patel bourbon",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "administración nacional de la seguridad",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "bcbs settlement",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "bcbs settlement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "trendBreakdown": "blue",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "administración nacional de la seguridad",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kash patel bourbon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "personal injury lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "accident lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "louise lucas virginia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "fbi",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jayy wick",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "us coast guard special missions command",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "gop senate budget debate",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "ohio primary election results",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "restaurant",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "howard lutnick",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "jamila adams chef",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "trendBreakdown": "mila",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "jayy wick",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "jayy wick",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bcbs settlement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "blue",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "administración nacional de la seguridad",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "louise lucas virginia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "fbi",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "cohutta police department",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "chase bank",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "map",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "bcbs settlement",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "bcbs settlement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "trendBreakdown": "blue",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "administración nacional de la seguridad",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kash patel bourbon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "louise lucas virginia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "fbi",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "green card",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "kash patel bourbon",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "kash patel bourbon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "bcbs settlement",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "blue",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -495,17 +465,17 @@
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "trendBreakdown": "blue",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "us secret services",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -513,7 +483,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -521,7 +491,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "louise",
           "percentageIncrease": "400%"
         }
@@ -530,49 +500,33 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "blue",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "fay beydoun",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "election results today",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "grand rapids shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "trendBreakdown": "wood",
           "percentageIncrease": "400%"
         },
@@ -581,7 +535,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -598,25 +552,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "blue",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "rhode island",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "green card",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "louise lucas virginia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -632,7 +586,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -640,7 +594,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "trendBreakdown": "blue",
           "percentageIncrease": "400%"
         }
@@ -649,16 +603,16 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "guthrie",
+      "topTopic": "administración nacional de la seguridad",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "guthrie",
+          "name": "administración nacional de la seguridad",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -666,24 +620,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "blue",
           "percentageIncrease": "800%"
         },
         {
-          "name": "administración nacional de la seguridad",
+          "name": "louise lucas virginia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "green card",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -691,51 +645,51 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "blue",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "louise lucas virginia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "louise",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "administración nacional de la seguridad",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "louise lucas virginia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "fbi",
+          "percentageIncrease": "500%"
         },
         {
           "name": "strait of hormuz news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "north carolina",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -751,41 +705,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "blue",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "louise lucas virginia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "lucaslouise",
-          "percentageIncrease": "600%"
         },
         {
           "name": "administración nacional de la seguridad",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
+          "started": "16h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "louise lucas virginia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "fbi",
+          "percentageIncrease": "500%"
         },
         {
           "name": "kash patel bourbon",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "green card",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -793,16 +747,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "ohio primary election results",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "ohio",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -810,49 +763,42 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "paris",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "blue",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "louise lucas virginia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "fbi",
+          "percentageIncrease": "500%"
         },
         {
           "name": "the supreme court of ohio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -860,24 +806,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "jason meade trial",
-          "relevanceScore": 95,
+          "name": "jason meade",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "9h ago",
           "trendBreakdown": "jason",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "clark county ohio election results",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -885,24 +831,16 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "guthrie",
+      "topTopic": "kash patel bourbon",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kash patel bourbon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -910,40 +848,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "portland news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "blue",
           "percentageIncrease": "1000%"
         },
@@ -951,17 +873,25 @@
           "name": "louise lucas virginia",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "fbi",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "kash patel bourbon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "louise",
-          "percentageIncrease": "800%"
+          "started": "7h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "kristin smart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -969,7 +899,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -977,24 +907,16 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "blue",
           "percentageIncrease": "500%"
         }
@@ -1003,24 +925,16 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "blue",
           "percentageIncrease": "600%"
         },
@@ -1029,7 +943,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1037,7 +951,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1045,7 +959,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1053,50 +967,34 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "guthrie",
+          "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "blue",
+          "percentageIncrease": "700%"
         },
         {
           "name": "administración nacional de la seguridad",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bcbs settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "7h ago",
-          "trendBreakdown": "blue",
-          "percentageIncrease": "900%"
         },
         {
           "name": "louise lucas virginia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "louise",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "kash patel bourbon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "fbi",
           "percentageIncrease": "500%"
         },
         {
@@ -1104,15 +1002,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "kash patel bourbon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "deep ellum shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "trendBreakdown": "deep",
           "percentageIncrease": "200%"
         },
@@ -1121,7 +1027,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "trendBreakdown": "pflugerville",
           "percentageIncrease": "200%"
         },
@@ -1130,7 +1036,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1138,7 +1044,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1146,15 +1052,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "nancy guthrie update",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "dps",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1162,58 +1076,50 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "louise lucas",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "louise lucas",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "trendBreakdown": "louise",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "blue",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "700%"
         },
         {
-          "name": "kash patel bourbon",
+          "name": "louise lucas",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "10K+",
+          "started": "15h ago",
+          "trendBreakdown": "louise",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "administración nacional de la seguridad",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "kash patel bourbon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "us secret services",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1221,24 +1127,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "guthrie",
+          "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "blue",
+          "percentageIncrease": "500%"
         },
         {
           "name": "louise lucas",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "louise",
           "percentageIncrease": "1000%"
         },
@@ -1247,32 +1154,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bcbs settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "blue",
-          "percentageIncrease": "700%"
         },
         {
           "name": "kash patel bourbon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "started": "7h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "administración nacional de la seguridad",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1280,7 +1178,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1288,7 +1186,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1330,32 +1228,16 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "guthrie",
+      "topTopic": "administración nacional de la seguridad",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "louise lucas virginia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "administración nacional de la seguridad",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1363,26 +1245,18 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "blue",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1432,7 +1306,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1440,7 +1314,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1448,33 +1322,25 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "blue",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "harris county",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1508,7 +1374,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1525,7 +1391,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1533,7 +1399,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1576,24 +1442,16 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "guthrie",
+      "topTopic": "internal revenue service",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "internal revenue service",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1635,24 +1493,24 @@
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "guthrie",
+      "topTopic": "rhode island",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "guthrie",
+          "name": "rhode island",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "internal revenue service",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1711,41 +1569,33 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "guthrie",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "guthrie",
-          "relevanceScore": 100,
+          "name": "bcbs settlement",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "100+",
           "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "guthrie",
+      "topTopic": "administración nacional de la seguridad",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "administración nacional de la seguridad",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1753,24 +1603,16 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "guthrie",
+      "topTopic": "wtnh",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "wtnh",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1812,24 +1654,16 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "guthrie",
+      "topTopic": "causeway bridge",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "guthrie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "causeway bridge",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1837,7 +1671,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "4h ago",
           "trendBreakdown": "blue",
           "percentageIncrease": "300%"
         }
@@ -1855,7 +1689,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1889,7 +1723,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]

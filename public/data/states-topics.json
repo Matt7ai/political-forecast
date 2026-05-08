@@ -1,84 +1,108 @@
 {
-  "timestamp": "2026-05-07T23:04:44.728Z",
+  "timestamp": "2026-05-08T03:23:30.230Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "fire near me",
+      "topTopic": "james b comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "james b comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "fire near me",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "meenu batra ice detention",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "governor debate tonight",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "antonio",
-          "percentageIncrease": "500%"
         },
         {
           "name": "seguridad social",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "mark hamill",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "meenu batra ice detention",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "pearson",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "kodak black",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "tennessee",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "us strikes iran",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "strikes",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "pardon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "john roberts judicial role comments",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -86,24 +110,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "john roberts judicial role comments",
+          "name": "trump administration immigration detention ruling",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pardon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "500+",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -111,23 +126,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "katie porter",
-          "relevanceScore": 95,
+          "name": "vaccinations",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "disney cruise",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -135,31 +150,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "can",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "trump surgeon general pick",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -167,110 +158,36 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "st louis usps employee fraud",
+      "topTopic": "james b comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "st louis usps employee fraud",
+          "name": "james b comey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "kash patel bourbon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "pardon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "pardon",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "pardon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "mark hamill",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "st louis usps employee fraud",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "seguridad social",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "st louis usps employee fraud",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
+          "started": "12h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "john roberts judicial role comments",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "alligator alcatraz",
-          "relevanceScore": 95,
+          "name": "pardon",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "fire near me",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "guy fieri",
+          "name": "meenu batra ice detention",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -278,11 +195,125 @@
           "percentageIncrease": "400%"
         },
         {
+          "name": "nancy guthrie update",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "james b comey",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "james b comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mark hamill",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "st louis usps employee fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "pardon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "meenu batra ice detention",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "fires near me",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "lafayette county florida",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "seguridad social",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "john roberts judicial role comments",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ron desantis",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "alligator",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "fire near me",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "guy fieri",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
+        },
+        {
           "name": "crime",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -299,31 +330,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "pardon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pardon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "meenu batra ice detention",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "car insurance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -339,58 +378,42 @@
           "name": "kianna galvin",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "trendBreakdown": "south",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "meenu batra ice detention",
+          "name": "james b comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "kodak black",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "kash patel bourbon",
+          "name": "burlington",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "pardon",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "john roberts judicial role comments",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -406,7 +429,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -414,7 +437,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -431,7 +454,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -439,33 +462,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "mcps",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "pardon",
+      "topTopic": "james b comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "pardon",
+          "name": "james b comey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -473,32 +488,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "pardon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "john roberts judicial role comments",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "8h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
         },
         {
-          "name": "kash patel bourbon",
-          "relevanceScore": 100,
+          "name": "jeanette marie jaeger",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "fbi search louise lucas office",
+          "name": "burlington",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -515,16 +538,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "louise lucas virginia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -540,7 +555,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -548,7 +563,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -556,16 +571,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "st louis usps employee fraud",
+      "topTopic": "seguridad social",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "seguridad social",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -573,15 +596,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "burlington",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "john roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -589,33 +620,33 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "vi lyles",
+      "topTopic": "kodak black",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "vi lyles",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "charlotte",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kodak black",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "vi lyles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "charlotte",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -623,7 +654,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -631,90 +662,97 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "8h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
         },
         {
-          "name": "kash patel bourbon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kristin smart",
+          "name": "burlington",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "st louis usps employee fraud",
+      "topTopic": "seguridad social",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "seguridad social",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "james b comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "blue cross blue shield settlement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "burlington",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "seguridad social",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "pardon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "kodak black",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "john roberts judicial role comments",
+          "name": "meenu batra ice detention",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "pardon",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "200%"
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "nys budget",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "14h ago",
           "trendBreakdown": "nys",
           "percentageIncrease": "300%"
         },
@@ -723,16 +761,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "tennessee",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -748,16 +778,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "jason",
-          "percentageIncrease": "1000%"
+          "started": "8h ago",
+          "trendBreakdown": "casey",
+          "percentageIncrease": "800%"
         },
         {
           "name": "dave yost",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "trendBreakdown": "alliance",
           "percentageIncrease": "1000%"
         },
@@ -766,7 +796,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -774,7 +804,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -782,57 +812,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "8h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "600%"
         },
         {
-          "name": "blue cross blue shield settlement",
+          "name": "meenu batra ice detention",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "kristin smart",
-          "relevanceScore": 100,
+          "name": "nancy guthrie update",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "kodak black",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kash patel bourbon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jayy wick",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -848,15 +846,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "kash patel bourbon",
+          "name": "james b comey",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "2h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -864,16 +862,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "st louis usps employee fraud",
+      "topTopic": "james b comey",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "james b comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -881,65 +887,66 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "blue cross blue shield settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kodak black",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kash patel bourbon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john roberts judicial role comments",
+          "name": "john roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "19h ago",
           "trendBreakdown": "john",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "meenu batra ice detention",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "burlington",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "philadelphia",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "st louis usps employee fraud",
+      "topTopic": "cane bay publix",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "cane bay publix",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "cane",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -955,25 +962,25 @@
           "name": "justin pearson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "tennessee",
           "percentageIncrease": "600%"
         },
         {
-          "name": "helen boerman",
+          "name": "james b comey",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "2h ago",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -989,81 +996,114 @@
           "name": "meenu batra ice detention",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "mark hamill",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "james b comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "amber alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "allen",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "blue cross blue shield settlement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "kodak black",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
           "name": "seguridad social",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "pardon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "greenland",
+          "name": "pearson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "trump administration immigration detention ruling",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "john roberts judicial role comments",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "6h ago",
-          "trendBreakdown": "john",
           "percentageIncrease": "300%"
         },
         {
           "name": "good vibes bar and grill",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "us strikes iranian ports",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "hormuz",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "pardon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "john roberts judicial role comments",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "cia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1071,7 +1111,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1079,11 +1119,52 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         },
         {
           "name": "nancy guthrie update",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "topTopic": "kodak black",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "kodak black",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "st louis usps employee fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "seguridad social",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "car insurance",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -1093,116 +1174,59 @@
       ]
     },
     {
-      "name": "Virginia",
-      "code": "VA",
-      "topTopic": "park view high school",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "park view high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "st louis usps employee fraud",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "kash patel bourbon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "seguridad social",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "car insurance",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "park view high school",
+      "topTopic": "st louis usps employee fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "park view high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "kash patel bourbon",
+          "name": "tenleytown shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "pardon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "meenu batra ice detention",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "bcbs settlement",
+      "topTopic": "st louis usps employee fraud",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "bcbs settlement",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1227,50 +1251,50 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "kash patel bourbon",
+      "topTopic": "meenu batra ice detention",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "kash patel bourbon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "bcbs settlement",
+          "name": "meenu batra ice detention",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "dog",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "blue cross blue shield settlement",
+      "topTopic": "st louis usps employee fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "blue cross blue shield settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "st louis usps employee fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kodak black",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1286,7 +1310,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1303,7 +1327,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1311,24 +1335,24 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "kristin smart",
+      "topTopic": "meenu batra ice detention",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "kristin smart",
+          "name": "meenu batra ice detention",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "colorado",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1336,16 +1360,24 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "john roberts",
+      "topTopic": "james b comey",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "james b comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "john roberts",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1397,8 +1429,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "alivio",
+          "started": "6h ago",
+          "trendBreakdown": "cheque",
           "percentageIncrease": "1000%"
         },
         {
@@ -1406,7 +1438,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1414,7 +1446,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1422,15 +1454,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "pago",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1499,7 +1523,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1567,7 +1591,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1584,7 +1608,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1601,7 +1625,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1609,24 +1633,16 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "apartments",
+      "topTopic": "bcbs settlement",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "apartments",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "bcbs settlement",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1643,7 +1659,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1660,7 +1676,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1668,16 +1684,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "kash patel bourbon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1710,10 +1718,9 @@
           "name": "blue cross blue shield settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "bcbs",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },

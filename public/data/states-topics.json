@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-05-11T15:00:21.687Z",
+  "timestamp": "2026-05-11T17:58:42.539Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "theft",
+      "topTopic": "united states customs and border protection",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "united states customs and border protection",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "theft",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -21,57 +29,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "500%"
         },
         {
-          "name": "mark kelly",
+          "name": "hegseth kelly pentagon stockpile dispute",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "1h ago",
+          "trendBreakdown": "mark",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "listeria",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "food",
+          "percentageIncrease": "200%"
         },
         {
           "name": "estados unidos",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "food safety news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "missing soldiers in morocco",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "netanyahu",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "benjamin",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -79,19 +72,27 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "chud the builder",
+          "name": "personal injury lawyer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "russia",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "sudan",
+          "name": "zionist",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -99,35 +100,35 @@
           "percentageIncrease": "100%"
         },
         {
-          "name": "anaheim global medical center",
+          "name": "sudan",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "rubén rocha",
+          "name": "netanyahu",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "searchVolume": "500+",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "sarah ferguson",
-          "relevanceScore": 90,
+          "name": "lausd",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "handels",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -144,7 +145,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -152,126 +153,11 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "estados unidos",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
-        },
-        {
           "name": "food safety news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "united states customs and border protection",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "united states customs and border protection",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "food safety news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "chuck schumer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "theft",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "china",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "paddock mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "paddock",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "mark kelly",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "trendBreakdown": "hegseth",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "estados unidos",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "the white house",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "missing soldiers in morocco",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "hospitals",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -281,26 +167,142 @@
       ]
     },
     {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "united states customs and border protection",
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "may",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "may",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
           "name": "united states customs and border protection",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "food safety news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "theft",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "chuck schumer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "china",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "paddock mall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "paddock",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "mark kelly",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "trendBreakdown": "hegseth",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "estados unidos",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "snap benefits reduction arizona",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "missing soldiers in morocco",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "hospitals",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "norcross high school",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "norcross high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "norcross",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "missing soldiers in morocco",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -308,7 +310,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -316,7 +326,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -332,28 +342,12 @@
           "name": "united states customs and border protection",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "food safety news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "mark kelly",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "estados unidos",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -361,98 +355,39 @@
           "percentageIncrease": "300%"
         },
         {
+          "name": "mark kelly",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "the white house",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "estados unidos",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
+        },
+        {
           "name": "chud the builder",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "michigan city shooting",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "michigan city shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "michigan",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "aipac",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "united states customs and border protection",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "united states customs and border protection",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "aipac",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "purple heart",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "food safety news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "missing soldiers in morocco",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "theft",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "hospitals",
+          "name": "schools",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -462,50 +397,92 @@
       ]
     },
     {
-      "name": "Michigan",
-      "code": "MI",
+      "name": "Indiana",
+      "code": "IN",
       "topTopic": "food safety news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "food safety news",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "500%"
-        },
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "food safety news",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
         {
-          "name": "united states customs and border protection",
-          "relevanceScore": 100,
+          "name": "food safety news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "mark kelly",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "truist championship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "missing soldiers in morocco",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "theft",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "hospitals",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "food safety news",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "food safety news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "mark kelly",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "missing soldiers in morocco",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -513,24 +490,16 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "united states customs and border protection",
+      "topTopic": "missing soldiers in morocco",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "united states customs and border protection",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "missing soldiers in morocco",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -538,7 +507,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -555,7 +524,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -563,7 +532,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -571,7 +540,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -579,55 +548,6 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "china",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "china",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "food safety news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "missing soldiers in morocco",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "estados unidos",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mark kelly",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
       "topTopic": "united states customs and border protection",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -636,8 +556,73 @@
           "name": "united states customs and border protection",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "china",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "20h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "food safety news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "missing soldiers in morocco",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "estados unidos",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "mark kelly",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "irs pandemic penalty refund",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "irs pandemic penalty refund",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "united states customs and border protection",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -645,7 +630,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -653,7 +638,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -661,8 +646,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -677,16 +670,16 @@
           "name": "united states customs and border protection",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "missing soldiers in morocco",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -694,7 +687,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -702,35 +695,11 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "food safety news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "mark kelly",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "estados unidos",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mauritius",
+          "name": "the white house",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -738,11 +707,36 @@
           "percentageIncrease": "200%"
         },
         {
+          "name": "hegseth kelly pentagon stockpile dispute",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "mark",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "food safety news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "estados unidos",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -750,15 +744,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "mauritius",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "chud the builder",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -775,23 +777,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "united states customs and border protection",
+          "name": "china",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "900%"
+          "started": "19h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -799,15 +801,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "uss cleveland tours",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -824,7 +834,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -832,48 +842,40 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "united states customs and border protection",
+      "topTopic": "food safety news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "united states customs and border protection",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "food safety news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "united states customs and border protection",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "theft",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "purple heart",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -881,15 +883,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "flights",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -897,16 +907,24 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "food safety news",
+      "topTopic": "united states customs and border protection",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "united states customs and border protection",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "food safety news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -914,24 +932,32 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "aipac",
+      "topTopic": "dalton eatherly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "aipac",
+          "name": "dalton eatherly",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "united states customs and border protection",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -939,16 +965,25 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "united states customs and border protection",
+      "topTopic": "hegseth kelly pentagon stockpile dispute",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "hegseth kelly pentagon stockpile dispute",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "mark",
+          "percentageIncrease": "500%"
+        },
+        {
           "name": "united states customs and border protection",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -956,7 +991,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -964,55 +999,71 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "mark kelly",
+          "name": "tmc garage",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "food safety news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "estados unidos",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "chuck schumer",
+          "name": "food safety news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "the white house",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "sudan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "chuck schumer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "missing soldiers in morocco",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "snap benefits reduction arizona",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1020,7 +1071,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "san antonio",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1037,24 +1096,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "missing",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "united states customs and border protection",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "theft",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1062,23 +1113,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "aipac",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "hospitals",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1086,32 +1129,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "united states customs and border protection",
+      "topTopic": "missing soldiers in morocco",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "united states customs and border protection",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "missing soldiers in morocco",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1119,7 +1162,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1127,7 +1170,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1135,7 +1178,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1186,9 +1229,9 @@
           "name": "nordheim court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "nordheim",
+          "searchVolume": "10K+",
+          "started": "12h ago",
+          "trendBreakdown": "homicideuw",
           "percentageIncrease": "1000%"
         },
         {
@@ -1196,7 +1239,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1204,7 +1247,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1212,7 +1255,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1220,7 +1263,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1237,8 +1280,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1279,25 +1322,33 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "aipac",
+      "topTopic": "united states customs and border protection",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "aipac",
-          "relevanceScore": 95,
+          "name": "united states customs and border protection",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "china",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "food safety news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1313,7 +1364,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1365,7 +1416,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1498,34 +1549,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "fleet farm oshkosh",
+      "topTopic": "food safety news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "fleet farm oshkosh",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "fleet",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "food safety news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "purple heart",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1593,7 +1627,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1644,7 +1678,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]

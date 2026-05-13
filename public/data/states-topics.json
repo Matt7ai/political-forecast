@@ -1,51 +1,69 @@
 {
-  "timestamp": "2026-05-13T14:42:37.917Z",
+  "timestamp": "2026-05-13T18:06:58.739Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "kouri",
+          "percentageIncrease": "600%"
         },
         {
           "name": "iran missiles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "immigration ice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "doj wall street journal subpoenas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "mira mesa",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "ice crackdown foreign student opt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -53,7 +71,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -61,7 +79,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "15h ago",
           "trendBreakdown": "russia",
           "percentageIncrease": "400%"
         },
@@ -70,73 +88,39 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "monaco",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "trump, iran",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "immigration",
+          "name": "cancer",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
+          "searchVolume": "100+",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "california mayor china",
+          "name": "arcadia mayor pleads guilty",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "california",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "trump",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "sean gathright",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "julio",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "kouri richins",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ap news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
+          "searchVolume": "10K+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -144,15 +128,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "cuba news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -160,25 +136,24 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "car",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -186,7 +161,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -194,50 +169,60 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "kouri",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "acción diferida para los llegados en",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "immigration",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "russia missiles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "russia",
           "percentageIncrease": "600%"
         },
         {
-          "name": "trump",
+          "name": "the new york times",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
-          "trendBreakdown": "president",
+          "started": "4h ago",
+          "trendBreakdown": "trumppresident",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "alligator alcatraz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -245,23 +230,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "alligator alcatraz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ketanji brown jackson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -269,23 +238,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "ukraine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "baynews",
+          "name": "ketanji brown jackson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -293,40 +254,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "ap news",
-          "relevanceScore": 90,
+          "name": "daily mail",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "california mayor resigns",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
+          "started": "7h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -334,15 +296,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "20h ago",
+          "trendBreakdown": "the",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "sandy springs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "doj wall street journal subpoenas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -350,16 +321,49 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "nick pasqual",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "robert karem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -367,7 +371,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "trendBreakdown": "illinois",
           "percentageIncrease": "600%"
         },
@@ -376,15 +380,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fuel tax",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "19h ago",
+          "trendBreakdown": "the",
           "percentageIncrease": "200%"
         },
         {
@@ -392,32 +405,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "ukraine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nick pasqual",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -425,7 +447,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -433,24 +455,41 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "trendBreakdown": "iran",
           "percentageIncrease": "200%"
         },
@@ -459,7 +498,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "julio",
           "percentageIncrease": "100%"
         }
@@ -468,16 +507,25 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -485,7 +533,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "20h ago",
+          "trendBreakdown": "the",
           "percentageIncrease": "200%"
         }
       ]
@@ -493,32 +542,41 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kouri richins",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "trump",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -526,41 +584,43 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "eileen wang",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "eileen wang",
+          "name": "alex murdaugh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "salvador",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -568,7 +628,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "paterson",
           "percentageIncrease": "600%"
         },
@@ -577,15 +637,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
+          "searchVolume": "1K+",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -593,7 +653,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -601,25 +661,42 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "nc budget update",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "nc budget update",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
-          "trendBreakdown": "budgetnc",
-          "percentageIncrease": "800%"
+          "started": "22h ago",
+          "trendBreakdown": "state",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "robert karem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -627,8 +704,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "iran",
+          "started": "19h ago",
+          "trendBreakdown": "the",
           "percentageIncrease": "200%"
         }
       ]
@@ -636,41 +713,59 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "kouri",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mamdani budget",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "budgetnyc",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "trendBreakdown": "nyc",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "julio foolio",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "doj wall street journal subpoenas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "julio foolio",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -678,7 +773,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -686,7 +781,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -694,7 +789,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -702,15 +797,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "trump",
+          "name": "trump china",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "9h ago",
+          "trendBreakdown": "the",
           "percentageIncrease": "100%"
         },
         {
@@ -718,24 +814,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "nytimes",
+          "name": "syracuse weather",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "california mayor resigns",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "trendBreakdown": "california",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -743,7 +830,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -751,7 +838,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -759,16 +846,49 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nick pasqual",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "the new york times",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "robert karem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -776,7 +896,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -784,28 +904,188 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "wayne",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "doj wall street journal subpoenas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
           "name": "child support",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
+      "topTopic": "alex murdaugh",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "alex murdaugh",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "robert karem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "glioblastoma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "the new york times",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "trumppresident",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "doj wall street journal subpoenas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "code": "SC",
+      "topTopic": "alex murdaugh",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "code": "TN",
+      "topTopic": "alex murdaugh",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "glioblastoma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "sean gathright",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -815,127 +1095,59 @@
       ]
     },
     {
-      "name": "Oregon",
-      "code": "OR",
-      "topTopic": "trump",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Pennsylvania",
-      "code": "PA",
-      "topTopic": "glioblastoma",
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "glioblastoma",
+          "name": "alex murdaugh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump",
-          "relevanceScore": 95,
+          "name": "nick pasqual",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "president",
-          "percentageIncrease": "200%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "glioblastoma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "the new york times",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "doj wall street journal subpoenas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "South Carolina",
-      "code": "SC",
-      "topTopic": "glioblastoma",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "glioblastoma",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Tennessee",
-      "code": "TN",
-      "topTopic": "glioblastoma",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "glioblastoma",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Texas",
-      "code": "TX",
-      "topTopic": "glioblastoma",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "glioblastoma",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -943,27 +1155,136 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "fifa world cup",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "house",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "mayes middleton",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "california mayor",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "music",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "topTopic": "alex murdaugh",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "glioblastoma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "trendBreakdown": "the",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "alex murdaugh",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "murdersmurdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "glioblastoma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brian driscoll",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "doj wall street journal subpoenas",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "acción diferida para los llegados en",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
+          "searchVolume": "100+",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "mayes middleton",
+          "name": "wv election results",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -972,124 +1293,10 @@
         },
         {
           "name": "music",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "money",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "george washington",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
-        }
-      ]
-    },
-    {
-      "name": "Virginia",
-      "code": "VA",
-      "topTopic": "glioblastoma",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "glioblastoma",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "robert karem",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "robert karem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "glioblastoma",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brian driscoll",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "doj wall street journal subpoenas",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "wv election results",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "music",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "politico",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1097,17 +1304,17 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "eileen wang",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "eileen wang",
-          "relevanceScore": 95,
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1131,16 +1338,32 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nick pasqual",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1148,7 +1371,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "19h ago",
+          "trendBreakdown": "newstrump",
           "percentageIncrease": "200%"
         },
         {
@@ -1156,7 +1380,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1164,34 +1388,43 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "dch shooting",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "murdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "dch shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "trump",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
-          "relevanceScore": 95,
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1215,32 +1448,41 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "murdaugh",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nick pasqual",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cherokee trail high school",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "ian watkins",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1248,16 +1490,32 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1265,7 +1523,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1273,17 +1531,17 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "trump",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
-          "relevanceScore": 95,
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1316,8 +1574,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "800%"
+          "started": "23h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1350,7 +1608,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1358,35 +1616,33 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "mother's",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mother's",
+          "name": "alex murdaugh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "mothers",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "nebraska primary results",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nebraska primary results",
+          "name": "alex murdaugh",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "nebraska",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1429,42 +1685,74 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "wv election results",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "wv election results",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "primary",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "wsaz news",
+          "name": "shelley moore capito",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "trump",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "wisconsin",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1472,34 +1760,42 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "ponzi",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ponzi",
+          "name": "alex murdaugh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "smiths shooting las vegas",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "smiths shooting las vegas",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "smiths",
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "trendBreakdown": "las",
           "percentageIncrease": "1000%"
         },
         {
@@ -1507,7 +1803,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1515,41 +1811,66 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "glioblastoma",
+      "topTopic": "kouri richins",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "kouri",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kouri richins",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kouri richins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1557,7 +1878,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1565,50 +1886,59 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "chase matthew",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "chase matthew",
-          "relevanceScore": 95,
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "murdaugh",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "trump",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "trump",
-          "relevanceScore": 95,
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "glioblastoma",
+      "topTopic": "alex murdaugh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex murdaugh",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "glioblastoma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1695,16 +2025,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "facebook",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

@@ -1,19 +1,35 @@
 {
-  "timestamp": "2026-05-13T03:39:06.762Z",
+  "timestamp": "2026-05-13T06:52:37.947Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "doj wall street journal subpoenas",
+      "topTopic": "iran missiles",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "iran missiles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "ukraine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "doj wall street journal subpoenas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -21,23 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ukraine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ian watkins",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,32 +45,65 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "russia missiles",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ian watkins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "immigration",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "arcadia mayor pleads guilty",
+          "name": "cancer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "california mayor china",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "california",
-          "percentageIncrease": "200%"
+          "started": "13h ago",
+          "trendBreakdown": "arcadia",
+          "percentageIncrease": "300%"
         },
         {
           "name": "trump",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "sean gathright",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "trendBreakdown": "julio",
           "percentageIncrease": "100%"
         },
         {
@@ -78,16 +111,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "sean gathright",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "julio",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -95,15 +119,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "italy",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -111,7 +127,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -119,7 +135,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -127,7 +143,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -144,7 +160,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "14h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "1000%"
         },
@@ -153,7 +169,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -170,7 +186,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -178,7 +194,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -186,7 +202,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -194,23 +210,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "alligator alcatraz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "doj wall street journal subpoenas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -218,15 +226,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "alligator alcatraz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "how i met your",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -234,7 +250,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -242,7 +258,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -250,7 +266,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -258,7 +274,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -266,7 +282,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -283,7 +299,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -291,7 +307,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "18h ago",
           "trendBreakdown": "julio",
           "percentageIncrease": "400%"
         },
@@ -300,7 +316,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -308,7 +324,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -316,7 +332,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -324,7 +340,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -341,40 +357,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "illinois",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "petersburg",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "ukraine",
-          "relevanceScore": 95,
+          "name": "russia missiles",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "doj wall street journal subpoenas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "ukraine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "trump",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -391,7 +415,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -407,25 +431,9 @@
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "apartments",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "hospitals",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -441,8 +449,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "iran",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -458,8 +465,8 @@
           "name": "trump",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -492,25 +499,25 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "paterson election results",
+      "topTopic": "paterson nj election results",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "paterson election results",
+          "name": "paterson nj election results",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "paterson",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "belleville nj mayor election",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -518,7 +525,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -526,7 +533,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -543,7 +550,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "state",
           "percentageIncrease": "1000%"
         },
@@ -551,8 +558,8 @@
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -560,7 +567,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -576,8 +583,8 @@
           "name": "sean gathright",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "trendBreakdown": "julio",
           "percentageIncrease": "300%"
         },
@@ -586,16 +593,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "trendBreakdown": "budgetnyc",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ian watkins",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -603,7 +602,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -611,7 +610,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -619,7 +618,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -627,7 +626,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -635,24 +634,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "california mayor",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "trendBreakdown": "california",
-          "percentageIncrease": "300%"
         },
         {
           "name": "trump",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -660,7 +650,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "california mayor resigns",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "100%"
         },
         {
@@ -668,7 +667,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "boston",
           "percentageIncrease": "100%"
         }
@@ -686,15 +685,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "wayne county ohio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "wayne",
           "percentageIncrease": "600%"
         },
@@ -703,7 +702,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -720,8 +719,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -737,15 +736,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "ukraine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "how i met your",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -753,24 +760,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "posthuffington",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "music",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hospitals",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -780,15 +770,15 @@
       "code": "SC",
       "topTopic": "sc redistricting",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "sc redistricting",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -803,8 +793,8 @@
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -812,24 +802,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "trump",
+      "topTopic": "sean gathright",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
           "name": "sean gathright",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "trendBreakdown": "julio",
           "percentageIncrease": "300%"
         },
@@ -838,7 +820,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -846,7 +828,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -854,7 +836,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -862,15 +844,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "kisd",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -878,7 +868,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -886,7 +876,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -894,7 +884,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -911,8 +901,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "washington",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -929,7 +918,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -937,24 +926,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "apartments",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "trump",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "postwashington",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -962,7 +942,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -970,7 +950,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1021,24 +1001,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "cambridge shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1054,15 +1026,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "kay ivey",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1079,7 +1059,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1113,33 +1093,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "800%"
+          "started": "13h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "newsabc",
-          "percentageIncrease": "300%"
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "ian watkins",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "cambridge shooting",
-          "relevanceScore": 95,
+          "name": "disney cruise ship",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -1155,16 +1142,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -1215,16 +1194,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "agua",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1284,17 +1255,18 @@
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "ponzi",
+      "topTopic": "nebraska primary results",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ponzi",
+          "name": "nebraska primary results",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "nebraska",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1345,42 +1317,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "elections",
+          "started": "7h ago",
+          "trendBreakdown": "election",
           "percentageIncrease": "1000%"
         },
         {
           "name": "wv primary election",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "elections",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "criminal defense lawyer",
+      "topTopic": "wbay",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "criminal defense lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "wbay",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -1388,7 +1352,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1421,9 +1385,9 @@
           "name": "smiths shooting las vegas",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "las",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "smiths",
           "percentageIncrease": "1000%"
         },
         {
@@ -1431,8 +1395,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1516,7 +1480,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1620,7 +1584,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]

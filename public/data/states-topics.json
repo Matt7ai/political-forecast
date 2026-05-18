@@ -1,37 +1,55 @@
 {
-  "timestamp": "2026-05-18T21:16:46.054Z",
+  "timestamp": "2026-05-18T23:06:41.829Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "islamic center of san diego",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "islamic center of san diego",
+          "name": "san diego shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "2h ago",
-          "trendBreakdown": "san",
+          "searchVolume": "100K+",
+          "started": "3h ago",
+          "trendBreakdown": "islamic",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mark fuhrman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "mark",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "700%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "voting",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "cal fire",
+          "name": "tsa gold+ airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -39,49 +57,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "solicitor general",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "tsa gold+ airport",
+          "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "fires near me",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "pakistan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "austin shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "texasaustin",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -89,16 +81,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "politics",
+          "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "200%"
         },
         {
@@ -106,33 +97,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "idaho air show crash",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "idaho",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "car accident lawyer",
+          "name": "trump irs lawsuit settlement talks",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "car",
-          "percentageIncrease": "400%"
+          "started": "22h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "democracy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -140,7 +121,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -148,15 +129,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "6h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -164,33 +137,33 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "supreme court",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "islamic",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "san diego",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "san",
-          "percentageIncrease": "500%"
         },
         {
           "name": "solicitor general",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "1000%"
         },
@@ -199,7 +172,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -207,93 +180,85 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "ebola outbreak",
-          "relevanceScore": 90,
+          "name": "memorial day",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "supreme court",
+      "topTopic": "mark fuhrman",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court",
+          "name": "mark fuhrman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "voting",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "san diego",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "1h ago",
-          "trendBreakdown": "san",
+          "trendBreakdown": "mark",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "d john sauer",
+          "name": "solicitor general",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "9h ago",
-          "trendBreakdown": "solicitor",
+          "trendBreakdown": "john",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "san",
           "percentageIncrease": "1000%"
         },
         {
           "name": "tsa gold+ airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "politics",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
           "started": "7h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
+          "trendBreakdown": "voting",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "naples fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "naples",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "multa",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -301,24 +266,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "pakistan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "idaho air show crash",
+          "name": "accident lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "idaho",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "personal",
           "percentageIncrease": "400%"
         },
         {
@@ -326,70 +291,28 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "ebola virus",
-          "relevanceScore": 90,
+          "name": "memorial day",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "supreme court",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "d john sauer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "solicitor",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "luigi mangione",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "politics",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "san diego",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "san diego",
+          "name": "san diego shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
@@ -402,7 +325,93 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tsa gold+ airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "atlanta",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "miracle rankin",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "san diego shooting",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mark fuhrman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "simpsonoj",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tsa gold+ airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -410,24 +419,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "solicitor general",
+          "name": "what is ebola",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "ebola",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "personal injury lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "politics",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -435,7 +452,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -443,7 +460,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -460,24 +477,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "900%"
         },
         {
           "name": "wndu",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "news",
-          "relevanceScore": 85,
+          "name": "memorial day",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "13h ago",
-          "percentageIncrease": "75%"
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -492,43 +518,111 @@
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "islamic",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "supreme court",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mark fuhrman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "d john sauer",
+          "name": "solicitor general",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "solicitor",
-          "percentageIncrease": "900%"
+          "started": "8h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ebola virus",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "luigi mangione",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "pakistan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -543,9 +637,17 @@
           "name": "san diego shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mark fuhrman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -553,8 +655,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "ebola virus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "tsa gold+ airport",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -569,204 +705,106 @@
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "missouri state highway patrol",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "supreme court",
+      "topTopic": "mark fuhrman",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "mark fuhrman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "simpsonoj",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "san diego",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "san",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "tsa gold+ airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "d john sauer",
+          "name": "solicitor general",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "solicitor",
-          "percentageIncrease": "500%"
+          "started": "7h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "800%"
         },
         {
           "name": "personal injury attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "poland",
+          "name": "what is ebola",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "30 minutes ago",
+          "trendBreakdown": "ebola",
+          "percentageIncrease": "200%"
         },
         {
           "name": "the crash",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "supreme court",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "d john sauer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "solicitor",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "politics",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "the crash",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "san diego",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "san diego",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "san",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "luigi mangione",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "tsa gold+ airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "d john sauer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "solicitor",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "pakistan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "politics",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "trump ballroom provision blocked",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -774,24 +812,127 @@
           "percentageIncrease": "100%"
         },
         {
-          "name": "news",
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "san diego shooting",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mark fuhrman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "politics",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "the crash",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
     },
     {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "supreme court",
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mark fuhrman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "mark",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "luigi mangione",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "600%"
+        },
+        {
           "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tsa gold+ airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
@@ -799,29 +940,112 @@
           "percentageIncrease": "1000%"
         },
         {
-          "name": "d john sauer",
-          "relevanceScore": 100,
+          "name": "what is ebola",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "solicitor",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "ebola",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "san diego",
-          "relevanceScore": 100,
+          "name": "pakistan",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "tsa gold+ airport",
-          "relevanceScore": 100,
+          "name": "politics",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "unión",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "trump ballroom provision blocked",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "mark fuhrman",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "mark fuhrman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "toledo weather",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -837,8 +1061,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -854,7 +1086,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mark fuhrman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "san",
           "percentageIncrease": "1000%"
         },
         {
@@ -862,24 +1111,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "san diego",
+          "name": "solicitor general",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "san",
-          "percentageIncrease": "1000%"
+          "started": "8h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "500%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -887,16 +1136,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "solicitor general",
+          "name": "politics",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "john",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -904,17 +1152,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "travel",
-          "relevanceScore": 90,
+          "name": "memorial day",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -930,149 +1177,30 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "politics",
+          "name": "san diego shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "Tennessee",
-      "code": "TN",
-      "topTopic": "news",
-      "category": "Law and Government",
-      "trendingScore": 90,
-      "topics": [
-        {
-          "name": "news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Texas",
-      "code": "TX",
-      "topTopic": "san diego",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "san diego",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "san",
-          "percentageIncrease": "1000%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "tsa gold+ airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "d john sauer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "solicitor",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "pakistan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "luigi mangione",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "politics",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "unión",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "shooting in austin today",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "austin",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "idaho air show crash",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "idaho",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kisd",
+          "name": "memorial day",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
     },
     {
-      "name": "Virginia",
-      "code": "VA",
+      "name": "Tennessee",
+      "code": "TN",
       "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1081,75 +1209,168 @@
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "san diego",
+          "name": "memorial day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "san diego shooting",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "san diego shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "5K+",
+          "started": "3h ago",
           "trendBreakdown": "san",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "d john sauer",
+          "name": "mark fuhrman",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "simpsonoj",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
           "started": "8h ago",
-          "trendBreakdown": "solicitor",
-          "percentageIncrease": "900%"
+          "trendBreakdown": "john",
+          "percentageIncrease": "800%"
         },
         {
           "name": "tsa gold+ airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "politics",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "what is ebola",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "ebola",
+          "percentageIncrease": "600%"
         },
         {
           "name": "luigi mangione",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "pakistan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "politics",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "unión",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "shooting in austin today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "mayes middleton",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "memorial day",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "percentageIncrease": "50%"
+        },
+        {
+          "name": "kisd",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "san diego",
+      "name": "Virginia",
+      "code": "VA",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "san diego",
+          "name": "san diego shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "san",
           "percentageIncrease": "1000%"
         },
@@ -1158,34 +1379,93 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "d john sauer",
+          "name": "mark fuhrman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "solicitor",
-          "percentageIncrease": "800%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "luigi mangione",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "san diego shooting",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "ebola",
+      "topTopic": "solicitor general",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ebola",
-          "relevanceScore": 95,
+          "name": "solicitor general",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1209,43 +1489,51 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "supreme court",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "san diego",
+          "name": "solicitor general",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "san",
-          "percentageIncrease": "1000%"
+          "started": "7h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "tsa gold+ airport",
-          "relevanceScore": 100,
+          "name": "new york times",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "600%"
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         },
         {
-          "name": "idaho air show crash",
-          "relevanceScore": 100,
+          "name": "memorial day",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "mountain",
-          "percentageIncrease": "1000%"
+          "started": "9h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1269,24 +1557,16 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "supreme court",
+      "topTopic": "memorial day",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "travel",
+          "name": "memorial day",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
+          "searchVolume": "500+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1294,24 +1574,24 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "supreme court",
+      "topTopic": "memorial day",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "supreme court",
-          "relevanceScore": 100,
+          "name": "memorial day",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1319,24 +1599,66 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "supreme court",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "car accident lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "solicitor general",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "pete hegseth",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1344,58 +1666,59 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "poland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "mountain home air force base",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "idaho",
-          "percentageIncrease": "300%"
-        },
-        {
           "name": "memorial day",
-          "relevanceScore": 90,
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "supreme court",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "san diego",
+          "name": "solicitor general",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -1436,24 +1759,16 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "pago",
+      "topTopic": "multa",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "pago",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "multa",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1522,7 +1837,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1590,8 +1905,8 @@
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1599,33 +1914,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "john",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "belfast",
+      "topTopic": "solicitor general",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "belfast",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "supreme court virginia redistricting",
+          "name": "solicitor general",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ebola",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1633,33 +1956,58 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "supreme court",
+      "topTopic": "san diego shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court",
+          "name": "san diego shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "1h ago",
+          "trendBreakdown": "san",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "news",
+      "topTopic": "solicitor general",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "solicitor general",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1667,41 +2015,65 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "smoke in cabin american eagle",
+      "topTopic": "solicitor general",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "smoke in cabin american eagle",
+          "name": "solicitor general",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "san diego shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "ebola",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "supreme court",
+      "topTopic": "mark fuhrman",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court",
+          "name": "mark fuhrman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "social security",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1709,16 +2081,25 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "auto accident lawyer",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "accident",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "auto accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1726,24 +2107,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "accident lawyer",
-          "relevanceScore": 100,
+          "name": "supreme court",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1751,17 +2131,25 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "supreme court",
+      "topTopic": "ebola",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "supreme court",
-          "relevanceScore": 100,
+          "name": "ebola",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "memorial day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },

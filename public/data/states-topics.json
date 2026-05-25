@@ -1,196 +1,39 @@
 {
-  "timestamp": "2026-05-24T23:01:59.225Z",
+  "timestamp": "2026-05-25T04:03:12.365Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "estados unidos",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "hung cao",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "estados unidos",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "samuel alito",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "hasan piker",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "us marines venezuela exercise",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "hegseth us military leadership analysis",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "hung cao",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "jeffrey epstein",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "don trump jr wedding",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "san diego zoo",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Arizona",
-      "code": "AZ",
-      "topTopic": "white house shooting",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "us marines venezuela exercise",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "samuel alito",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "nasire best",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "nasire best",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "us marines venezuela exercise",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hung cao",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "samuel alito",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hegseth us military leadership analysis",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "waste management",
+          "name": "pearl harbor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -198,27 +41,158 @@
           "percentageIncrease": "200%"
         },
         {
-          "name": "hasan piker",
+          "name": "samuel alito",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jeffrey epstein",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "traffic enforcement camera",
-          "relevanceScore": 95,
+          "name": "visa",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
+          "started": "6h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "don trump jr wedding",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "sf carnaval",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "san diego zoo",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
+        },
+        {
+          "name": "pl",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ",
+      "topTopic": "hung cao",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "hung cao",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "us marines venezuela exercise",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "900%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "traffic enforcement camera",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "traffic enforcement camera",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "hung cao",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "samuel alito",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "school",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "visa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "cuba",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -226,15 +200,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "bolivia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "caracas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "daytona beach",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -242,25 +232,24 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "nasire best",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nasire best",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "dooly state prison",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "14h ago",
           "trendBreakdown": "georgia",
           "percentageIncrease": "800%"
         },
@@ -269,7 +258,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -277,7 +266,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -285,93 +274,66 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "nasire best",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nasire best",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hegseth us military leadership analysis",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "sanctuary city",
-          "relevanceScore": 95,
+          "name": "social security",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "white house shooting",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hegseth us military leadership analysis",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nasir best",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "nasire best",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "nasire best",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -379,7 +341,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -387,17 +349,16 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "nasire best",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nasire best",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "shooting",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -405,7 +366,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -413,50 +374,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hegseth us military leadership analysis",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "samuel alito",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "grand rapids weather",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "boston firefighter",
+      "topTopic": "traffic enforcement camera",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "boston firefighter",
+          "name": "traffic enforcement camera",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "boston",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -464,41 +415,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "robert kilduff jr",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "boston",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "white house shooting",
+      "topTopic": "police seek st. louis",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hegseth us military leadership analysis",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "police seek st. louis",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -506,18 +449,17 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "nasire best",
+      "topTopic": "hasan piker",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nasire best",
-          "relevanceScore": 100,
+          "name": "hasan piker",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -533,16 +475,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nasire best",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -550,7 +491,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "12h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -558,7 +499,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -566,99 +507,64 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "hegseth us military leadership analysis",
+          "name": "hasan piker",
           "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "dick durbin",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "myrtle beach",
-          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "trendBreakdown": "wral",
-          "percentageIncrease": "100%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "nasire best",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nasire best",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "14h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "hegseth us military leadership analysis",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "hasan piker",
+          "name": "estados unidos",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "don trump jr wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "trendBreakdown": "donald",
+          "searchVolume": "500+",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "alex bores",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kim kardashian",
+          "name": "julie tsirkin",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -666,7 +572,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "disney world",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "kim kardashian",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -674,42 +596,49 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "18h ago",
           "trendBreakdown": "immigration",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "pl",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "nasire best",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nasire best",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hegseth us military leadership analysis",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "somerset bar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -743,42 +672,41 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "nasire best",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nasire best",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tillis compares hegseth kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "samuel alito",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "hegseth us military leadership analysis",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "sanctuary city",
+          "name": "pearl harbor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -837,34 +765,48 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "nasire best",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nasire best",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "nasir",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "estados unidos",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "hegseth us military leadership analysis",
+          "name": "hasan piker",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "pete",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "pearl harbor",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -872,7 +814,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -880,15 +822,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "hung cao",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -896,7 +830,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "23h ago",
           "trendBreakdown": "belton",
           "percentageIncrease": "200%"
         },
@@ -905,24 +839,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "kings colony montgomery county",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "kings",
-          "percentageIncrease": "300%"
         },
         {
           "name": "ted cruz blanche meeting",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "pl",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -930,7 +863,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -938,17 +871,16 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "nasire best",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nasire best",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "nasir",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -956,34 +888,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "10h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "hegseth us military leadership analysis",
+          "name": "hasan piker",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "nasire best",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "nasire best",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "nasir",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "traffic enforcement camera",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "hasan piker",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -999,17 +946,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "shots",
-          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1033,68 +971,42 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "white house shooting",
+      "topTopic": "hung cao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "white house shooting",
+          "name": "hung cao",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "24h ago",
-          "trendBreakdown": "nasire",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "us marines venezuela exercise",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "hegseth us military leadership analysis",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "white house shooting",
+      "topTopic": "us marines venezuela exercise",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "us marines venezuela exercise",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "donald trump",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1119,42 +1031,16 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "albuquerque fire",
+      "topTopic": "us marines venezuela exercise",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "albuquerque fire",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "abq",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "white",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "dick durbin",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "us marines venezuela exercise",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1241,17 +1127,17 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "alcalde",
+      "topTopic": "estados unidos",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "alcalde",
-          "relevanceScore": 100,
+          "name": "estados unidos",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1392,26 +1278,25 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "white house shooting",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nasir best",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1436,25 +1321,16 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "white house shooting",
+      "topTopic": "us marines venezuela exercise",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "us marines venezuela exercise",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1471,44 +1347,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "11h ago",
+          "started": "16h ago",
           "trendBreakdown": "utah",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "white house shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "dick durbin",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "white house shooting",
+      "topTopic": "traffic enforcement camera",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "white house shooting",
+          "name": "traffic enforcement camera",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "nasir best",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1551,18 +1417,25 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "white house shooting",
+      "topTopic": "nasir best",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "white house shooting",
-          "relevanceScore": 100,
+          "name": "nasir best",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "nasire",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "new orleans",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },

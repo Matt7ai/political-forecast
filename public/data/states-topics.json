@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-05-27T20:23:35.819Z",
+  "timestamp": "2026-05-27T23:21:15.233Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "california dmv network outage",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "california dmv network outage",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "900%"
         },
@@ -30,16 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "valley fair shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
-          "trendBreakdown": "valley",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -47,55 +30,65 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "valley fair shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "valley",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "oman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "200%"
         },
         {
           "name": "seguridad social",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "donald trump jr bettina wedding",
+          "name": "may",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "chip roy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "carnival cruise hot deck lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "karen bass",
+          "name": "anna kepner",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "unauthorized home depot transactions",
+          "name": "missouri",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -111,25 +104,25 @@
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "ken paxton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "600%"
+          "started": "22h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "500%"
         },
         {
           "name": "pam bondi",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -137,16 +130,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "donald trump",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "iran news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "trendBreakdown": "donald",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -163,59 +171,77 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ken paxton",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "800%"
         },
         {
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "joe",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "donald trump jr bettina wedding",
+          "name": "va home loan program unused",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "carnival cruise hot deck lawsuit",
+          "name": "the bahamas",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "james talarico",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "19h ago",
-          "trendBreakdown": "ken",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "oman",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "deen the great",
+          "name": "anna kepner",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "timothy",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "josh jacobs girlfriend",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "josh",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "may",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "social",
           "percentageIncrease": "200%"
         },
         {
@@ -223,51 +249,44 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "mayes",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "trump health",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "hillsborough county",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "josh jacobs",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "josh jacobs",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "josh",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "14h ago",
           "trendBreakdown": "pam",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "town center mall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "town",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ken paxton",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "james",
           "percentageIncrease": "700%"
         },
         {
@@ -275,49 +294,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
+          "started": "10h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "town center mall",
+          "name": "josh jacobs girlfriend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ken paxton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "800%"
+          "started": "22h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "chip roy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "redistricting in alabama",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "unauthorized home depot transactions",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -333,33 +327,43 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "pam",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ken paxton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "james",
           "percentageIncrease": "1000%"
         },
         {
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump health",
+          "name": "josh jacobs girlfriend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "josh",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "james talarico",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "trendBreakdown": "ken",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "oman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "400%"
         }
       ]
@@ -376,15 +380,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
+          "started": "8h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "ken paxton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "600%"
         },
@@ -393,7 +397,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -410,7 +414,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "700%"
         },
@@ -418,33 +422,33 @@
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "ken paxton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "delaware",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "james talarico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "ken",
+          "percentageIncrease": "400%"
         },
         {
           "name": "montgomery county public schools",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -452,25 +456,16 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "josh jacobs",
+      "topTopic": "biden doj audio lawsuit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "josh jacobs",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "josh",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -478,7 +473,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "800%"
         },
@@ -487,17 +482,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "john",
+          "started": "22h ago",
+          "trendBreakdown": "james",
           "percentageIncrease": "500%"
         },
         {
-          "name": "king charles",
+          "name": "josh jacobs girlfriend",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -512,31 +507,31 @@
           "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "600%"
         },
         {
-          "name": "ken paxton",
+          "name": "james talarico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "800%"
+          "started": "21h ago",
+          "trendBreakdown": "ken",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "pam bondi",
+      "topTopic": "biden doj audio lawsuit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "pam bondi",
+          "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -544,21 +539,30 @@
           "percentageIncrease": "500%"
         },
         {
-          "name": "biden doj audio lawsuit",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
-        },
-        {
           "name": "ken paxton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "iran news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "trendBreakdown": "news",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -573,42 +577,43 @@
           "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "trendBreakdown": "pam",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "ken paxton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "john",
           "percentageIncrease": "900%"
         },
         {
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "redistricting in alabama",
-          "relevanceScore": 95,
+          "name": "oman",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "50 minutes ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "james talarico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "trendBreakdown": "ken",
+          "percentageIncrease": "400%"
         },
         {
           "name": "nypost",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -625,7 +630,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "16h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "700%"
         },
@@ -634,7 +639,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -642,9 +647,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "john",
+          "started": "23h ago",
+          "trendBreakdown": "james",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "va home loan program unused",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "may",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -660,90 +681,74 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ken paxton",
+          "name": "james talarico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "800%"
+          "started": "22h ago",
+          "trendBreakdown": "paxtonken",
+          "percentageIncrease": "500%"
         },
         {
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "bidenjoe",
-          "percentageIncrease": "800%"
+          "started": "10h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "jonah levi",
-          "relevanceScore": 95,
+          "name": "oman",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "anna kepner",
+          "name": "josh jacobs girlfriend",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "may",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "social",
+          "percentageIncrease": "300%"
         },
         {
           "name": "deen the great",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "donald trump jr bettina wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "unauthorized home depot transactions",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "king charles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "chirayu rana",
+          "name": "seguridad social",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "trump green card news",
+          "name": "tier",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -751,91 +756,83 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "josh jacobs",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "josh jacobs",
+          "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "josh",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "pam",
           "percentageIncrease": "1000%"
         },
         {
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "pam bondi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "pam",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ken paxton",
+          "name": "james talarico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "20h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "600%"
+          "trendBreakdown": "ken",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "trump health",
-          "relevanceScore": 100,
+          "name": "may",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "social",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ebola symptoms",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "chip roy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "josh jacobs girlfriend",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "donald trump jr bettina wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "whio",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "donald trump",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "wkbn",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -843,17 +840,25 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "ken paxton",
+      "topTopic": "biden doj audio lawsuit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "biden doj audio lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "ken paxton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "james",
+          "started": "22h ago",
+          "trendBreakdown": "john",
           "percentageIncrease": "600%"
         },
         {
@@ -861,8 +866,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -878,7 +891,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "1000%"
         },
@@ -887,23 +900,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "trump health",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "9h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "james talarico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "ken",
           "percentageIncrease": "400%"
         },
@@ -912,7 +917,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -929,17 +934,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "ken paxton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -955,31 +968,182 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "ken paxton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "600%"
         },
         {
           "name": "pam bondi",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "james talarico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "ken",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
+      "topTopic": "james talarico",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "james talarico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "22h ago",
+          "trendBreakdown": "paxton",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "20h ago",
+          "trendBreakdown": "pam",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "biden doj audio lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "va home loan program unused",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "josh jacobs girlfriend",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "adam hoffman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "may",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "oman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "letitia plummer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "annise",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "texas attorney general race",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "did",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "somaliland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "uscis green card memo impact",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "san antonio news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "chris kyle",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "bexar county",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "texas railroad commissioner election",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "trendBreakdown": "texas",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "puerto vallarta",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
       "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -991,198 +1155,6 @@
           "searchVolume": "2K+",
           "started": "17h ago",
           "trendBreakdown": "pam",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "biden doj audio lawsuit",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "joe",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "carnival cruise hot deck lawsuit",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "james talarico",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "19h ago",
-          "trendBreakdown": "paxtonken",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "letitia plummer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "annise",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "adam hoffman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "anna kepner",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "somaliland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "ksat",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "donald trump jr bettina wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uscis green card memo impact",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "chris kyle",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "bexar county",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "trump health",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "did chip roy win",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "attorney",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "texas railroad commissioner election",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "texas",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "deen the great",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "donald trump",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "yahoo",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "puerto vallarta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "killeen isd",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Virginia",
-      "code": "VA",
-      "topTopic": "crime",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "crime",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "pam bondi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "trendBreakdown": "pam",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "biden doj audio lawsuit",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1190,41 +1162,66 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "james",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "king charles",
-          "relevanceScore": 95,
+          "name": "crime",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "biden doj audio lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "grafton high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "donald trump",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "josh jacobs",
+      "topTopic": "ken paxton",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "josh jacobs",
+          "name": "ken paxton",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "900%"
         },
         {
           "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "1000%"
         },
@@ -1232,17 +1229,8 @@
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ken paxton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "james",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1250,7 +1238,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1258,26 +1246,26 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "supreme court",
+      "topTopic": "ken paxton",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court",
+          "name": "ken paxton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "started": "22h ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "ken paxton",
+          "name": "pam bondi",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1301,25 +1289,16 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "ken paxton",
+      "topTopic": "pam bondi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "ken paxton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "pam",
           "percentageIncrease": "500%"
         },
@@ -1327,43 +1306,60 @@
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "james talarico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "ken",
+          "percentageIncrease": "500%"
         },
         {
           "name": "alexandra lozano",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "supreme court",
+      "topTopic": "ken paxton",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "ken paxton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1404,7 +1400,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1412,16 +1408,25 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "pam bondi",
+      "topTopic": "ken paxton",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "ken paxton",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "800%"
+        },
+        {
           "name": "pam bondi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1429,32 +1434,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "ken paxton",
-          "relevanceScore": 100,
+          "name": "air force academy graduation",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "john",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "air",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "donald trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "republic services",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "waste management",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1462,33 +1467,34 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "josh jacobs",
+      "topTopic": "brian",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "josh jacobs",
+          "name": "brian",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "josh",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "minneapolis",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "shakopee shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "canterbury",
           "percentageIncrease": "1000%"
         },
         {
           "name": "biden doj audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brian",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1496,7 +1502,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "500%"
         },
@@ -1504,9 +1510,17 @@
           "name": "pam bondi",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "josh jacobs girlfriend",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1522,8 +1536,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "started": "23h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1556,7 +1578,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1564,32 +1586,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "thomas rivera schatz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "telemundo en vivo",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "el vocero",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1622,7 +1628,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1630,16 +1636,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1731,7 +1729,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1739,25 +1737,16 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "josh jacobs",
+      "topTopic": "mpox",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "josh jacobs",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "21h ago",
-          "trendBreakdown": "josh",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "mpox",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1765,41 +1754,58 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
+          "started": "10h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "ken paxton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "trendBreakdown": "texas",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "josh jacobs wife",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "did",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "pam bondi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "donald trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "supreme court",
+      "topTopic": "biden doj audio lawsuit",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "biden doj audio lawsuit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1807,17 +1813,17 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "supreme court",
+      "topTopic": "social security",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "supreme court",
-          "relevanceScore": 100,
+          "name": "social security",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1833,7 +1839,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1841,33 +1847,25 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "supreme court",
+      "topTopic": "connecticut",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "supreme court",
-          "relevanceScore": 100,
+          "name": "connecticut",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "ken paxton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "trendBreakdown": "john",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "pam bondi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1875,25 +1873,34 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "supreme court",
+      "topTopic": "james talarico",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ken paxton",
+          "name": "james talarico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "40 minutes ago",
+          "trendBreakdown": "ken",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "kentucky multi-county police",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1926,7 +1933,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "500%"
         },
@@ -1935,7 +1942,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1943,7 +1950,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]

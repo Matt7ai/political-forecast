@@ -1,77 +1,62 @@
 {
-  "timestamp": "2026-05-29T18:38:12.981Z",
+  "timestamp": "2026-05-29T21:55:54.624Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "covington principal arrested",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "kennedy",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "philippe chagniot",
+          "name": "rebecca haro",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "emmanuel",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "cuba news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mail-in voting executive",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "scott bessent",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "postal worker",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "anti weaponization fund",
+          "name": "federal judge halts trump fund",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "trendBreakdown": "justice",
           "percentageIncrease": "100%"
         },
         {
-          "name": "pennsylvania",
+          "name": "comerica garnishment kwame kilpatrick",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -87,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -95,24 +80,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "superintendent of public instruction california",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "rubios",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -128,15 +97,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mail-in voting executive",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -144,34 +105,51 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "trump mail-in voting",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump mail-in voting",
+          "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "mailin",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "kennedy",
           "percentageIncrease": "700%"
         },
         {
-          "name": "justice department anti-weaponization fund",
+          "name": "tiny turtle",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "tiny",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "trump mail-in voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "federal judge halts trump fund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "1h ago",
-          "trendBreakdown": "anti",
+          "trendBreakdown": "justice",
           "percentageIncrease": "400%"
         },
         {
-          "name": "pennsylvania",
+          "name": "fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
+          "searchVolume": "500+",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -179,8 +157,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -196,33 +182,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mail-in voting executive",
+          "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "eleanor ross",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "judge",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "law",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "200%"
         },
         {
           "name": "ex judges challenge trump fund",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -230,16 +224,24 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "romania",
+      "topTopic": "jackson leggett",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "jackson leggett",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "romania",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -247,33 +249,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jackson leggett",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump mail-in voting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "pennsylvania",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -289,14 +266,55 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump mail-in voting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
+      "topTopic": "kennedy center",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "anabella gyasi dulles detention",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "covington principal arrested",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
       "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -306,83 +324,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
           "name": "trump mail-in voting",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "trump mail-in voting",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump mail-in voting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "mailin",
+          "started": "12h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "covington principal arrested",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "postal worker",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "massachusetts",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "massachusetts",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -390,16 +357,24 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "covington principal arrested",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -407,26 +382,25 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "covington principal arrested",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump mail-in voting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -441,9 +415,8 @@
           "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "mailin",
+          "searchVolume": "500+",
+          "started": "11h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -451,66 +424,49 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "covington principal arrested",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "mailin",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "edwin raymond",
+          "name": "mamdani fires sheriff miranda",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "mamdani",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "independence day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "reid hoffman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "u.s. department of homeland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "edwin",
+          "percentageIncrease": "400%"
         },
         {
           "name": "amy coney barrett",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -518,77 +474,84 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "covington principal arrested",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "kennedy",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump mail-in voting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "cuba news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "executive order",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "executive order",
+          "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "covington principal arrested",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "kennedy",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "buffalo township excavator house demolition",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "mailin",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -596,16 +559,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "cuba news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "21h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -621,26 +576,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "wistv",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "wis",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "mail-in voting executive",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -656,32 +593,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump mail-in voting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "mail-in voting executive",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mail-in voting executive",
+          "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "cuba news",
+          "name": "justice department anti-weaponization fund",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "federal",
           "percentageIncrease": "200%"
         },
         {
@@ -689,83 +635,109 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "car accident lawyer",
+          "name": "anabella gyasi dulles detention",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "personal injury lawyer",
+          "name": "scott bessent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "anabella gyasi dulles detention",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "anabella gyasi dulles detention",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump mail-in voting",
+          "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "800%"
+          "started": "2h ago",
+          "trendBreakdown": "newsbreaking",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "anabella gyasi dulles detention",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "dulles",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "romania",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "covington principal arrested",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "covington principal arrested",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "mailin",
+          "started": "13h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "kennedy center",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "kennedy",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "anabella gyasi dulles detention",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "dulles",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "covington principal arrested",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "scott bessent",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -773,7 +745,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -781,33 +753,25 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "brent swadley",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brent swadley",
+          "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "weather okc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -856,25 +820,17 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "covington principal arrested",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "covington principal arrested",
+          "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "executive order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -890,16 +846,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doordash driver theft taylor michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -932,16 +880,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doj vs biden audio lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "21h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -957,23 +897,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "doj vs biden audio lawsuit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -990,7 +922,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1017,15 +949,15 @@
       "code": "PR",
       "topTopic": "senado",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "senado",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1041,7 +973,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1058,7 +990,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1109,7 +1041,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1160,7 +1092,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1202,16 +1134,24 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "covington principal arrested",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1228,7 +1168,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1236,16 +1176,24 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "covington principal arrested",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1262,7 +1210,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1270,18 +1218,25 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "executive order",
+      "topTopic": "meridian woodson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "executive order",
+          "name": "meridian woodson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },

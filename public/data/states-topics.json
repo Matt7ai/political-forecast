@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-05-29T08:01:51.749Z",
+  "timestamp": "2026-05-29T11:39:58.034Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "executive order",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "executive order",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "900%"
         },
@@ -30,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -38,23 +30,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "doj vs biden audio lawsuit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -62,7 +46,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -70,7 +54,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -78,15 +62,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ex judges challenge trump fund",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -94,7 +70,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -102,7 +78,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "tariff",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -110,7 +94,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -118,19 +102,11 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "superintendent of public instruction california",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "federal bureau of investigation",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -142,32 +118,57 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "david rush gold bars",
+          "name": "australia",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "graduation",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "rubios",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "15h ago",
-          "percentageIncrease": "75%"
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "wsj",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "executive order",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "white house east wing litigation",
+          "name": "executive order",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
         },
         {
@@ -175,32 +176,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "executive order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "11h ago",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "ups",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -216,65 +200,25 @@
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
+          "searchVolume": "10K+",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "executive order",
+          "name": "mail-in voting executive",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doj vs biden audio lawsuit",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "ex judges challenge trump fund",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "delcy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
+          "started": "16h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "800%"
         },
         {
           "name": "cuba news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -282,7 +226,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -290,7 +234,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
+          "trendBreakdown": "federal",
           "percentageIncrease": "500%"
         }
       ]
@@ -307,7 +252,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -315,74 +260,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "judge eleanor ross",
+          "name": "doj vs biden audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "eleanor",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "doj vs biden audio lawsuit",
+          "name": "judge eleanor ross",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "12h ago",
+          "trendBreakdown": "eleanor",
           "percentageIncrease": "400%"
         },
         {
-          "name": "florida versus california lawsuit",
+          "name": "ex judges challenge trump fund",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -390,73 +311,66 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "800%"
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "executive order",
+          "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "doj vs biden audio lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "600%"
         },
         {
           "name": "ex judges challenge trump fund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "david rush",
+          "name": "doj vs biden audio lawsuit",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "scott bessent",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "dollar",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "todd rokita",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -464,33 +378,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "mailin",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "todd rokita",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "david rush cia",
+          "name": "doj vs biden audio lawsuit",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "florida versus california lawsuit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -506,82 +404,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "executive order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doordash driver theft taylor michigan",
+          "name": "trump mail-in voting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "executive order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "doj vs biden audio lawsuit",
+          "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "executive",
           "percentageIncrease": "800%"
         },
         {
@@ -589,25 +447,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "latest",
+          "started": "22h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "doj vs biden audio lawsuit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "postal worker",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "anna kepner",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -623,32 +480,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "executive order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "connecticut",
+          "name": "trump mail-in voting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "executive",
           "percentageIncrease": "200%"
         }
       ]
@@ -656,24 +497,16 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -681,50 +514,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doordash driver theft taylor michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "executive order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "mailin",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -732,41 +540,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "trendBreakdown": "newark",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "doordash driver theft taylor michigan",
+          "name": "trump mail-in voting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "florida versus california lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "connecticut",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -782,65 +566,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "executive order",
+          "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "800%"
+          "started": "1h ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "900%"
         },
         {
           "name": "doj vs biden audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "florida versus california lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "18h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "ex judges challenge trump fund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
-          "trendBreakdown": "latest",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "anna kepner",
+          "name": "ups",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "2h ago",
+          "trendBreakdown": "dollar",
           "percentageIncrease": "200%"
         }
       ]
@@ -848,33 +608,16 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "executive order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
-          "trendBreakdown": "mailin",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -882,96 +625,65 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "doj vs biden audio lawsuit",
+          "name": "mail-in voting executive",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "edwin raymond",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "anthony",
-          "percentageIncrease": "300%"
         },
         {
           "name": "ex judges challenge trump fund",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
+          "searchVolume": "1K+",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "fox news iran",
+          "name": "anthony miranda",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
+          "started": "12h ago",
+          "trendBreakdown": "edwin",
+          "percentageIncrease": "200%"
         },
         {
           "name": "eleanor ross",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "independence day",
+          "name": "doj vs biden audio lawsuit",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "u.s. department of homeland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "delaney hall",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "reid hoffman",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "nys budget",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -988,40 +700,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "executive order",
+          "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "900%"
+          "started": "1h ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "800%"
         },
         {
           "name": "doj vs biden audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1029,7 +725,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1037,16 +733,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "latest",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "david rush",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1054,24 +741,16 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "executive order",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "executive order",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
         }
@@ -1080,82 +759,42 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "executive order",
+          "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "2h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "habeas corpus",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "cuba news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "david rush",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "pittsburgh",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "florida versus california lawsuit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1171,7 +810,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1179,7 +818,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
         }
@@ -1197,15 +836,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1213,7 +844,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
         },
@@ -1222,7 +853,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1230,16 +861,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "doordash driver theft taylor michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1255,23 +878,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "800%"
         },
         {
           "name": "executive order",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
         },
@@ -1280,15 +895,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1296,7 +903,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1304,7 +911,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1312,23 +919,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "florida versus california lawsuit",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "car accident lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1336,7 +935,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1344,7 +943,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1361,82 +960,66 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "executive order",
+          "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
+          "started": "3h ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "800%"
         },
         {
           "name": "doj vs biden audio lawsuit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "florida versus california lawsuit",
+          "name": "romania",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "executive order",
+          "name": "trump mail-in voting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "mailin",
-          "percentageIncrease": "1000%"
+          "started": "1h ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "fox news iran",
+          "name": "ex judges challenge trump fund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1453,7 +1036,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1461,7 +1044,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1469,7 +1052,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "900%"
         }
@@ -1495,24 +1078,16 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "mail-in voting executive",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "mail-in voting executive",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "trendBreakdown": "executive",
           "percentageIncrease": "800%"
         },
@@ -1521,7 +1096,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1538,7 +1113,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1546,24 +1121,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "doordash driver theft taylor michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1579,7 +1138,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1587,7 +1146,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1604,40 +1163,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "executive order",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "executive order",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
         },
@@ -1646,7 +1189,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1654,24 +1197,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "force",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "doordash driver theft taylor michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "doj vs biden audio lawsuit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1679,24 +1214,16 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1704,24 +1231,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox news iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "doj vs biden audio lawsuit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1738,7 +1257,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1765,15 +1284,15 @@
       "code": "PR",
       "topTopic": "cuenta trump",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "cuenta trump",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
+          "started": "15h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1806,7 +1325,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1814,7 +1333,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1848,7 +1367,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1865,7 +1384,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1907,24 +1426,16 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "white house east wing litigation",
+      "topTopic": "covington principal arrested",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1932,7 +1443,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "1000%"
         },
@@ -1941,24 +1452,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "fox news iran",
-          "relevanceScore": 100,
+          "name": "teacher",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "600%"
+          "started": "17h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "ex judges challenge trump fund",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1974,7 +1485,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1982,7 +1493,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1999,15 +1510,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
+          "started": "19h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "doordash driver theft taylor michigan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -2024,7 +1535,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -2041,7 +1552,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -2057,8 +1568,8 @@
           "name": "covington principal arrested",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2066,7 +1577,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "800%"
         },
@@ -2075,16 +1586,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "doordash driver theft taylor michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "17h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -2100,7 +1603,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -2117,7 +1620,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2125,25 +1628,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "trendBreakdown": "mailin",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "doordash driver theft taylor michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "white house east wing litigation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },

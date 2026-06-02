@@ -1,64 +1,63 @@
 {
-  "timestamp": "2026-06-02T16:31:30.031Z",
+  "timestamp": "2026-06-02T20:54:43.141Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "7h ago",
           "trendBreakdown": "donald",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "700%"
         },
         {
-          "name": "lieutenant governor of california",
-          "relevanceScore": 95,
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "fiona",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "injury",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "superintendent of public instruction california",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
-          "trendBreakdown": "state",
+          "searchVolume": "10K+",
+          "started": "20h ago",
+          "trendBreakdown": "richard",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "rick chow",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "cyrus",
-          "percentageIncrease": "200%"
         },
         {
           "name": "eleni kounalakis",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
-          "trendBreakdown": "treasurer",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "michael tubbs",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "20h ago",
+          "trendBreakdown": "anna",
           "percentageIncrease": "200%"
         },
         {
@@ -66,27 +65,60 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "rob bonta",
+          "name": "rick chow",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "trendBreakdown": "cyrus",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "michael tubbs",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "katie porter",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "henry nowak",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "denaturalization",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump administration federal grant oversight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "jimmy gomez",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -94,191 +126,266 @@
           "percentageIncrease": "300%"
         },
         {
+          "name": "car accident lawyer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
           "name": "anti weaponization fund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "matt mahan",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "california insurance commissioner candidates",
+          "name": "where to vote",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "insurance",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "100%"
         },
         {
-          "name": "hegseth strikes female and black navy officers from promotion list",
+          "name": "nato",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "general dynamics",
+          "name": "kenneth mejia",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "eric swalwell",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "cars",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "nato",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "personal injury attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "personal injury lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "car accident lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bill pulte",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump administration federal grant oversight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "nato",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "henry nowak",
-          "relevanceScore": 95,
+          "name": "chase",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pima county",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "started": "7h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "trendBreakdown": "flag",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "khon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "rick chow",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "18h ago",
           "trendBreakdown": "cyrus",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "denaturalization",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration federal grant oversight",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump ai executive order",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "henry nowak",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
           "name": "anti weaponization fund",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "nato",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "florida property tax",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "florida",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "pima county",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "general dynamics",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "treasury department analysis tax breaks",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "andrew left",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "wawa",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -286,7 +393,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -294,16 +401,24 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
+        },
+        {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -311,16 +426,48 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "trendBreakdown": "cyrus",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "denaturalization",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "anti weaponization fund",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "rhode",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "car accident attorney",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -328,25 +475,66 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "andrew 's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "personal injury attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "denaturalization",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "rick chow",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "16h ago",
           "trendBreakdown": "cyrus",
           "percentageIncrease": "200%"
         },
@@ -355,15 +543,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "henry nowak",
+          "name": "naperville teen takeover",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "100+",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -371,7 +559,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "10h ago",
           "trendBreakdown": "muscatine",
           "percentageIncrease": "200%"
         },
@@ -380,15 +568,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "venezuela",
+          "name": "rhode",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
+          "searchVolume": "500+",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -396,63 +584,201 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "bill pulte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "started": "7h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump administration federal grant oversight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "anti weaponization fund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "rick chow",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "denaturalization",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "rhode",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "fox news today",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "bill pulte",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "fox news today",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "henry nowak",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -462,103 +788,148 @@
       ]
     },
     {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "bill pulte",
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "1000%"
+          "started": "7h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "tiger",
+          "name": "social security administration staffing cuts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "springfield mo weather",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
+          "started": "40 minutes ago",
+          "percentageIncrease": "500%"
+        },
         {
-          "name": "springfield mo weather",
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "atlantic city",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "bill pulte",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
+        },
         {
-          "name": "bill pulte",
-          "relevanceScore": 100,
+          "name": "rhode",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "started": "22h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "nueva jersey",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "denaturalization",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump administration federal grant oversight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "rick chow",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "anti weaponization fund",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "900%"
+        },
+        {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "rick chow",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "trendBreakdown": "cyrus",
           "percentageIncrease": "200%"
         },
         {
-          "name": "hi",
+          "name": "wral news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -566,79 +937,86 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "denaturalization",
+          "name": "henry nowak",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "vickrum",
+          "percentageIncrease": "800%"
         },
         {
           "name": "rick chow",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "17h ago",
           "trendBreakdown": "cyrus",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "denaturalization",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "henry nowak",
+          "name": "social security administration staffing cuts",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "massapequa stabbing",
-          "relevanceScore": 95,
+          "name": "milbank",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "long",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump ai executive order",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "anti weaponization fund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "yahoo",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "nato",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pima county",
+          "name": "jimmy gomez",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -650,7 +1028,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -658,24 +1036,48 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "anti weaponization fund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -683,7 +1085,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -691,7 +1093,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -699,7 +1101,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "12h ago",
           "trendBreakdown": "cyrus",
           "percentageIncrease": "100%"
         },
@@ -708,84 +1110,84 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "roblox",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "chatgpt",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "chatgpt",
-          "relevanceScore": 85,
+          "name": "fox news today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "7h ago",
           "trendBreakdown": "donald",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "anti weaponization fund",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "denaturalization",
+          "name": "nato",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "rick chow",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
           "trendBreakdown": "cyrus",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "henry nowak",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -801,33 +1203,74 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "20h ago",
           "trendBreakdown": "cyrus",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "henry nowak",
+      "topTopic": "amber alert",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "amber alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "1h ago",
+          "trendBreakdown": "amber",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "henry nowak",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump administration federal grant oversight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "memphis weather",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -835,7 +1278,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -843,7 +1286,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -851,33 +1294,65 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bill pulte",
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "social security administration staffing cuts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "2h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "accident",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "matthew uwa",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "rick chow",
+          "name": "henry nowak",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "cyrus",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "bill pulte",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump administration federal grant oversight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -885,39 +1360,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "henry nowak",
-          "relevanceScore": 90,
+          "name": "rick chow",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "cyrus",
+          "percentageIncrease": "200%"
         },
         {
           "name": "anti weaponization fund",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "roblox",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
         },
         {
           "name": "hi",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -925,7 +1393,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -933,41 +1401,41 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rick chow",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "cyrus",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "denaturalization",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "henry nowak",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "rick chow",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "cyrus",
           "percentageIncrease": "200%"
         }
       ]
@@ -983,33 +1451,57 @@
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
+          "searchVolume": "5K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "henry nowak",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "denaturalization",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "rick chow",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "trendBreakdown": "cyrus",
           "percentageIncrease": "300%"
         },
         {
-          "name": "anti weaponization fund",
+          "name": "rhode",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1017,16 +1509,32 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "tulsa weather",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "tulsa weather",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "trendBreakdown": "weather",
           "percentageIncrease": "200%"
         }
@@ -1052,24 +1560,57 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "fox",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "bill pulte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "henry nowak",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump administration federal grant oversight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "2h ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "nato",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "yahoo news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -1077,7 +1618,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1085,50 +1626,58 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "fox news",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "fox news today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "9h ago",
-          "percentageIncrease": "75%"
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "hospital",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hospital",
+          "name": "fox news today",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "u.s. department of homeland",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "u.s. department of homeland",
+          "name": "fox news today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "personal injury lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "1h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1136,50 +1685,89 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "bill pulte",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
+          "name": "fox news today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
+        },
+        {
           "name": "bill pulte",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "york",
-          "percentageIncrease": "700%"
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "henry nowak",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "colorado springs weather",
-          "relevanceScore": 90,
+          "name": "personal injury lawyer",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "muscatine iowa",
+      "topTopic": "social security administration staffing cuts",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "bill pulte",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fox news today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "trump administration federal grant oversight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "muscatine iowa",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1272,16 +1860,24 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "portland press herald",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "fox news today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "portland press herald",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1341,16 +1937,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "fox news",
+      "topTopic": "fox news today",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "fox news",
+          "name": "fox news today",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "fox",
           "percentageIncrease": "100%"
         }
       ]
@@ -1358,43 +1955,75 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "calculator",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "calculator",
-          "relevanceScore": 85,
+          "name": "fox news today",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "maps",
-          "relevanceScore": 85,
+          "name": "criminal defense attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "criminal defense lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "bill pulte",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "muscatine iowa",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "muscatine iowa",
-          "relevanceScore": 100,
+          "name": "fox news today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "muscatine shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
+          "started": "18h ago",
           "trendBreakdown": "muscatine",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1410,16 +2039,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "19h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "fox news today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "roblox",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1444,68 +2081,92 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "calculator",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "calculator",
-          "relevanceScore": 85,
+          "name": "fox news today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "fox news",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "fox news today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "50%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "martin nitzken",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "maps",
+      "topTopic": "fox news today",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "maps",
-          "relevanceScore": 85,
+          "name": "fox news today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "wafb",
+      "topTopic": "social security administration staffing cuts",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "wafb",
-          "relevanceScore": 90,
+          "name": "social security administration staffing cuts",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "fox news today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1581,16 +2242,16 @@
     {
       "name": "Wyoming",
       "code": "WY",
-      "topTopic": "law",
+      "topTopic": "fox news",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "law",
+          "name": "fox news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]

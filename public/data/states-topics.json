@@ -1,45 +1,77 @@
 {
-  "timestamp": "2026-06-08T11:02:42.807Z",
+  "timestamp": "2026-06-08T15:58:44.888Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "canoga park",
+      "topTopic": "mother",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "canoga park",
+          "name": "mother",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "tax filing deadline",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "canoga park shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "canoga",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "penn station stabbing",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "trendBreakdown": "penn",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "princess eugenie",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "at&t verizon t-mobile fcc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "pizza",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "princess eugenie",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "pasaporte",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -47,125 +79,141 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "21h ago",
           "trendBreakdown": "sacramento",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "mcdonalds",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "usda nutrition funding injunction",
+      "topTopic": "mother",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "usda nutrition funding injunction",
-          "relevanceScore": 95,
+          "name": "mother",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "united states armed forces",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "princess eugenie",
+      "topTopic": "guthrie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "princess eugenie",
+          "name": "guthrie",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "base naval",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "500%"
+          "started": "16h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "penn station stabbing",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "penn",
+          "percentageIncrease": "300%"
         },
         {
           "name": "at&t verizon t-mobile fcc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "ohio shooting",
-          "relevanceScore": 90,
+          "name": "tax filing deadline",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "old",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "princess eugenie",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "usda nutrition funding injunction",
+      "topTopic": "guthrie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "usda nutrition funding injunction",
+          "name": "guthrie",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "800%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "carmelo anthony trial",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "princess eugenie",
+      "topTopic": "mother",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "princess eugenie",
+          "name": "mother",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "pedro ramirez",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "12h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "prince",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "lincoln park shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -173,51 +221,67 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "karmelo anthony",
+      "topTopic": "guthrie",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "karmelo anthony",
-          "relevanceScore": 90,
+          "name": "guthrie",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "united states armed forces",
+      "topTopic": "mother",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "united states armed forces",
+          "name": "mother",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "penn station stabbing",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "united states postal service",
+      "topTopic": "guthrie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "united states postal service",
+          "name": "guthrie",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "charles schwab",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -226,40 +290,56 @@
       "code": "MA",
       "topTopic": "penn station stabbing",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "penn station stabbing",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "12h ago",
           "trendBreakdown": "penn",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "mother",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "charles schwab",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "lees summit downtown days",
+      "topTopic": "guthrie",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "lees summit downtown days",
-          "relevanceScore": 95,
+          "name": "guthrie",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "blue angels",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -275,25 +355,17 @@
           "name": "penn station stabbing",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "10h ago",
+          "searchVolume": "10K+",
+          "started": "15h ago",
           "trendBreakdown": "penn",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "usda nutrition funding injunction",
+          "name": "guthrie",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "princess eugenie",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "1h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -301,25 +373,32 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "at&t verizon t-mobile fcc",
+      "topTopic": "guthrie",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "at&t verizon t-mobile fcc",
-          "relevanceScore": 95,
+          "name": "guthrie",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "austin metcalf",
+          "name": "princess eugenie",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "rent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "karmelo",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -327,49 +406,89 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "george zoley",
+      "topTopic": "guthrie",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "george zoley",
+          "name": "guthrie",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chicago",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "princess eugenie",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "pasaporte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "21h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "at&t verizon t-mobile fcc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "gustavo petro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "north korea",
-          "relevanceScore": 95,
+          "name": "chagos islands",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "ohio shooting",
+      "topTopic": "guthrie",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ohio shooting",
+          "name": "guthrie",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "at&t verizon t-mobile fcc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -394,76 +513,67 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "penn station stabbing",
+      "topTopic": "guthrie",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
+          "name": "guthrie",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "penn station stabbing",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "trendBreakdown": "penn",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "billy schmidt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "austin metcalf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "karmelo",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "usda nutrition funding injunction",
+      "topTopic": "guthrie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "usda nutrition funding injunction",
+          "name": "guthrie",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "treasury department iranian assets recovery",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "murfreesboro",
+      "topTopic": "guthrie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "guthrie",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "murfreesboro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -471,83 +581,106 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "at&t verizon t-mobile fcc",
+      "topTopic": "guthrie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "at&t verizon t-mobile fcc",
+          "name": "guthrie",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "at&t verizon t-mobile fcc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "pasaporte",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
+          "started": "20h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "princess eugenie",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "rostec",
-          "relevanceScore": 95,
+          "name": "irs",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "austin metcalf",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "usda nutrition funding injunction",
+      "topTopic": "guthrie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "usda nutrition funding injunction",
+          "name": "guthrie",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "penn station stabbing",
+          "name": "princess eugenie",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "trendBreakdown": "postny",
-          "percentageIncrease": "200%"
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "irs",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "penn station stabbing",
+      "topTopic": "carmelo anthony trial",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "carmelo anthony trial",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "penn station stabbing",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "13h ago",
           "trendBreakdown": "penn",
           "percentageIncrease": "400%"
         }
@@ -556,17 +689,16 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "usda nutrition funding injunction",
+      "topTopic": "mother",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "usda nutrition funding injunction",
+          "name": "mother",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "judge",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -591,17 +723,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "usda nutrition funding injunction",
+      "topTopic": "mother",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "usda nutrition funding injunction",
-          "relevanceScore": 95,
+          "name": "mother",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "12h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -667,52 +799,67 @@
           "name": "bent county correctional facility",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "guthrie",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "rent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "usps",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "usda nutrition funding injunction",
+      "topTopic": "guthrie",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "usda nutrition funding injunction",
-          "relevanceScore": 100,
+          "name": "guthrie",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "judge",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "hannah smith carnival cruise lawsuit",
+      "topTopic": "mother",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "hannah smith carnival cruise lawsuit",
-          "relevanceScore": 100,
+          "name": "mother",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -744,17 +891,17 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "gasolina",
+      "topTopic": "pasaporte",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "gasolina",
-          "relevanceScore": 100,
+          "name": "pasaporte",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -881,18 +1028,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "usda nutrition funding injunction",
+      "topTopic": "guthrie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "usda nutrition funding injunction",
+          "name": "guthrie",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "judge",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -986,16 +1132,16 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "usda nutrition funding injunction",
+      "topTopic": "guthrie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "usda nutrition funding injunction",
+          "name": "guthrie",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1003,17 +1149,17 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "james handy top gun",
+      "topTopic": "mother",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "james handy top gun",
-          "relevanceScore": 100,
+          "name": "mother",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },

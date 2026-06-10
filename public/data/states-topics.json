@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-10T13:00:51.687Z",
+  "timestamp": "2026-06-10T17:23:59.305Z",
   "states": [
     {
       "name": "California",
@@ -13,8 +13,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "austin",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration park exhibit complaints",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "secure america act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "house",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,41 +47,47 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "800%"
+          "started": "20h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "dccc california primary spending",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "reiner family trust dispute",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "nick",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "belfast",
+          "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "belfast knife attack",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "hospitals",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "united states department of justice",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "tim",
+          "searchVolume": "1K+",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -64,24 +95,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "hospitals",
+          "name": "social security",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "donald trump",
+          "name": "max miller",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "apache",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -89,108 +119,117 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "john fetterman",
+      "topTopic": "arrest",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "arrest",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "carmelo anthony",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury attorneys",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "car",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "reiner family trust dispute",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
         },
         {
           "name": "dog",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "john fetterman",
+      "topTopic": "carmelo anthony",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "carmelo anthony",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "23h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "900%"
+          "started": "20h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "cruise ship",
+          "name": "trump administration park exhibit complaints",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
+          "started": "5h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "reiner family trust dispute",
+          "name": "prince harry meghan archie photo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "rob",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "meghan",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "white house tariff repayment strategy",
+          "name": "secure america act",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "house",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "neonatal intensive care unit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -198,16 +237,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "misty roberts",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "gustavo petro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "strait of hormuz",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "trendBreakdown": "apache",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "south carolina primary",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "lindsey",
           "percentageIncrease": "300%"
         },
         {
@@ -215,24 +279,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "dog",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "ssa bisignano congress hearing",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "kyle rittenhouse",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -248,74 +320,105 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "reiner family trust dispute",
+          "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "2h ago",
-          "trendBreakdown": "united",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "john fetterman",
+      "topTopic": "postal voting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration park exhibit complaints",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
+          "started": "19h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "reiner family trust dispute",
+          "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "tim walz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "belfast",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
+          "searchVolume": "2K+",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "country club hills",
+          "name": "south carolina primary",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "15h ago",
+          "trendBreakdown": "lindsey",
           "percentageIncrease": "400%"
         },
         {
-          "name": "tim walz",
+          "name": "social security",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "united",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -323,44 +426,42 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "karmelo anthony trial",
+      "topTopic": "carmelo anthony",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "karmelo anthony trial",
+          "name": "carmelo anthony",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "carmelo",
-          "percentageIncrease": "800%"
+          "started": "22h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "reiner family trust dispute",
+          "name": "trump administration park exhibit complaints",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "wthr",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "makala",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "united states department of justice",
-          "relevanceScore": 95,
+          "name": "social security",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "trendBreakdown": "tim",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -376,16 +477,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
-          "trendBreakdown": "karmelo",
+          "started": "21h ago",
+          "trendBreakdown": "austin",
           "percentageIncrease": "1000%"
         },
         {
           "name": "samuel alito",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tim walz",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -393,7 +510,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -401,49 +518,74 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "livonia shooting",
+      "topTopic": "carmelo anthony",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "carmelo anthony",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "livonia shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "17h ago",
           "trendBreakdown": "livonia",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "trump administration park exhibit complaints",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "michigan department of corrections",
+          "name": "secure america act",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -451,32 +593,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "iran news",
-          "relevanceScore": 85,
+          "name": "social security",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "samuel alito",
+      "topTopic": "carmelo anthony",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "carmelo anthony",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "samuel alito",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -484,40 +635,81 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "rhode",
+      "topTopic": "carmelo anthony",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rhode",
+          "name": "carmelo anthony",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "karmelo",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration park exhibit complaints",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "united states department of justice",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "tim walz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "belfast",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -525,7 +717,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -542,48 +734,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "19h ago",
-          "trendBreakdown": "karmelo",
+          "started": "23h ago",
+          "trendBreakdown": "carmelo",
           "percentageIncrease": "1000%"
         },
         {
           "name": "samuel alito",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "reiner family trust dispute",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "belfast",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
+          "searchVolume": "1K+",
+          "started": "20h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "flights",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -599,93 +791,131 @@
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "prince harry meghan archie photo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "united states department of justice",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "united",
-          "percentageIncrease": "300%"
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "south carolina primary",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "lindsey",
+          "percentageIncrease": "400%"
         },
         {
           "name": "roy cooper",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "john fetterman",
+      "topTopic": "postal voting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "trump administration park exhibit complaints",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "reiner family trust dispute",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "500%"
+          "started": "19h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "new york city schools chancellor",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "belfast knife attack",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "newsbelfast",
-          "percentageIncrease": "300%"
         },
         {
           "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "united",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "belfast knife attack",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "trendBreakdown": "newsbelfast",
           "percentageIncrease": "300%"
         },
         {
-          "name": "faster us business visa interviews",
+          "name": "united states department of justice",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "hospitals",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -693,7 +923,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -701,24 +931,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "social",
+          "percentageIncrease": "100%"
         },
         {
           "name": "hershey park",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "strait of hormuz",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "apache",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -726,42 +956,73 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "john fetterman",
+      "topTopic": "postal voting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration park exhibit complaints",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "secure america act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "reiner family trust dispute",
+          "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
+          "started": "20h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "united",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "dog",
+          "name": "belfast",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
+          "started": "19h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -777,17 +1038,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "22h ago",
           "trendBreakdown": "carmelo",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "rhode",
+          "name": "trump administration park exhibit complaints",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "tim walz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -803,90 +1072,96 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "reiner family trust dispute",
+          "name": "postal voting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump administration park exhibit complaints",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "samuel alito",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "prince harry meghan archie photo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "hersheypark incident results in charges for",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "belfast",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "united",
+          "started": "6h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "belfast",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "united states department of justice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "sc primary results",
+      "topTopic": "nancy lacore",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "sc primary results",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "14h ago",
-          "trendBreakdown": "primary",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "nancy lacore",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "billy webster",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "cody simpson sc agriculture",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -894,33 +1169,58 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "cheers at choto",
+      "topTopic": "austin metcalf",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "cheers at choto",
+          "name": "austin metcalf",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "carmelo",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "tri-cities absconder operation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "cheers",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "cheers at choto",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "choto",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "united states department of justice",
-          "relevanceScore": 95,
+          "name": "trump administration park exhibit complaints",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -937,40 +1237,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "18h ago",
-          "trendBreakdown": "karmelo",
+          "started": "23h ago",
+          "trendBreakdown": "carmelo",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "secure america act",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "house",
+          "percentageIncrease": "900%"
         },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
+          "started": "20h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "kyle rittenhouse",
+          "name": "wfaa news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "reiner family trust dispute",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "manslaughter",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -978,40 +1287,55 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "immigration lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "house republicans immigration package",
+          "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "tim walz",
-          "relevanceScore": 90,
+          "name": "trump administration park exhibit complaints",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "united",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kyle rittenhouse",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "united states department of justice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "meghan markle new family post",
+          "name": "fox news",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1019,50 +1343,32 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "iran news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "carmelo anthony",
+      "topTopic": "samuel alito",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "carmelo anthony",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "19h ago",
-          "trendBreakdown": "austin",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "samuel alito",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "trump administration park exhibit complaints",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1070,32 +1376,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "dhs voter citizenship verification plan",
+          "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "2h ago",
-          "trendBreakdown": "united",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "100%"
         },
         {
           "name": "hospitals",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1111,42 +1424,59 @@
           "name": "samuel alito",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "postal voting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "south carolina primary",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "lindsey",
+          "percentageIncrease": "600%"
         },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "united states department of justice",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "trendBreakdown": "tim",
-          "percentageIncrease": "500%"
         },
         {
           "name": "belfast",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "dhs voter citizenship verification plan",
+          "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "united",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1162,17 +1492,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
-          "trendBreakdown": "karmelo",
+          "started": "24h ago",
+          "trendBreakdown": "carmelo",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "john fetterman",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1188,7 +1510,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1196,6 +1518,75 @@
     {
       "name": "Washington",
       "code": "WA",
+      "topTopic": "carmelo anthony",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "carmelo anthony",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "john fetterman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tim walz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "united",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Alabama",
+      "code": "AL",
+      "topTopic": "karmelo anthony verdict",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "karmelo anthony verdict",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "austin",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "code": "KS",
       "topTopic": "karmelo anthony trial",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -1204,61 +1595,10 @@
           "name": "karmelo anthony trial",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "18h ago",
-          "trendBreakdown": "carmelo",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "john fetterman",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Alabama",
-      "code": "AL",
-      "topTopic": "rhode",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Kansas",
-      "code": "KS",
-      "topTopic": "karmelo anthony",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "karmelo anthony",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "trendBreakdown": "karmelo",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1273,50 +1613,34 @@
           "name": "karmelo anthony",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
           "trendBreakdown": "karmelo",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "rhode",
+      "topTopic": "colorado",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "united states department of justice",
+          "name": "colorado",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "dog",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1324,67 +1648,33 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "minneapolis",
+      "topTopic": "samuel alito",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "minneapolis",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "and",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "dhs voter citizenship verification plan",
-          "relevanceScore": 100,
+          "name": "samuel alito",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "karmelo anthony",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "karmelo anthony",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "17h ago",
-          "trendBreakdown": "karmelo",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "cnn",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1401,7 +1691,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1409,17 +1699,17 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "pasaporte",
+      "topTopic": "vivienda",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "pasaporte",
-          "relevanceScore": 95,
+          "name": "vivienda",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1434,18 +1724,10 @@
           "name": "karmelo anthony",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
           "trendBreakdown": "karmelo",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1461,17 +1743,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "22h ago",
           "trendBreakdown": "karmelo",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1487,8 +1761,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nirav shah",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "troy",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1504,7 +1787,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "22h ago",
           "trendBreakdown": "karmelo",
           "percentageIncrease": "1000%"
         }
@@ -1522,24 +1805,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "karmelo",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "samuel alito",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1556,7 +1823,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "karmelo",
           "percentageIncrease": "1000%"
         }
@@ -1573,18 +1840,18 @@
           "name": "karmelo anthony",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
           "trendBreakdown": "karmelo",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "rhode",
-          "relevanceScore": 100,
+          "name": "social security",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1600,40 +1867,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "rhode",
-          "relevanceScore": 100,
+          "name": "tim walz",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "started": "1h ago",
+          "trendBreakdown": "united",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "criminal defense lawyer",
-          "relevanceScore": 100,
+          "name": "social security",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dhs voter citizenship verification plan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "reiner family trust dispute",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1648,26 +1900,26 @@
           "name": "karmelo anthony",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "17h ago",
+          "searchVolume": "10K+",
+          "started": "22h ago",
           "trendBreakdown": "karmelo",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "samuel alito",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "john fetterman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1683,8 +1935,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "18h ago",
-          "trendBreakdown": "austin",
+          "started": "23h ago",
+          "trendBreakdown": "carmelo",
           "percentageIncrease": "1000%"
         },
         {
@@ -1692,24 +1944,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "nevada",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "alexis hill nevada",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1726,16 +1970,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
-          "trendBreakdown": "carmelo",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "22h ago",
+          "trendBreakdown": "carmelo",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1752,16 +1988,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "22h ago",
           "trendBreakdown": "karmelo",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1769,23 +1997,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "samuel alito",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "carrie stetson winsted ct",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1793,7 +2013,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1827,8 +2047,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "18h ago",
-          "trendBreakdown": "austin",
+          "started": "23h ago",
+          "trendBreakdown": "karmelo",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1845,7 +2065,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1853,7 +2073,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1869,8 +2089,8 @@
           "name": "karmelo anthony",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1887,50 +2107,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "rhode",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "North Dakota",
       "code": "ND",
-      "topTopic": "fargo mayoral race",
+      "topTopic": "josh boschee",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "fargo mayoral race",
+          "name": "josh boschee",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "josh",
-          "percentageIncrease": "800%"
+          "started": "13h ago",
+          "trendBreakdown": "fargo",
+          "percentageIncrease": "700%"
         },
         {
           "name": "karmelo anthony",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "radar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1945,9 +2149,9 @@
           "name": "karmelo anthony",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1963,9 +2167,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "karmelo",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         }
       ]
     }

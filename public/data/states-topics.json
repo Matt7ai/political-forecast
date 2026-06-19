@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T04:29:55.787Z",
+  "timestamp": "2026-06-19T10:42:46.063Z",
   "states": [
     {
       "name": "California",
@@ -12,25 +12,33 @@
           "name": "carlos mencia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "justice department denaturalization push",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "12h ago",
+          "searchVolume": "10K+",
+          "started": "18h ago",
           "trendBreakdown": "supreme",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "banco",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -38,55 +46,73 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "ice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "donald trump voting executive order",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "old air force one retirement",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "immigration judge",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "monrovia fire",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "fire",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "north korea",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "9h ago",
+          "trendBreakdown": "kim",
           "percentageIncrease": "400%"
         },
         {
@@ -94,7 +120,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "george w bush",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -102,7 +136,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "score",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -110,6 +152,238 @@
     {
       "name": "Arizona",
       "code": "AZ",
+      "topTopic": "ice",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "ice",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "old air force one retirement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "justice department denaturalization push",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "travel warning",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "car accident lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "car",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "personal injury attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "accident",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "donald trump voting executive order",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "law",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "banco",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "travel warning",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "byron donalds florida governor poll",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "ice",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "old air force one retirement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sasha obama",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "malia",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "ahold delhaize doj settlement",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "immigration judge",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "dinero",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "north korea",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "florida troopers face felony charges after surrendering in osceola county",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "fhp",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "planet fitness",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
       "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -119,233 +393,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "supreme",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "travel warning",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "justice department denaturalization push",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "old air force one retirement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "car",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury attorney",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "accident",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "justice department denaturalization push",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "justice department denaturalization push",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "law",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "travel warning",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "banco",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "old air force one retirement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "byron donalds florida governor poll",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "sasha obama",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "malia",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "immigration judge",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "sussexes return to britain",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ahold delhaize doj settlement",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "north korea",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "treaty of versailles",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "florida troopers face felony charges after surrendering in osceola county",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "fhp",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "jobs",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "justice department denaturalization push",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
           "name": "justice department denaturalization push",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "travel warning",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "law",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -353,7 +417,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -361,15 +425,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "jobs",
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -386,7 +458,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -394,88 +466,105 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "law",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "1000%"
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "old air force one retirement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "14h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "ice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "lindsay clancy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "immigration judge",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "lindsay clancy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "george w bush",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "george",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "planet fitness",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "trendBreakdown": "elena",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "cbs news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "sussexes return to britain",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "jobs",
+          "name": "news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hospitals",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "40 minutes ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -492,8 +581,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "supreme",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -501,7 +589,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -509,16 +597,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "old air force one retirement",
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -534,7 +630,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -542,151 +638,11 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "travel warning",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "immigration judge",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "social security solvency solutions",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "travel warning",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "travel warning",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "law",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "justice department denaturalization push",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "old air force one retirement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "us european forces review",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "immigration judge",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "sussexes return to britain",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kohen wiley",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "lindsay clancy",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "lindsay clancy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "justice department denaturalization push",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "law",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "radar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "immigration judge",
+          "name": "banco",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -694,12 +650,183 @@
           "percentageIncrease": "300%"
         },
         {
-          "name": "jobs",
+          "name": "travel warning",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "servicio de control de inmigración y",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "immigration judge",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "law",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "justice department denaturalization push",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "travel warning",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "old air force one retirement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "us european forces review",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "donald trump voting executive order",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "immigration judge",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "sussexes return to britain",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "kohen wiley",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "law",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "justice department denaturalization push",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "radar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "immigration judge",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "whdh weather",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -715,7 +842,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "18h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "1000%"
         },
@@ -724,7 +851,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "22h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -741,8 +876,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "13h ago",
           "trendBreakdown": "times",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "banco",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -750,48 +893,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "old air force one retirement",
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "servicio de control de inmigración y",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "old air force one retirement",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "lindsay clancy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "jobs",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "travel",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -807,8 +950,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -816,47 +958,55 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "travel warning",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "old air force one retirement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "ice",
-          "relevanceScore": 95,
+          "name": "travel warning",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "immigration judge",
+          "name": "greensboro weather",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -864,16 +1014,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "travel",
+          "name": "zillow",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "immigration judge",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "wral",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -889,113 +1055,105 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "8h ago",
+          "started": "14h ago",
           "trendBreakdown": "times",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "justice department denaturalization push",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "travel warning",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "jazeera",
           "percentageIncrease": "1000%"
         },
         {
           "name": "ice",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "banco",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "lindsay clancy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "immigration judge",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "200%"
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "old air force one retirement",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "travel warning",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "immigration judge",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "lindsay clancy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "tay k",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "us european forces review",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "wktv weather",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "bbc news",
+          "name": "planet fitness",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "preston davey",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "50 minutes ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1003,15 +1161,39 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "buffalo weather",
+          "name": "white",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "politico",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "preston davey",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1019,25 +1201,24 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "travel warning",
+      "topTopic": "old air force one retirement",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "travel warning",
+          "name": "old air force one retirement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "started": "14h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1045,23 +1226,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "old air force one retirement",
+          "name": "travel warning",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "ice",
+          "name": "donald trump voting executive order",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1069,24 +1250,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "treaty of versailles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "kate middleton",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -1102,7 +1275,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1110,8 +1283,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "20h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1126,9 +1315,8 @@
           "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
+          "searchVolume": "5K+",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1136,7 +1324,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1144,23 +1332,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "old air force one retirement",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "kate middleton",
+          "name": "ice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1168,23 +1364,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "jobs",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "philadelphia",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1201,7 +1389,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "17h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "1000%"
         },
@@ -1210,7 +1398,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1218,31 +1406,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "travel",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "hospitals",
+          "name": "news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "jobs",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1259,16 +1431,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "18h ago",
           "trendBreakdown": "supreme",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "travel warning",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1276,15 +1440,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ice",
+          "name": "travel warning",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "banco",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1301,24 +1481,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "travel warning",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
+          "started": "19h ago",
+          "trendBreakdown": "court",
           "percentageIncrease": "1000%"
         },
         {
@@ -1326,31 +1498,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "24h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "travel warning",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "old air force one retirement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "north korea",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "jake lang",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1358,7 +1538,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1366,7 +1546,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1374,31 +1554,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "fox",
+          "name": "copa mundial de fútbol de",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "treaty of versailles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1406,7 +1578,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1414,24 +1586,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "travel",
-          "relevanceScore": 90,
+          "name": "white",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "jobs",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
+          "started": "4h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1447,8 +1611,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "supreme",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1456,7 +1619,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1464,16 +1627,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "14h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "banco",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "lindsay clancy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1489,7 +1676,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1497,17 +1684,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "18h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "social security solvency solutions",
-          "relevanceScore": 90,
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1523,7 +1718,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1531,16 +1726,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "walmart",
-          "relevanceScore": 85,
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "50%"
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1564,24 +1759,16 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "travel warning",
+      "topTopic": "law",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "travel warning",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "18h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "1000%"
         },
@@ -1590,15 +1777,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
+          "started": "21h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "travel warning",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "switzerland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "15h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "old air force one retirement",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1614,8 +1825,8 @@
           "name": "travel warning",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1623,7 +1834,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1631,7 +1842,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1639,24 +1850,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "huntsville weather",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "walmart",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "19h ago",
-          "percentageIncrease": "75%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1672,8 +1883,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1689,8 +1908,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "maggie toulouse oliver",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1706,7 +1933,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "18h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "1000%"
         },
@@ -1715,15 +1942,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "banco",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "social security",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20 minutes ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1740,7 +1975,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "18h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "1000%"
         },
@@ -1749,16 +1984,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "st peter mn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "old air force one retirement",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "zillow",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1774,7 +2041,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1782,7 +2049,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1807,17 +2074,25 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "abel nazario",
+      "topTopic": "pasaporte",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "abel nazario",
+          "name": "pasaporte",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "el nuevo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1867,7 +2142,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1901,7 +2176,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1952,7 +2227,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "18h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "1000%"
         },
@@ -1961,16 +2236,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ice",
-          "relevanceScore": 100,
+          "name": "donald trump voting executive order",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1985,8 +2260,8 @@
           "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1994,8 +2269,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "800%"
+          "started": "20h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -2011,7 +2286,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "16h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -2019,8 +2294,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -2036,8 +2319,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "18h ago",
           "trendBreakdown": "byu",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2045,16 +2336,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "law",
+          "name": "switzerland",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -2070,7 +2361,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -2078,16 +2369,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "news",
-          "relevanceScore": 85,
+          "name": "switzerland",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "75%"
+          "started": "14h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -2103,7 +2402,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -2111,16 +2410,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "wlky",
-          "relevanceScore": 100,
+          "name": "copa mundial de fútbol de",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -2136,7 +2435,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2144,16 +2443,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "walmart",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -2169,8 +2460,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "justice department denaturalization push",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -2186,7 +2485,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]

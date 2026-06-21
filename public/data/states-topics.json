@@ -1,76 +1,51 @@
 {
-  "timestamp": "2026-06-21T19:47:29.735Z",
+  "timestamp": "2026-06-21T21:18:42.205Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "emergency",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "emergency",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "16h ago",
-          "trendBreakdown": "warehouse",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "eagle",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "ireland",
+          "name": "salario",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "eagle",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "fires near me",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "fire watch",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -78,7 +53,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -86,7 +61,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -94,40 +69,48 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "nico macauley lady marina marriage",
-          "relevanceScore": 90,
+          "name": "bbc",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "7h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "trump italian prime minister",
+      "topTopic": "lindsey graham",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump italian prime minister",
+          "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "eagle",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -144,16 +127,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "florida",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump frequent number",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -161,31 +136,56 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "elecciones colombia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "registraduria",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "ramiro valdes",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "eagle",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "nico macauley lady marina marriage",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -193,7 +193,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -201,7 +201,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -209,7 +209,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -217,23 +217,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "zelensky",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "from",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -249,9 +241,17 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "florida",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -259,7 +259,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -267,79 +267,14 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "trump italian prime minister",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "father's day",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "trump frequent number",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump frequent number",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lottery",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "movies in theaters",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "50%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
       "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -348,24 +283,65 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "movies in theaters",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "trump frequent number",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "eagle",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "john f. kennedy center for the",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -382,7 +358,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -390,7 +366,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -407,31 +383,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "eagle",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump italian prime minister",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "schools",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -448,16 +424,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lottery",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
@@ -473,7 +441,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -490,7 +458,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -498,32 +466,40 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "trump frequent number",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "lottery",
-          "relevanceScore": 100,
+          "name": "eagle",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -531,7 +507,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -547,8 +523,16 @@
           "name": "lottery",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "elecciones colombia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
           "percentageIncrease": "400%"
         },
         {
@@ -556,15 +540,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -572,49 +548,57 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "social security administration",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "trump frequent number",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "trump frequent number",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump italian prime minister",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
         }
       ]
     },
@@ -630,7 +614,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -638,7 +622,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -646,40 +630,40 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "trump frequent number",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "600%"
+          "started": "17h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "john alite",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -687,16 +671,24 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "trump manhattan us attorney pick",
+      "topTopic": "lottery",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -704,7 +696,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -721,8 +713,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "john rose tennessee",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "john",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -737,40 +738,32 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "800%"
+          "started": "8h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "kansas city",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -778,7 +771,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "social security administration",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -786,31 +787,6 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "trump frequent number",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump frequent number",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
       "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -819,17 +795,42 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "father's day",
-          "relevanceScore": 90,
+          "name": "trump frequent number",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "lindsey graham",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -845,7 +846,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -870,16 +871,40 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "trump manhattan us attorney pick",
+      "topTopic": "lindsey graham",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "lottery",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "eagle",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -887,17 +912,17 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "happy father's",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "happy father's",
+          "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "900%"
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -921,41 +946,33 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "father's",
+      "topTopic": "trump frequent number",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "father's",
-          "relevanceScore": 95,
+          "name": "trump frequent number",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "grand junction",
+      "topTopic": "emergency",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "grand junction",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "emergency",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -963,16 +980,24 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "trump italian prime minister",
+      "topTopic": "lindsey graham",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "trump italian prime minister",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -980,25 +1005,17 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "happy fathers day",
+      "topTopic": "lottery",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "happy fathers day",
-          "relevanceScore": 100,
+          "name": "lottery",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "father's",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1022,40 +1039,24 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "jay fonseca",
+      "topTopic": "toa alta",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "jay fonseca",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "toa alta",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "cuba",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "fraude",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1080,17 +1081,17 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "father's",
+      "topTopic": "coeur",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "father's",
+          "name": "coeur",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1182,16 +1183,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "trump manhattan us attorney pick",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1199,7 +1208,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1207,7 +1216,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1224,7 +1233,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1241,7 +1250,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1291,17 +1300,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "father's",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "father's",
+          "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1325,41 +1334,25 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "lottery",
+      "topTopic": "wafb",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "lottery",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "wafb",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "21h ago",
           "trendBreakdown": "minnieweatherjaderrius",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "politics",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "homicide",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]

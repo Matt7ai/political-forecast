@@ -1,60 +1,94 @@
 {
-  "timestamp": "2026-06-21T12:14:19.201Z",
+  "timestamp": "2026-06-21T15:56:20.609Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "trump manhattan us attorney pick",
+      "topTopic": "emergency",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "emergency",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "13h ago",
+          "trendBreakdown": "warehouse",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "ireland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fire near me",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "fires",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "california highway patrol",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
+          "started": "23h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "trump italian prime minister",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "crystal lawson florida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "hitler",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "california highway patrol",
+          "name": "fathers day",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "crystal lawson florida",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -62,15 +96,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hell ship",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -78,7 +104,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -86,8 +112,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "bbc",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -103,7 +137,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -112,89 +146,121 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "hell ship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "trump polls",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump polls",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "13h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "nico macauley lady marina marriage",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "trump manhattan us attorney pick",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "john alite",
-          "relevanceScore": 95,
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "happy father's",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "aeropuerto internacional josé",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump italian prime minister",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "nico macauley lady marina marriage",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "started": "19h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "emergency",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "rosario murillo",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "john alite",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "fire near me",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "nueva york",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kennedy center shutdown lawsuit",
+          "name": "fathers day",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "searchVolume": "10K+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "florida lottery",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10 minutes ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -202,121 +268,519 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "trump manhattan us attorney pick",
+      "topTopic": "happy father's",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 95,
+          "name": "happy father's",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "crystal lawson florida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "trump italian prime minister",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "400%"
         },
         {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 95,
+          "name": "fathers day",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "trump polls",
+      "topTopic": "happy father's",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump polls",
+          "name": "happy father's",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "john f. kennedy center for the",
+          "name": "trump manhattan us attorney pick",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "hell ship",
+          "name": "trump italian prime minister",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "emergency",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "princeton park chicago",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "trendBreakdown": "chicago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "john f. kennedy center for the",
+      "topTopic": "trump polls",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump manhattan us attorney pick",
+          "name": "trump polls",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "john f. kennedy center for the",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "john f. kennedy center for the",
+      "topTopic": "happy father's",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "john f. kennedy center for the",
+          "name": "happy father's",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "trump frequent number",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump italian prime minister",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "schools",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "happy fathers day",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "happy fathers day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "happy fathers day",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "happy fathers day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "politics",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "apartments",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
+          "name": "trump polls",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "happy father's",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump italian prime minister",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump polls",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "trump frequent number",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump polls",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
+        {
           "name": "trump manhattan us attorney pick",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump italian prime minister",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "happy father's",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump polls",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump italian prime minister",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "social security administration",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "crystal lawson florida",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "trump frequent number",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "emergency",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trump italian prime minister",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "fairview park cincinnati",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -324,88 +788,345 @@
           "percentageIncrease": "400%"
         },
         {
-          "name": "afram festival",
-          "relevanceScore": 95,
+          "name": "fathers day",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "trump polls",
+      "name": "Oregon",
+      "code": "OR",
+      "topTopic": "trump frequent number",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "trump polls",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "trump frequent number",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "12h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "trump polls",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump italian prime minister",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "600%"
         },
         {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 100,
+          "name": "emergency",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "kyle bevan",
+          "name": "john alite",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "john f. kennedy center for the",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
         {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 95,
+          "name": "fathers day",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "apartments",
+      "name": "South Carolina",
+      "code": "SC",
+      "topTopic": "politics",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "apartments",
+          "name": "politics",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "code": "TN",
+      "topTopic": "politics",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "politics",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump iran",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
+          "started": "22h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "happy father's",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "trump polls",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "trump italian prime minister",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kansas city",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "4h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "topTopic": "politics",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "politics",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump polls",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "fathers day",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "code": "OK",
+      "topTopic": "happy fathers day",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "happy fathers day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "trump manhattan us attorney pick",
@@ -414,485 +1135,67 @@
           "searchVolume": "100+",
           "started": "3h ago",
           "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "trump polls",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "trump polls",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
         },
         {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "nueva york",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "united states department of labor",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "insurance fraud",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "trump italian prime minister",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump italian prime minister",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "700%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "trump manhattan us attorney pick",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump italian prime minister",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "trump iran",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "aruba",
+          "name": "fathers day",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "social security administration",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hell ship",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "crystal lawson florida",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "john f. kennedy center for the",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump italian prime minister",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "hell ship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Oregon",
-      "code": "OR",
-      "topTopic": "trump manhattan us attorney pick",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Pennsylvania",
-      "code": "PA",
-      "topTopic": "trump polls",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "trump polls",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "john alite",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "South Carolina",
-      "code": "SC",
-      "topTopic": "trump italian prime minister",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "trump italian prime minister",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Tennessee",
-      "code": "TN",
-      "topTopic": "trump polls",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "trump polls",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Texas",
-      "code": "TX",
-      "topTopic": "trump manhattan us attorney pick",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "trump italian prime minister",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "crystal lawson florida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "hell ship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "aruba",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Virginia",
-      "code": "VA",
-      "topTopic": "john f. kennedy center for the",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "hell ship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "trump iran",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "john f. kennedy center for the",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "trump polls",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "library of congress",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "3h ago",
+          "trendBreakdown": "fathers",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "afram baltimore",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Oklahoma",
-      "code": "OK",
-      "topTopic": "ketanji brown jackson",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "ketanji brown jackson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Vermont",
       "code": "VT",
-      "topTopic": "foreclosure",
+      "topTopic": "fathers day",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "foreclosure",
-          "relevanceScore": 100,
+          "name": "fathers day",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "trump manhattan us attorney pick",
+      "topTopic": "politics",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump manhattan us attorney pick",
+          "name": "politics",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump italian prime minister",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         },
         {
-          "name": "john f. kennedy center for the",
+          "name": "fathers day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "emergency",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "aircraft",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "12h ago",
-          "trendBreakdown": "air",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -901,32 +1204,40 @@
       "code": "AL",
       "topTopic": "politics",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "politics",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "todd blanche",
+      "topTopic": "fathers day",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "todd blanche",
-          "relevanceScore": 95,
+          "name": "fathers day",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -950,25 +1261,40 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "trump polls",
+      "topTopic": "grand junction",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump polls",
+          "name": "grand junction",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "700%"
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "happy father's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "john f. kennedy center for the",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -976,42 +1302,51 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "trump polls",
+      "topTopic": "trump italian prime minister",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "trump polls",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "trump manhattan us attorney pick",
+          "name": "trump italian prime minister",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "ketanji brown jackson",
+      "topTopic": "happy fathers day",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ketanji brown jackson",
+          "name": "happy fathers day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fathers day",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "fathers",
           "percentageIncrease": "200%"
         }
       ]
@@ -1045,16 +1380,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "air force one",
-          "relevanceScore": 100,
+          "name": "cuba",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1095,17 +1430,17 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "justice department denaturalization push",
+      "topTopic": "fathers day",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "justice department denaturalization push",
-          "relevanceScore": 100,
+          "name": "fathers day",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1129,17 +1464,17 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "wichai saksene",
+      "topTopic": "fathers day",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "wichai saksene",
-          "relevanceScore": 100,
+          "name": "fathers day",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1180,25 +1515,34 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "trump italian prime minister",
+      "topTopic": "politics",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump italian prime minister",
+          "name": "politics",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "800%"
         },
         {
           "name": "trump manhattan us attorney pick",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1207,14 +1551,31 @@
       "code": "IA",
       "topTopic": "trump polls",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "trump polls",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "trump manhattan us attorney pick",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1222,55 +1583,12 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "reno police department",
+      "topTopic": "emergency",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "reno police department",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Utah",
-      "code": "UT",
-      "topTopic": "fires near me",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "fires near me",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "there",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Connecticut",
-      "code": "CT",
-      "topTopic": "politics",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "politics",
+          "name": "emergency",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -1278,12 +1596,56 @@
           "percentageIncrease": "300%"
         },
         {
-          "name": "todd blanche",
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "code": "UT",
+      "topTopic": "fathers day",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Connecticut",
+      "code": "CT",
+      "topTopic": "happy fathers day",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "happy fathers day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fathers day",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1298,34 +1660,35 @@
           "name": "politics",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "north little rock police department",
+      "topTopic": "fathers day",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "north little rock police department",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "law",
-          "relevanceScore": 100,
+          "name": "fathers day",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "4h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1341,34 +1704,51 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "trendBreakdown": "minnieweatherjaderrius",
           "percentageIncrease": "500%"
         },
         {
           "name": "homicide",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
+          "started": "15h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "fathers",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Montana",
       "code": "MT",
-      "topTopic": "law",
+      "topTopic": "anaconda shooting",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "law",
+          "name": "anaconda shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "politics",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },

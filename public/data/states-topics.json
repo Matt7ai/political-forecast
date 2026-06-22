@@ -1,60 +1,93 @@
 {
-  "timestamp": "2026-06-22T04:28:03.651Z",
+  "timestamp": "2026-06-22T12:00:55.895Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "lottery",
+      "topTopic": "salario",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lottery",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "salario",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
+          "started": "17h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "prince harry father's day",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "eagle",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "princess charlotte father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "student",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "alberto carvalho",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "ktla",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "kostyantynivka",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "crystal lawson florida",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "bbc",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -69,8 +102,8 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "5K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -78,22 +111,104 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jason crow bill pulte criticism",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "student",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
+      "topTopic": "alan greenspan",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "andrea",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "student",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "prince harry father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "princess charlotte father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "eagle",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
       "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -103,122 +218,58 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "19h ago",
+          "trendBreakdown": "florida",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "andrea",
           "percentageIncrease": "1000%"
         },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump frequent number",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "1K+",
           "started": "15h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "aeropuerto internacional josé",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "ramiro valdes",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "ramiro",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "prince harry father's day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "eagle",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "emergency",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john alite",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "from",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "lindsey graham",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jason crow bill pulte criticism",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "princess charlotte father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "emergency",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "father's day",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -233,16 +284,25 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "searchVolume": "5K+",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "andrea",
           "percentageIncrease": "1000%"
         },
         {
@@ -250,65 +310,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hotels",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "movies in theaters",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "wdrb",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wdrb",
+          "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "5K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "john f. kennedy center for the",
-          "relevanceScore": 90,
+          "name": "lindsey graham",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -323,98 +359,100 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "andrea",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "15h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "afram festival",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "hotels",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "lindsey graham",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "andrea",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
+          "started": "15h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 100,
+          "name": "jason crow bill pulte criticism",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "prince harry father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "eagle",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "father's day",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "16h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "schools",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -429,25 +467,34 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "lindsey graham",
+          "name": "alan greenspan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "andrea",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -462,8 +509,8 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "5K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -471,16 +518,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "15h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "princess charlotte father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -495,8 +550,17 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "40 minutes ago",
+          "trendBreakdown": "andrea",
           "percentageIncrease": "1000%"
         },
         {
@@ -504,16 +568,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 100,
+          "name": "prince harry father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "rls media",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "candace owens",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "700%"
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -528,8 +608,17 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "10K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "andrea",
           "percentageIncrease": "1000%"
         },
         {
@@ -537,48 +626,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "prince harry father's day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "emergency",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "father's day",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -593,16 +658,107 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "10K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "andrea",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "prince harry father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "jason crow bill pulte criticism",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "princess charlotte father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "student",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "12h ago",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "lottery",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "andrea",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "princess charlotte father's day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -610,97 +766,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "eagle",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "emergency",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "social security administration",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "father's day",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "lindsey graham",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump frequent number",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "eagle",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "father's day",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "trump frequent number",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -708,7 +799,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -724,41 +815,66 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "andrea",
           "percentageIncrease": "1000%"
         },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "jason crow bill pulte criticism",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "princess charlotte father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "eagle",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "john alite",
+          "name": "luzerne county",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -773,8 +889,17 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "andrea",
           "percentageIncrease": "1000%"
         },
         {
@@ -782,55 +907,14 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "hotels",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "lindsey graham",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "lindsey graham",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "trump frequent number",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Texas",
-      "code": "TX",
       "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -839,8 +923,49 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump frequent number",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "memphis weather",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "alan greenspan",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -848,15 +973,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "student",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "lindsey graham",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "princess charlotte father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -864,7 +1005,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -872,19 +1013,11 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "eagle",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "social security administration",
+          "name": "jason crow bill pulte criticism",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -892,11 +1025,19 @@
           "percentageIncrease": "100%"
         },
         {
+          "name": "eagle",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
+        },
+        {
           "name": "emergency",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -912,8 +1053,17 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "andrea",
           "percentageIncrease": "1000%"
         },
         {
@@ -921,49 +1071,74 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "prince harry father's day",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "student",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "eagle",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "lindsey graham",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "andrea",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "15h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -978,8 +1153,24 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "radar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -987,7 +1178,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1020,8 +1211,8 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
+          "searchVolume": "5K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1029,24 +1220,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "prince harry father's day",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "prince harry father's day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "jason crow bill pulte criticism",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "princess charlotte father's day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "student",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1061,42 +1276,58 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "kake",
+      "topTopic": "lottery",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kake",
-          "relevanceScore": 95,
+          "name": "lottery",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "fathers day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "trump frequent number",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1104,7 +1335,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1112,24 +1343,40 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "lindsey graham",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lindsey graham",
+          "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey graham",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "500%"
+          "started": "14h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jason crow bill pulte criticism",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "emergency",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1137,16 +1384,24 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "lindsey graham",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1154,17 +1409,17 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "father's day",
+      "topTopic": "lottery",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "father's day",
-          "relevanceScore": 95,
+          "name": "lottery",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1188,16 +1443,16 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "toa alta",
+      "topTopic": "funcionario",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "toa alta",
+          "name": "funcionario",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "500+",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1205,7 +1460,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1215,14 +1470,22 @@
       "code": "DE",
       "topTopic": "lottery",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "father's",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1238,26 +1501,26 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "father's",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "father's",
+          "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "8h ago",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1272,16 +1535,24 @@
           "name": "sheriff",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump frequent number",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1289,17 +1560,17 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "happy fathers day",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "happy fathers day",
+          "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "700%"
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1323,17 +1594,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "father's",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "father's",
+          "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1348,24 +1619,24 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "lindsey graham",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "delafield shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1373,23 +1644,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump manhattan us attorney pick",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "22h ago",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "wisconsin unemployment",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1405,8 +1668,8 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1414,7 +1677,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1422,7 +1685,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1430,7 +1693,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1446,24 +1709,16 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "candace owens",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "emergency",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1471,24 +1726,24 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "lindsey graham",
+      "topTopic": "lottery",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "lindsey graham",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "father's day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1504,9 +1759,18 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alan greenspan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "andrea",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1521,42 +1785,50 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "father's",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "father's",
+          "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "lindsey graham",
+      "topTopic": "lottery",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "lindsey graham",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1572,25 +1844,25 @@
           "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Hawaii",
       "code": "HI",
-      "topTopic": "karmelo anthony",
+      "topTopic": "lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "karmelo anthony",
+          "name": "lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]

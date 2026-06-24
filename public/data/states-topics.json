@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-06-23T23:12:30.768Z",
+  "timestamp": "2026-06-24T03:46:31.008Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "supreme court green card",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "6h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -21,49 +29,48 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "chico library shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "chico",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "health care fraud",
+          "name": "cd donahue pentagon departure",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump california election probe request",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "ice courthouse enforcement blocked",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "supreme court news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "jordan country",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "charlie kirk",
+          "name": "bradley scott sayer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -71,58 +78,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "politico",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "kennedy center tarp removed",
+          "name": "immigration news",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "kennedy",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "jonathan swan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "maggie",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "trump administration",
-          "relevanceScore": 95,
+          "name": "iranian drones jellyfish",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ibrahim khaldoon hilmi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "3h ago",
+          "trendBreakdown": "jellyfish",
+          "percentageIncrease": "100%"
         },
         {
           "name": "benjamin song",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "immigration",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -130,8 +112,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "abc",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "servicio de ciudadanía e inmigración de",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "judge blocks snap soda ban",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -139,7 +136,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -155,26 +152,26 @@
           "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme court green card",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "green",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "12h ago",
           "trendBreakdown": "social",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
         {
@@ -182,57 +179,75 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "15h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "ice courthouse enforcement blocked",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "compassionate release",
+          "name": "foreclosure",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
+          "started": "4h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "politico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "compassionate release",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "social security earnings limit removal",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "13h ago",
+          "trendBreakdown": "inequality",
           "percentageIncrease": "1000%"
         },
         {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "6h ago",
           "trendBreakdown": "green",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "health care fraud",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -240,15 +255,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "charlie kirk",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -256,7 +263,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -264,39 +271,73 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "10h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "cd donahue pentagon departure",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ice courthouse enforcement blocked",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "servicio de ciudadanía e inmigración de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "politico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "kennedy center tarp removed",
-          "relevanceScore": 95,
+          "name": "billy mansfield",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
+          "started": "5h ago",
+          "trendBreakdown": "billy",
+          "percentageIncrease": "100%"
         },
         {
-          "name": "pino trial",
-          "relevanceScore": 95,
+          "name": "iranian drones jellyfish",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "aircraft",
+          "percentageIncrease": "100%"
         },
         {
           "name": "senate rebuke of trump powers",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "what is a phishing attack",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -304,15 +345,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "nuclear program of iran",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -320,26 +353,34 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "supreme court green card",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court green card",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "green",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "12h ago",
           "trendBreakdown": "inequality",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
         {
@@ -347,23 +388,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "politico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "charlie kirk",
+          "name": "glock",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -371,7 +412,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -379,16 +420,24 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "supreme court green card",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -396,57 +445,41 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "12h ago",
           "trendBreakdown": "social",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "health care fraud",
+          "name": "ice courthouse enforcement blocked",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "charlie kirk",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "compassionate release",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "kennedy center tarp removed",
-          "relevanceScore": 100,
+          "name": "charlie kirk",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "politico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -462,16 +495,17 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "inequality",
           "percentageIncrease": "1000%"
         },
         {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -480,15 +514,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "800%"
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "judge blocks trump voter database",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -496,49 +530,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "judge",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "social security earnings limit removal",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "social security earnings limit removal",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "charlie kirk",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "judge blocks trump voter database",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -546,15 +588,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "anne arundel county election candidates",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "books",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -562,50 +612,58 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "social security earnings limit removal",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "social security earnings limit removal",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "social",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "inequality",
           "percentageIncrease": "1000%"
         },
         {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cd donahue pentagon departure",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "charlie kirk",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "700%"
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "politico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -613,7 +671,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -621,7 +679,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "glock",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -629,7 +695,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -637,16 +703,24 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "supreme court green card",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -654,8 +728,8 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -663,7 +737,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -671,7 +745,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -679,7 +753,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -687,16 +761,33 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "social security earnings limit removal",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
         {
@@ -704,48 +795,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "judge blocks trump voter database",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
+          "started": "13h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "politico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "andrea mitchell age",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "supreme court green card",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court green card",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -754,142 +837,56 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "charlie kirk",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "judge blocks trump voter database",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "maggie haberman",
-          "relevanceScore": 100,
+          "name": "charlie kirk",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "politico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "kennedy center tarp removed",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "social security earnings limit removal",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "social security earnings limit removal",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "social",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "yahoo",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme court green card",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "green",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "charlie kirk",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "compassionate release",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "politico",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kennedy center tarp removed",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "swimming",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "durham weather",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "2K+",
           "started": "5h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "supreme court green card",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "supreme court green card",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
         {
@@ -897,91 +894,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "social",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "health care fraud",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "charlie kirk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "compassionate release",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "politico",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kennedy center tarp removed",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "maggie haberman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "jonathan",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "social security earnings limit removal",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "social security earnings limit removal",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "health care fraud",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "yahoo",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -989,16 +911,16 @@
           "name": "charlie kirk",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "compassionate release",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "14h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1006,15 +928,198 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "400%"
+          "started": "22h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "kennedy center tarp removed",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "health care fraud",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "green",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "social",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "ritchie torres",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "chuck",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "grace meng",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "compassionate release",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "politico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "kennedy center tarp removed",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "trump administration",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "immigration",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "glock",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "servicio de ciudadanía e inmigración de",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "regime change book",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "health care fraud",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "green",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "charlie kirk",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "politico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "compassionate release",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "mackenzie shirilla",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "kennedy center tarp removed",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "400%"
         }
@@ -1023,49 +1128,49 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "supreme court green card",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court green card",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "green",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "glock",
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "green",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "senate war powers vote",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "judge blocks trump voter database",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "montreal shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1073,7 +1178,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1081,57 +1186,65 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "social security earnings limit removal",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "health care fraud",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "charlie kirk",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "compassionate release",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "politico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "senate war powers vote",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1139,7 +1252,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1147,24 +1260,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "jonathan",
           "percentageIncrease": "400%"
         },
         {
-          "name": "trump administration",
+          "name": "glock",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "what is a data breach",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1180,16 +1293,41 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "charlie kirk",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "green",
+          "percentageIncrease": "800%"
         },
         {
           "name": "judge blocks trump voter database",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1197,7 +1335,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1214,15 +1352,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
         {
           "name": "charlie kirk",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1230,24 +1385,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "andrea mitchell age",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "judge",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1262,84 +1401,99 @@
           "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
+          "searchVolume": "5K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "6h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "charlie kirk",
+          "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "5K+",
+          "started": "12h ago",
+          "trendBreakdown": "inequality",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cd donahue pentagon departure",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "compassionate release",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "supreme court news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "amber alert",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "amber",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "judge blocks snap soda ban",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "snap",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "senate rebuke of trump powers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "politico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "servicio de ciudadanía e inmigración de",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "judge blocks snap soda ban",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "snap",
+          "percentageIncrease": "200%"
         },
         {
           "name": "kennedy center tarp removed",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "kennedy",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "benjamin song",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ice warehouse detention lawsuits",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1347,33 +1501,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "what is a phishing attack",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "springfield mall",
+      "topTopic": "supreme court green card",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "springfield mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "springfield",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -1382,39 +1535,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "compassionate release",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "charlie kirk",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "springfield town center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "springfield",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "compassionate release",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "800%"
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "kennedy center tarp removed",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1422,16 +1584,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "what is a data breach",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "75%"
+          "started": "23h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1446,34 +1600,42 @@
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "springfield town center",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "springfield",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cd donahue pentagon departure",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "compassionate release",
+          "name": "springfield town center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "springfield",
           "percentageIncrease": "1000%"
         },
         {
@@ -1481,40 +1643,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "600%"
+          "started": "15h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "judge blocks trump voter database",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "sparkle",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "kennedy center tarp removed",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "supreme court news",
+          "name": "compassionate release",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "scotusblog",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "david trone",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "trendBreakdown": "april",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "senate war powers vote",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "politico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1530,41 +1701,24 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "glock",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "judge blocks trump voter database",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "trendBreakdown": "judge",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "charlie kirk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "compassionate release",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1589,16 +1743,24 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "supreme court green card",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court green card",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -1606,41 +1768,33 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "charlie kirk",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "politico",
+          "name": "ice courthouse enforcement blocked",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "compassionate release",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kennedy center tarp removed",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
+          "started": "12h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1655,66 +1809,65 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "supreme court green card",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "charlie kirk",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "compassionate release",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "tornado",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "supreme court green card",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court green card",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "judge blocks trump voter database",
-          "relevanceScore": 95,
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "judge",
-          "percentageIncrease": "400%"
+          "started": "11h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "compassionate release",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1722,24 +1875,48 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "zillow",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "u 's department of homeland",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "u 's department of homeland",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1755,8 +1932,8 @@
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -1764,8 +1941,16 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1773,32 +1958,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "judge blocks trump voter database",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "andrea mitchell age",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "watch duty",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1813,24 +1990,16 @@
           "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "social security earnings limit removal",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "1000%"
         },
@@ -1838,8 +2007,16 @@
           "name": "charlie kirk",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1847,15 +2024,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "compassionate release",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "politico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1872,17 +2057,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "judge blocks trump voter database",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "trendBreakdown": "judge",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1914,8 +2090,8 @@
           "name": "medicaid",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1923,15 +2099,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
+          "started": "12h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "ciudadano",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1948,7 +2124,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1965,7 +2141,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1973,16 +2149,16 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "u 's department of homeland",
+      "topTopic": "social security earnings limit removal",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "u 's department of homeland",
+          "name": "social security earnings limit removal",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1990,17 +2166,24 @@
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "judge blocks trump voter database",
+      "topTopic": "social security earnings limit removal",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "judge blocks trump voter database",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "trendBreakdown": "judge",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -2008,16 +2191,16 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "supreme court",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -2060,25 +2243,33 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "social security earnings limit removal",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "social security earnings limit removal",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "supreme court green card",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "green",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2086,40 +2277,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
+          "started": "14h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "compassionate release",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "judge blocks trump voter database",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "politico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "social security earnings limit removal",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2127,16 +2326,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "judge blocks trump voter database",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "judge",
+          "searchVolume": "500+",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -2144,42 +2342,49 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "supreme court green card",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court green card",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "judge blocks trump voter database",
-          "relevanceScore": 95,
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "judge",
-          "percentageIncrease": "200%"
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "andrea mitchell",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "andrea mitchell",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -2187,54 +2392,37 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "sally ann cash",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "sally ann cash",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Kentucky",
-      "code": "KY",
-      "topTopic": "social security earnings limit removal",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "health care fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "green",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "started": "11h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "judge blocks trump voter database",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "judge",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "compassionate release",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "politico",
+          "name": "sally ann cash",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -2244,19 +2432,77 @@
       ]
     },
     {
-      "name": "Arkansas",
-      "code": "AR",
-      "topTopic": "andrea mitchell",
+      "name": "Kentucky",
+      "code": "KY",
+      "topTopic": "health care fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "andrea mitchell",
+          "name": "health care fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "judge blocks trump voter database",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "compassionate release",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "politico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Arkansas",
+      "code": "AR",
+      "topTopic": "social security earnings limit removal",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "social security earnings limit removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "social",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court green card",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -2271,34 +2517,26 @@
           "name": "social security earnings limit removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "tony spell",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "pastor",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "judge blocks trump voter database",
-          "relevanceScore": 95,
+          "name": "health care fraud",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "judge",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "charlie kirk",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -2339,17 +2577,17 @@
     {
       "name": "North Dakota",
       "code": "ND",
-      "topTopic": "lottery",
+      "topTopic": "fargo weather",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "lottery",
-          "relevanceScore": 100,
+          "name": "fargo weather",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },

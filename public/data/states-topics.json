@@ -1,106 +1,94 @@
 {
-  "timestamp": "2026-06-29T18:12:28.273Z",
+  "timestamp": "2026-06-29T21:30:16.408Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "mail-in ballots supreme",
+      "topTopic": "supreme court mail-in ballots",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mail-in ballots supreme",
+          "name": "supreme court mail-in ballots",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "mailin",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roy moore",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "500%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "spring",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "referendum",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "lisa cook supreme court",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "supreme",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "social security",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "apartments",
-          "relevanceScore": 85,
+          "name": "fox",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "lisa cook supreme court",
+      "topTopic": "terrion arnold",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lisa cook supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "social security",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "bill cassidy robert kennedy criticism",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "mail-in ballots supreme",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "mail-in ballots supreme",
+          "name": "terrion arnold",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "1h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lisa cook supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "lisa",
           "percentageIncrease": "1000%"
         },
         {
@@ -108,40 +96,173 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "2h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "lisa cook supreme court",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "bill cassidy robert kennedy criticism",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "roy moore",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "roy moore",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court mail-in ballots",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "mailin",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "referendum",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "miami",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "lisa cook supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "lisa",
+          "percentageIncrease": "700%"
         },
         {
           "name": "rick scott donald trump meeting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "scotus arizona voter registration case",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "mike johnson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "social security",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "ssi and social security payments",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "lisa cook supreme court",
+      "topTopic": "terrion arnold",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court mail-in ballots",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "mailin",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kenneth henderson towns county suspension",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "lisa cook supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "5h ago",
           "trendBreakdown": "lisa",
           "percentageIncrease": "1000%"
         },
@@ -150,15 +271,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "bill cassidy robert kennedy criticism",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -166,25 +279,43 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "independent agency executive dismissal legality",
+      "topTopic": "roy moore",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "independent agency executive dismissal legality",
+          "name": "roy moore",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "700%"
+          "started": "2h ago",
+          "trendBreakdown": "clarence",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court mail-in ballots",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "mailin",
+          "percentageIncrease": "800%"
         },
         {
           "name": "trump gordie howe bridge dispute",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "slaughter decision",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "supreme",
           "percentageIncrease": "400%"
         },
         {
@@ -192,7 +323,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -200,7 +331,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -208,57 +339,57 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "lisa cook supreme court",
+      "topTopic": "referendum",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "referendum",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "lisa cook supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "indiana july",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "bill cassidy robert kennedy criticism",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "social security",
+      "topTopic": "terrion arnold",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "social security",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "bill cassidy robert kennedy criticism",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -275,24 +406,58 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "lisa cook supreme court",
+          "name": "referendum",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "independent",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court mail-in ballots",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "mailin",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "slaughter decision",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "lisa",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "detroit lions",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "terrion",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "clarence thomas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "social security",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -300,40 +465,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "supreme court says alito's verbal reaction",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "bill cassidy robert kennedy criticism",
+      "topTopic": "social security",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "bill cassidy robert kennedy criticism",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "social security",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -350,7 +499,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -358,32 +507,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "terremoto",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "cnn",
+      "topTopic": "terrion arnold",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "cnn",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -391,41 +540,58 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "bertie county jail",
+      "topTopic": "bertie martin regional jail",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bertie county jail",
+          "name": "bertie martin regional jail",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
+          "searchVolume": "5K+",
+          "started": "4h ago",
           "trendBreakdown": "bertie",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "referendum",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "clarence thomas",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mail-in ballots supreme",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "lisa cook supreme court",
-          "relevanceScore": 100,
+          "name": "arrest",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "trendBreakdown": "terrion",
+          "percentageIncrease": "300%"
         },
         {
           "name": "social security",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -433,7 +599,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -441,7 +607,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -449,26 +615,51 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "scotus",
+      "topTopic": "roy moore",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "scotus",
+          "name": "roy moore",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "clarence",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court mail-in ballots",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "4h ago",
-          "trendBreakdown": "supreme",
+          "trendBreakdown": "mailin",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "bertie martin regional jail",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "lisa cook",
+          "name": "scotusblog",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "lisa",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "birthright",
           "percentageIncrease": "1000%"
         },
         {
@@ -476,23 +667,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "slaughter decision",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "lisa",
+          "percentageIncrease": "400%"
         },
         {
           "name": "social security",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "scotus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "matthew ashley",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -500,50 +708,81 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "supreme court mail-in ballots",
+      "topTopic": "referendum",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "referendum",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "supreme court mail-in ballots",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "independent agency executive dismissal legality",
-          "relevanceScore": 95,
+          "name": "terrion arnold",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "lisa",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "social security",
+      "topTopic": "roy moore",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "social security",
+          "name": "roy moore",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "referendum",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "supreme court mail-in ballots",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
+          "started": "19h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "cnn",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -551,16 +790,66 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "social security",
+      "topTopic": "referendum",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "referendum",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court mail-in ballots",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "mailin",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "slaughter decision",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "scotusblog",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "clarence thomas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "social security",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -577,7 +866,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -585,7 +874,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -593,25 +882,24 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "mail-in ballots supreme",
+      "topTopic": "referendum",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "mail-in ballots supreme",
-          "relevanceScore": 95,
+          "name": "referendum",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "social security",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -619,50 +907,75 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "lisa cook supreme court",
+      "topTopic": "supreme court mail-in ballots",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "supreme court mail-in ballots",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "mailin",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "lisa cook supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "scotus arizona voter registration case",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "bill cassidy robert kennedy criticism",
-          "relevanceScore": 90,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "lisa cook supreme court",
+      "topTopic": "bertie martin regional jail",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bertie martin regional jail",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "lisa cook supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "cooklisa",
+          "started": "5h ago",
+          "trendBreakdown": "lisa",
           "percentageIncrease": "1000%"
         },
         {
@@ -670,41 +983,74 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "irs",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "lisa cook supreme court",
+      "topTopic": "terrion arnold",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lisa cook supreme court",
+          "name": "terrion arnold",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "cooklisa",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "scotusblog",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "birthright",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "scotus",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "slaughter decision",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "lisa",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "referendum",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "trump gordie howe bridge dispute",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "bill cassidy robert kennedy criticism",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -721,7 +1067,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -738,7 +1084,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -746,25 +1092,32 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "winthrop fire today",
+      "topTopic": "scotus arizona voter registration case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "winthrop fire today",
+          "name": "scotus arizona voter registration case",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "winthrop",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "winthrop wa fire",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "social security",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -772,16 +1125,32 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "social security",
+      "topTopic": "roy moore",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "roy moore",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court mail-in ballots",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "social security",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -815,7 +1184,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -831,67 +1200,84 @@
           "name": "beulah colorado",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "beulah",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "lisa cook supreme court",
+          "name": "roy moore",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "700%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "ouray fire update",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "firefighters killed in colorado",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "news today",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Minnesota",
-      "code": "MN",
-      "topTopic": "supreme court mail-in ballots",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "supreme court mail-in ballots",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "800%"
         },
         {
           "name": "lisa cook supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "attorney general colorado candidates",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "trendBreakdown": "colorado",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "firefighters killed in colorado",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "trendBreakdown": "colorado",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "social security",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "trump gordie howe bridge dispute",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "code": "MN",
+      "topTopic": "terrion arnold",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -899,7 +1285,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -907,16 +1293,24 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "social security",
+      "topTopic": "terrion arnold",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "terrion arnold",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "social security",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -942,25 +1336,17 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "querella",
+      "topTopic": "brasil",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "querella",
+          "name": "brasil",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "facebook",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1027,7 +1413,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1044,7 +1430,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1078,7 +1464,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1086,26 +1472,33 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "trump gordie howe bridge dispute",
+      "topTopic": "terrion arnold",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump gordie howe bridge dispute",
+          "name": "terrion arnold",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "mail-in ballots supreme",
-          "relevanceScore": 100,
+          "name": "trump gordie howe bridge dispute",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "usps",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "700%"
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1121,7 +1514,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1180,16 +1573,24 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "social security",
+      "topTopic": "roy moore",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "roy moore",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "social security",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1206,7 +1607,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1223,7 +1624,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]

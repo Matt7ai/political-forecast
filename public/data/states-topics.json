@@ -1,43 +1,59 @@
 {
-  "timestamp": "2026-07-08T02:52:04.485Z",
+  "timestamp": "2026-07-08T06:32:31.821Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "ken paxton",
+      "topTopic": "dharmesh patel",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ken paxton",
+          "name": "dharmesh patel",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "the washington post lawsuit ruling",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "2h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "mark aaron gatz sentencing",
+          "name": "covelo fire",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "ismael zambada",
+          "name": "the washington post lawsuit ruling",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ken paxton",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "harmeet dhillon voting letters",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "homeland security citizenship data lawsuit",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -45,7 +61,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -53,7 +69,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -61,7 +77,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -69,16 +85,25 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "justices barrett kagan congress testimony",
+      "topTopic": "car accident attorney",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "car accident attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "car",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "justices barrett kagan congress testimony",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -95,35 +120,19 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ken paxton",
-          "relevanceScore": 95,
+          "name": "fbi",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "started": "19h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "harmeet dhillon voting letters",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "william ray georgia subpoena ruling",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "irs covid tax refund deadline",
+          "name": "homeland security citizenship data lawsuit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -131,11 +140,35 @@
           "percentageIncrease": "200%"
         },
         {
+          "name": "ken paxton",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "the washington post lawsuit ruling",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "william ray georgia subpoena ruling",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
+        },
+        {
           "name": "commissioner",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -152,15 +185,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "irs covid tax refund deadline",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "big tigger",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "trendBreakdown": "alicia",
           "percentageIncrease": "400%"
         }
@@ -178,7 +219,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -186,7 +227,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -194,7 +235,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "the washington post lawsuit ruling",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -202,7 +251,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -210,7 +259,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -218,7 +267,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -252,16 +301,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
         },
         {
           "name": "big tigger",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -277,7 +326,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -311,7 +360,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -319,7 +368,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -352,50 +401,51 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "ken paxton",
+      "topTopic": "irs covid tax refund deadline",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "ken paxton",
+          "name": "irs covid tax refund deadline",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "ken paxton",
+      "topTopic": "big tigger",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "ken paxton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "big tigger",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "ice",
-          "relevanceScore": 90,
+          "name": "irs covid tax refund deadline",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "wheres",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "ken paxton",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -420,17 +470,17 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "the washington post lawsuit ruling",
+      "topTopic": "harmeet dhillon voting letters",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "the washington post lawsuit ruling",
-          "relevanceScore": 100,
+          "name": "harmeet dhillon voting letters",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -446,7 +496,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -454,15 +504,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "blank rome data breach",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "justices barrett kagan congress testimony",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -479,16 +537,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "christine mcwilliams",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
         }
       ]
     },
@@ -529,32 +579,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "irs covid tax refund deadline",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "the washington post lawsuit ruling",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "ken paxton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "prince harry news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -570,15 +620,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "justices barrett kagan congress testimony",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -586,7 +636,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -603,7 +653,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -611,7 +661,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -662,33 +712,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "mark aaron gatz sentencing",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "is mitch mcconnell still alive",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "10h ago",
-          "trendBreakdown": "mitch",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "bbc",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "75%"
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -704,15 +729,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "regions",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -720,7 +737,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -771,7 +788,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -788,7 +805,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -830,25 +847,26 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "seguridad social",
+      "topTopic": "argentina vs egipto",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "seguridad social",
+          "name": "argentina vs egipto",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "argentina",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "fbi",
-          "relevanceScore": 100,
+          "name": "seguridad social",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -985,7 +1003,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -993,7 +1011,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1001,7 +1019,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1009,7 +1027,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]

@@ -1,27 +1,35 @@
 {
-  "timestamp": "2026-07-11T06:17:34.335Z",
+  "timestamp": "2026-07-11T09:42:03.875Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "700%"
+          "started": "13h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "emaria peel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "5h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "1000%"
         },
@@ -30,7 +38,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "prince",
           "percentageIncrease": "500%"
         },
@@ -39,7 +47,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -47,7 +55,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "trendBreakdown": "apple",
           "percentageIncrease": "500%"
         },
@@ -56,15 +64,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "calfire",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "class action",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "orgain",
           "percentageIncrease": "300%"
         },
@@ -73,41 +89,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "14h ago",
           "trendBreakdown": "housing",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "calfire",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mamdani iran ambassador",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "mamdani",
-          "percentageIncrease": "400%"
         },
         {
           "name": "immigration",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "mamdani iran ambassador",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "mamdani",
+          "percentageIncrease": "400%"
         },
         {
           "name": "waymo vehicle passenger privacy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -115,7 +123,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -123,7 +131,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -131,7 +139,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -139,7 +147,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -147,24 +155,33 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "500%"
+        },
+        {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "irs july",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -172,7 +189,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -180,7 +197,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -188,15 +205,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "asha sharma productivity task force",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -204,25 +213,24 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "thomas stein",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "thomas stein",
+          "name": "strait of hormuz news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "kayla",
-          "percentageIncrease": "600%"
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -230,58 +238,68 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "prince",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "brandon mall shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "brandon",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "thomas stein",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "kayla",
+          "percentageIncrease": "600%"
         },
         {
           "name": "radar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "brandon mall",
+          "name": "housing bill",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "brandon",
-          "percentageIncrease": "400%"
+          "started": "10 minutes ago",
+          "trendBreakdown": "bill",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "jobs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "asha",
+          "percentageIncrease": "200%"
         },
         {
           "name": "class action",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "asha sharma productivity task force",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "act",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "housing",
-          "percentageIncrease": "200%"
         },
         {
           "name": "tps haiti",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -289,7 +307,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -297,16 +315,24 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "hegseth",
           "percentageIncrease": "1000%"
         },
@@ -315,23 +341,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "class action",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "asha sharma productivity task force",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -339,7 +365,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -347,16 +373,25 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -364,25 +399,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "prince",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "asha sharma productivity task force",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "housing bill unsigned trump",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "housing bill unsigned trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "500%"
         }
@@ -391,16 +442,24 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "harry archie lilibet king meeting",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "harry archie lilibet king meeting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -408,16 +467,24 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "hegseth",
           "percentageIncrease": "1000%"
         },
@@ -426,57 +493,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "jets",
-          "relevanceScore": 95,
+          "name": "new york times",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "united states department of justice",
+          "name": "strait of hormuz news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "prince harry",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "south carolina national guard suspended pilots",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "south carolina national guard suspended pilots",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -484,16 +551,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "hegseth",
           "percentageIncrease": "1000%"
         },
@@ -502,24 +577,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "800%"
+          "started": "12h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "housing bill",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "time",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -527,7 +635,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -535,24 +643,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "jobs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -560,7 +684,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "mamdani",
           "percentageIncrease": "600%"
         },
@@ -568,43 +692,52 @@
           "name": "harry archie lilibet king meeting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "prince",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump says he won t sign",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "trendBreakdown": "housing",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "jobs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "asha",
+          "percentageIncrease": "200%"
         },
         {
           "name": "thomas stein",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "kayla",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "asha sharma productivity task force",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "housing bill",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "200%"
         },
         {
           "name": "south carolina national guard suspended pilots",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "24h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "kratom",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -612,7 +745,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -620,7 +753,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -628,41 +761,49 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "united states department of justice",
+          "name": "strait of hormuz news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "hegseth",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "police",
+          "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "asha sharma productivity task force",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "thomas stein",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -670,7 +811,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -678,7 +819,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -686,8 +827,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "trendBreakdown": "weather",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -704,33 +844,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "trendBreakdown": "east",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
-          "name": "asha sharma productivity task force",
-          "relevanceScore": 95,
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "hegseth",
           "percentageIncrease": "1000%"
         },
@@ -739,40 +887,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "harry archie lilibet king meeting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "trendBreakdown": "prince",
           "percentageIncrease": "800%"
         },
         {
-          "name": "housing bill unsigned trump",
+          "name": "kratom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "south carolina national guard suspended pilots",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "thomas stein",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -780,7 +920,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -788,16 +928,24 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "hegseth",
           "percentageIncrease": "1000%"
         },
@@ -806,7 +954,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -814,16 +962,24 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -831,7 +987,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -839,7 +995,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -847,16 +1003,24 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "hegseth",
           "percentageIncrease": "800%"
         },
@@ -865,23 +1029,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
+          "trendBreakdown": "prince",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "united states department of justice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "asha sharma productivity task force",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "united states department of justice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -889,7 +1062,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -897,7 +1070,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -905,7 +1078,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -913,7 +1086,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -921,7 +1094,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "trendBreakdown": "weather",
           "percentageIncrease": "100%"
         },
@@ -930,7 +1103,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -938,16 +1111,24 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "pete",
           "percentageIncrease": "1000%"
         },
@@ -956,7 +1137,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -964,24 +1145,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "harry archie lilibet king meeting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "prince",
+          "percentageIncrease": "500%"
         },
         {
           "name": "immigration",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "south carolina national guard suspended pilots",
+          "name": "jobs",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "asha",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -997,25 +1188,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "hegseth",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1040,24 +1247,33 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "trendBreakdown": "pete",
           "percentageIncrease": "1000%"
         },
@@ -1066,7 +1282,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "asha",
           "percentageIncrease": "300%"
         },
@@ -1075,32 +1291,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "iran news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1117,7 +1333,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1125,58 +1341,83 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "birthright citizenship supreme court",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "birthright citizenship supreme court",
-          "relevanceScore": 95,
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
+          "started": "14h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "south carolina national guard suspended pilots",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "south carolina national guard suspended pilots",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "asha sharma productivity task force",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
+          "started": "12h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "irs july",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1193,7 +1434,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1201,7 +1442,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1234,34 +1475,17 @@
           "name": "gran jurado",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "seguridad social",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "started": "20h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "donald trump",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "el vocero",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "fiscal",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -1294,7 +1518,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1311,8 +1535,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "nirav",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1329,7 +1552,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1380,7 +1603,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1388,16 +1611,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "20h ago",
           "trendBreakdown": "hegseth",
           "percentageIncrease": "1000%"
         },
@@ -1406,7 +1637,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1414,7 +1645,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1422,33 +1653,41 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "measles",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "measles",
+          "name": "strait of hormuz news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "16h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "united states department of justice",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1456,7 +1695,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1464,17 +1703,17 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "columbia",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "columbia",
+          "name": "strait of hormuz news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1498,17 +1737,33 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "hegseth pushes for action after sailors appear to flout his beard policy",
+      "topTopic": "strait of hormuz news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "hegseth pushes for action after sailors appear to flout his beard policy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "weather louisville ky",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1541,8 +1796,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "strait of hormuz news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },

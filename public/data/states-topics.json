@@ -1,52 +1,45 @@
 {
-  "timestamp": "2026-07-11T22:53:49.324Z",
+  "timestamp": "2026-07-12T02:56:52.765Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "gavin newsom",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "khannaro",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "meghan prince harry uk visit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "prince",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "gavin newsom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ro khanna",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "7h ago",
-          "trendBreakdown": "khanna",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "ransom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "emaria peel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "trendBreakdown": "emaria",
           "percentageIncrease": "1000%"
         },
@@ -55,40 +48,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "fires near me",
-          "relevanceScore": 100,
+          "name": "uf",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "time",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
+          "started": "16h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ransom",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "meghan prince harry uk visit",
+          "name": "doj subpoenas nyt journalists",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "prince",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "trendBreakdown": "new",
           "percentageIncrease": "300%"
         },
         {
@@ -96,91 +97,57 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "class action",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mamdani iran ambassador",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "mamdani",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jury duty",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "john f kennedy center for the performing arts",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "trendBreakdown": "doj",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "ransom",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "khanna",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "halland",
-          "relevanceScore": 100,
+          "name": "gavin newsom",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "ro khanna detained",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "5h ago",
-          "trendBreakdown": "khannaro",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -188,75 +155,50 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "ransom",
+      "topTopic": "meghan prince harry uk visit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ransom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "meghan prince harry uk visit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "prince",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brandon mall shooting",
+          "name": "congressman ro khanna",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "dicks",
-          "percentageIncrease": "500%"
+          "started": "5h ago",
+          "trendBreakdown": "khanna",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "doj subpoenas nyt journalists",
+          "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
           "started": "11h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "haitian immigrants work permits",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "gavin newsom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "trump administration tps phase out",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -264,41 +206,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "ro khanna",
+          "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "congressman",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "doj",
+          "percentageIncrease": "300%"
         },
         {
           "name": "time",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "act",
+          "name": "housing bill",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "housing",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kayla rincon miller",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
+          "searchVolume": "100+",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -306,23 +239,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "iran news",
+          "name": "dicks brandon",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "radar near me",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -330,7 +255,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -338,107 +263,25 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "halland",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "halland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "congressman ro khanna",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20 minutes ago",
+          "started": "4h ago",
           "trendBreakdown": "khanna",
           "percentageIncrease": "700%"
         },
         {
-          "name": "schools",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "ransom",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "time",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "radar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "ransom",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "ransom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "ro khanna",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "khanna",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "halland",
+          "name": "meghan prince harry uk visit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "president trump personal legal counsel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "3h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -446,7 +289,98 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump administration tps phase out",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "14h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "ransom",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "time",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "radar",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "congressman ro khanna",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "khannaro",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "meghan prince harry uk visit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "meghan",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "president trump personal legal counsel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "ransom",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "schools",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -454,24 +388,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "kash patel",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "new",
+          "percentageIncrease": "300%"
         },
         {
           "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "class action",
+          "name": "alexis wilkins",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "trendBreakdown": "kash",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -487,33 +431,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "percentageIncrease": "700%"
+          "started": "17h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "halland",
+          "name": "weather indianapolis",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "new york times",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "indianapolis",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -528,87 +464,67 @@
           "name": "congressman ro khanna",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "khannaro",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "harry archie lilibet king meeting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "prince",
-          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "great lakes crossing",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "great lakes crossing",
+          "name": "congressman ro khanna",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "1h ago",
-          "trendBreakdown": "great",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "khanna",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "meghan prince harry uk visit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ro khanna detained",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "khannaro",
-          "percentageIncrease": "1000%"
+          "started": "10h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "kennedy center whistleblower documents",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "click",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "iran",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -616,7 +532,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -624,34 +540,34 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "bank robbery",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "khannaro",
+          "percentageIncrease": "600%"
+        },
+        {
           "name": "bank robbery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "ro khanna",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "khanna",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "harry archie lilibet king meeting",
-          "relevanceScore": 95,
+          "name": "fox",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -667,7 +583,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -675,31 +591,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "900%"
+          "started": "10h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "ro khanna detained",
+          "name": "congressman ro khanna",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
+          "started": "40 minutes ago",
+          "trendBreakdown": "khanna",
+          "percentageIncrease": "900%"
         },
         {
           "name": "president trump personal legal counsel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -707,7 +616,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -724,32 +633,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "40 minutes ago",
+          "started": "4h ago",
           "trendBreakdown": "khannaro",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "meghan prince harry uk visit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "prince",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "kinu rochford",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "dayton andre lindsay ice custody",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "schools",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -757,7 +675,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -765,7 +683,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -773,24 +691,33 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "schools",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "khannaro",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "meghan prince harry uk visit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "gavin newsom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -798,49 +725,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "ro khanna",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "congressman",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "time",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "wbtv",
+          "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -855,8 +757,8 @@
           "name": "kinu rochford",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "searchVolume": "5K+",
+          "started": "16h ago",
           "trendBreakdown": "harlem",
           "percentageIncrease": "1000%"
         },
@@ -864,106 +766,90 @@
           "name": "new york",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "15h ago",
           "trendBreakdown": "doj",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "meghan prince harry uk visit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "prince",
+          "percentageIncrease": "900%"
         },
         {
           "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "fox",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "prince of norway",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "new york city police department",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "mamdani iran ambassador",
-          "relevanceScore": 100,
+          "name": "uf",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "toronto",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "time",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "haitian immigrants work permits",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "president trump personal legal counsel",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "temporary protected status work extensions",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "haitian",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "wimbledon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kratom",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pete hegseth military grooming standards",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "california oregon dei grant lawsuit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -971,33 +857,41 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "ransom",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "khanna",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "meghan prince harry uk visit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "ro khanna detained",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "khannaro",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1005,7 +899,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1013,39 +907,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "time",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "housing bill",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "class action",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1053,41 +939,41 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "gavin newsom",
+      "topTopic": "meghan prince harry uk visit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "gavin newsom",
+          "name": "meghan prince harry uk visit",
           "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "evans creek fire",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "east",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "khannaro",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "evans creek road fire",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "time",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1095,98 +981,67 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "ransom",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "khannaro",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "meghan prince harry uk visit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "prince",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "congressman ro khanna",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "khanna",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "prince harry news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "doj subpoenas nyt journalists",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "700%"
         },
         {
           "name": "kennedy center whistleblower documents",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "hotel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kratom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "fox",
+          "name": "kash patel",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "doj",
+          "percentageIncrease": "300%"
         },
         {
           "name": "time",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "wimbledon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1194,7 +1049,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1211,7 +1066,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1219,15 +1074,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "ro khanna detained",
+          "name": "meghan prince harry uk visit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "2h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1235,7 +1090,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1243,16 +1098,25 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "ransom",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "khanna",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1260,7 +1124,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1268,57 +1132,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "harry archie lilibet king meeting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "halland",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "halland",
+          "name": "congressman ro khanna",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
+          "trendBreakdown": "khanna",
           "percentageIncrease": "600%"
         },
         {
-          "name": "prince harry news",
+          "name": "meghan prince harry uk visit",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "ro khanna detained",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "khannaro",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "prince",
           "percentageIncrease": "800%"
         },
         {
@@ -1326,15 +1167,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "uf",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "ransom",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "time",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1342,23 +1199,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "time",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "weather austin",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1366,15 +1207,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "gavin newsom",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1382,7 +1215,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1390,23 +1223,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "mamdani iran ambassador",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "new york times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "trendBreakdown": "doj",
           "percentageIncrease": "100%"
         }
@@ -1415,50 +1240,33 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "ro khanna",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ro khanna",
+          "name": "congressman ro khanna",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "congressman",
-          "percentageIncrease": "600%"
+          "started": "4h ago",
+          "trendBreakdown": "khannaro",
+          "percentageIncrease": "800%"
         },
         {
           "name": "president trump personal legal counsel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "600%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "doj subpoenas nyt journalists",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "immigration",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1466,23 +1274,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "fox",
+          "name": "new york times",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "trendBreakdown": "doj",
+          "percentageIncrease": "200%"
         },
         {
           "name": "housing bill",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1490,7 +1299,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1498,24 +1307,16 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "halland",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "halland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "congressman ro khanna",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "30 minutes ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "trendBreakdown": "khannaro",
           "percentageIncrease": "1000%"
         },
@@ -1524,23 +1325,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "time",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1548,33 +1341,33 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "united states department of justice",
+      "topTopic": "ransom",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "united states department of justice",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "latest news",
+          "name": "tulsa weather",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "united states department of justice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "16h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1598,33 +1391,33 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "harry archie lilibet king meeting",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "harry archie lilibet king meeting",
+          "name": "congressman ro khanna",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "khannaro",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "ro khanna",
-          "relevanceScore": 95,
+          "name": "ransom",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "khanna",
-          "percentageIncrease": "400%"
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "schools",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1632,32 +1425,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "new york times",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "united states department of justice",
+      "topTopic": "meghan prince harry uk visit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "meghan prince harry uk visit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1665,7 +1458,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1673,16 +1466,25 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "united states department of justice",
+      "topTopic": "amber alert",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "amber alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "amber",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "united states department of justice",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1690,24 +1492,16 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "gavin newsom",
+      "topTopic": "united states department of justice",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "gavin newsom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "united states department of justice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1715,84 +1509,60 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "water world",
+      "topTopic": "congressman ro khanna",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "congressman ro khanna",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "khannaro",
+          "percentageIncrease": "500%"
+        },
+        {
           "name": "water world",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "water",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "gavin newsom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "5K+",
+          "started": "9h ago",
+          "trendBreakdown": "water",
+          "percentageIncrease": "400%"
         },
         {
           "name": "time",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "new york times",
-          "relevanceScore": 90,
+          "name": "fox",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "asha sharma productivity task force",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "gavin newsom",
+      "topTopic": "ransom",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "gavin newsom",
+          "name": "ransom",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "new york times",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1808,7 +1578,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1842,8 +1612,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "telemundo en vivo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1894,15 +1672,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "gavin newsom",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1936,7 +1706,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1987,7 +1757,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1995,7 +1765,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -2003,7 +1773,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "12h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "1000%"
         }
@@ -2021,7 +1791,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -2048,23 +1818,15 @@
       "code": "UT",
       "topTopic": "united states department of justice",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "united states department of justice",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "halland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
+          "started": "15h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -2080,7 +1842,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -2097,7 +1859,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -2105,25 +1867,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "weather louisville ky",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -2139,8 +1884,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "police",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -2156,7 +1909,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -2164,7 +1917,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -2172,7 +1925,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]

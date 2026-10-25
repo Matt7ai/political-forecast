@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25T20:33:02.362Z",
+  "timestamp": "2026-10-25T23:57:14.893Z",
   "states": [
     {
       "name": "California",
@@ -13,15 +13,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "florida a&m",
+          "name": "eleicoes brasil",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "eleicoes",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "hope florida",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ben allen",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "ben",
           "percentageIncrease": "100%"
         }
       ]
@@ -193,12 +211,21 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "hope florida",
+      "topTopic": "eleicoes brasil",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hope florida",
+          "name": "eleicoes brasil",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "trendBreakdown": "eleies",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
@@ -206,11 +233,19 @@
           "percentageIncrease": "1000%"
         },
         {
+          "name": "hope florida",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "foreclosure",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -218,15 +253,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "frigate",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -234,42 +269,58 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "famu",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "famu",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "florida",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "deportation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "hospital",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hope florida",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "hospital",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -277,17 +328,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "florida a&m",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "breaking",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -311,32 +353,32 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "foreclosure",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "foreclosure",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "navy football",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "servicio de control de inmigración y",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -344,6 +386,197 @@
     {
       "name": "Michigan",
       "code": "MI",
+      "topTopic": "supplemental security income november payout",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "eleicoes brasil",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "eleicoes brasil",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "eleies",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "westborough police chief",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "deportation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "supplemental security income november payout",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "supplemental security income november payout",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "supplemental security income november payout",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "supplemental security income november payout",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "deportation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "eleicoes brasil",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "alcalde de nueva york",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "found",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "florida a&m",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "foreclosure",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "election day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
       "topTopic": "hope florida",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -353,312 +586,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "deportation",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "deportation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "westborough police chief",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "ofer winter vs benjamin netanyahu",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "ofer winter vs benjamin netanyahu",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "page",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uribe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john james michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "richard nixon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "frigate",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ashley moody",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "angie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hillsborough county sheriff's",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "scratchcard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "yasmeen ali safeguarding review bristol",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "acta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "milagros marileisis acosta torres citizenship revocation",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "voter registration",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "deportation",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "deportation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
           "percentageIncrease": "500%"
         },
-        {
-          "name": "student loans",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "threat",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "threat",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "deportation",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "deportation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "florida a&m",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "hope florida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "foreclosure",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "emergency evacuation",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
         {
           "name": "emergency evacuation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -666,16 +602,16 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "newport fire",
+      "topTopic": "newport oregon fire",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "newport fire",
+          "name": "newport oregon fire",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "5h ago",
           "trendBreakdown": "newport",
           "percentageIncrease": "1000%"
         }
@@ -684,37 +620,20 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "deportation",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "deportation",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "hope florida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "South Carolina",
-      "code": "SC",
-      "topTopic": "famu",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "famu",
+          "name": "deportation",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -724,51 +643,76 @@
       ]
     },
     {
-      "name": "Tennessee",
-      "code": "TN",
-      "topTopic": "detention",
+      "name": "South Carolina",
+      "code": "SC",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "detention",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "laura owens",
-          "relevanceScore": 90,
+          "name": "famu",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "code": "TN",
+      "topTopic": "supplemental security income november payout",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "deportation",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "deportation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "florida a&m",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -776,7 +720,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -784,7 +728,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -792,67 +736,59 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "servicio de control de inmigración y",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "servicio de control de inmigración y",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "famu",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "navy football",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "navy football",
-          "relevanceScore": 90,
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hope florida",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "detention",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "detention",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1031,42 +967,43 @@
           "name": "newport oregon",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "deportation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "ian birk vs sean",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "florida a&m",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "florida a&m",
-          "relevanceScore": 95,
+          "name": "supplemental security income november payout",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alexander shunnarah",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "famu",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "300%"
+          "started": "20h ago",
+          "trendBreakdown": "florida",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1133,164 +1070,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "ofer winter vs benjamin netanyahu",
+      "topTopic": "hope florida",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "ofer winter vs benjamin netanyahu",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
+          "name": "hope florida",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "page",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uribe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "john james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john james michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "richard nixon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "frigate",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ashley moody",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "angie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hillsborough county sheriff's",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "scratchcard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "yasmeen ali safeguarding review bristol",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "acta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "milagros marileisis acosta torres citizenship revocation",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "voter registration",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1618,49 +1408,41 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "noticia",
+      "topTopic": "ponce",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "noticia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "900%"
-        },
-        {
           "name": "ponce",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto rico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "fraude bancario",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "aeropuerto internacional luis muñoz",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "22h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "guaynabo",
+          "name": "fbi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1675,8 +1457,8 @@
           "name": "lulu ross elementary",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1848,164 +1630,17 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "ofer winter vs benjamin netanyahu",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ofer winter vs benjamin netanyahu",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "page",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uribe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john james michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "richard nixon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "frigate",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ashley moody",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "angie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hillsborough county sheriff's",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "scratchcard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "yasmeen ali safeguarding review bristol",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "acta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "milagros marileisis acosta torres citizenship revocation",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "voter registration",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -2169,164 +1804,17 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "ofer winter vs benjamin netanyahu",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ofer winter vs benjamin netanyahu",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "page",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uribe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john james michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "richard nixon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "frigate",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ashley moody",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "angie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hillsborough county sheriff's",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "scratchcard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "yasmeen ali safeguarding review bristol",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "acta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "milagros marileisis acosta torres citizenship revocation",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "voter registration",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -2835,17 +2323,17 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "detention",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "detention",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -2869,517 +2357,68 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "ofer winter vs benjamin netanyahu",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ofer winter vs benjamin netanyahu",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "page",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uribe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john james michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "richard nixon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "frigate",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ashley moody",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "angie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hillsborough county sheriff's",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "scratchcard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "yasmeen ali safeguarding review bristol",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "acta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "milagros marileisis acosta torres citizenship revocation",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "voter registration",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "ofer winter vs benjamin netanyahu",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ofer winter vs benjamin netanyahu",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "page",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uribe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john james michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "richard nixon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "frigate",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ashley moody",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "angie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hillsborough county sheriff's",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "scratchcard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "yasmeen ali safeguarding review bristol",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "acta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "milagros marileisis acosta torres citizenship revocation",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "voter registration",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "ofer winter vs benjamin netanyahu",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ofer winter vs benjamin netanyahu",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "page",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uribe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john james michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "richard nixon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "frigate",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ashley moody",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "angie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hillsborough county sheriff's",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "scratchcard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "yasmeen ali safeguarding review bristol",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "acta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "milagros marileisis acosta torres citizenship revocation",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "voter registration",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "detention",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "detention",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "education department drops pslf challenge",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },

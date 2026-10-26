@@ -1,61 +1,104 @@
 {
-  "timestamp": "2026-10-26T09:53:47.544Z",
+  "timestamp": "2026-10-26T16:38:44.799Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "amber alert",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "amber alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "joseph",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "700%"
+          "started": "17h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "komanche",
+          "name": "chris brown",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "komancheel",
+          "started": "3h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "komanche",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "komancheel",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "vegemite",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "departamento de seguridad nacional de los estados unidos",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "hope florida",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
+          "started": "21h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "deportation",
-          "relevanceScore": 95,
+          "name": "la speed camera locations",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "speed",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "trump accounts",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "ben allen",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "21h ago",
           "trendBreakdown": "ben",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ca",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,7 +106,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "prop",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "ca",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -71,16 +130,24 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -88,16 +155,49 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chris brown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "anthony rivers iii",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "departamento de seguridad nacional de los estados unidos",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -105,49 +205,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "foreclosure",
+          "name": "amber nova",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "tse",
-          "relevanceScore": 100,
+          "name": "vegemite",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "votacao",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "deportation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "shooting in tallahassee",
+          "name": "votacao brasil",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "famu",
+          "started": "19h ago",
+          "trendBreakdown": "tse",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "ashley moody",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -155,42 +254,68 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "chris brown",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chris brown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "chris",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "florida a&m",
+          "name": "moussa diawara ice case",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "famu",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chris brown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -198,50 +323,83 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "cta",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "chris brown",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chris brown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "700%"
+          "started": "18h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "19h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -256,59 +414,50 @@
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
+          "searchVolume": "5K+",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "chris brown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "tse",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "votacao",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "westborough police chief",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "deportation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "19h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -323,8 +472,8 @@
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -332,16 +481,25 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -358,15 +516,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chris brown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "800%"
         },
         {
           "name": "hope florida",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -374,8 +549,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -391,39 +574,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "deportation",
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chris brown",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "alcalde de nueva york",
+          "name": "jared duffy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "new",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "trump-xi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "estados unidos",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "florida a&m",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "foreclosure",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -439,35 +640,44 @@
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "700%"
         },
         {
           "name": "hope florida",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "700%"
+          "started": "20h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "newport oregon",
+      "topTopic": "newport oregon fire",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "newport oregon",
+          "name": "newport oregon fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
+          "started": "22h ago",
           "trendBreakdown": "newport",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -483,7 +693,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
           "started": "12h ago",
+          "trendBreakdown": "moussa",
           "percentageIncrease": "1000%"
         },
         {
@@ -491,16 +710,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "deportation",
-          "relevanceScore": 95,
+          "name": "news today",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -516,16 +735,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "famu",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -541,49 +752,90 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chris brown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "komanche",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "10h ago",
           "trendBreakdown": "komancheel",
           "percentageIncrease": "500%"
         },
         {
-          "name": "deportation",
+          "name": "departamento de seguridad nacional de los estados unidos",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "4h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "vegemite",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "yella beezy trial",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "domain shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -591,7 +843,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -599,42 +851,100 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "chris brown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "florida a&m",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "moussa",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chris brown",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
+          "started": "19h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -643,15 +953,23 @@
       "code": "OK",
       "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "supplemental security income november payout",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "4h ago",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -822,16 +1140,24 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "newport oregon",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "newport oregon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -848,34 +1174,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "detention",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "detention",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "wichita air show",
+          "name": "moussa diawara ice case",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "mcconnell",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -890,25 +1215,33 @@
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "victor marx",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "victor marx",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -916,181 +1249,50 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "hope florida",
+      "topTopic": "moussa diawara ice case",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
+          "name": "moussa diawara ice case",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
           "name": "hope florida",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
+          "started": "19h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "ofer winter vs benjamin netanyahu",
+      "topTopic": "supplemental security income november payout",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ofer winter vs benjamin netanyahu",
+          "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "page",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uribe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fraud",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john james michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "richard nixon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "frigate",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ashley moody",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "angie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hillsborough county sheriff's",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "scratchcard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "yasmeen ali safeguarding review bristol",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "acta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "milagros marileisis acosta torres citizenship revocation",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "voter registration",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1254,49 +1456,41 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "ponce",
+      "topTopic": "rampa",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "rampa",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "puerto",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "ponce",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "rampa",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "puerto",
-          "percentageIncrease": "500%"
         },
         {
           "name": "barrio obrero",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
+          "started": "18h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "ama de llaves",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1304,8 +1498,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uss abraham lincoln",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1329,163 +1531,16 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "ofer winter vs benjamin netanyahu",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "ofer winter vs benjamin netanyahu",
-          "relevanceScore": 100,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "metropolitan police meghan markle father letter",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "page",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "servicio de control de inmigración y",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "uribe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "100+",
           "started": "4h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "john james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john james michigan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "car accident attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "richard nixon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "frigate",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ashley moody",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "angie",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "hillsborough county sheriff's",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "scratchcard",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "yasmeen ali safeguarding review bristol",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "acta",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fbi",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "milagros marileisis acosta torres citizenship revocation",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "voter registration",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1867,7 +1922,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "16h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1883,9 +1938,9 @@
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1901,8 +1956,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "700%"
+          "started": "18h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -1935,7 +1998,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1952,7 +2015,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1968,8 +2031,8 @@
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1977,16 +2040,24 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "supplemental security income november payout",
+      "topTopic": "robbery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "robbery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supplemental security income november payout",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]

@@ -1,60 +1,86 @@
 {
-  "timestamp": "2026-10-28T20:52:49.310Z",
+  "timestamp": "2026-10-29T01:40:19.341Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "weil gotshal",
+      "topTopic": "dolores huerta",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "dolores huerta",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "10h ago",
+          "trendBreakdown": "cesar",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "weil gotshal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "itweil",
+          "percentageIncrease": "600%"
         },
         {
           "name": "supplemental security income",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "prince louis new family photo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "pleasant grove high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump-xi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "prince louis new family photo",
+          "name": "mary peltola",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "200%"
         },
         {
           "name": "indictment",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "cassidy",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "fbi",
+          "name": "feeding our future",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -62,31 +88,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "islamic center of san diego",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "mike waltz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "alex pretti",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -94,7 +96,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "23h ago",
           "trendBreakdown": "operation",
           "percentageIncrease": "100%"
         },
@@ -103,7 +105,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -111,121 +113,138 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "ted bundy",
+      "topTopic": "supplemental security income",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "ted bundy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
+          "name": "supplemental security income",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "indictment",
+      "topTopic": "prince louis new family photo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "indictment",
+          "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "cassidy",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supplemental security income",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "el salvador haiti",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "fema",
+          "name": "indictment",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "alvin hellerstein",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "supplemental security income",
+          "name": "weil gotshal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "china",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "7h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "mike waltz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "malik beasley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "national first responders day",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "cártel de",
-          "relevanceScore": 95,
+          "name": "pentagon",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "alex pretti",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
+      "topTopic": "supplemental security income",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "supplemental security income",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "indictment",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "weil gotshal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "trendBreakdown": "itdonald",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
       "topTopic": "weil gotshal",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -234,139 +253,98 @@
           "name": "weil gotshal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "supplemental security income",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "alexander brothers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "weil",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "weil",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "alexander brothers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "drug resistance",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "supplemental security income",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "dixmoor",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "explosion",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "ted bundy",
+      "topTopic": "prince louis new family photo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ted bundy",
+          "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "cassidy hutchinson",
+      "topTopic": "indictment",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "flight attendant",
+          "name": "indictment",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "3h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "supplemental security income",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "prince louis new family photo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "abdifatah yusuf guilty verdict reinstated",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -374,33 +352,25 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "flight attendant",
+      "topTopic": "couple",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "flight attendant",
+          "name": "couple",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "alexander brothers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "supplemental security income",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -415,42 +385,26 @@
           "name": "weil",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "alexander brothers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "started": "6h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "ted bundy",
+      "topTopic": "supplemental security income",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "ted bundy",
-          "relevanceScore": 100,
+          "name": "supplemental security income",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -465,40 +419,16 @@
           "name": "weil gotshal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "ted bundy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "supplemental security income",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "6h ago",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "el salvador haiti",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -514,50 +444,17 @@
           "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "weil gotshal",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "fort bragg active shooter",
+          "name": "supplemental security income",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "active",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "alexander brothers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "flock safety",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -573,74 +470,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "weil gotshal &",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "trendBreakdown": "weil",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "alvin hellerstein",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "9h ago",
           "trendBreakdown": "judge",
           "percentageIncrease": "800%"
         },
         {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "como",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "lavado de dinero",
+          "name": "indictment",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "brooklyn bridge",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "8h ago",
           "trendBreakdown": "brooklyn",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "malik beasley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -648,16 +521,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "oren alexander",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "niv",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -665,39 +529,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "frank bisignano",
-          "relevanceScore": 95,
+          "name": "pentagon",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "mike waltz",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "alex pretti",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -705,99 +553,116 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "prince louis new family photo",
+      "topTopic": "couple",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "prince louis new family photo",
+          "name": "couple",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "jacob morley",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "alexander brothers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Oregon",
-      "code": "OR",
-      "topTopic": "ted bundy",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "ted bundy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "Pennsylvania",
-      "code": "PA",
-      "topTopic": "prince louis new family photo",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "prince louis new family photo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "supplemental security income",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "alexander brothers",
+          "name": "pipo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "oberlin",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "prince louis new family photo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "indictment",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
+      "topTopic": "oregon",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "oregon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "supplemental security income",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
         {
-          "name": "cassidy hutchinson",
+          "name": "supplemental security income",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "couple",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "prince louis new family photo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "weil",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "nicole virzi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -813,130 +678,114 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "flight attendant",
+          "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "flight attendant",
+      "topTopic": "escaped inmate tennessee",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "flight attendant",
+          "name": "escaped inmate tennessee",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "tennessee",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "started": "3h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "weil",
+      "topTopic": "supplemental security income",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "weil",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        },
-        {
           "name": "supplemental security income",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "prince louis new family photo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "weil gotshal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "crime",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "indictment",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
           "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "400%"
         },
         {
-          "name": "prince louis new family photo",
+          "name": "mary peltola",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "alexander brothers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "childcare",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "victor julian duque fbi most wanted",
+          "name": "arlington",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "pentagon",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "day",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "malik beasley",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "daycare",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -944,25 +793,41 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "cassidy hutchinson",
+      "topTopic": "supplemental security income",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "alexander brothers",
+          "name": "supplemental security income",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "9h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "weil",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "indictment",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "teacher",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -978,24 +843,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "alexander brothers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "9h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1183,32 +1032,32 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "alexander brothers",
+      "topTopic": "prince louis new family photo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alexander brothers",
+          "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 100,
+          "name": "supplemental security income",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "kentridge high school hazmat response",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1216,17 +1065,17 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "ted bundy",
+      "topTopic": "supplemental security income",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ted bundy",
+          "name": "supplemental security income",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "11h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1300,33 +1149,17 @@
           "name": "feeding our future",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "fraud",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ted bundy",
+          "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "cassidy hutchinson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1507,16 +1340,24 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "sentencia",
+      "topTopic": "mireddys",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "mireddys",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "sentencia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1524,7 +1365,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1932,25 +1773,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "ted bundy",
+      "topTopic": "prince louis new family photo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ted bundy",
+          "name": "prince louis new family photo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "fubo",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -2000,40 +1833,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "crime",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "weil gotshal",
+      "topTopic": "bradley international airport ticket fraud",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "weil gotshal",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "bradley international airport ticket fraud",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -2084,7 +1901,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -2092,16 +1909,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "ted bundy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
         }
       ]
     },

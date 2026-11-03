@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-11-02T20:03:47.003Z",
+  "timestamp": "2026-11-03T02:14:54.993Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "moss landing shooting",
+      "topTopic": "border report",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "border report",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "mexicounited",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "moss landing shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "10K+",
+          "started": "8h ago",
           "trendBreakdown": "moss",
           "percentageIncrease": "1000%"
         },
@@ -21,24 +30,16 @@
           "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "ballot drop off near me",
+          "name": "voting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "23h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,27 +47,61 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "voting day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "ballot drop box near me",
+          "name": "freighter sinks off bulgarian coast",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "larry millete",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "larry",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ballot box near me",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "mario morales ice agent",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "voting locations",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "robert luna",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "robert",
           "percentageIncrease": "100%"
         },
         {
-          "name": "drop off ballot near me",
+          "name": "measure a",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -74,43 +109,60 @@
           "percentageIncrease": "100%"
         },
         {
-          "name": "prop",
+          "name": "measure e",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "391K+",
-          "started": "20h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "county",
           "percentageIncrease": "100%"
         },
         {
-          "name": "josh groban judge",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "mcdonald's mcrib",
+          "name": "calmatters",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "prop",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "prop",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "measure la",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "register to vote",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "judicial candidates",
+          "name": "when is veterans day",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "joshua groban supreme court rulings",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -160,7 +212,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -168,135 +220,63 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "despido laboral",
+          "name": "freighter sinks off bulgarian coast",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "dallas",
-          "relevanceScore": 100,
+          "name": "florida voting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "amendment",
+          "percentageIncrease": "200%"
         },
         {
           "name": "lindsay clancy",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "turkey",
+          "name": "jose javier rodriguez",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "wsvn",
+          "name": "delaware",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "cassidy schutz statement bend oregon",
-          "relevanceScore": 95,
+          "name": "voting",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "today",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "ice post release immigrant detentions",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lindsay clancy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "voting day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jason turkish",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "crime",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
       "topTopic": "ice post release immigrant detentions",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -305,24 +285,81 @@
           "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "court",
+          "name": "lindsay clancy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "crime",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "seattle",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "seattle",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "9h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "north central college",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "register to vote",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "voting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "lindsay clancy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -330,24 +367,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
           "name": "juliana stratton",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "10h ago",
           "trendBreakdown": "don",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "turkey",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -364,122 +393,81 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "court",
-          "relevanceScore": 100,
+          "name": "beau bayh",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "senator chris murphy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "military commissary refrigeration cyberattack probe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "court",
+      "topTopic": "ice post release immigrant detentions",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "court",
+          "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "10h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "lindsay clancy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "dallas",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "where to vote",
+          "name": "election day",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "15h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "today",
+      "topTopic": "ice post release immigrant detentions",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "today",
+          "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "breaking",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "crime",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "voting day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -487,16 +475,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "wood tv",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -511,76 +491,60 @@
           "name": "lindsay clancy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "12h ago",
           "trendBreakdown": "lindsay",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
-          "name": "when is election day",
+          "name": "ice post release immigrant detentions",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "election day",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "trendBreakdown": "voting",
+          "searchVolume": "2K+",
+          "started": "14h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "paramount plus",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "university of delaware",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "court",
+      "topTopic": "missouri amendment",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "court",
-          "relevanceScore": 100,
+          "name": "missouri amendment",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "61K+",
+          "started": "12h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "pippa middleton",
-          "relevanceScore": 100,
+          "name": "election day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "missouri prop a",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "where to vote",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -595,33 +559,25 @@
           "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "dallas",
+          "name": "mario morales ice agent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "jason turkish",
+          "name": "nj elections",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -637,16 +593,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
+          "started": "10h ago",
           "trendBreakdown": "franklinton",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -654,24 +602,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "wral news",
+          "name": "wral",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "crime",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "election day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -686,33 +642,49 @@
           "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "court",
+          "name": "mario morales ice agent",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "lindsay clancy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "voting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "tyler king",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "is election day a federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "voting",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "are",
           "percentageIncrease": "200%"
         },
         {
@@ -720,15 +692,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "mamdani",
-          "relevanceScore": 90,
+          "name": "mcdonald's mcrib",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "saritha komatireddy",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -736,58 +716,49 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "court",
+      "topTopic": "ice post release immigrant detentions",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "court",
+          "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "chris murphy senator",
+          "name": "candy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "freighter sinks off bulgarian coast",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "lindsay clancy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "voting day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "when",
-          "percentageIncrease": "300%"
         },
         {
           "name": "crime",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -819,207 +790,156 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "court",
+      "topTopic": "ice post release immigrant detentions",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "court",
+          "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "lindsay clancy",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "turkey",
+          "name": "brian fitzpatrick",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "1h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "election day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "court",
+      "topTopic": "election day",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "court",
-          "relevanceScore": 100,
+          "name": "election day",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "mcdonald's mcrib",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "today",
+      "topTopic": "crime",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "crime",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "election day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "melissa rycroft",
+      "topTopic": "ice post release immigrant detentions",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "melissa rycroft",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "19h ago",
-          "trendBreakdown": "melissa",
-          "percentageIncrease": "900%"
-        },
-        {
           "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "court",
-          "relevanceScore": 100,
+          "name": "wfaa radar",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "lindsay clancy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "voting day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "jason turkish",
+          "name": "jackson state university",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "turkey",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "today",
+      "topTopic": "ice post release immigrant detentions",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "today",
+          "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "breaking",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "dallas",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "social security projected benefit cuts",
-          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "amazon virginia beach",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "amazon",
+          "searchVolume": "100+",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1035,50 +955,35 @@
           "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "court",
+      "topTopic": "news on",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "court",
+          "name": "news on",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "61K+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "oklahoma state questions",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "oklahoma",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "news on",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1102,75 +1007,58 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "court",
+      "topTopic": "ice post release immigrant detentions",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "court",
+          "name": "ice post release immigrant detentions",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "breaking",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "chris murphy senator",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "ian birk vs sean",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "today",
+      "topTopic": "social security projected benefit cuts",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "social security projected benefit cuts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "clima",
+      "topTopic": "weather wichita ks",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "clima",
+          "name": "weather wichita ks",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
+          "searchVolume": "500+",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1195,24 +1083,75 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "clima",
+      "topTopic": "omar perez",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "clima",
-          "relevanceScore": 95,
+          "name": "omar perez",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "omar",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ice post release immigrant detentions",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "6h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "ballot drop box near me",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "election day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "amendment",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "colorado",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "amendment",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "phil weiser",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "1h ago",
+          "trendBreakdown": "colorado",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "john hickenlooper",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1220,25 +1159,25 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "jason turkish",
+      "topTopic": "ice post release immigrant detentions",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "jason turkish",
-          "relevanceScore": 95,
+          "name": "ice post release immigrant detentions",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "clima",
-          "relevanceScore": 90,
+          "name": "election day",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1331,17 +1270,17 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "when is daylight savings time",
+      "topTopic": "bangor mall",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "when is daylight savings time",
-          "relevanceScore": 90,
+          "name": "bangor mall",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1424,33 +1363,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "today",
+      "topTopic": "eric toney",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "social security projected benefit cuts",
+          "name": "eric toney",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1500,17 +1423,17 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "mcdonalds",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "mcdonalds",
-          "relevanceScore": 90,
+          "name": "news",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
+          "started": "13h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -1534,33 +1457,25 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "today",
+      "topTopic": "louisville weather",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "clima",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "where to vote",
-          "relevanceScore": 95,
+          "name": "louisville weather",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "wkyt",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },

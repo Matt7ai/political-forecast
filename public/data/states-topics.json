@@ -1,419 +1,27 @@
 {
-  "timestamp": "2026-11-06T19:03:16.763Z",
+  "timestamp": "2026-11-07T00:01:58.076Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "newsom",
+      "topTopic": "universidad de california",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "newsom",
+          "name": "universidad de california",
           "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "paraguay bank collapse",
-          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "paraguay",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jay rockefeller",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "millswood middle school",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "citibank shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "jonbenet ramsey",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "rubio",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "trump-xi",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ryan wedding",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Arizona",
-      "code": "AZ",
-      "topTopic": "paraguay",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "paraguay",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "leanne selman",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "leanne selman",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "jacob",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "paraguay bank collapse",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "antonio brown",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "amenaza de bomba",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "bernie sanders",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "harmeet dhillon",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "harmeet dhillon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "paraguay",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "jay rockefeller",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "jay rockefeller",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "bernie sanders",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "citibank",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "allen county",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "allen county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "700%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "jay rockefeller",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "jay rockefeller",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "theft",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "court",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "gavin newsom",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "marco rubio",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "marco rubio",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "anthony ealy",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "anthony ealy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "caprice williams",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "caprice williams",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "itjalayshia",
           "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "jay rockefeller",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "jay rockefeller",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
         },
         {
-          "name": "novant health",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "paraguay",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "united states immigration and customs enforcement",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "united states immigration and customs enforcement",
+          "name": "michael sanft",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "sachem east stabbing",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "sachem",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "death",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "1h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -421,7 +29,527 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "calley means",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "los angeles county sheriff",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "millswood middle school",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "citibank shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "jonbenet ramsey",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "car accident lawyer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "newsom commutes sentences",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "polly",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "fire",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "trump-xi",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "ryan wedding",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "paraguay",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "sebastian matta",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "universidad de california",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cuba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "michael sanft",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "amenaza de bomba",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "bernie sanders",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "michael sanft",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "operation community shield bibb county",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "600%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jonbenet ramsey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "jay rockefeller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "bernie sanders",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "citibank",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "allen county",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bus",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jay rockefeller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "theft",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "700%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "court",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "gavin newsom",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kseniia petrova frog embryo case",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "jalayshia alford car trunk discovery",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "shirley emehelu",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "jonbenet ramsey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jay rockefeller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "universidad de california",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "universidad de california",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "michael sanft",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "united states immigration and customs enforcement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "death",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "jay rockefeller",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "400%"
         },
@@ -430,7 +558,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -438,40 +566,57 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "paraguay",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "paraguay",
-          "relevanceScore": 95,
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jay rockefeller",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "michael sanft",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "paraguay bank collapse",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "bernie sanders",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -479,35 +624,51 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jalayshia alford car trunk discovery",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "kseniia petrova frog embryo case",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "caprice williams",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "caprice williams",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "20h ago",
-          "trendBreakdown": "year",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         },
         {
@@ -515,7 +676,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -523,35 +684,43 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kseniia petrova frog embryo case",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         }
       ]
@@ -559,16 +728,33 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "paraguay bank collapse",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "universidad de california",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "paraguay bank collapse",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -576,23 +762,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "jonbenet ramsey",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "newsom",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -600,33 +770,17 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "jay rockefeller",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jay rockefeller",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "theft",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "theft",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         },
         {
@@ -634,7 +788,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "stephen miller",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
           "started": "5h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jay rockefeller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bus",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "theft",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -642,18 +838,26 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jalayshia alford car trunk discovery",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -677,34 +881,52 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "paraguay",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "paraguay",
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "renton firefighter shot",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "trendBreakdown": "renton",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "jalayshia alford car trunk discovery",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         }
       ]
@@ -712,18 +934,27 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "russel",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "michael jolstead",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "sedgwick",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -747,42 +978,43 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "lakewood shooting",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lakewood shooting",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "16h ago",
-          "trendBreakdown": "lakewood",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "marco rubio",
-          "relevanceScore": 95,
+          "name": "jalayshia alford car trunk discovery",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "harmeet dhillon",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "harmeet dhillon",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         }
       ]
@@ -790,17 +1022,18 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -868,85 +1101,87 @@
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "russell brand",
+      "topTopic": "caprice williams",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "caprice williams",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "russel",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         }
       ]
@@ -980,7 +1215,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -988,70 +1223,86 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "meghan markle",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jalayshia alford car trunk discovery",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "russell",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "des moines post office",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "des",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hospital",
-          "relevanceScore": 100,
+          "name": "kseniia petrova frog embryo case",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "russell brand",
+      "topTopic": "michael sanft",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "michael sanft",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "michael",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "stephen miller",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1059,17 +1310,17 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1077,17 +1328,17 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1095,17 +1346,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1113,16 +1364,17 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1130,18 +1382,34 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "russell brand",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "stephen miller",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "russel",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "arrest",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "jalayshia alford car trunk discovery",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -1165,17 +1433,17 @@
     {
       "name": "Hawaii",
       "code": "HI",
-      "topTopic": "farrington high school",
+      "topTopic": "stephen miller",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "farrington high school",
-          "relevanceScore": 100,
+          "name": "stephen miller",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },

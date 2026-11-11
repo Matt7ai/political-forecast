@@ -1,35 +1,36 @@
 {
-  "timestamp": "2026-11-11T05:09:01.818Z",
+  "timestamp": "2026-11-11T13:46:39.208Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "okc",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "okc",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100K+",
+          "started": "23h ago",
+          "trendBreakdown": "the",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "mark robinson personal debt filing",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
+          "started": "12h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "scott laux blue angels removal",
+          "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -37,33 +38,56 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "veterans day free meals",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
           "trendBreakdown": "veterans",
           "percentageIncrease": "300%"
         },
         {
-          "name": "is the stock market open on veterans day",
+          "name": "klamath hall",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "are",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "scott laux blue angels removal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "department of justice immigrant release lawsuits",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump-xi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "300%"
         },
         {
           "name": "nima momeni",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
           "trendBreakdown": "bob",
           "percentageIncrease": "200%"
         },
@@ -72,41 +96,57 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "when is veterans day",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "dhs",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "ticketmaster",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "wainwright",
+      "topTopic": "scott laux blue angels removal",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wainwright",
-          "relevanceScore": 100,
+          "name": "scott laux blue angels removal",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "veterans day free meals",
+          "name": "veterans day",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "when",
+          "started": "7h ago",
+          "trendBreakdown": "veterans",
           "percentageIncrease": "100%"
         }
       ]
@@ -114,58 +154,82 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "wainwright",
+      "topTopic": "is the stock market open on veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "is the stock market open on veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "trendBreakdown": "today",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
           "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mark robinson personal debt filing",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "okc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "16h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "alina habba",
+          "name": "chick fil a veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "40 minutes ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "is there school on veterans day",
-          "relevanceScore": 95,
+          "name": "scott laux blue angels removal",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "are",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "veterans day",
+          "name": "veterans",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "veterans",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "impuesto",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "bukele haiti",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "alina habba",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -173,140 +237,117 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "discord",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "wainwright",
+      "topTopic": "is today veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "veterans day free meals",
+          "name": "is today veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "mark robinson personal debt filing",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "okc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "election results mississippi senate race",
-          "relevanceScore": 100,
+          "name": "veterans day",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "15h ago",
-          "percentageIncrease": "900%"
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "when is veterans day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "wainwright",
+      "topTopic": "is today veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "is today veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "the",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "okc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "mark robinson personal debt filing",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "chicago heights",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "election results mississippi senate race",
+          "name": "department of justice immigrant release lawsuits",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "800%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "thomas markle",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "veterans day free meals",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "14h ago",
           "trendBreakdown": "veterans",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
-          "name": "is veterans day a federal holiday",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "trendBreakdown": "are",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "chicago police",
+          "name": "jonbenet ramsey",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -314,7 +355,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -322,392 +363,398 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "wainwright",
+      "topTopic": "are banks closed on veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "are banks closed on veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "today",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mark robinson personal debt filing",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "700%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "veterans day",
+          "name": "veterans day free meals",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
+          "searchVolume": "1K+",
+          "started": "14h ago",
           "trendBreakdown": "veterans",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day free meals",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day free meals",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "veterans day free meals",
+          "name": "are banks closed on veterans day",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "is veterans day a federal holiday",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "wainwright",
+      "topTopic": "is today veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "is today veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "600%"
         },
         {
           "name": "northville high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "20h ago",
           "trendBreakdown": "dakota",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "veterans day",
-          "relevanceScore": 90,
+          "name": "veterans day free meals",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
           "trendBreakdown": "veterans",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
+          "searchVolume": "10K+",
+          "started": "8h ago",
+          "trendBreakdown": "the",
           "percentageIncrease": "1000%"
         },
         {
           "name": "sandra birchmore",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
+          "searchVolume": "5K+",
+          "started": "18h ago",
           "trendBreakdown": "sandra",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
-          "name": "veterans day",
-          "relevanceScore": 90,
+          "name": "scott laux blue angels removal",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "wainwright",
+      "topTopic": "is today veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "is today veterans day",
           "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mark robinson personal debt filing",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "veterans day free meals",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "wainwright",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "alina habba",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "is veterans day a federal holiday",
-          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "when",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "veterans day",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "when",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "wainwright",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mark robinson personal debt filing",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "mark",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "veterans day",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "17h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "is veterans day a federal holiday",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "40 minutes ago",
           "trendBreakdown": "are",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "wainwright",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "mark robinson personal debt filing",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "okc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "11h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "are banks closed on veterans day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "the",
-          "percentageIncrease": "300%"
-        },
-        {
           "name": "veterans day free meals",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "syracuse",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
+          "started": "13h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "nancy lacore",
+          "name": "scott laux blue angels removal",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "2h ago",
           "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "wainwright",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "veterans day free meals",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "200%"
         },
         {
           "name": "when is veterans day",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "are banks closed on veterans day",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "are banks closed on veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "today",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "veterans day free meals",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "600%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "veterans day free meals",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "veterans day free meals",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "is the stock market open on veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "today",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "mark robinson personal debt filing",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "mark",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "veterans day parade nyc",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "veterans day parade nyc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "nyc",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "department of justice immigrant release lawsuits",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "is the stock market open on veterans day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "trendBreakdown": "there",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "veterans day free meals",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "mark robinson personal debt filing",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "veterans day parade",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "federal holidays",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "carlos jimenez ice lawsuit",
+          "name": "when is veterans day",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "is today veterans day",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "is today veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mark robinson personal debt filing",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "pammy maye",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "veterans day free meals",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
+          "searchVolume": "10K+",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -715,8 +762,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "veterans",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ticketmaster",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -724,161 +778,187 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "wainwright",
+      "topTopic": "is today veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "is today veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "there",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "are banks closed on veterans day",
+          "name": "scott laux blue angels removal",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "trendBreakdown": "veterans",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "election results mississippi senate race",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "carlos jimenez ice lawsuit",
+          "name": "veterans day free meals",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "when is veterans day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "veterans day",
-          "relevanceScore": 90,
+          "name": "alina habba",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day free meals",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day free meals",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "is today veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "are",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "veterans day free meals",
+          "name": "scott laux blue angels removal",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "wainwright",
+      "topTopic": "is today veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "is today veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "are",
           "percentageIncrease": "1000%"
         },
         {
           "name": "veterans day free meals",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "scott laux blue angels removal",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "ticketmaster",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "wainwright",
+      "topTopic": "is today veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "is today veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "are",
           "percentageIncrease": "1000%"
         },
         {
           "name": "mark robinson personal debt filing",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "disability",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "veterans day free meals",
+          "name": "veterans day",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "2K+",
           "started": "15h ago",
           "trendBreakdown": "veterans",
           "percentageIncrease": "300%"
         },
         {
-          "name": "is veterans day a federal holiday",
+          "name": "scott laux blue angels removal",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "are",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "department of justice immigrant release lawsuits",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "shoplifting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -886,48 +966,75 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "impuesto",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "empresario",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "wainwright",
+      "topTopic": "is today veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "is today veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "are",
           "percentageIncrease": "1000%"
         },
+        {
+          "name": "mark robinson personal debt filing",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "veterans day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "ihop",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "veterans day free meals",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
         {
           "name": "veterans day free meals",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "trendBreakdown": "veterans",
           "percentageIncrease": "500%"
         },
@@ -936,178 +1043,137 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "wainwright",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "veterans day free meals",
+          "name": "is the stock market open on veterans day",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "is veterans day a federal holiday",
-          "relevanceScore": 90,
+          "name": "when is veterans day",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "wainwright",
+      "topTopic": "are banks closed on veterans day",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "veterans day",
+          "name": "are banks closed on veterans day",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Vermont",
       "code": "VT",
-      "topTopic": "russell brand",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day free meals",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wainwright",
-          "relevanceScore": 100,
+          "name": "veterans day free meals",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "scott laux blue angels removal",
-          "relevanceScore": 100,
+          "name": "is costco open on veterans day",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "mark robinson personal debt filing",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "the",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "wainwright",
+      "topTopic": "mark robinson personal debt filing",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "mark robinson personal debt filing",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "900%"
+          "started": "11h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "veterans day free meals",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "trendBreakdown": "veterans",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "scott laux blue angels removal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day free meals",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wainwright",
-          "relevanceScore": 100,
+          "name": "veterans day free meals",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "veterans day",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1131,24 +1197,16 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "wainwright",
+      "topTopic": "mark robinson personal debt filing",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "mark robinson personal debt filing",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1156,33 +1214,50 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "13h ago",
           "trendBreakdown": "veterans",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "scott laux blue angels removal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
+          "searchVolume": "10K+",
+          "started": "8h ago",
+          "trendBreakdown": "are",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "scott laux blue angels removal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "traffic",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1190,52 +1265,59 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "veterans day free meals",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "400%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "veterans day",
+      "topTopic": "are banks closed on veterans day",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "veterans day",
+          "name": "are banks closed on veterans day",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "1h ago",
+          "trendBreakdown": "when",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "veterans day free meals",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "South Dakota",
       "code": "SD",
-      "topTopic": "social security benefit cuts",
+      "topTopic": "veterans day",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "social security benefit cuts",
-          "relevanceScore": 95,
+          "name": "veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "federal prison",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "trendBreakdown": "social",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1251,41 +1333,65 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "fraude",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "veterano",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "social security",
+      "topTopic": "veterans day",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "social security",
-          "relevanceScore": 95,
+          "name": "veterans day",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "wainwright",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1293,16 +1399,16 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1310,16 +1416,16 @@
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1327,24 +1433,32 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ticketmaster",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "matthew farwell",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1352,33 +1466,34 @@
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "ticketmaster",
+      "topTopic": "veterans day",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ticketmaster",
-          "relevanceScore": 95,
+          "name": "veterans day",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "are",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1386,33 +1501,43 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "wainwright",
+      "topTopic": "is there mail on veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "is there mail on veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "scott laux blue angels removal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
+          "trendBreakdown": "are",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1429,57 +1554,14 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "900%"
+          "started": "23h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "shadow ridge high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "veterans day",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "veterans",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Utah",
-      "code": "UT",
-      "topTopic": "wainwright",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Connecticut",
-      "code": "CT",
-      "topTopic": "wainwright",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
           "started": "19h ago",
           "percentageIncrease": "1000%"
         },
@@ -1488,34 +1570,93 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "veterans",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "is veterans day a federal holiday",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
     },
     {
-      "name": "Kentucky",
-      "code": "KY",
-      "topTopic": "wainwright",
+      "name": "Utah",
+      "code": "UT",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
+          "searchVolume": "5K+",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "veterans day",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "veterans",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Connecticut",
+      "code": "CT",
+      "topTopic": "veterans day",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "8h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "veterans day free meals",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "code": "KY",
+      "topTopic": "is today veterans day",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "is today veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "when is veterans day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1523,33 +1664,17 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wainwright",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "800%"
-        }
-      ]
-    },
-    {
-      "name": "Louisiana",
-      "code": "LA",
-      "topTopic": "wainwright",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "wainwright",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
+          "trendBreakdown": "are",
           "percentageIncrease": "1000%"
         },
         {
@@ -1557,7 +1682,42 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "13h ago",
+          "trendBreakdown": "veterans",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Louisiana",
+      "code": "LA",
+      "topTopic": "veterans day free meals",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "veterans day free meals",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "when is veterans day",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "is veterans day a federal holiday",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "when",
           "percentageIncrease": "200%"
         }
       ]
@@ -1565,17 +1725,17 @@
     {
       "name": "Montana",
       "code": "MT",
-      "topTopic": "russell brand",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1584,31 +1744,39 @@
       "code": "HI",
       "topTopic": "veterans day",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "veterans day",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "North Dakota",
       "code": "ND",
-      "topTopic": "wainwright",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "veterans day",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "wainwright",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1616,35 +1784,34 @@
     {
       "name": "Alaska",
       "code": "AK",
-      "topTopic": "who won the election in alaska",
+      "topTopic": "veterans day",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "who won the election in alaska",
-          "relevanceScore": 95,
+          "name": "veterans day",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "alaska",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Wyoming",
       "code": "WY",
-      "topTopic": "russell brand",
+      "topTopic": "veterans day",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "russell brand",
+          "name": "veterans day",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "700%"
         }
       ]
     }

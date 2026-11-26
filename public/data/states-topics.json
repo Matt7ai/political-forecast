@@ -1,35 +1,52 @@
 {
-  "timestamp": "2026-11-26T04:02:10.335Z",
+  "timestamp": "2026-11-26T13:48:03.120Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "football",
+      "topTopic": "municipal",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "football",
+          "name": "municipal",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "what happened in iowa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "trendBreakdown": "iowa",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "bobcat",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "started": "17h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "lottery",
+          "name": "troy latin",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "bridgeport fire",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "22h ago",
           "trendBreakdown": "bridgeport",
           "percentageIncrease": "300%"
         },
@@ -38,32 +55,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "trust",
+          "name": "net",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "what happened in iowa",
+          "name": "nations",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "trendBreakdown": "iowa",
+          "searchVolume": "500+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "tariffs",
+          "name": "football games on thanksgiving",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -71,12 +87,112 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "permiso de trabajo",
+      "topTopic": "bobcat",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "permiso de trabajo",
+          "name": "bobcat",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "iowa detonation",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "lead",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "inés gómez",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "bobcat",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "bobcat",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "ilhan omar news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "municipal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "abelardo de la espriella",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "ice detainee habeas corpus petitions",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "public",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "lakesha womack rental car charge",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "lakesha womack rental car charge",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bobcat",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -88,174 +204,42 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "middletown",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "inés gómez",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "inés gómez",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "inés gómez",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "musician",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "what happened in iowa",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "13h ago",
-          "trendBreakdown": "itwhat",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ilhan omar news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ciudadano",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kilmar abrego garcia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "klystron",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "bay",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "abelardo de la espriella",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ice detainee habeas corpus petitions",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
+          "trendBreakdown": "lead",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "thanksgiving football games",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Georgia",
-      "code": "GA",
-      "topTopic": "permiso de trabajo",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "permiso de trabajo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "lakesha womack rental car charge",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lead azide detonation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "iowa",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "permiso de trabajo",
+      "topTopic": "iowa explosion",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "permiso de trabajo",
+          "name": "iowa explosion",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "did",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "musician",
-          "relevanceScore": 100,
+          "name": "bobcat",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "inés gómez",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -263,134 +247,6 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "musician",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "musician",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lead azide detonation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "middletown",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "thanksgiving football games",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "permiso de trabajo",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "permiso de trabajo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "iowa detonation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "lead",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "thanksgiving football games",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "lead azide detonation",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "lead azide detonation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "iowa",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "football",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "ashley elkins",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "football",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "football",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "iowa detonation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "lead",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
       "topTopic": "iowa detonation",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -399,18 +255,131 @@
           "name": "iowa detonation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "2K+",
           "started": "23h ago",
           "trendBreakdown": "lead",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "bobcat",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "iowa detonation",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "iowa detonation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "iowa",
+          "percentageIncrease": "900%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "bobcat",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "bobcat",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "ashley elkins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lead explosion iowa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "detonation",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "chelsea shooting",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "chelsea shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "chelsea",
           "percentageIncrease": "500%"
         },
         {
-          "name": "raytown shooting",
-          "relevanceScore": 95,
+          "name": "iowa detonation",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "lead",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "happy thanksgiving",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "happy thanksgiving",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "bobcat",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "lead explosion",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "lead",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -426,24 +395,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
-          "trendBreakdown": "itteaneck",
+          "started": "12h ago",
+          "trendBreakdown": "ithackensack",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "permiso de trabajo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "iowa detonation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "23h ago",
           "trendBreakdown": "lead",
           "percentageIncrease": "500%"
         },
@@ -452,7 +413,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -460,32 +421,24 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "permiso de trabajo",
+      "topTopic": "bobcat",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "permiso de trabajo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "fraud",
+          "name": "bobcat",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
+          "started": "16h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "detonation",
+          "name": "lead detonation iowa",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "23h ago",
           "trendBreakdown": "iowa",
           "percentageIncrease": "300%"
         },
@@ -494,85 +447,11 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
           "name": "dmv",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "permiso de trabajo",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "permiso de trabajo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "24h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "abrego garcia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "football",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "what happened in iowa",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "iowa",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "inés gómez",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "justin mercado staten island",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "hubbell galvanizing",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kilmar armando ábrego",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -582,19 +461,85 @@
       ]
     },
     {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "lead azide detonation",
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "bobcat",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "lead azide detonation",
+          "name": "bobcat",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "what happened in iowa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "iowa",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "teaneck shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "inés gómez",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "justin mercado staten island",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "16h ago",
-          "trendBreakdown": "itwhat",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "hubbell galvanizing",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "bobcat",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "bobcat",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "what is lead azide",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "iowa",
           "percentageIncrease": "300%"
         }
       ]
@@ -635,50 +580,33 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "musician",
+      "topTopic": "bobcat",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bobcat",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "musician",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "football",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "thanksgiving",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "permiso de trabajo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "lead azide detonation",
+          "name": "iowa lead",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kilmar ábrego",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "2K+",
           "started": "23h ago",
+          "trendBreakdown": "iowa",
           "percentageIncrease": "300%"
         }
       ]
@@ -704,42 +632,50 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "lead azide detonation",
+      "topTopic": "bobcat",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "lead azide detonation",
-          "relevanceScore": 95,
+          "name": "bobcat",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "iowa",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "iowa detonation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "lead",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "football",
+      "topTopic": "bobcat",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "football",
+          "name": "bobcat",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "what is lead azide",
+          "name": "iowa lead",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "14h ago",
+          "searchVolume": "5K+",
+          "started": "23h ago",
           "trendBreakdown": "iowa",
           "percentageIncrease": "300%"
         },
@@ -748,7 +684,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -756,76 +692,44 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "permiso de trabajo",
+      "topTopic": "iowa detonation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "permiso de trabajo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "iowa detonation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
-          "trendBreakdown": "lead",
+          "started": "23h ago",
+          "trendBreakdown": "middletown",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "ilhan omar",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "permiso de trabajo",
+      "topTopic": "ilhan omar news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "permiso de trabajo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "iowa detonation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "lead",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "ilhan omar news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "giant",
-          "relevanceScore": 90,
+          "name": "lead azide detonation",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "iowa",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -875,72 +779,87 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "detonation",
+      "topTopic": "lead azide detonation",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "detonation",
-          "relevanceScore": 100,
+          "name": "lead azide detonation",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "lead",
-          "percentageIncrease": "500%"
+          "started": "22h ago",
+          "trendBreakdown": "iowa",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "wdhn",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iowa lead detonation",
+          "name": "wdhn",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "itlead",
+          "searchVolume": "100+",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lead azide detonation",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "alabama power",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "lead azide detonation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iowa lead detonation",
+          "name": "lead azide detonation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "lead",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "iowa",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "iowa",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iowa lead detonation",
-          "relevanceScore": 100,
+          "name": "iowa",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "itlead",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "lead",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -956,34 +875,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "22h ago",
           "trendBreakdown": "lead",
           "percentageIncrease": "800%"
         },
         {
-          "name": "thanksgiving football games",
+          "name": "bobcat",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "iowa detonation",
+      "topTopic": "minnesota",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "iowa detonation",
+          "name": "minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "lead",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "lead azide detonation",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "iowa",
           "percentageIncrease": "400%"
         }
       ]
@@ -1000,9 +927,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "lead",
-          "percentageIncrease": "900%"
+          "started": "23h ago",
+          "trendBreakdown": "itlead",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1018,7 +945,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "22h ago",
           "trendBreakdown": "lead",
           "percentageIncrease": "1000%"
         }
@@ -1027,33 +954,40 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "arresto",
+      "topTopic": "herencia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "herencia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "arresto",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "hospital",
+          "name": "salmonella",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "luma energy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "primera",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1070,7 +1004,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "23h ago",
           "trendBreakdown": "itlead",
           "percentageIncrease": "500%"
         }
@@ -1079,18 +1013,18 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "iowa",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iowa lead detonation",
+          "name": "iowa",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "itlead",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "lead",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1115,17 +1049,17 @@
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "lead azide detonation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iowa lead detonation",
+          "name": "lead azide detonation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "middletown",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "iowa",
           "percentageIncrease": "700%"
         }
       ]
@@ -1142,8 +1076,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "itlead",
+          "started": "23h ago",
+          "trendBreakdown": "lead",
           "percentageIncrease": "800%"
         }
       ]
@@ -1160,7 +1094,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "22h ago",
           "trendBreakdown": "itlead",
           "percentageIncrease": "1000%"
         }
@@ -1169,60 +1103,69 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "iowa",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iowa lead detonation",
+          "name": "iowa",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
+          "searchVolume": "500+",
+          "started": "23h ago",
           "trendBreakdown": "lead",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "lodge kohler",
+      "topTopic": "bobcat",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bobcat",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lead bomb iowa",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "detonation",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "lodge kohler",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "lead azide detonation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "15h ago",
-          "trendBreakdown": "lead",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "iowa",
+      "topTopic": "kcci",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "iowa",
+          "name": "kcci",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "middletown",
           "percentageIncrease": "400%"
         }
       ]
@@ -1230,25 +1173,16 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "bridgeport ca fire",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "iowa lead detonation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "itlead",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "bridgeport ca fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1301,8 +1235,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "lead",
+          "started": "23h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "600%"
         }
       ]
@@ -1310,36 +1244,36 @@
     {
       "name": "Arkansas",
       "code": "AR",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "iowa",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iowa lead detonation",
-          "relevanceScore": 100,
+          "name": "iowa",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "23h ago",
           "trendBreakdown": "lead",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "iowa",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iowa lead detonation",
-          "relevanceScore": 100,
+          "name": "iowa",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "itlead",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "lead",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1355,7 +1289,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "22h ago",
           "trendBreakdown": "lead",
           "percentageIncrease": "500%"
         }
@@ -1364,17 +1298,17 @@
     {
       "name": "Hawaii",
       "code": "HI",
-      "topTopic": "social security",
+      "topTopic": "iowa",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "social security",
-          "relevanceScore": 95,
+          "name": "iowa",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "22h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },

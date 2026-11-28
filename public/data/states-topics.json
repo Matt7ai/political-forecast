@@ -1,171 +1,68 @@
 {
-  "timestamp": "2026-11-27T17:57:06.888Z",
+  "timestamp": "2026-11-28T01:16:22.288Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "telemundo",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "andrea stewart cousins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "cártel de",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "diana award",
+          "name": "law",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "william",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "pact",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "iran attacks kuwait",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "17h ago",
           "trendBreakdown": "kuwait",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "cuba",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Arizona",
-      "code": "AZ",
-      "topTopic": "bobcat",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "bobcat",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "iowa detonation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "lead",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "inés gómez",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Florida",
-      "code": "FL",
-      "topTopic": "aircraft carrier",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "aircraft carrier",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "joe vinson son",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "delcy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "massachusetts lottery",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kuwait",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "iran",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "diana award",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "william",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "polk county shooting",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "polk",
           "percentageIncrease": "100%"
         },
         {
@@ -173,7 +70,90 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "5h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "cos",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ",
+      "topTopic": "massachusetts lottery",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "massachusetts lottery",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "estafa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "andrea stewart cousins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kuwait",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "shein",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -181,110 +161,127 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "happy thanksgiving message",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "happy thanksgiving message",
+          "name": "massachusetts lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "andrea stewart cousins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "court",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "court",
-          "relevanceScore": 95,
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "shein",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "iran",
+      "topTopic": "law",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 95,
+          "name": "law",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "400%"
+          "started": "8h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "turkey",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "turkey",
-          "relevanceScore": 90,
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "happy thanksgiving message",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "happy thanksgiving message",
+          "name": "massachusetts lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "shop msxc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "birmingham",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "weymouth fire",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "weymouth fire",
+          "name": "massachusetts lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "can you buy alcohol on thanksgiving",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -316,83 +313,91 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "shein",
+      "topTopic": "andrea stewart cousins",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "andrea stewart cousins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "shein",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "ny post",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "spectrum outage",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "spectrum outage",
+          "name": "massachusetts lottery",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "happy thanksgiving message",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "matt bevin child support ruling",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "jd",
+      "topTopic": "andrea stewart cousins",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "andrea stewart cousins",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "andrea",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "diana award",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "jd",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
+          "searchVolume": "1K+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -400,66 +405,41 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "cos",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "court",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "shein",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "happy thanksgiving message",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "happy thanksgiving message",
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "law",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "tehran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "diana award",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "trendBreakdown": "william",
-          "percentageIncrease": "400%"
+          "started": "8h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -499,24 +479,40 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "diana award",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "diana award",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
           "name": "shein",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
+          "searchVolume": "500+",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -542,16 +538,16 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "christa pike",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "christa pike",
+          "name": "massachusetts lottery",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -559,25 +555,33 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "court",
+      "topTopic": "massachusetts lottery",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "court",
-          "relevanceScore": 95,
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "ibm",
-          "relevanceScore": 90,
+          "name": "law",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "cártel de",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -593,7 +597,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -601,17 +605,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "happy thanksgiving message",
+      "topTopic": "andrea stewart cousins",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "happy thanksgiving message",
+          "name": "andrea stewart cousins",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "massachusetts lottery",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -694,7 +706,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -763,17 +775,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "turkey",
+      "topTopic": "appeal",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "turkey",
-          "relevanceScore": 90,
+          "name": "appeal",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -816,24 +828,16 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "tienda",
+      "topTopic": "autoridad de energía eléctrica de puerto",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "tienda",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "autoridad de energía eléctrica de puerto",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1036,18 +1040,17 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "iowa lead detonation",
+      "topTopic": "andrea stewart cousins",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iowa lead detonation",
+          "name": "andrea stewart cousins",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "lead",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
